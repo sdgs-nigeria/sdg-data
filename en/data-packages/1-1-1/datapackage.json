@@ -16,20 +16,39 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Urban",
+                "Rural",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Sector"
+          },
+          {
+            "name": "Age_group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Males",
+                "Females",
+                "0 to 14 years old",
+                "15 to 64 years old",
+                "65 and older",
+                "Without education (16+)",
+                "Primary education (16+)",
+                "Secondary education (16+)",
+                "Tertiary/post-secondary education (16+)",
+                ""
+              ]
+            },
+            "title": "Age_group"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
