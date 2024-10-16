@@ -3,6 +3,85 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Place of Residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "State",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abia",
+                "Adamawa",
+                "Akwa Ibom",
+                "Anambra",
+                "Bauchi",
+                "Bayelsa",
+                "Benue",
+                "Borno",
+                "Cross River",
+                "Delta",
+                "Ebonyi",
+                "Edo",
+                "Ekiti",
+                "Enugu",
+                "Gombe",
+                "Imo",
+                "Jigawa",
+                "Kaduna",
+                "Kano",
+                "Katsina",
+                "Kebbi",
+                "Kogi",
+                "Kwara",
+                "Lagos",
+                "Nasarawa",
+                "Niger",
+                "Ogun",
+                "Ondo",
+                "Osun",
+                "Oyo",
+                "Plateau",
+                "Rivers",
+                "Sokoto",
+                "Taraba",
+                "Yobe",
+                "Zamfara",
+                "FCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of population living below the national poverty line, by sex and age"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -5376,28 +5455,6 @@
         ]
       },
       "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
-    },
-    {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
       "path": "2-a-2/data.csv",
