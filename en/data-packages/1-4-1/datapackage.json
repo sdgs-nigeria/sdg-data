@@ -12,8 +12,130 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Access to Basic Services",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Water",
+                "Sanitation",
+                "Electricity",
+                "Radio",
+                "Television",
+                "Internet",
+                "Telephone",
+                ""
+              ]
+            },
+            "title": "Access to Basic Services"
+          },
+          {
+            "name": "Place of Residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Place of Residence"
+          },
+          {
+            "name": "Wealth Index Quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poorest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Richest",
+                ""
+              ]
+            },
+            "title": "Wealth Index Quintile"
+          },
+          {
+            "name": "Geopolitical zones",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North  Central",
+                "North East",
+                "North West",
+                "South East",
+                "South South",
+                "South West",
+                ""
+              ]
+            },
+            "title": "Geopolitical zones"
+          },
+          {
+            "name": "Education Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "Primary",
+                "Junior Secondary",
+                "Senior Secondary",
+                "Higher/Tertiary",
+                ""
+              ]
+            },
+            "title": "Education Status"
+          },
+          {
+            "name": "State",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abia",
+                "Adamawa",
+                "Akwa-Ibom",
+                "Anambra",
+                "Bauchi",
+                "Bayelsa",
+                "Benue",
+                "Borno",
+                "Cross-River",
+                "Delta",
+                "Ebonyi",
+                "Edo",
+                "Ekiti",
+                "Enugu",
+                "Gombe",
+                "Imo",
+                "Jigawa",
+                "Kaduna",
+                "Kano",
+                "Katsina",
+                "Kebbi",
+                "Kogi",
+                "Kwara",
+                "Lagos",
+                "Nasarawa",
+                "Niger",
+                "Ogun",
+                "Ondo",
+                "Osun",
+                "Oyo",
+                "Plateau",
+                "Rivers",
+                "Sokoto",
+                "Taraba",
+                "Yobe",
+                "Zamfara",
+                "FCT",
+                ""
+              ]
+            },
+            "title": "State"
           },
           {
             "name": "Value",

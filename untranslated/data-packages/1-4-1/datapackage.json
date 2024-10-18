@@ -12,7 +12,123 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Access to Basic Services",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Water",
+                "Sanitation",
+                "Electricity",
+                "Radio",
+                "Television",
+                "Internet",
+                "Telephone",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Place of Residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wealth Index Quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poorest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Richest",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geopolitical zones",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North  Central",
+                "North East",
+                "North West",
+                "South East",
+                "South South",
+                "South West",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "Primary",
+                "Junior Secondary",
+                "Senior Secondary",
+                "Higher/Tertiary",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "State",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abia",
+                "Adamawa",
+                "Akwa-Ibom",
+                "Anambra",
+                "Bauchi",
+                "Bayelsa",
+                "Benue",
+                "Borno",
+                "Cross-River",
+                "Delta",
+                "Ebonyi",
+                "Edo",
+                "Ekiti",
+                "Enugu",
+                "Gombe",
+                "Imo",
+                "Jigawa",
+                "Kaduna",
+                "Kano",
+                "Katsina",
+                "Kebbi",
+                "Kogi",
+                "Kwara",
+                "Lagos",
+                "Nasarawa",
+                "Niger",
+                "Ogun",
+                "Ondo",
+                "Osun",
+                "Oyo",
+                "Plateau",
+                "Rivers",
+                "Sokoto",
+                "Taraba",
+                "Yobe",
+                "Zamfara",
+                "FCT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -1,1 +1,69 @@
-Year,Value
+Year,Place of Residence,Sex,Wealth Index Quintile,Geopolitical zones,Education Status,Ethnicity,State,Value
+2021,,,,,,,,21.9
+2021,Urban,,,,,,,19.3
+2021,Rural,,,,,,,23.7
+2021,,Male,,,,,,22.4
+2021,,Female,,,,,,18.0
+2021,,,Poorest,,,,,18.8
+2021,,,Second,,,,,26.3
+2021,,,Middle,,,,,24.6
+2021,,,Fourth,,,,,22.3
+2021,,,Richest,,,,,17.3
+2021,,,,North  Central,,,,9.1
+2021,,,,North East,,,,33.8
+2021,,,,North West,,,,29.2
+2021,,,,South East,,,,10.3
+2021,,,,South South,,,,25.0
+2021,,,,South West,,,,16.4
+2021,,,,,None,,,21.5
+2021,,,,,Primary,,,26.0
+2021,,,,,Junior Secondary,,,21.4
+2021,,,,,Senior Secondary,,,18.8
+2021,,,,,Higher/Tertiary,,,22.0
+2021,,,,,,Hausa,,29.6
+2021,,,,,,Igbo,,11.0
+2021,,,,,,Yoruba,,16.7
+2021,,,,,,Fulani,,22.3
+2021,,,,,,Kanuri,,30.7
+2021,,,,,,Ijaw,,19.2
+2021,,,,,,Tiv,,7.2
+2021,,,,,,Ibibio,,41.4
+2021,,,,,,Edo,,15.7
+2021,,,,,,Other ethnicity,,22.2
+2021,,,,,,,Abia,8.2
+2021,,,,,,,Adamawa,48.7
+2021,,,,,,,Akwa-Ibom,55.9
+2021,,,,,,,Anambra,8.0
+2021,,,,,,,Bauchi,39.4
+2021,,,,,,,Bayelsa,15.3
+2021,,,,,,,Benue,6.6
+2021,,,,,,,Borno,32.7
+2021,,,,,,,Cross River,7.4
+2021,,,,,,,Delta,19.7
+2021,,,,,,,Ebonyi,13.5
+2021,,,,,,,Edo,12.6
+2021,,,,,,,Ekiti,19.3
+2021,,,,,,,Enugu,5.7
+2021,,,,,,,Gombe,23.6
+2021,,,,,,,Imo,16.7
+2021,,,,,,,Jigawa,39.1
+2021,,,,,,,Kaduna,19.6
+2021,,,,,,,Kano,41.2
+2021,,,,,,,Katsina,27.7
+2021,,,,,,,Kebbi,28.0
+2021,,,,,,,Kogi,6.5
+2021,,,,,,,Kwara,6.8
+2021,,,,,,,Lagos,12.0
+2021,,,,,,,Nasarawa,10.2
+2021,,,,,,,Niger,16.4
+2021,,,,,,,Ogun,14.6
+2021,,,,,,,Ondo,6.3
+2021,,,,,,,Osun,11.7
+2021,,,,,,,Oyo,33.2
+2021,,,,,,,Plateau,7.0
+2021,,,,,,,Rivers,30.0
+2021,,,,,,,Sokoto,22.8
+2021,,,,,,,Taraba,25.8
+2021,,,,,,,Yobe,22.2
+2021,,,,,,,Zamfara,10.5
+2021,,,,,,,FCT Abuja,6.5

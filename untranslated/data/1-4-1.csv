@@ -1,1 +1,785 @@
-Year,Value
+Year,Access to Basic Services,Place of Residence,Wealth Index Quintile,Geopolitical zones,Education Status,State,Value
+2017,Water,,,,,,64.1
+2017,Sanitation,,,,,,35.9
+2017,Electricity,,,,,,54.4
+2017,Radio,,,,,,59.8
+2017,Television,,,,,,47.0
+2017,Internet,,,,,,
+2017,Telephone,,,,,,74.4
+2021,Water,,,,,,71.5
+2021,Sanitation,,,,,,57.5
+2021,Electricity,,,,,,59.1
+2021,Radio,,,,,,47.8
+2021,Television,,,,,,43.2
+2021,Internet,,,,,,34.6
+2021,Telephone,,,,,,87.6
+2017,Water,Urban,,,,,82.9
+2017,Sanitation,Urban,,,,,49.2
+2017,Electricity,Urban,,,,,86.8
+2017,Radio,Urban,,,,,66.9
+2017,Television,Urban,,,,,74.2
+2017,Internet,Urban,,,,,
+2017,Telephone,Urban,,,,,89.8
+2021,Water,Urban,,,,,90.7
+2021,Sanitation,Urban,,,,,52.7
+2021,Electricity,Urban,,,,,88.6
+2021,Radio,Urban,,,,,56.7
+2021,Television,Urban,,,,,69.5
+2021,Internet,Urban,,,,,51.2
+2021,Telephone,Urban,,,,,95.5
+2017,Water,Rural,,,,,54.6
+2017,Sanitation,Rural,,,,,29.2
+2017,Electricity,Rural,,,,,35.7
+2017,Radio,Rural,,,,,55.7
+2017,Television,Rural,,,,,31.2
+2017,Internet,Rural,,,,,
+2017,Telephone,Rural,,,,,65.5
+2021,Water,Rural,,,,,57.2
+2021,Sanitation,Rural,,,,,27.6
+2021,Electricity,Rural,,,,,33.1
+2021,Radio,Rural,,,,,40.0
+2021,Television,Rural,,,,,20.0
+2021,Internet,Rural,,,,,20.1
+2021,Telephone,Rural,,,,,80.7
+2017,Water,,Poorest,,,,37.7
+2017,Sanitation,,Poorest,,,,15.5
+2017,Electricity,,Poorest,,,,
+2017,Radio,,Poorest,,,,
+2017,Television,,Poorest,,,,
+2017,Internet,,Poorest,,,,
+2017,Telephone,,Poorest,,,,
+2021,Water,,Poorest,,,,35.9
+2021,Sanitation,,Poorest,,,,9.5
+2021,Electricity,,Poorest,,,,
+2021,Radio,,Poorest,,,,23.3
+2021,Television,,Poorest,,,,0.1
+2021,Internet,,Poorest,,,,6.1
+2021,Telephone,,Poorest,,,,61.3
+2017,Water,,Second,,,,52.5
+2017,Sanitation,,Second,,,,24.8
+2017,Electricity,,Second,,,,
+2017,Radio,,Second,,,,
+2017,Television,,Second,,,,
+2017,Internet,,Second,,,,
+2017,Telephone,,Second,,,,
+2021,Water,,Second,,,,58.1
+2021,Sanitation,,Second,,,,23.9
+2021,Electricity,,Second,,,,
+2021,Radio,,Second,,,,35.4
+2021,Television,,Second,,,,1.2
+2021,Internet,,Second,,,,12.8
+2021,Telephone,,Second,,,,83.2
+2017,Water,,Middle,,,,60.2
+2017,Sanitation,,Middle,,,,32.4
+2017,Electricity,,Middle,,,,
+2017,Radio,,Middle,,,,
+2017,Television,,Middle,,,,
+2017,Internet,,Middle,,,,
+2017,Telephone,,Middle,,,,
+2021,Water,,Middle,,,,77.1
+2021,Sanitation,,Middle,,,,36.8
+2021,Electricity,,Middle,,,,
+2021,Radio,,Middle,,,,43.1
+2021,Television,,Middle,,,,23.1
+2021,Internet,,Middle,,,,22.5
+2021,Telephone,,Middle,,,,91.4
+2017,Water,,Fourth,,,,78.9
+2017,Sanitation,,Fourth,,,,43.4
+2017,Electricity,,Fourth,,,,
+2017,Radio,,Fourth,,,,
+2017,Television,,Fourth,,,,
+2017,Internet,,Fourth,,,,
+2017,Telephone,,Fourth,,,,
+2021,Water,,Fourth,,,,89.9
+2021,Sanitation,,Fourth,,,,44.7
+2021,Electricity,,Fourth,,,,
+2021,Radio,,Fourth,,,,56.3
+2021,Television,,Fourth,,,,74.2
+2021,Internet,,Fourth,,,,44.2
+2021,Telephone,,Fourth,,,,97.4
+2017,Water,,Richest,,,,91.3
+2017,Sanitation,,Richest,,,,63.5
+2017,Electricity,,Richest,,,,
+2017,Radio,,Richest,,,,
+2017,Television,,Richest,,,,
+2017,Internet,,Richest,,,,
+2017,Telephone,,Richest,,,,
+2021,Water,,Richest,,,,96.4
+2021,Sanitation,,Richest,,,,76.5
+2021,Electricity,,Richest,,,,
+2021,Radio,,Richest,,,,72.5
+2021,Television,,Richest,,,,97.4
+2021,Internet,,Richest,,,,75.2
+2021,Telephone,,Richest,,,,98.9
+2017,Water,,,North  Central,,,58.7
+2017,Sanitation,,,North  Central,,,27.5
+2017,Electricity,,,North  Central,,,48.1
+2017,Radio,,,North  Central,,,59.1
+2017,Television,,,North  Central,,,47.8
+2017,Internet,,,,,,
+2017,Telephone,,,North  Central,,,79.9
+2021,Water,,,North  Central,,,65.6
+2021,Sanitation,,,North  Central,,,30.3
+2021,Electricity,,,North  Central,,,
+2021,Radio,,,North  Central,,,43.6
+2021,Television,,,North  Central,,,37.7
+2021,Internet,,,North  Central,,,30.5
+2021,Telephone,,,North  Central,,,1.8
+2017,Water,,,North East,,,52.4
+2017,Sanitation,,,North East,,,39.2
+2017,Electricity,,,North East,,,38.7
+2017,Radio,,,North East,,,54.4
+2017,Television,,,North East,,,29.3
+2017,Internet,,,North East,,,
+2017,Telephone,,,North East,,,69.1
+2021,Water,,,North East,,,55.9
+2021,Sanitation,,,North East,,,40.0
+2021,Electricity,,,North East,,,
+2021,Radio,,,North East,,,29.5
+2021,Television,,,North East,,,14.3
+2021,Internet,,,North East,,,20.9
+2021,Telephone,,,North East,,,80.2
+2017,Water,,,North West,,,58.6
+2017,Sanitation,,,North West,,,37.9
+2017,Electricity,,,North West,,,40.6
+2017,Radio,,,North West,,,59.0
+2017,Television,,,North West,,,26.4
+2017,Internet,,,North West,,,
+2017,Telephone,,,North West,,,57.8
+2021,Water,,,North West,,,63.4
+2021,Sanitation,,,North West,,,36.4
+2021,Electricity,,,North West,,,
+2021,Radio,,,North West,,,41.3
+2021,Television,,,North West,,,22.4
+2021,Internet,,,North West,,,26.5
+2021,Telephone,,,North West,,,80.8
+2017,Water,,,South East,,,80.1
+2017,Sanitation,,,South East,,,44.1
+2017,Electricity,,,South East,,,66.3
+2017,Radio,,,South East,,,65.0
+2017,Television,,,South East,,,63.8
+2017,Internet,,,South East,,,
+2017,Telephone,,,South East,,,81.9
+2021,Water,,,South East,,,87.6
+2021,Sanitation,,,South East,,,58.1
+2021,Electricity,,,South East,,,
+2021,Radio,,,South East,,,55.1
+2021,Television,,,South East,,,62.7
+2021,Internet,,,South East,,,45.1
+2021,Telephone,,,South East,,,95.2
+2017,Water,,,South South,,,75.5
+2017,Sanitation,,,South South,,,38.3
+2017,Electricity,,,South South,,,68.6
+2017,Radio,,,South South,,,57.5
+2017,Television,,,South South,,,66.7
+2017,Internet,,,South South,,,
+2017,Telephone,,,South South,,,84.4
+2021,Water,,,South South,,,75.8
+2021,Sanitation,,,South South,,,40.4
+2021,Electricity,,,South South,,,
+2021,Radio,,,South South,,,43.0
+2021,Television,,,South South,,,50.4
+2021,Internet,,,South South,,,36.8
+2021,Telephone,,,South South,,,87.0
+2017,Water,,,South West,,,87.3
+2017,Sanitation,,,South West,,,30.6
+2017,Electricity,,,South West,,,78.1
+2017,Radio,,,South West,,,65.3
+2017,Television,,,South West,,,69.9
+2017,Internet,,,South West,,,
+2017,Telephone,,,South West,,,87.9
+2021,Water,,,South West,,,86.9
+2021,Sanitation,,,South West,,,32.9
+2021,Electricity,,,South West,,,
+2021,Radio,,,South West,,,62.3
+2021,Television,,,South West,,,60.0
+2021,Internet,,,South West,,,42.3
+2021,Telephone,,,South West,,,92.4
+2017,Water,,,,None,,54.6
+2017,Sanitation,,,,None,,24.4
+2017,Electricity,,,,None,,
+2017,Radio,,,,None,,
+2017,Television,,,,None,,
+2017,Internet,,,,None,,
+2017,Telephone,,,,None,,
+2021,Water,,,,None,,57.3
+2021,Sanitation,,,,None,,26.8
+2021,Electricity,,,,None,,
+2021,Radio,,,,None,,27.9
+2021,Television,,,,None,,4.5
+2021,Internet,,,,None,,6.2
+2021,Telephone,,,,None,,59.6
+2017,Water,,,,Primary,,50.2
+2017,Sanitation,,,,Primary,,33.0
+2017,Electricity,,,,Primary,,
+2017,Radio,,,,Primary,,
+2017,Television,,,,Primary,,
+2017,Internet,,,,Primary,,
+2017,Telephone,,,,Primary,,
+2021,Water,,,,Primary,,69.4
+2021,Sanitation,,,,Primary,,33.7
+2021,Electricity,,,,Primary,,
+2021,Radio,,,,Primary,,44.1
+2021,Television,,,,Primary,,30.5
+2021,Internet,,,,Primary,,20.4
+2021,Telephone,,,,Primary,,84.9
+2017,Water,,,,Junior Secondary,,65.3
+2017,Sanitation,,,,Junior Secondary,,31.7
+2017,Electricity,,,,Junior Secondary,,
+2017,Radio,,,,Junior Secondary,,
+2017,Television,,,,Junior Secondary,,
+2017,Internet,,,,Junior Secondary,,
+2017,Telephone,,,,Junior Secondary,,
+2021,Water,,,,Junior Secondary,,71.0
+2021,Sanitation,,,,Junior Secondary,,34.9
+2021,Electricity,,,,Junior Secondary,,
+2021,Radio,,,,Junior Secondary,,41.0
+2021,Television,,,,Junior Secondary,,33.9
+2021,Internet,,,,Junior Secondary,,20.3
+2021,Telephone,,,,Junior Secondary,,85.6
+2017,Water,,,,Senior Secondary,,73.3
+2017,Sanitation,,,,Senior Secondary,,36.1
+2017,Electricity,,,,Senior Secondary,,
+2017,Radio,,,,Senior Secondary,,
+2017,Television,,,,Senior Secondary,,
+2017,Internet,,,,Senior Secondary,,
+2017,Telephone,,,,Senior Secondary,,
+2021,Water,,,,Senior Secondary,,80.0
+2021,Sanitation,,,,Senior Secondary,,37.3
+2021,Electricity,,,,Senior Secondary,,
+2021,Radio,,,,Senior Secondary,,51.2
+2021,Television,,,,Senior Secondary,,52.5
+2021,Internet,,,,Senior Secondary,,38.5
+2021,Telephone,,,,Senior Secondary,,93.9
+2017,Water,,,,Higher/Tertiary,,80.4
+2017,Sanitation,,,,Higher/Tertiary,,61.8
+2017,Electricity,,,,Higher/Tertiary,,
+2017,Radio,,,,Higher/Tertiary,,
+2017,Television,,,,Higher/Tertiary,,
+2017,Internet,,,,Higher/Tertiary,,
+2017,Telephone,,,,Higher/Tertiary,,
+2021,Water,,,,Higher/Tertiary,,86.5
+2021,Sanitation,,,,Higher/Tertiary,,65.7
+2021,Electricity,,,,Higher/Tertiary,,
+2021,Radio,,,,Higher/Tertiary,,61.3
+2021,Television,,,,Higher/Tertiary,,71.1
+2021,Internet,,,,Higher/Tertiary,,68.4
+2021,Telephone,,,,Higher/Tertiary,,98.4
+2017,Water,,,,,Abia,83.5
+2017,Sanitation,,,,,Abia,53.1
+2017,Electricity,,,,,Abia,80.4
+2017,Radio,,,,,Abia,66.7
+2017,Television,,,,,Abia,67.2
+2017,Internet,,,,,Abia,
+2017,Telephone,,,,,Abia,83.5
+2021,Water,,,,,Abia,81.6
+2021,Sanitation,,,,,Abia,49.0
+2021,Electricity,,,,,Abia,80.2
+2021,Radio,,,,,Abia,54.7
+2021,Television,,,,,Abia,54.8
+2021,Internet,,,,,Abia,18.0
+2021,Telephone,,,,,Abia,94.7
+2017,Water,,,,,Adamawa,53.9
+2017,Sanitation,,,,,Adamawa,38.9
+2017,Electricity,,,,,Adamawa,32.7
+2017,Radio,,,,,Adamawa,64.4
+2017,Television,,,,,Adamawa,32.7
+2017,Internet,,,,,Adamawa,
+2017,Telephone,,,,,Adamawa,68.0
+2021,Water,,,,,Adamawa,56.6
+2021,Sanitation,,,,,Adamawa,33.3
+2021,Electricity,,,,,Adamawa,28.8
+2021,Radio,,,,,Adamawa,34.5
+2021,Television,,,,,Adamawa,19.1
+2021,Internet,,,,,Adamawa,17.0
+2021,Telephone,,,,,Adamawa,76.8
+2017,Water,,,,,Akwa-Ibom,80.3
+2017,Sanitation,,,,,Akwa-Ibom,46.3
+2017,Electricity,,,,,Akwa-Ibom,75.0
+2017,Radio,,,,,Akwa-Ibom,60.8
+2017,Television,,,,,Akwa-Ibom,67.9
+2017,Internet,,,,,Akwa-Ibom,
+2017,Telephone,,,,,Akwa-Ibom,86.3
+2021,Water,,,,,Akwa-Ibom,72.8
+2021,Sanitation,,,,,Akwa-Ibom,54.7
+2021,Electricity,,,,,Akwa-Ibom,52.3
+2021,Radio,,,,,Akwa-Ibom,49.0
+2021,Television,,,,,Akwa-Ibom,35.2
+2021,Internet,,,,,Akwa-Ibom,27.7
+2021,Telephone,,,,,Akwa-Ibom,83.8
+2017,Water,,,,,Anambra,84.4
+2017,Sanitation,,,,,Anambra,56.7
+2017,Electricity,,,,,Anambra,71.5
+2017,Radio,,,,,Anambra,71.1
+2017,Television,,,,,Anambra,73.8
+2017,Internet,,,,,Anambra,
+2017,Telephone,,,,,Anambra,86.9
+2021,Water,,,,,Anambra,90.9
+2021,Sanitation,,,,,Anambra,69.3
+2021,Electricity,,,,,Anambra,91.0
+2021,Radio,,,,,Anambra,58.5
+2021,Television,,,,,Anambra,76.7
+2021,Internet,,,,,Anambra,45.6
+2021,Telephone,,,,,Anambra,97.4
+2017,Water,,,,,Bauchi,60.2
+2017,Sanitation,,,,,Bauchi,37.8
+2017,Electricity,,,,,Bauchi,29.0
+2017,Radio,,,,,Bauchi,62.8
+2017,Television,,,,,Bauchi,17.2
+2017,Internet,,,,,Bauchi,
+2017,Telephone,,,,,Bauchi,54.6
+2021,Water,,,,,Bauchi,55.3
+2021,Sanitation,,,,,Bauchi,34.2
+2021,Electricity,,,,,Bauchi,17.2
+2021,Radio,,,,,Bauchi,24.0
+2021,Television,,,,,Bauchi,7.9
+2021,Internet,,,,,Bauchi,13.5
+2021,Telephone,,,,,Bauchi,77.9
+2017,Water,,,,,Bayelsa,60.6
+2017,Sanitation,,,,,Bayelsa,20.9
+2017,Electricity,,,,,Bayelsa,46.6
+2017,Radio,,,,,Bayelsa,44.8
+2017,Television,,,,,Bayelsa,61.3
+2017,Internet,,,,,Bayelsa,
+2017,Telephone,,,,,Bayelsa,80.3
+2021,Water,,,,,Bayelsa,54.2
+2021,Sanitation,,,,,Bayelsa,24.5
+2021,Electricity,,,,,Bayelsa,47.6
+2021,Radio,,,,,Bayelsa,25.8
+2021,Television,,,,,Bayelsa,42.5
+2021,Internet,,,,,Bayelsa,31.4
+2021,Telephone,,,,,Bayelsa,86.6
+2017,Water,,,,,Benue,64.3
+2017,Sanitation,,,,,Benue,22.2
+2017,Electricity,,,,,Benue,34.5
+2017,Radio,,,,,Benue,52.2
+2017,Television,,,,,Benue,38.5
+2017,Internet,,,,,Benue,
+2017,Telephone,,,,,Benue,86.2
+2021,Water,,,,,Benue,51.8
+2021,Sanitation,,,,,Benue,33.1
+2021,Electricity,,,,,Benue,33.2
+2021,Radio,,,,,Benue,37.9
+2021,Television,,,,,Benue,24.3
+2021,Internet,,,,,Benue,18.4
+2021,Telephone,,,,,Benue,79.2
+2017,Water,,,,,Borno,47.0
+2017,Sanitation,,,,,Borno,52.3
+2017,Electricity,,,,,Borno,63.4
+2017,Radio,,,,,Borno,47.7
+2017,Television,,,,,Borno,49.5
+2017,Internet,,,,,Borno,
+2017,Telephone,,,,,Borno,91.9
+2021,Water,,,,,Borno,69.2
+2021,Sanitation,,,,,Borno,55.2
+2021,Electricity,,,,,Borno,45.3
+2021,Radio,,,,,Borno,23.1
+2021,Television,,,,,Borno,21.7
+2021,Internet,,,,,Borno,21.2
+2021,Telephone,,,,,Borno,87.6
+2017,Water,,,,,Cross-River,53.9
+2017,Sanitation,,,,,Cross-River,25.5
+2017,Electricity,,,,,Cross-River,38.1
+2017,Radio,,,,,Cross-River,53.4
+2017,Television,,,,,Cross-River,49.1
+2017,Internet,,,,,Cross-River,
+2017,Telephone,,,,,Cross-River,72.9
+2021,Water,,,,,Cross-River,51.7
+2021,Sanitation,,,,,Cross-River,18.2
+2021,Electricity,,,,,Cross-River,28.2
+2021,Radio,,,,,Cross-River,37.3
+2021,Television,,,,,Cross-River,22.9
+2021,Internet,,,,,Cross-River,25.3
+2021,Telephone,,,,,Cross-River,74.1
+2017,Water,,,,,Delta,79.4
+2017,Sanitation,,,,,Delta,38.1
+2017,Electricity,,,,,Delta,71.6
+2017,Radio,,,,,Delta,51.8
+2017,Television,,,,,Delta,69.9
+2017,Internet,,,,,Delta,
+2017,Telephone,,,,,Delta,81.4
+2021,Water,,,,,Delta,79.1
+2021,Sanitation,,,,,Delta,46.7
+2021,Electricity,,,,,Delta,72.5
+2021,Radio,,,,,Delta,42.6
+2021,Television,,,,,Delta,59.1
+2021,Internet,,,,,Delta,40.3
+2021,Telephone,,,,,Delta,88.8
+2017,Water,,,,,Ebonyi,76.4
+2017,Sanitation,,,,,Ebonyi,12.1
+2017,Electricity,,,,,Ebonyi,31.1
+2017,Radio,,,,,Ebonyi,55.5
+2017,Television,,,,,Ebonyi,34.7
+2017,Internet,,,,,Ebonyi,
+2017,Telephone,,,,,Ebonyi,54.6
+2021,Water,,,,,Ebonyi,85.7
+2021,Sanitation,,,,,Ebonyi,67.0
+2021,Electricity,,,,,Ebonyi,48.4
+2021,Radio,,,,,Ebonyi,52.4
+2021,Television,,,,,Ebonyi,48.6
+2021,Internet,,,,,Ebonyi,59.4
+2021,Telephone,,,,,Ebonyi,93.8
+2017,Water,,,,,Edo,87.9
+2017,Sanitation,,,,,Edo,51.6
+2017,Electricity,,,,,Edo,85.5
+2017,Radio,,,,,Edo,60.7
+2017,Television,,,,,Edo,77.7
+2017,Internet,,,,,Edo,
+2017,Telephone,,,,,Edo,86.4
+2021,Water,,,,,Edo,93.5
+2021,Sanitation,,,,,Edo,49.6
+2021,Electricity,,,,,Edo,88.9
+2021,Radio,,,,,Edo,49.5
+2021,Television,,,,,Edo,75.0
+2021,Internet,,,,,Edo,44.7
+2021,Telephone,,,,,Edo,95.5
+2017,Water,,,,,Ekiti,84.4
+2017,Sanitation,,,,,Ekiti,25.5
+2017,Electricity,,,,,Ekiti,70.1
+2017,Radio,,,,,Ekiti,63.9
+2017,Television,,,,,Ekiti,63.4
+2017,Internet,,,,,Ekiti,
+2017,Telephone,,,,,Ekiti,89.2
+2021,Water,,,,,Ekiti,82.6
+2021,Sanitation,,,,,Ekiti,25.4
+2021,Electricity,,,,,Ekiti,63.9
+2021,Radio,,,,,Ekiti,58.2
+2021,Television,,,,,Ekiti,38.2
+2021,Internet,,,,,Ekiti,22.7
+2021,Telephone,,,,,Ekiti,93.2
+2017,Water,,,,,Enugu,59.2
+2017,Sanitation,,,,,Enugu,32.9
+2017,Electricity,,,,,Enugu,70.1
+2017,Radio,,,,,Enugu,61.7
+2017,Television,,,,,Enugu,63.3
+2017,Internet,,,,,Enugu,
+2017,Telephone,,,,,Enugu,87.7
+2021,Water,,,,,Enugu,86.5
+2021,Sanitation,,,,,Enugu,45.7
+2021,Electricity,,,,,Enugu,81.1
+2021,Radio,,,,,Enugu,49.8
+2021,Television,,,,,Enugu,61.5
+2021,Internet,,,,,Enugu,50.5
+2021,Telephone,,,,,Enugu,92.7
+2017,Water,,,,,Gombe,39.2
+2017,Sanitation,,,,,Gombe,42.9
+2017,Electricity,,,,,Gombe,41.2
+2017,Radio,,,,,Gombe,47.2
+2017,Television,,,,,Gombe,21.5
+2017,Internet,,,,,Gombe,
+2017,Telephone,,,,,Gombe,63.3
+2021,Water,,,,,Gombe,51.0
+2021,Sanitation,,,,,Gombe,47.5
+2021,Electricity,,,,,Gombe,40.2
+2021,Radio,,,,,Gombe,41.7
+2021,Television,,,,,Gombe,18.3
+2021,Internet,,,,,Gombe,31.9
+2021,Telephone,,,,,Gombe,81.2
+2017,Water,,,,,Imo,92.2
+2017,Sanitation,,,,,Imo,57.8
+2017,Electricity,,,,,Imo,73.8
+2017,Radio,,,,,Imo,67.3
+2017,Television,,,,,Imo,72.5
+2017,Internet,,,,,Imo,
+2017,Telephone,,,,,Imo,90.5
+2021,Water,,,,,Imo,90.8
+2021,Sanitation,,,,,Imo,58.2
+2021,Electricity,,,,,Imo,74.7
+2021,Radio,,,,,Imo,57.6
+2021,Television,,,,,Imo,60.7
+2021,Internet,,,,,Imo,53.8
+2021,Telephone,,,,,Imo,95.8
+2017,Water,,,,,Jigawa,79.4
+2017,Sanitation,,,,,Jigawa,32.8
+2017,Electricity,,,,,Jigawa,25.7
+2017,Radio,,,,,Jigawa,45.1
+2017,Television,,,,,Jigawa,12.1
+2017,Internet,,,,,Jigawa,
+2017,Telephone,,,,,Jigawa,52.9
+2021,Water,,,,,Jigawa,74.6
+2021,Sanitation,,,,,Jigawa,29.2
+2021,Electricity,,,,,Jigawa,12.7
+2021,Radio,,,,,Jigawa,23.5
+2021,Television,,,,,Jigawa,4.4
+2021,Internet,,,,,Jigawa,28.3
+2021,Telephone,,,,,Jigawa,73.8
+2017,Water,,,,,Kaduna,61.1
+2017,Sanitation,,,,,Kaduna,29.4
+2017,Electricity,,,,,Kaduna,64.7
+2017,Radio,,,,,Kaduna,76.2
+2017,Television,,,,,Kaduna,53.6
+2017,Internet,,,,,Kaduna,
+2017,Telephone,,,,,Kaduna,75.6
+2021,Water,,,,,Kaduna,66.0
+2021,Sanitation,,,,,Kaduna,42.5
+2021,Electricity,,,,,Kaduna,69.5
+2021,Radio,,,,,Kaduna,47.8
+2021,Television,,,,,Kaduna,49.6
+2021,Internet,,,,,Kaduna,44.5
+2021,Telephone,,,,,Kaduna,92.2
+2017,Water,,,,,Kano,57.9
+2017,Sanitation,,,,,Kano,55.1
+2017,Electricity,,,,,Kano,46.8
+2017,Radio,,,,,Kano,64.7
+2017,Television,,,,,Kano,25.6
+2017,Internet,,,,,Kano,
+2017,Telephone,,,,,Kano,55.6
+2021,Water,,,,,Kano,66.2
+2021,Sanitation,,,,,Kano,51.9
+2021,Electricity,,,,,Kano,49.2
+2021,Radio,,,,,Kano,45.6
+2021,Television,,,,,Kano,29.0
+2021,Internet,,,,,Kano,28.7
+2021,Telephone,,,,,Kano,86.3
+2017,Water,,,,,Katsina,60.8
+2017,Sanitation,,,,,Katsina,28.2
+2017,Electricity,,,,,Katsina,30.0
+2017,Radio,,,,,Katsina,56.0
+2017,Television,,,,,Katsina,20.4
+2017,Internet,,,,,Katsina,
+2017,Telephone,,,,,Katsina,55.8
+2021,Water,,,,,Katsina,66.9
+2021,Sanitation,,,,,Katsina,27.4
+2021,Electricity,,,,,Katsina,29.7
+2021,Radio,,,,,Katsina,38.0
+2021,Television,,,,,Katsina,11.9
+2021,Internet,,,,,Katsina,21.1
+2021,Telephone,,,,,Katsina,79.8
+2017,Water,,,,,Kebbi,55.3
+2017,Sanitation,,,,,Kebbi,30.5
+2017,Electricity,,,,,Kebbi,41.4
+2017,Radio,,,,,Kebbi,44.8
+2017,Television,,,,,Kebbi,21.5
+2017,Internet,,,,,Kebbi,
+2017,Telephone,,,,,Kebbi,50.9
+2021,Water,,,,,Kebbi,59.0
+2021,Sanitation,,,,,Kebbi,20.2
+2021,Electricity,,,,,Kebbi,38.9
+2021,Radio,,,,,Kebbi,27.7
+2021,Television,,,,,Kebbi,13.7
+2021,Internet,,,,,Kebbi,10.5
+2021,Telephone,,,,,Kebbi,72.3
+2017,Water,,,,,Kogi,70.2
+2017,Sanitation,,,,,Kogi,21.7
+2017,Electricity,,,,,Kogi,50.2
+2017,Radio,,,,,Kogi,58.2
+2017,Television,,,,,Kogi,54.0
+2017,Internet,,,,,Kogi,
+2017,Telephone,,,,,Kogi,83.0
+2021,Water,,,,,Kogi,71.4
+2021,Sanitation,,,,,Kogi,26.3
+2021,Electricity,,,,,Kogi,58.2
+2021,Radio,,,,,Kogi,43.6
+2021,Television,,,,,Kogi,40.0
+2021,Internet,,,,,Kogi,34.2
+2021,Telephone,,,,,Kogi,91.2
+2017,Water,,,,,Kwara,85.8
+2017,Sanitation,,,,,Kwara,22.5
+2017,Electricity,,,,,Kwara,71.8
+2017,Radio,,,,,Kwara,74.4
+2017,Television,,,,,Kwara,56.3
+2017,Internet,,,,,Kwara,
+2017,Telephone,,,,,Kwara,67.6
+2021,Water,,,,,Kwara,81.4
+2021,Sanitation,,,,,Kwara,24.4
+2021,Electricity,,,,,Kwara,78.9
+2021,Radio,,,,,Kwara,60.4
+2021,Television,,,,,Kwara,58.2
+2021,Internet,,,,,Kwara,34.3
+2021,Telephone,,,,,Kwara,90.2
+2017,Water,,,,,Lagos,93.6
+2017,Sanitation,,,,,Lagos,44.0
+2017,Electricity,,,,,Lagos,99.1
+2017,Radio,,,,,Lagos,64.6
+2017,Television,,,,,Lagos,88.2
+2017,Internet,,,,,Lagos,
+2017,Telephone,,,,,Lagos,95.4
+2021,Water,,,,,Lagos,97.9
+2021,Sanitation,,,,,Lagos,43.7
+2021,Electricity,,,,,Lagos,98.9
+2021,Radio,,,,,Lagos,69.7
+2021,Television,,,,,Lagos,89.8
+2021,Internet,,,,,Lagos,65.0
+2021,Telephone,,,,,Lagos,97.2
+2017,Water,,,,,Nasarawa,54.8
+2017,Sanitation,,,,,Nasarawa,27.0
+2017,Electricity,,,,,Nasarawa,31.5
+2017,Radio,,,,,Nasarawa,56.6
+2017,Television,,,,,Nasarawa,40.7
+2017,Internet,,,,,Nasarawa,
+2017,Telephone,,,,,Nasarawa,78.2
+2021,Water,,,,,Nasarawa,55.7
+2021,Sanitation,,,,,Nasarawa,30.2
+2021,Electricity,,,,,Nasarawa,44.6
+2021,Radio,,,,,Nasarawa,38.7
+2021,Television,,,,,Nasarawa,30.3
+2021,Internet,,,,,Nasarawa,19.7
+2021,Telephone,,,,,Nasarawa,88.9
+2017,Water,,,,,Niger,52.9
+2017,Sanitation,,,,,Niger,33.1
+2017,Electricity,,,,,Niger,55.0
+2017,Radio,,,,,Niger,58.3
+2017,Television,,,,,Niger,48.6
+2017,Internet,,,,,Niger,
+2017,Telephone,,,,,Niger,80.6
+2021,Water,,,,,Niger,68.5
+2021,Sanitation,,,,,Niger,23.8
+2021,Electricity,,,,,Niger,57.0
+2021,Radio,,,,,Niger,43.6
+2021,Television,,,,,Niger,37.9
+2021,Internet,,,,,Niger,26.3
+2021,Telephone,,,,,Niger,92.0
+2017,Water,,,,,Ogun,88.6
+2017,Sanitation,,,,,Ogun,31.5
+2017,Electricity,,,,,Ogun,75.8
+2017,Radio,,,,,Ogun,63.5
+2017,Television,,,,,Ogun,68.5
+2017,Internet,,,,,Ogun,
+2017,Telephone,,,,,Ogun,87.4
+2021,Water,,,,,Ogun,74.8
+2021,Sanitation,,,,,Ogun,34.2
+2021,Electricity,,,,,Ogun,60.2
+2021,Radio,,,,,Ogun,62.2
+2021,Television,,,,,Ogun,49.8
+2021,Internet,,,,,Ogun,35.5
+2021,Telephone,,,,,Ogun,88.5
+2017,Water,,,,,Ondo,79.6
+2017,Sanitation,,,,,Ondo,21.9
+2017,Electricity,,,,,Ondo,58.3
+2017,Radio,,,,,Ondo,67.4
+2017,Television,,,,,Ondo,56.1
+2017,Internet,,,,,Ondo,
+2017,Telephone,,,,,Ondo,77.0
+2021,Water,,,,,Ondo,79.7
+2021,Sanitation,,,,,Ondo,26.0
+2021,Electricity,,,,,Ondo,43.2
+2021,Radio,,,,,Ondo,63.7
+2021,Television,,,,,Ondo,34.3
+2021,Internet,,,,,Ondo,34.6
+2021,Telephone,,,,,Ondo,89.5
+2017,Water,,,,,Osun,88.5
+2017,Sanitation,,,,,Osun,24.7
+2017,Electricity,,,,,Osun,74.0
+2017,Radio,,,,,Osun,68.5
+2017,Television,,,,,Osun,60.4
+2017,Internet,,,,,Osun,
+2017,Telephone,,,,,Osun,87.2
+2021,Water,,,,,Osun,91.9
+2021,Sanitation,,,,,Osun,25.9
+2021,Electricity,,,,,Osun,78.6
+2021,Radio,,,,,Osun,55.6
+2021,Television,,,,,Osun,53.3
+2021,Internet,,,,,Osun,32.2
+2021,Telephone,,,,,Osun,93.2
+2017,Water,,,,,Oyo,82.8
+2017,Sanitation,,,,,Oyo,21.6
+2017,Electricity,,,,,Oyo,68.9
+2017,Radio,,,,,Oyo,63.7
+2017,Television,,,,,Oyo,63.1
+2017,Internet,,,,,Oyo,
+2017,Telephone,,,,,Oyo,85.6
+2021,Water,,,,,Oyo,81.9
+2021,Sanitation,,,,,Oyo,25.4
+2021,Electricity,,,,,Oyo,71.9
+2021,Radio,,,,,Oyo,55.6
+2021,Television,,,,,Oyo,50.6
+2021,Internet,,,,,Oyo,31.2
+2021,Telephone,,,,,Oyo,88.4
+2017,Water,,,,,Plateau,42.9
+2017,Sanitation,,,,,Plateau,26.8
+2017,Electricity,,,,,Plateau,39.8
+2017,Radio,,,,,Plateau,57.0
+2017,Television,,,,,Plateau,45.4
+2017,Internet,,,,,Plateau,
+2017,Telephone,,,,,Plateau,79.0
+2021,Water,,,,,Plateau,50.3
+2021,Sanitation,,,,,Plateau,25.1
+2021,Electricity,,,,,Plateau,31.2
+2021,Radio,,,,,Plateau,33.2
+2021,Television,,,,,Plateau,22.7
+2021,Internet,,,,,Plateau,33.5
+2021,Telephone,,,,,Plateau,87.6
+2017,Water,,,,,Rivers,83.5
+2017,Sanitation,,,,,Rivers,38.7
+2017,Electricity,,,,,Rivers,80.9
+2017,Radio,,,,,Rivers,64.1
+2017,Television,,,,,Rivers,71.6
+2017,Internet,,,,,Rivers,
+2017,Telephone,,,,,Rivers,94.3
+2021,Water,,,,,Rivers,85.5
+2021,Sanitation,,,,,Rivers,38.9
+2021,Electricity,,,,,Rivers,84.0
+2021,Radio,,,,,Rivers,44.7
+2021,Television,,,,,Rivers,57.2
+2021,Internet,,,,,Rivers,43.4
+2021,Telephone,,,,,Rivers,90.7
+2017,Water,,,,,Sokoto,32.6
+2017,Sanitation,,,,,Sokoto,40.7
+2017,Electricity,,,,,Sokoto,37.5
+2017,Radio,,,,,Sokoto,55.8
+2017,Television,,,,,Sokoto,20.5
+2017,Internet,,,,,Sokoto,
+2017,Telephone,,,,,Sokoto,44.9
+2021,Water,,,,,Sokoto,36.1
+2021,Sanitation,,,,,Sokoto,28.2
+2021,Electricity,,,,,Sokoto,36.9
+2021,Radio,,,,,Sokoto,36.2
+2021,Television,,,,,Sokoto,18.4
+2021,Internet,,,,,Sokoto,22.7
+2021,Telephone,,,,,Sokoto,65.1
+2017,Water,,,,,Taraba,38.2
+2017,Sanitation,,,,,Taraba,31.0
+2017,Electricity,,,,,Taraba,17.7
+2017,Radio,,,,,Taraba,47.8
+2017,Television,,,,,Taraba,26.7
+2017,Internet,,,,,Taraba,
+2017,Telephone,,,,,Taraba,64.0
+2021,Water,,,,,Taraba,29.1
+2021,Sanitation,,,,,Taraba,28.5
+2021,Electricity,,,,,Taraba,14.7
+2021,Radio,,,,,Taraba,30.5
+2021,Television,,,,,Taraba,9.8
+2021,Internet,,,,,Taraba,34.1
+2021,Telephone,,,,,Taraba,82.6
+2017,Water,,,,,Yobe,63.2
+2017,Sanitation,,,,,Yobe,20.7
+2017,Electricity,,,,,Yobe,28.5
+2017,Radio,,,,,Yobe,52.4
+2017,Television,,,,,Yobe,17.7
+2017,Internet,,,,,Yobe,
+2017,Telephone,,,,,Yobe,61.1
+2021,Water,,,,,Yobe,66.1
+2021,Sanitation,,,,,Yobe,39.7
+2021,Electricity,,,,,Yobe,22.3
+2021,Radio,,,,,Yobe,29.5
+2021,Television,,,,,Yobe,9.4
+2021,Internet,,,,,Yobe,15.5
+2021,Telephone,,,,,Yobe,73.9
+2017,Water,,,,,Zamfara,51.5
+2017,Sanitation,,,,,Zamfara,41.2
+2017,Electricity,,,,,Zamfara,27.7
+2017,Radio,,,,,Zamfara,55.9
+2017,Television,,,,,Zamfara,19.0
+2017,Internet,,,,,Zamfara,
+2017,Telephone,,,,,Zamfara,57.8
+2021,Water,,,,,Zamfara,65.0
+2021,Sanitation,,,,,Zamfara,35.3
+2021,Electricity,,,,,Zamfara,35.8
+2021,Radio,,,,,Zamfara,64.8
+2021,Television,,,,,Zamfara,10.5
+2021,Internet,,,,,Zamfara,15.5
+2021,Telephone,,,,,Zamfara,82.0
+2017,Water,,,,,FCT,75.6
+2017,Sanitation,,,,,FCT,40.9
+2017,Electricity,,,,,FCT,77.9
+2017,Radio,,,,,FCT,67.9
+2017,Television,,,,,FCT,69.3
+2017,Internet,,,,,FCT,
+2017,Telephone,,,,,FCT,82.1
+2021,Water,,,,,FCT,92.9
+2021,Sanitation,,,,,FCT,60.2
+2021,Electricity,,,,,FCT,76.1
+2021,Radio,,,,,FCT,53.9
+2021,Television,,,,,FCT,63.7
+2021,Internet,,,,,FCT,55.7
+2021,Telephone,,,,,FCT,94.1
