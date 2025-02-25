@@ -1,4 +1,4 @@
-Year,Place of Residence,Sex,Wealth Index Quintile,Geopolitical zones,Education Status,Ethnicity,State,Value
+Year,Degree of urbanisation,Sex,Wealth Index Quintile,Geopolitical zone,Education Status,Ethnicity,State,Value
 2021,,,,,,,,21.9
 2021,Urban,,,,,,,19.3
 2021,Rural,,,,,,,23.7

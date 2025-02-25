@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Sector",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [

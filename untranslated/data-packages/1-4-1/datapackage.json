@@ -31,7 +31,7 @@
             }
           },
           {
-            "name": "Place of Residence",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -56,7 +56,7 @@
             }
           },
           {
-            "name": "Geopolitical zones",
+            "name": "Geopolitical zone",
             "type": "string",
             "constraints": {
               "enum": [

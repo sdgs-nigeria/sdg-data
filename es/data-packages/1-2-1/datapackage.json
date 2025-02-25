@@ -16,7 +16,7 @@
             "title": "Año"
           },
           {
-            "name": "Place of Residence",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Place of Residence"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "State",

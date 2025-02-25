@@ -16,7 +16,7 @@
             "title": "Año"
           },
           {
-            "name": "Sector",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Age_group",
