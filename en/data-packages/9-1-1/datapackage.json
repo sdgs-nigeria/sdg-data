@@ -12,8 +12,101 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Distance of nearest market where farmers sell their goods",
+                "Distance of nearest health facility",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Distance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Less than 1 KM",
+                "1 to 2 KM",
+                "Above 2 KM",
+                ""
+              ]
+            },
+            "title": "Distance"
+          },
+          {
+            "name": "Geopolitical zone",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North Central",
+                "North East",
+                "North West",
+                "South East",
+                "South South",
+                "South West",
+                ""
+              ]
+            },
+            "title": "Geopolitical zone"
+          },
+          {
+            "name": "State",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abia",
+                "Adamawa",
+                "Akwa Ibom",
+                "Anambra",
+                "Bauchi",
+                "Bayelsa",
+                "Benue",
+                "Borno",
+                "Cross River",
+                "Delta",
+                "Ebonyi",
+                "Edo",
+                "Ekiti",
+                "Enugu",
+                "Gombe",
+                "Imo",
+                "Jigawa",
+                "Kaduna",
+                "Kano",
+                "Katsina",
+                "Kebbi",
+                "Kogi",
+                "Kwara",
+                "Lagos",
+                "Nasarawa",
+                "Niger",
+                "Ogun",
+                "Ondo",
+                "Osun",
+                "Oyo",
+                "Plateau",
+                "Rivers",
+                "Sokoto",
+                "Taraba",
+                "Yobe",
+                "Zamfara",
+                "Federal Capital Territory",
+                ""
+              ]
+            },
+            "title": "State"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tuberculosis incidence per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

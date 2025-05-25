@@ -12,8 +12,169 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Haemoglobin level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Any <12.0 g/dl",
+                "Mild 11.0-11.9 g/dl",
+                "Moderate 8.0-10.9 g/dl",
+                "Severe <8.0 g/dl",
+                ""
+              ]
+            },
+            "title": "Haemoglobin level"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "Wealth Index Quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lowest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Highest",
+                ""
+              ]
+            },
+            "title": "Wealth Index Quintile"
+          },
+          {
+            "name": "Geopolitical Zone",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North  Central",
+                "North East",
+                "North West",
+                "South East",
+                "South South",
+                "South West",
+                ""
+              ]
+            },
+            "title": "Geopolitical Zone"
+          },
+          {
+            "name": "Education Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "Primary",
+                "Secondary",
+                "Post Secondary",
+                ""
+              ]
+            },
+            "title": "Education Level"
+          },
+          {
+            "name": "Maternity status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pregnant",
+                "Breastfeeding",
+                "Neither",
+                ""
+              ]
+            },
+            "title": "Maternity status"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-19",
+                "20-29",
+                "30-39",
+                "40-49",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "State",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abia",
+                "Adamawa",
+                "Akwa Ibom",
+                "Anambra",
+                "Bauchi",
+                "Bayelsa",
+                "Benue",
+                "Borno",
+                "Cross River",
+                "Delta",
+                "Ebonyi",
+                "Edo",
+                "Ekiti",
+                "Enugu",
+                "Gombe",
+                "Imo",
+                "Jigawa",
+                "Kaduna",
+                "Kano",
+                "Katsina",
+                "Kebbi",
+                "Kogi",
+                "Kwara",
+                "Lagos",
+                "Nasarawa",
+                "Niger",
+                "Ogun",
+                "Ondo",
+                "Osun",
+                "Oyo",
+                "Plateau",
+                "Rivers",
+                "Sokoto",
+                "Taraba",
+                "Yobe",
+                "Zamfara",
+                "Federal Capital Territory",
+                ""
+              ]
+            },
+            "title": "State"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

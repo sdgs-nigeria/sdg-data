@@ -15,7 +15,17 @@
             "type": "integer"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +36,7 @@
             }
           },
           {
-            "name": "Age_group",
+            "name": "Age group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,10 +45,29 @@
                 "0 to 14 years old",
                 "15 to 64 years old",
                 "65 and older",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Educational level",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Without education (16+)",
                 "Primary education (16+)",
                 "Secondary education (16+)",
                 "Tertiary/post-secondary education (16+)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
                 ""
               ]
             }

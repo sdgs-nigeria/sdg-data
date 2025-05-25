@@ -12,8 +12,135 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Age-standardized prevalence of current tobacco use among persons aged 15 years and older",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Wealth Index Quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lowest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Highest",
+                ""
+              ]
+            },
+            "title": "Wealth Index Quintile"
+          },
+          {
+            "name": "Geopolitical Zone",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North  Central",
+                "North East",
+                "North West",
+                "South East",
+                "South South",
+                "South West",
+                ""
+              ]
+            },
+            "title": "Geopolitical Zone"
+          },
+          {
+            "name": "Education Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None",
+                "Primary",
+                "Secondary",
+                "More than Secondary",
+                ""
+              ]
+            },
+            "title": "Education Level"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-59",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Tobacco type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cigarettes",
+                "Other type of tobacco",
+                "Any type of tobacco",
+                ""
+              ]
+            },
+            "title": "Tobacco type"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Material footprint, material footprint per capita, and material footprint per GDP",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

@@ -12,7 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of teachers with the minimum required qualifications, by education level",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "School type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Junior Secondary",
+                "Senior Secondary",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

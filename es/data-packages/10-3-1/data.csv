@@ -1,1 +1,151 @@
-Year,Value
+Year,Series,Gender,Sector,Ethnicity,Education level,Wealth Index Quintile,Geopolitical zone,State,Age group,GeoCode,Value
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,,,NG,27.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,Urban,,,,,,,NG,23.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,Rural,,,,,,,NG,30.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,,15-19,NG,29.2
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,,15-17,NG,29.6
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,,18-19,NG,28.6
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,,20-24,NG,29.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,,25-29,NG,30.5
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,,30-34,NG,27.3
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,,35-39,NG,25.2
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,,40-44,NG,24.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,,45-49,NG,25.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,None,,,,,NG,33.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,Primary,,,,,NG,27.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,Junior secondary,,,,,NG,30.0
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,Senior secondary,,,,,NG,25.6
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,Higher/tertiary,,,,,NG,27.2
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,Hausa,,,,,,NG,32.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,Igbo,,,,,,NG,22.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,Yoruba,,,,,,NG,8.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,Fulani,,,,,,NG,37.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,Kanuri,,,,,,NG,49.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,Ijaw,,,,,,NG,31.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,Tiv,,,,,,NG,14.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,Ibibio,,,,,,NG,35.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,Edo,,,,,,NG,14.5
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,Other ethnicity,,,,,,NG,34.5
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,Poorest,,,,NG,31.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,Second,,,,NG,29.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,Middle,,,,NG,29.6
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,Fourth,,,,NG,27.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,Richest,,,,NG,21.3
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,North  Central,,,NGNCZ06,31.3
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,North East,,,NGNEZ05,40.2
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,North West,,,NGNWZ04,32.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,South East,,,NGSEZ03,23.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,South South,,,NGSSZ02,35.3
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,South West,,,NGSWZ01,6.5
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Abia,,NGAB01,31.5
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Adamawa,,NGAD02,25.3
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Akwa Ibom,,NGAK03,40.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Anambra,,NGAN04,20.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Bauchi,,NGBA05,36.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Bayelsa,,NGBY06,43.3
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Benue,,NGBE07,6.5
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Borno,,NGBO08,50.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Cross River,,NGXR09,13.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Delta,,NGDE10,46.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Ebonyi,,NGEB11,51.0
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Edo,,NGED12,21.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Ekiti,,NGEK13,7.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Enugu,,NGEN14,19.5
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Gombe,,NGGO15,45.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Imo,,NGIM16,6.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Jigawa,,NGJI17,42.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Kaduna,,NGKD18,33.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Kano,,NGKN19,29.2
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Katsina,,NGKT20,34.5
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Kebbi,,NGKE21,63.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Kogi,,NGKO22,18.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Kwara,,NGKW23,11.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Lagos,,NGLA24,2.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Nasarawa,,NGNA25,46.2
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Niger,,NGNI26,29.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Ogun,,NGOG27,13.6
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Ondo,,NGON28,12.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Osun,,NGOS29,6.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Oyo,,NGOY30,4.2
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Plateau,,NGPL31,60.3
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Rivers,,NGRI32,43.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Sokoto,,NGSO33,4.2
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Taraba,,NGTA34,29.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Yobe,,NGYO35,59.6
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Zamfara,,NGZA36,27.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Male,,,,,,Federal Capital Territory,,NGFC37,61.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,,,NG,18.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,Urban,,,,,,,NG,16.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,Rural,,,,,,,NG,20.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,,15-19,NG,20.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,,15-17,NG,20.0
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,,18-19,NG,20.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,,20-24,NG,19.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,,25-29,NG,20.2
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,,30-34,NG,18.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,,35-39,NG,16.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,,40-44,NG,17.0
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,,45-49,NG,17.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,None,,,,,NG,21.2
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,Primary,,,,,NG,17.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,Junior secondary,,,,,NG,18.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,Senior secondary,,,,,NG,18.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,Higher/tertiary,,,,,NG,16.5
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,Hausa,,,,,,NG,21.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,Igbo,,,,,,NG,19.6
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,Yoruba,,,,,,NG,9.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,Fulani,,,,,,NG,18.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,Kanuri,,,,,,NG,18.6
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,Ijaw,,,,,,NG,21.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,Tiv,,,,,,NG,18.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,Ibibio,,,,,,NG,19.3
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,Edo,,,,,,NG,31.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,Other ethnicity,,,,,,NG,20.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,Poorest,,,,NG,19.6
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,Second,,,,NG,21.5
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,Middle,,,,NG,19.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,Fourth,,,,NG,18.6
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,Richest,,,,NG,15.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,North  Central,,,NGNCZ06,19.3
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,North East,,,NGNEZ05,18.5
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,North West,,,NGNWZ04,22.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,South East,,,NGSEZ03,20.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,South South,,,NGSSZ02,25.5
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,South West,,,NGSWZ01,8.5
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Abia,,NGAB01,22.0
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Adamawa,,NGAD02,13.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Akwa Ibom,,NGAK03,16.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Anambra,,NGAN04,19.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Bauchi,,NGBA05,25.2
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Bayelsa,,NGBY06,28.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Benue,,NGBE07,15.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Borno,,NGBO08,20.2
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Cross River,,NGXR09,23.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Delta,,NGDE10,22.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Ebonyi,,NGEB11,16.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Edo,,NGED12,33.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Ekiti,,NGEK13,9.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Enugu,,NGEN14,22.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Gombe,,NGGO15,9.3
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Imo,,NGIM16,19.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Jigawa,,NGJI17,16.3
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Kaduna,,NGKD18,25.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Kano,,NGKN19,18.0
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Katsina,,NGKT20,23.6
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Kebbi,,NGKE21,20.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Kogi,,NGKO22,16.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Kwara,,NGKW23,11.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Lagos,,NGLA24,9.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Nasarawa,,NGNA25,26.8
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Niger,,NGNI26,22.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Ogun,,NGOG27,7.0
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Ondo,,NGON28,4.6
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Osun,,NGOS29,8.0
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Oyo,,NGOY30,10.0
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Plateau,,NGPL31,21.7
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Rivers,,NGRI32,27.4
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Sokoto,,NGSO33,17.6
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Taraba,,NGTA34,15.2
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Yobe,,NGYO35,20.9
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Zamfara,,NGZA36,45.1
+2021,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months,Female,,,,,,Federal Capital Territory,,NGFC37,21.4

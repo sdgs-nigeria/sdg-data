@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Remittance costs as a proportion of the amount remitted",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

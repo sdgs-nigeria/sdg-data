@@ -1,1 +1,151 @@
-Year,Value
+Year,Series,Gender,Sector,Ethnicity,Education level,Wealth Index Quintile,Geopolitical zone,State,Age group,GeoCode,Value
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,,,NG,81.2
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,Urban,,,,,,,NG,84.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,Rural,,,,,,,NG,78.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,,15-19,NG,79.7
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,,15-17,NG,79.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,,18-19,NG,80.8
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,,20-24,NG,81.3
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,,25-29,NG,81.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,,30-34,NG,82.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,,35-39,NG,83.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,,40-44,NG,81.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,,45-49,NG,80.3
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,None,,,,,NG,77.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,Primary,,,,,NG,80.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,Junior secondary,,,,,NG,79.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,Senior secondary,,,,,NG,82.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,Higher/tertiary,,,,,NG,83.2
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,Hausa,,,,,,NG,76.7
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,Igbo,,,,,,NG,76.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,Yoruba,,,,,,NG,92.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,Fulani,,,,,,NG,84.8
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,Kanuri,,,,,,NG,92.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,Ijaw,,,,,,NG,80.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,Tiv,,,,,,NG,83.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,Ibibio,,,,,,NG,50.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,Edo,,,,,,NG,87.8
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,Other ethnicity,,,,,,NG,81.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,Poorest,,,,NG,79.3
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,Second,,,,NG,77.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,Middle,,,,NG,81.4
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,Fourth,,,,NG,80.3
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,Richest,,,,NG,86.3
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,North  Central,,,NGNCZ06,79.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,North East,,,NGNEZ05,89.3
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,North West,,,NGNWZ04,75.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,South East,,,NGSEZ03,71.4
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,South South,,,NGSSZ02,74.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,South West,,,NGSWZ01,96.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Abia,,NGAB01,77.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Adamawa,,NGAD02,96.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Akwa Ibom,,NGAK03,43.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Anambra,,NGAN04,58.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Bauchi,,NGBA05,88.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Bayelsa,,NGBY06,66.4
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Benue,,NGBE07,83.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Borno,,NGBO08,95.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Cross River,,NGXR09,80.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Delta,,NGDE10,68.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Ebonyi,,NGEB11,52.2
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Edo,,NGED12,88.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Ekiti,,NGEK13,92.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Enugu,,NGEN14,74.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Gombe,,NGGO15,91.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Imo,,NGIM16,91.3
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Jigawa,,NGJI17,91.4
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Kaduna,,NGKD18,61.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Kano,,NGKN19,91.3
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Katsina,,NGKT20,81.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Kebbi,,NGKE21,81.8
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Kogi,,NGKO22,85.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Kwara,,NGKW23,93.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Lagos,,NGLA24,99.3
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Nasarawa,,NGNA25,87.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Niger,,NGNI26,83.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Ogun,,NGOG27,93.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Ondo,,NGON28,99.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Osun,,NGOS29,98.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Oyo,,NGOY30,89.8
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Plateau,,NGPL31,50.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Rivers,,NGRI32,85.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Sokoto,,NGSO33,63.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Taraba,,NGTA34,78.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Yobe,,NGYO35,78.7
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Zamfara,,NGZA36,32.3
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Male,,,,,,Federal Capital Territory,,NGFC37,78.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,,,NG,63.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,Urban,,,,,,,NG,68.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,Rural,,,,,,,NG,59.4
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,,15-19,NG,58.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,,15-17,NG,58.4
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,,18-19,NG,59.8
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,,20-24,NG,60.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,,25-29,NG,62.2
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,,30-34,NG,66.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,,35-39,NG,67.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,,40-44,NG,67.7
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,,45-49,NG,68.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,None,,,,,NG,54.7
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,Primary,,,,,NG,62.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,Junior secondary,,,,,NG,64.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,Senior secondary,,,,,NG,67.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,Higher/tertiary,,,,,NG,70.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,Hausa,,,,,,NG,49.2
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,Igbo,,,,,,NG,69.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,Yoruba,,,,,,NG,80.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,Fulani,,,,,,NG,54.8
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,Kanuri,,,,,,NG,58.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,Ijaw,,,,,,NG,71.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,Tiv,,,,,,NG,68.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,Ibibio,,,,,,NG,59.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,Edo,,,,,,NG,84.4
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,Other ethnicity,,,,,,NG,63.7
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,Poorest,,,,NG,55.7
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,Second,,,,NG,57.3
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,Middle,,,,NG,62.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,Fourth,,,,NG,68.7
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,Richest,,,,NG,71.4
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,North  Central,,,NGNCZ06,63.3
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,North East,,,NGNEZ05,63.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,North West,,,NGNWZ04,43.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,South East,,,NGSEZ03,68.4
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,South South,,,NGSSZ02,71.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,South West,,,NGSWZ01,80.8
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Abia,,NGAB01,66.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Adamawa,,NGAD02,77.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Akwa Ibom,,NGAK03,55.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Anambra,,NGAN04,72.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Bauchi,,NGBA05,65.8
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Bayelsa,,NGBY06,58.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Benue,,NGBE07,68.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Borno,,NGBO08,58.8
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Cross River,,NGXR09,68.8
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Delta,,NGDE10,75.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Ebonyi,,NGEB11,63.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Edo,,NGED12,79.3
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Ekiti,,NGEK13,91.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Enugu,,NGEN14,57.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Gombe,,NGGO15,64.2
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Imo,,NGIM16,79.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Jigawa,,NGJI17,43.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Kaduna,,NGKD18,37.2
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Kano,,NGKN19,44.7
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Katsina,,NGKT20,39.2
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Kebbi,,NGKE21,42.7
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Kogi,,NGKO22,86.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Kwara,,NGKW23,56.8
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Lagos,,NGLA24,74.2
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Nasarawa,,NGNA25,50.0
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Niger,,NGNI26,79.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Ogun,,NGOG27,81.7
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Ondo,,NGON28,88.4
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Osun,,NGOS29,80.8
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Oyo,,NGOY30,83.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Plateau,,NGPL31,26.5
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Rivers,,NGRI32,77.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Sokoto,,NGSO33,60.6
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Taraba,,NGTA34,45.4
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Yobe,,NGYO35,60.9
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Zamfara,,NGZA36,39.1
+2021,Proportion of population that feel safe walking alone around the area they live after dark,Female,,,,,,Federal Capital Territory,,NGFC37,59.5

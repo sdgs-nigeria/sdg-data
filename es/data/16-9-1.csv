@@ -1,1 +1,117 @@
-Year,Value
+Year,Series,Sector,Gender,Wealth Index Quintile,Geopolitical zone,State,Age group,GeoCode,Value
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,,,NG,46.9
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",Urban,,,,,,NG,69.5
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",Rural,,,,,,NG,37.0
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,Male,,,,,NG,47.3
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,Female,,,,,NG,46.5
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,,0-11,NG,38.5
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,,12-23,NG,48.8
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,,24-35,NG,49.2
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,,36-47,NG,47.8
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,,48-59,NG,49.7
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,Poorest,,,,NG,18.3
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,Second,,,,NG,31.6
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,Middle,,,,NG,44.7
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,Fourth,,,,NG,67.3
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,Richest,,,,NG,83.2
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,North  Central,,,NGNCZ06,45.1
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,North East,,,NGNEZ05,36.9
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,North West,,,NGNWZ04,37.1
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,South East,,,NGSEZ03,82.9
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,South South,,,NGSSZ02,64.6
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,South West,,,NGSWZ01,72.8
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Abia,,NGAB01,82.3
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Adamawa,,NGAD02,65.1
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Akwa Ibom,,NGAK03,61.8
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Anambra,,NGAN04,94.5
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Bauchi,,NGBA05,26.2
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Bayelsa,,NGBY06,49.0
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Benue,,NGBE07,44.3
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Borno,,NGBO08,51.0
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Cross River,,NGXR09,50.2
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Delta,,NGDE10,66.4
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Ebonyi,,NGEB11,76.2
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Edo,,NGED12,87.5
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Ekiti,,NGEK13,83.0
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Enugu,,NGEN14,81.4
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Gombe,,NGGO15,29.6
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Imo,,NGIM16,77.8
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Jigawa,,NGJI17,23.6
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Kaduna,,NGKD18,55.1
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Kano,,NGKN19,35.3
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Katsina,,NGKT20,46.0
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Kebbi,,NGKE21,33.7
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Kogi,,NGKO22,63.0
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Kwara,,NGKW23,67.0
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Lagos,,NGLA24,82.3
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Nasarawa,,NGNA25,37.0
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Niger,,NGNI26,30.0
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Ogun,,NGOG27,60.2
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Ondo,,NGON28,68.5
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Osun,,NGOS29,72.5
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Oyo,,NGOY30,65.2
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Plateau,,NGPL31,48.8
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Rivers,,NGRI32,71.5
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Sokoto,,NGSO33,29.5
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Taraba,,NGTA34,32.5
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Yobe,,NGYO35,17.0
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Zamfara,,NGZA36,26.7
+2017,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Federal Capital Territory,,NGFC37,74.1
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,,,NG,57.3
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",Urban,,,,,,NG,78.9
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",Rural,,,,,,NG,44.8
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,Male,,,,,NG,57.8
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,Female,,,,,NG,56.8
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,,0-11,NG,50.3
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,,12-23,NG,57.3
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,,24-35,NG,58.9
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,,36-47,NG,59.5
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,,48-59,NG,59.7
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,Poorest,,,,NG,32.9
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,Second,,,,NG,44.0
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,Middle,,,,NG,58.6
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,Fourth,,,,NG,76.8
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,Richest,,,,NG,89.3
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,North  Central,,,NGNCZ06,53.3
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,North East,,,NGNEZ05,47.3
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,North West,,,NGNWZ04,47.4
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,South East,,,NGSEZ03,77.9
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,South South,,,NGSSZ02,61.8
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,South West,,,NGSWZ01,76.1
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Abia,,NGAB01,66.8
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Adamawa,,NGAD02,79.7
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Akwa Ibom,,NGAK03,72.1
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Anambra,,NGAN04,86.5
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Bauchi,,NGBA05,38.3
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Bayelsa,,NGBY06,28.2
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Benue,,NGBE07,57.0
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Borno,,NGBO08,44.0
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Cross River,,NGXR09,45.9
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Delta,,NGDE10,56.2
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Ebonyi,,NGEB11,86.1
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Edo,,NGED12,81.3
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Ekiti,,NGEK13,68.2
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Enugu,,NGEN14,72.7
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Gombe,,NGGO15,42.4
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Imo,,NGIM16,74.6
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Jigawa,,NGJI17,23.6
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Kaduna,,NGKD18,54.5
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Kano,,NGKN19,54.6
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Katsina,,NGKT20,67.9
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Kebbi,,NGKE21,51.6
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Kogi,,NGKO22,46.7
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Kwara,,NGKW23,74.6
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Lagos,,NGLA24,93.7
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Nasarawa,,NGNA25,52.7
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Niger,,NGNI26,29.9
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Ogun,,NGOG27,58.6
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Ondo,,NGON28,60.8
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Osun,,NGOS29,78.0
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Oyo,,NGOY30,70.6
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Plateau,,NGPL31,55.2
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Rivers,,NGRI32,65.2
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Sokoto,,NGSO33,22.5
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Taraba,,NGTA34,31.7
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Yobe,,NGYO35,56.8
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Zamfara,,NGZA36,31.4
+2021,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",,,,,Federal Capital Territory,,NGFC37,87.3

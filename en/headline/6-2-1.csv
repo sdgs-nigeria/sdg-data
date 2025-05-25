@@ -1,1 +1,7 @@
-Year,Value
+Year,Value,Units,Series,GeoCode
+2021,17.8,Percentage (%),Proportion of population using (a) safely managed sanitation services,NG
+2019,20.9,Percentage (%),Proportion of population using (a) safely managed sanitation services,NG
+2018,19.2,Percentage (%),Proportion of population using (a) safely managed sanitation services,NG
+2021,17.5,Percentage (%),Proportion of population using (b) a hand-washing facility with soap and water,NG
+2019,15.1,Percentage (%),Proportion of population using (b) a hand-washing facility with soap and water,NG
+2018,22.1,Percentage (%),Proportion of population using (b) a hand-washing facility with soap and water,NG

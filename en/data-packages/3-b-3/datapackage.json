@@ -12,8 +12,110 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Geopolitical zone",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North Central",
+                "North East",
+                "North West",
+                "South East",
+                "South South",
+                "South West",
+                ""
+              ]
+            },
+            "title": "Geopolitical zone"
+          },
+          {
+            "name": "Facility Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary Health Facility",
+                "Secondary Health Facility",
+                ""
+              ]
+            },
+            "title": "Facility Type"
+          },
+          {
+            "name": "State",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abia",
+                "Adamawa",
+                "Akwa Ibom",
+                "Anambra",
+                "Bauchi",
+                "Bayelsa",
+                "Benue",
+                "Borno",
+                "Cross River",
+                "Delta",
+                "Ebonyi",
+                "Edo",
+                "Ekiti",
+                "Enugu",
+                "Gombe",
+                "Imo",
+                "Jigawa",
+                "Kaduna",
+                "Kano",
+                "Katsina",
+                "Kebbi",
+                "Kogi",
+                "Kwara",
+                "Lagos",
+                "Nasarawa",
+                "Niger",
+                "Ogun",
+                "Ondo",
+                "Osun",
+                "Oyo",
+                "Plateau",
+                "Rivers",
+                "Sokoto",
+                "Taraba",
+                "Yobe",
+                "Zamfara",
+                "Federal Capital Territory",
+                ""
+              ]
+            },
+            "title": "State"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage %",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -26,5 +128,5 @@
   ],
   "profile": "data-package",
   "name": "3-b-3",
-  "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
+  "title": "Health product access index"
 }

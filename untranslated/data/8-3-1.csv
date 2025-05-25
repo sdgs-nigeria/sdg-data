@@ -1,1 +1,23 @@
-Year,Value
+Year,Series,Sector,Gender,Period,Units,Value
+2022,"Proportion of informal employment in total employment, by sector and sex",,,Q4 2022,Percentage (%),93.5
+2023,"Proportion of informal employment in total employment, by sector and sex",,,Q1 2023,Percentage (%),92.6
+2023,"Proportion of informal employment in total employment, by sector and sex",,,Q2 2023,Percentage (%),92.7
+2023,"Proportion of informal employment in total employment, by sector and sex",,,Q3 2023,Percentage (%),92.3
+2024,"Proportion of informal employment in total employment, by sector and sex",,,Q1 2024,Percentage (%),92.7
+2024,"Proportion of informal employment in total employment, by sector and sex",,,Q2 2024,Percentage (%),93.0
+2023,"Proportion of informal employment in total employment, by sector and sex",,Male,Q2 2023,Percentage (%),89.4
+2023,"Proportion of informal employment in total employment, by sector and sex",,Male,Q3 2023,Percentage (%),88.7
+2024,"Proportion of informal employment in total employment, by sector and sex",,Male,Q1 2024,Percentage (%),88.7
+2024,"Proportion of informal employment in total employment, by sector and sex",,Male,Q2 2024,Percentage (%),90.0
+2023,"Proportion of informal employment in total employment, by sector and sex",,Female,Q2 2023,Percentage (%),96.2
+2023,"Proportion of informal employment in total employment, by sector and sex",,Female,Q3 2023,Percentage (%),96.0
+2024,"Proportion of informal employment in total employment, by sector and sex",,Female,Q1 2024,Percentage (%),96.4
+2024,"Proportion of informal employment in total employment, by sector and sex",,Female,Q2 2024,Percentage (%),96.0
+2023,"Proportion of informal employment in total employment, by sector and sex",Urban,,Q2 2023,Percentage (%),88.0
+2023,"Proportion of informal employment in total employment, by sector and sex",Urban,,Q3 2023,Percentage (%),88.7
+2024,"Proportion of informal employment in total employment, by sector and sex",Urban,,Q1 2024,Percentage (%),89.0
+2024,"Proportion of informal employment in total employment, by sector and sex",Urban,,Q2 2024,Percentage (%),90.0
+2023,"Proportion of informal employment in total employment, by sector and sex",Rural,,Q2 2023,Percentage (%),97.3
+2023,"Proportion of informal employment in total employment, by sector and sex",Rural,,Q3 2023,Percentage (%),96.0
+2024,"Proportion of informal employment in total employment, by sector and sex",Rural,,Q1 2024,Percentage (%),97.6
+2024,"Proportion of informal employment in total employment, by sector and sex",Rural,,Q2 2024,Percentage (%),97.5

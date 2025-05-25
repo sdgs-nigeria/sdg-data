@@ -1,1 +1,358 @@
-Year,Value
+Year,Series,Measure,State,GeoCode,Value
+2016,Death rate due to road traffic injuries,Number of Crash,,NG,9694
+2016,Death rate due to road traffic injuries,Number of Fatality,,NG,5053
+2016,Death rate due to road traffic injuries,Number Injured,,NG,30105
+2017,Death rate due to road traffic injuries,Number of Crash,,NG,9383
+2017,Death rate due to road traffic injuries,Number of Fatality,,NG,5121
+2017,Death rate due to road traffic injuries,Number Injured,,NG,22422
+2018,Death rate due to road traffic injuries,Number of Crash,,NG,9741
+2018,Death rate due to road traffic injuries,Number of Fatality,,NG,5181
+2018,Death rate due to road traffic injuries,Number Injured,,NG,25148
+2019,Death rate due to road traffic injuries,Number of Crash,,NG,11072
+2019,Death rate due to road traffic injuries,Number of Fatality,,NG,5483
+2019,Death rate due to road traffic injuries,Number Injured,,NG,35981
+2020,Death rate due to road traffic injuries,Number of Crash,,NG,8459
+2020,Death rate due to road traffic injuries,Number of Fatality,,NG,3909
+2020,Death rate due to road traffic injuries,Number Injured,,NG,22888
+2021,Death rate due to road traffic injuries,Number of Crash,Abia,NGAB01,106
+2021,Death rate due to road traffic injuries,Number of Crash,Adamawa,NGAD02,330
+2021,Death rate due to road traffic injuries,Number of Crash,Akwa Ibom,NGAK03,73
+2021,Death rate due to road traffic injuries,Number of Crash,Anambra,NGAN04,267
+2021,Death rate due to road traffic injuries,Number of Crash,Bauchi,NGBA05,583
+2021,Death rate due to road traffic injuries,Number of Crash,Bayelsa,NGBY06,48
+2021,Death rate due to road traffic injuries,Number of Crash,Benue,NGBE07,227
+2021,Death rate due to road traffic injuries,Number of Crash,Borno,NGBO08,86
+2021,Death rate due to road traffic injuries,Number of Crash,Cross River,NGXR09,145
+2021,Death rate due to road traffic injuries,Number of Crash,Delta,NGDE10,215
+2021,Death rate due to road traffic injuries,Number of Crash,Ebonyi,NGEB11,124
+2021,Death rate due to road traffic injuries,Number of Crash,Edo,NGED12,243
+2021,Death rate due to road traffic injuries,Number of Crash,Ekiti,NGEK13,143
+2021,Death rate due to road traffic injuries,Number of Crash,Enugu,NGEN14,285
+2021,Death rate due to road traffic injuries,Number of Crash,Federal Capital Territory,NGFC37,1117
+2021,Death rate due to road traffic injuries,Number of Crash,Gombe,NGGO15,328
+2021,Death rate due to road traffic injuries,Number of Crash,Imo,NGIM16,103
+2021,Death rate due to road traffic injuries,Number of Crash,Jigawa,NGJI17,353
+2021,Death rate due to road traffic injuries,Number of Crash,Kaduna,NGKD18,829
+2021,Death rate due to road traffic injuries,Number of Crash,Kano,NGKN19,279
+2021,Death rate due to road traffic injuries,Number of Crash,Katsina,NGKT20,138
+2021,Death rate due to road traffic injuries,Number of Crash,Kebbi,NGKE21,213
+2021,Death rate due to road traffic injuries,Number of Crash,Kogi,NGKO22,472
+2021,Death rate due to road traffic injuries,Number of Crash,Kwara,NGKW23,394
+2021,Death rate due to road traffic injuries,Number of Crash,Lagos,NGLA24,596
+2021,Death rate due to road traffic injuries,Number of Crash,Nasarawa,NGNA25,893
+2021,Death rate due to road traffic injuries,Number of Crash,Niger,NGNI26,655
+2021,Death rate due to road traffic injuries,Number of Crash,Ogun,NGOG27,1221
+2021,Death rate due to road traffic injuries,Number of Crash,Ondo,NGON28,459
+2021,Death rate due to road traffic injuries,Number of Crash,Osun,NGOS29,404
+2021,Death rate due to road traffic injuries,Number of Crash,Oyo,NGOY30,628
+2021,Death rate due to road traffic injuries,Number of Crash,Plateau,NGPL31,298
+2021,Death rate due to road traffic injuries,Number of Crash,Rivers,NGRI32,105
+2021,Death rate due to road traffic injuries,Number of Crash,Sokoto,NGSO33,122
+2021,Death rate due to road traffic injuries,Number of Crash,Taraba,NGTA34,238
+2021,Death rate due to road traffic injuries,Number of Crash,Yobe,NGYO35,174
+2021,Death rate due to road traffic injuries,Number of Crash,Zamfara,NGZA36,133
+2021,Death rate due to road traffic injuries,Number of Crash,,NG,13027
+2022,Death rate due to road traffic injuries,Number of Crash,Abia,NGAB01,119
+2022,Death rate due to road traffic injuries,Number of Crash,Adamawa,NGAD02,209
+2022,Death rate due to road traffic injuries,Number of Crash,Akwa Ibom,NGAK03,89
+2022,Death rate due to road traffic injuries,Number of Crash,Anambra,NGAN04,149
+2022,Death rate due to road traffic injuries,Number of Crash,Bauchi,NGBA05,481
+2022,Death rate due to road traffic injuries,Number of Crash,Bayelsa,NGBY06,58
+2022,Death rate due to road traffic injuries,Number of Crash,Benue,NGBE07,301
+2022,Death rate due to road traffic injuries,Number of Crash,Borno,NGBO08,102
+2022,Death rate due to road traffic injuries,Number of Crash,Cross River,NGXR09,117
+2022,Death rate due to road traffic injuries,Number of Crash,Delta,NGDE10,239
+2022,Death rate due to road traffic injuries,Number of Crash,Ebonyi,NGEB11,167
+2022,Death rate due to road traffic injuries,Number of Crash,Edo,NGED12,258
+2022,Death rate due to road traffic injuries,Number of Crash,Ekiti,NGEK13,89
+2022,Death rate due to road traffic injuries,Number of Crash,Enugu,NGEN14,231
+2022,Death rate due to road traffic injuries,Number of Crash,Federal Capital Territory,NGFC37,1803
+2022,Death rate due to road traffic injuries,Number of Crash,Gombe,NGGO15,327
+2022,Death rate due to road traffic injuries,Number of Crash,Imo,NGIM16,94
+2022,Death rate due to road traffic injuries,Number of Crash,Jigawa,NGJI17,516
+2022,Death rate due to road traffic injuries,Number of Crash,Kaduna,NGKD18,775
+2022,Death rate due to road traffic injuries,Number of Crash,Kano,NGKN19,407
+2022,Death rate due to road traffic injuries,Number of Crash,Katsina,NGKT20,129
+2022,Death rate due to road traffic injuries,Number of Crash,Kebbi,NGKE21,192
+2022,Death rate due to road traffic injuries,Number of Crash,Kogi,NGKO22,529
+2022,Death rate due to road traffic injuries,Number of Crash,Kwara,NGKW23,358
+2022,Death rate due to road traffic injuries,Number of Crash,Lagos,NGLA24,659
+2022,Death rate due to road traffic injuries,Number of Crash,Nasarawa,NGNA25,959
+2022,Death rate due to road traffic injuries,Number of Crash,Niger,NGNI26,543
+2022,Death rate due to road traffic injuries,Number of Crash,Ogun,NGOG27,1114
+2022,Death rate due to road traffic injuries,Number of Crash,Ondo,NGON28,489
+2022,Death rate due to road traffic injuries,Number of Crash,Osun,NGOS29,376
+2022,Death rate due to road traffic injuries,Number of Crash,Oyo,NGOY30,675
+2022,Death rate due to road traffic injuries,Number of Crash,Plateau,NGPL31,299
+2022,Death rate due to road traffic injuries,Number of Crash,Rivers,NGRI32,98
+2022,Death rate due to road traffic injuries,Number of Crash,Sokoto,NGSO33,143
+2022,Death rate due to road traffic injuries,Number of Crash,Taraba,NGTA34,286
+2022,Death rate due to road traffic injuries,Number of Crash,Yobe,NGYO35,162
+2022,Death rate due to road traffic injuries,Number of Crash,Zamfara,NGZA36,114
+2022,Death rate due to road traffic injuries,Number of Crash,,NG,13656
+2023,Death rate due to road traffic injuries,Number of Crash,Abia,NGAB01,65
+2023,Death rate due to road traffic injuries,Number of Crash,Adamawa,NGAD02,184
+2023,Death rate due to road traffic injuries,Number of Crash,Akwa Ibom,NGAK03,46
+2023,Death rate due to road traffic injuries,Number of Crash,Anambra,NGAN04,115
+2023,Death rate due to road traffic injuries,Number of Crash,Bauchi,NGBA05,344
+2023,Death rate due to road traffic injuries,Number of Crash,Bayelsa,NGBY06,21
+2023,Death rate due to road traffic injuries,Number of Crash,Benue,NGBE07,191
+2023,Death rate due to road traffic injuries,Number of Crash,Borno,NGBO08,127
+2023,Death rate due to road traffic injuries,Number of Crash,Cross River,NGXR09,83
+2023,Death rate due to road traffic injuries,Number of Crash,Delta,NGDE10,118
+2023,Death rate due to road traffic injuries,Number of Crash,Ebonyi,NGEB11,141
+2023,Death rate due to road traffic injuries,Number of Crash,Edo,NGED12,205
+2023,Death rate due to road traffic injuries,Number of Crash,Ekiti,NGEK13,103
+2023,Death rate due to road traffic injuries,Number of Crash,Enugu,NGEN14,155
+2023,Death rate due to road traffic injuries,Number of Crash,Federal Capital Territory,NGFC37,1347
+2023,Death rate due to road traffic injuries,Number of Crash,Gombe,NGGO15,279
+2023,Death rate due to road traffic injuries,Number of Crash,Imo,NGIM16,87
+2023,Death rate due to road traffic injuries,Number of Crash,Jigawa,NGJI17,414
+2023,Death rate due to road traffic injuries,Number of Crash,Kaduna,NGKD18,719
+2023,Death rate due to road traffic injuries,Number of Crash,Kano,NGKN19,255
+2023,Death rate due to road traffic injuries,Number of Crash,Katsina,NGKT20,118
+2023,Death rate due to road traffic injuries,Number of Crash,Kebbi,NGKE21,124
+2023,Death rate due to road traffic injuries,Number of Crash,Kogi,NGKO22,407
+2023,Death rate due to road traffic injuries,Number of Crash,Kwara,NGKW23,316
+2023,Death rate due to road traffic injuries,Number of Crash,Lagos,NGLA24,458
+2023,Death rate due to road traffic injuries,Number of Crash,Nasarawa,NGNA25,725
+2023,Death rate due to road traffic injuries,Number of Crash,Niger,NGNI26,473
+2023,Death rate due to road traffic injuries,Number of Crash,Ogun,NGOG27,966
+2023,Death rate due to road traffic injuries,Number of Crash,Ondo,NGON28,380
+2023,Death rate due to road traffic injuries,Number of Crash,Osun,NGOS29,321
+2023,Death rate due to road traffic injuries,Number of Crash,Oyo,NGOY30,495
+2023,Death rate due to road traffic injuries,Number of Crash,Plateau,NGPL31,279
+2023,Death rate due to road traffic injuries,Number of Crash,Rivers,NGRI32,69
+2023,Death rate due to road traffic injuries,Number of Crash,Sokoto,NGSO33,75
+2023,Death rate due to road traffic injuries,Number of Crash,Taraba,NGTA34,169
+2023,Death rate due to road traffic injuries,Number of Crash,Yobe,NGYO35,166
+2023,Death rate due to road traffic injuries,Number of Crash,Zamfara,NGZA36,64
+2023,Death rate due to road traffic injuries,Number of Crash,,NG,10604
+2021,Death rate due to road traffic injuries,Number of Fatality,Abia,NGAB01,68
+2021,Death rate due to road traffic injuries,Number of Fatality,Adamawa,NGAD02,93
+2021,Death rate due to road traffic injuries,Number of Fatality,Akwa Ibom,NGAK03,33
+2021,Death rate due to road traffic injuries,Number of Fatality,Anambra,NGAN04,89
+2021,Death rate due to road traffic injuries,Number of Fatality,Bauchi,NGBA05,396
+2021,Death rate due to road traffic injuries,Number of Fatality,Bayelsa,NGBY06,35
+2021,Death rate due to road traffic injuries,Number of Fatality,Benue,NGBE07,61
+2021,Death rate due to road traffic injuries,Number of Fatality,Borno,NGBO08,36
+2021,Death rate due to road traffic injuries,Number of Fatality,Cross River,NGXR09,70
+2021,Death rate due to road traffic injuries,Number of Fatality,Delta,NGDE10,120
+2021,Death rate due to road traffic injuries,Number of Fatality,Ebonyi,NGEB11,89
+2021,Death rate due to road traffic injuries,Number of Fatality,Edo,NGED12,158
+2021,Death rate due to road traffic injuries,Number of Fatality,Ekiti,NGEK13,48
+2021,Death rate due to road traffic injuries,Number of Fatality,Enugu,NGEN14,108
+2021,Death rate due to road traffic injuries,Number of Fatality,Federal Capital Territory,NGFC37,216
+2021,Death rate due to road traffic injuries,Number of Fatality,Gombe,NGGO15,102
+2021,Death rate due to road traffic injuries,Number of Fatality,Imo,NGIM16,69
+2021,Death rate due to road traffic injuries,Number of Fatality,Jigawa,NGJI17,208
+2021,Death rate due to road traffic injuries,Number of Fatality,Kaduna,NGKD18,677
+2021,Death rate due to road traffic injuries,Number of Fatality,Kano,NGKN19,250
+2021,Death rate due to road traffic injuries,Number of Fatality,Katsina,NGKT20,115
+2021,Death rate due to road traffic injuries,Number of Fatality,Kebbi,NGKE21,112
+2021,Death rate due to road traffic injuries,Number of Fatality,Kogi,NGKO22,229
+2021,Death rate due to road traffic injuries,Number of Fatality,Kwara,NGKW23,246
+2021,Death rate due to road traffic injuries,Number of Fatality,Lagos,NGLA24,157
+2021,Death rate due to road traffic injuries,Number of Fatality,Nasarawa,NGNA25,222
+2021,Death rate due to road traffic injuries,Number of Fatality,Niger,NGNI26,454
+2021,Death rate due to road traffic injuries,Number of Fatality,Ogun,NGOG27,430
+2021,Death rate due to road traffic injuries,Number of Fatality,Ondo,NGON28,203
+2021,Death rate due to road traffic injuries,Number of Fatality,Osun,NGOS29,240
+2021,Death rate due to road traffic injuries,Number of Fatality,Oyo,NGOY30,339
+2021,Death rate due to road traffic injuries,Number of Fatality,Plateau,NGPL31,97
+2021,Death rate due to road traffic injuries,Number of Fatality,Rivers,NGRI32,56
+2021,Death rate due to road traffic injuries,Number of Fatality,Sokoto,NGSO33,110
+2021,Death rate due to road traffic injuries,Number of Fatality,Taraba,NGTA34,36
+2021,Death rate due to road traffic injuries,Number of Fatality,Yobe,NGYO35,118
+2021,Death rate due to road traffic injuries,Number of Fatality,Zamfara,NGZA36,115
+2021,Death rate due to road traffic injuries,Number of Fatality,,NG,6205
+2022,Death rate due to road traffic injuries,Number of Fatality,Abia,NGAB01,52
+2022,Death rate due to road traffic injuries,Number of Fatality,Adamawa,NGAD02,106
+2022,Death rate due to road traffic injuries,Number of Fatality,Akwa Ibom,NGAK03,43
+2022,Death rate due to road traffic injuries,Number of Fatality,Anambra,NGAN04,74
+2022,Death rate due to road traffic injuries,Number of Fatality,Bauchi,NGBA05,339
+2022,Death rate due to road traffic injuries,Number of Fatality,Bayelsa,NGBY06,8
+2022,Death rate due to road traffic injuries,Number of Fatality,Benue,NGBE07,118
+2022,Death rate due to road traffic injuries,Number of Fatality,Borno,NGBO08,120
+2022,Death rate due to road traffic injuries,Number of Fatality,Cross River,NGXR09,64
+2022,Death rate due to road traffic injuries,Number of Fatality,Delta,NGDE10,149
+2022,Death rate due to road traffic injuries,Number of Fatality,Ebonyi,NGEB11,68
+2022,Death rate due to road traffic injuries,Number of Fatality,Edo,NGED12,141
+2022,Death rate due to road traffic injuries,Number of Fatality,Ekiti,NGEK13,41
+2022,Death rate due to road traffic injuries,Number of Fatality,Enugu,NGEN14,99
+2022,Death rate due to road traffic injuries,Number of Fatality,Federal Capital Territory,NGFC37,403
+2022,Death rate due to road traffic injuries,Number of Fatality,Gombe,NGGO15,107
+2022,Death rate due to road traffic injuries,Number of Fatality,Imo,NGIM16,51
+2022,Death rate due to road traffic injuries,Number of Fatality,Jigawa,NGJI17,173
+2022,Death rate due to road traffic injuries,Number of Fatality,Kaduna,NGKD18,680
+2022,Death rate due to road traffic injuries,Number of Fatality,Kano,NGKN19,363
+2022,Death rate due to road traffic injuries,Number of Fatality,Katsina,NGKT20,168
+2022,Death rate due to road traffic injuries,Number of Fatality,Kebbi,NGKE21,117
+2022,Death rate due to road traffic injuries,Number of Fatality,Kogi,NGKO22,293
+2022,Death rate due to road traffic injuries,Number of Fatality,Kwara,NGKW23,237
+2022,Death rate due to road traffic injuries,Number of Fatality,Lagos,NGLA24,179
+2022,Death rate due to road traffic injuries,Number of Fatality,Nasarawa,NGNA25,270
+2022,Death rate due to road traffic injuries,Number of Fatality,Niger,NGNI26,367
+2022,Death rate due to road traffic injuries,Number of Fatality,Ogun,NGOG27,395
+2022,Death rate due to road traffic injuries,Number of Fatality,Ondo,NGON28,181
+2022,Death rate due to road traffic injuries,Number of Fatality,Osun,NGOS29,118
+2022,Death rate due to road traffic injuries,Number of Fatality,Oyo,NGOY30,305
+2022,Death rate due to road traffic injuries,Number of Fatality,Plateau,NGPL31,136
+2022,Death rate due to road traffic injuries,Number of Fatality,Rivers,NGRI32,38
+2022,Death rate due to road traffic injuries,Number of Fatality,Sokoto,NGSO33,145
+2022,Death rate due to road traffic injuries,Number of Fatality,Taraba,NGTA34,57
+2022,Death rate due to road traffic injuries,Number of Fatality,Yobe,NGYO35,193
+2022,Death rate due to road traffic injuries,Number of Fatality,Zamfara,NGZA36,58
+2022,Death rate due to road traffic injuries,Number of Fatality,,NG,6456
+2023,Death rate due to road traffic injuries,Number of Fatality,Abia,NGAB01,44
+2023,Death rate due to road traffic injuries,Number of Fatality,Adamawa,NGAD02,42
+2023,Death rate due to road traffic injuries,Number of Fatality,Akwa Ibom,NGAK03,27
+2023,Death rate due to road traffic injuries,Number of Fatality,Anambra,NGAN04,43
+2023,Death rate due to road traffic injuries,Number of Fatality,Bauchi,NGBA05,285
+2023,Death rate due to road traffic injuries,Number of Fatality,Bayelsa,NGBY06,9
+2023,Death rate due to road traffic injuries,Number of Fatality,Benue,NGBE07,69
+2023,Death rate due to road traffic injuries,Number of Fatality,Borno,NGBO08,44
+2023,Death rate due to road traffic injuries,Number of Fatality,Cross River,NGXR09,57
+2023,Death rate due to road traffic injuries,Number of Fatality,Delta,NGDE10,95
+2023,Death rate due to road traffic injuries,Number of Fatality,Ebonyi,NGEB11,78
+2023,Death rate due to road traffic injuries,Number of Fatality,Edo,NGED12,123
+2023,Death rate due to road traffic injuries,Number of Fatality,Ekiti,NGEK13,36
+2023,Death rate due to road traffic injuries,Number of Fatality,Enugu,NGEN14,108
+2023,Death rate due to road traffic injuries,Number of Fatality,Federal Capital Territory,NGFC37,316
+2023,Death rate due to road traffic injuries,Number of Fatality,Gombe,NGGO15,96
+2023,Death rate due to road traffic injuries,Number of Fatality,Imo,NGIM16,53
+2023,Death rate due to road traffic injuries,Number of Fatality,Jigawa,NGJI17,136
+2023,Death rate due to road traffic injuries,Number of Fatality,Kaduna,NGKD18,490
+2023,Death rate due to road traffic injuries,Number of Fatality,Kano,NGKN19,201
+2023,Death rate due to road traffic injuries,Number of Fatality,Katsina,NGKT20,121
+2023,Death rate due to road traffic injuries,Number of Fatality,Kebbi,NGKE21,126
+2023,Death rate due to road traffic injuries,Number of Fatality,Kogi,NGKO22,238
+2023,Death rate due to road traffic injuries,Number of Fatality,Kwara,NGKW23,199
+2023,Death rate due to road traffic injuries,Number of Fatality,Lagos,NGLA24,143
+2023,Death rate due to road traffic injuries,Number of Fatality,Nasarawa,NGNA25,147
+2023,Death rate due to road traffic injuries,Number of Fatality,Niger,NGNI26,325
+2023,Death rate due to road traffic injuries,Number of Fatality,Ogun,NGOG27,394
+2023,Death rate due to road traffic injuries,Number of Fatality,Ondo,NGON28,180
+2023,Death rate due to road traffic injuries,Number of Fatality,Osun,NGOS29,155
+2023,Death rate due to road traffic injuries,Number of Fatality,Oyo,NGOY30,270
+2023,Death rate due to road traffic injuries,Number of Fatality,Plateau,NGPL31,120
+2023,Death rate due to road traffic injuries,Number of Fatality,Rivers,NGRI32,26
+2023,Death rate due to road traffic injuries,Number of Fatality,Sokoto,NGSO33,72
+2023,Death rate due to road traffic injuries,Number of Fatality,Taraba,NGTA34,47
+2023,Death rate due to road traffic injuries,Number of Fatality,Yobe,NGYO35,101
+2023,Death rate due to road traffic injuries,Number of Fatality,Zamfara,NGZA36,65
+2023,Death rate due to road traffic injuries,Number of Fatality,,NG,5081
+2021,Death rate due to road traffic injuries,Number Injured,Abia,NGAB01,307
+2021,Death rate due to road traffic injuries,Number Injured,Adamawa,NGAD02,930
+2021,Death rate due to road traffic injuries,Number Injured,Akwa Ibom,NGAK03,124
+2021,Death rate due to road traffic injuries,Number Injured,Anambra,NGAN04,583
+2021,Death rate due to road traffic injuries,Number Injured,Bauchi,NGBA05,2561
+2021,Death rate due to road traffic injuries,Number Injured,Bayelsa,NGBY06,94
+2021,Death rate due to road traffic injuries,Number Injured,Benue,NGBE07,575
+2021,Death rate due to road traffic injuries,Number Injured,Borno,NGBO08,323
+2021,Death rate due to road traffic injuries,Number Injured,Cross River,NGXR09,401
+2021,Death rate due to road traffic injuries,Number Injured,Delta,NGDE10,626
+2021,Death rate due to road traffic injuries,Number Injured,Ebonyi,NGEB11,390
+2021,Death rate due to road traffic injuries,Number Injured,Edo,NGED12,577
+2021,Death rate due to road traffic injuries,Number Injured,Ekiti,NGEK13,388
+2021,Death rate due to road traffic injuries,Number Injured,Enugu,NGEN14,783
+2021,Death rate due to road traffic injuries,Number Injured,Federal Capital Territory,NGFC37,2184
+2021,Death rate due to road traffic injuries,Number Injured,Gombe,NGGO15,945
+2021,Death rate due to road traffic injuries,Number Injured,Imo,NGIM16,350
+2021,Death rate due to road traffic injuries,Number Injured,Jigawa,NGJI17,1456
+2021,Death rate due to road traffic injuries,Number Injured,Kaduna,NGKD18,3361
+2021,Death rate due to road traffic injuries,Number Injured,Kano,NGKN19,1211
+2021,Death rate due to road traffic injuries,Number Injured,Katsina,NGKT20,571
+2021,Death rate due to road traffic injuries,Number Injured,Kebbi,NGKE21,676
+2021,Death rate due to road traffic injuries,Number Injured,Kogi,NGKO22,1379
+2021,Death rate due to road traffic injuries,Number Injured,Kwara,NGKW23,1357
+2021,Death rate due to road traffic injuries,Number Injured,Lagos,NGLA24,1004
+2021,Death rate due to road traffic injuries,Number Injured,Nasarawa,NGNA25,2273
+2021,Death rate due to road traffic injuries,Number Injured,Niger,NGNI26,2344
+2021,Death rate due to road traffic injuries,Number Injured,Ogun,NGOG27,2558
+2021,Death rate due to road traffic injuries,Number Injured,Ondo,NGON28,1087
+2021,Death rate due to road traffic injuries,Number Injured,Osun,NGOS29,1193
+2021,Death rate due to road traffic injuries,Number Injured,Oyo,NGOY30,1637
+2021,Death rate due to road traffic injuries,Number Injured,Plateau,NGPL31,923
+2021,Death rate due to road traffic injuries,Number Injured,Rivers,NGRI32,342
+2021,Death rate due to road traffic injuries,Number Injured,Sokoto,NGSO33,430
+2021,Death rate due to road traffic injuries,Number Injured,Taraba,NGTA34,690
+2021,Death rate due to road traffic injuries,Number Injured,Yobe,NGYO35,883
+2021,Death rate due to road traffic injuries,Number Injured,Zamfara,NGZA36,557
+2021,Death rate due to road traffic injuries,Number Injured,,NG,38073
+2022,Death rate due to road traffic injuries,Number Injured,Abia,NGAB01,441
+2022,Death rate due to road traffic injuries,Number Injured,Adamawa,NGAD02,610
+2022,Death rate due to road traffic injuries,Number Injured,Akwa Ibom,NGAK03,228
+2022,Death rate due to road traffic injuries,Number Injured,Anambra,NGAN04,372
+2022,Death rate due to road traffic injuries,Number Injured,Bauchi,NGBA05,1809
+2022,Death rate due to road traffic injuries,Number Injured,Bayelsa,NGBY06,119
+2022,Death rate due to road traffic injuries,Number Injured,Benue,NGBE07,946
+2022,Death rate due to road traffic injuries,Number Injured,Borno,NGBO08,532
+2022,Death rate due to road traffic injuries,Number Injured,Cross River,NGXR09,260
+2022,Death rate due to road traffic injuries,Number Injured,Delta,NGDE10,711
+2022,Death rate due to road traffic injuries,Number Injured,Ebonyi,NGEB11,366
+2022,Death rate due to road traffic injuries,Number Injured,Edo,NGED12,658
+2022,Death rate due to road traffic injuries,Number Injured,Ekiti,NGEK13,179
+2022,Death rate due to road traffic injuries,Number Injured,Enugu,NGEN14,760
+2022,Death rate due to road traffic injuries,Number Injured,Federal Capital Territory,NGFC37,3070
+2022,Death rate due to road traffic injuries,Number Injured,Gombe,NGGO15,1001
+2022,Death rate due to road traffic injuries,Number Injured,Imo,NGIM16,242
+2022,Death rate due to road traffic injuries,Number Injured,Jigawa,NGJI17,1877
+2022,Death rate due to road traffic injuries,Number Injured,Kaduna,NGKD18,3158
+2022,Death rate due to road traffic injuries,Number Injured,Kano,NGKN19,1564
+2022,Death rate due to road traffic injuries,Number Injured,Katsina,NGKT20,597
+2022,Death rate due to road traffic injuries,Number Injured,Kebbi,NGKE21,707
+2022,Death rate due to road traffic injuries,Number Injured,Kogi,NGKO22,1587
+2022,Death rate due to road traffic injuries,Number Injured,Kwara,NGKW23,1176
+2022,Death rate due to road traffic injuries,Number Injured,Lagos,NGLA24,954
+2022,Death rate due to road traffic injuries,Number Injured,Nasarawa,NGNA25,2364
+2022,Death rate due to road traffic injuries,Number Injured,Niger,NGNI26,2071
+2022,Death rate due to road traffic injuries,Number Injured,Ogun,NGOG27,2632
+2022,Death rate due to road traffic injuries,Number Injured,Ondo,NGON28,1202
+2022,Death rate due to road traffic injuries,Number Injured,Osun,NGOS29,1267
+2022,Death rate due to road traffic injuries,Number Injured,Oyo,NGOY30,1855
+2022,Death rate due to road traffic injuries,Number Injured,Plateau,NGPL31,935
+2022,Death rate due to road traffic injuries,Number Injured,Rivers,NGRI32,197
+2022,Death rate due to road traffic injuries,Number Injured,Sokoto,NGSO33,523
+2022,Death rate due to road traffic injuries,Number Injured,Taraba,NGTA34,819
+2022,Death rate due to road traffic injuries,Number Injured,Yobe,NGYO35,753
+2022,Death rate due to road traffic injuries,Number Injured,Zamfara,NGZA36,388
+2022,Death rate due to road traffic injuries,Number Injured,,NG,38930
+2023,Death rate due to road traffic injuries,Number Injured,Abia,NGAB01,268
+2023,Death rate due to road traffic injuries,Number Injured,Adamawa,NGAD02,569
+2023,Death rate due to road traffic injuries,Number Injured,Akwa Ibom,NGAK03,86
+2023,Death rate due to road traffic injuries,Number Injured,Anambra,NGAN04,297
+2023,Death rate due to road traffic injuries,Number Injured,Bauchi,NGBA05,1392
+2023,Death rate due to road traffic injuries,Number Injured,Bayelsa,NGBY06,57
+2023,Death rate due to road traffic injuries,Number Injured,Benue,NGBE07,530
+2023,Death rate due to road traffic injuries,Number Injured,Borno,NGBO08,543
+2023,Death rate due to road traffic injuries,Number Injured,Cross River,NGXR09,187
+2023,Death rate due to road traffic injuries,Number Injured,Delta,NGDE10,357
+2023,Death rate due to road traffic injuries,Number Injured,Ebonyi,NGEB11,339
+2023,Death rate due to road traffic injuries,Number Injured,Edo,NGED12,586
+2023,Death rate due to road traffic injuries,Number Injured,Ekiti,NGEK13,189
+2023,Death rate due to road traffic injuries,Number Injured,Enugu,NGEN14,517
+2023,Death rate due to road traffic injuries,Number Injured,Federal Capital Territory,NGFC37,2475
+2023,Death rate due to road traffic injuries,Number Injured,Gombe,NGGO15,1064
+2023,Death rate due to road traffic injuries,Number Injured,Imo,NGIM16,274
+2023,Death rate due to road traffic injuries,Number Injured,Jigawa,NGJI17,1368
+2023,Death rate due to road traffic injuries,Number Injured,Kaduna,NGKD18,2907
+2023,Death rate due to road traffic injuries,Number Injured,Kano,NGKN19,978
+2023,Death rate due to road traffic injuries,Number Injured,Katsina,NGKT20,559
+2023,Death rate due to road traffic injuries,Number Injured,Kebbi,NGKE21,450
+2023,Death rate due to road traffic injuries,Number Injured,Kogi,NGKO22,1383
+2023,Death rate due to road traffic injuries,Number Injured,Kwara,NGKW23,1154
+2023,Death rate due to road traffic injuries,Number Injured,Lagos,NGLA24,730
+2023,Death rate due to road traffic injuries,Number Injured,Nasarawa,NGNA25,1813
+2023,Death rate due to road traffic injuries,Number Injured,Niger,NGNI26,1937
+2023,Death rate due to road traffic injuries,Number Injured,Ogun,NGOG27,2433
+2023,Death rate due to road traffic injuries,Number Injured,Ondo,NGON28,942
+2023,Death rate due to road traffic injuries,Number Injured,Osun,NGOS29,1011
+2023,Death rate due to road traffic injuries,Number Injured,Oyo,NGOY30,1321
+2023,Death rate due to road traffic injuries,Number Injured,Plateau,NGPL31,958
+2023,Death rate due to road traffic injuries,Number Injured,Rivers,NGRI32,148
+2023,Death rate due to road traffic injuries,Number Injured,Sokoto,NGSO33,273
+2023,Death rate due to road traffic injuries,Number Injured,Taraba,NGTA34,492
+2023,Death rate due to road traffic injuries,Number Injured,Yobe,NGYO35,953
+2023,Death rate due to road traffic injuries,Number Injured,Zamfara,NGZA36,333
+2023,Death rate due to road traffic injuries,Number Injured,,NG,31873

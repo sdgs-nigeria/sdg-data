@@ -15,7 +15,17 @@
             "type": "integer"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +36,7 @@
             }
           },
           {
-            "name": "Sex",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
@@ -51,7 +61,7 @@
             }
           },
           {
-            "name": "Geopolitical zone",
+            "name": "Geopolitical Zone",
             "type": "string",
             "constraints": {
               "enum": [
@@ -66,7 +76,7 @@
             }
           },
           {
-            "name": "Education Status",
+            "name": "Education Level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -105,7 +115,7 @@
               "enum": [
                 "Abia",
                 "Adamawa",
-                "Akwa-Ibom",
+                "Akwa Ibom",
                 "Anambra",
                 "Bauchi",
                 "Bayelsa",
@@ -139,10 +149,24 @@
                 "Taraba",
                 "Yobe",
                 "Zamfara",
-                "FCT Abuja",
+                "Federal Capital Territory",
                 ""
               ]
             }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

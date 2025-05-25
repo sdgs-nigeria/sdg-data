@@ -12,7 +12,144 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of schools access basic services, by type of service",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Peri-Urban",
+                "Urban-Urban",
+                "Rural",
+                "Itenerant",
+                "Rural-Rural",
+                "Small Town",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category of school",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal",
+                "Special Needs",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "School type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary",
+                "Secondary",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geopolitical zone",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North Central",
+                "North East",
+                "North West",
+                "South East",
+                "South South",
+                "South West",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "State",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abia",
+                "Adamawa",
+                "Akwa Ibom",
+                "Anambra",
+                "Bauchi",
+                "Bayelsa",
+                "Benue",
+                "Borno",
+                "Cross River",
+                "Delta",
+                "Ebonyi",
+                "Edo",
+                "Ekiti",
+                "Enugu",
+                "Gombe",
+                "Imo",
+                "Jigawa",
+                "Kaduna",
+                "Kano",
+                "Katsina",
+                "Kebbi",
+                "Kogi",
+                "Kwara",
+                "Lagos",
+                "Nasarawa",
+                "Niger",
+                "Ogun",
+                "Ondo",
+                "Osun",
+                "Oyo",
+                "Plateau",
+                "Rivers",
+                "Sokoto",
+                "Taraba",
+                "Yobe",
+                "Zamfara",
+                "Federal Capital Territory",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of service",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Avaliability of perimeter fencing",
+                "Availability of toilet/laterine",
+                "Availiabilty of Handwashing Facilities",
+                "Enviroment Health in Schools",
+                "Proportion of Schools with basic water supply",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

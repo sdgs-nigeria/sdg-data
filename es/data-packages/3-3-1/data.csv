@@ -1,1 +1,16 @@
-Year,Value
+Year,Series,Gender,Age group,Value
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",,15-24,0.04
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",,25-34,0.16
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",,35-49,0.08
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",,15-49,0.09
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",,15-64,0.08
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",Male,15-24,0.03
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",Male,25-34,0.1
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",Male,35-49,0.05
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",Male,15-49,0.06
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",Male,15-64,0.05
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",Female,15-24,0.05
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",Female,25-34,0.22
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",Female,35-49,0.1
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",Female,15-49,0.12
+2018,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",Female,15-64,0.12

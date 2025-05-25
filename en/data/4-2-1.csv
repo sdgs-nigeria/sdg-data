@@ -1,1 +1,64 @@
-Year,Value
+Year,Series,Gender,Sector,Ethnicity,Wealth Index Quintile,Geopolitical zone,State,GeoCode,Value
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,,NG,47.7
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",Male,,,,,,NG,46.8
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",Female,,,,,,NG,48.7
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,Urban,,,,,NG,64.2
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,Rural,,,,,NG,38.3
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,Hausa,,,,NG,35.1
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,Igbo,,,,NG,64.1
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,Yoruba,,,,NG,73.0
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,Fulani,,,,NG,33.2
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,Kanuri,,,,NG,32.3
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,Ijaw,,,,NG,58.6
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,Tiv,,,,NG,51.6
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,Ibibio,,,,NG,64.1
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,Edo,,,,NG,61.8
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,Other ethnicity,,,,NG,47.2
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,Poorest,,,NG,30.4
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,Second,,,NG,37.2
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,Middle,,,NG,46.7
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,Fourth,,,NG,59.9
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,Richest,,,NG,76.9
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,North  Central,,NGNCZ06,41.9
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,North East,,NGNEZ05,35.0
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,North West,,NGNWZ04,34.6
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,South East,,NGSEZ03,58.9
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,South South,,NGSSZ02,63.4
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,South West,,NGSWZ01,75.7
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Abia,NGAB01,41.1
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Adamawa,NGAD02,37.9
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Akwa Ibom,NGAK03,53.1
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Anambra,NGAN04,59.2
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Bauchi,NGBA05,30.1
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Bayelsa,NGBY06,53.9
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Benue,NGBE07,51.5
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Borno,NGBO08,40.2
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Cross River,NGXR09,53.1
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Delta,NGDE10,65.8
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Ebonyi,NGEB11,67.3
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Edo,NGED12,54.8
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Ekiti,NGEK13,80.3
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Enugu,NGEN14,67.7
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Gombe,NGGO15,33.7
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Imo,NGIM16,57.0
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Jigawa,NGJI17,29.3
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Kaduna,NGKD18,49.8
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Kano,NGKN19,36.4
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Katsina,NGKT20,36.2
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Kebbi,NGKE21,24.1
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Kogi,NGKO22,35.8
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Kwara,NGKW23,42.6
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Lagos,NGLA24,88.6
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Nasarawa,NGNA25,32.6
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Niger,NGNI26,33.1
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Ogun,NGOG27,75.9
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Ondo,NGON28,68.8
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Osun,NGOS29,60.8
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Oyo,NGOY30,63.5
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Plateau,NGPL31,49.7
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Rivers,NGRI32,82.1
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Sokoto,NGSO33,34.3
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Taraba,NGTA34,49.3
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Yobe,NGYO35,24.4
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Zamfara,NGZA36,25.2
+2021,"Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",,,,,,Federal Capital Territory,NGFC37,50.3

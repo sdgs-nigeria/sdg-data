@@ -1,1 +1,457 @@
-Year,Value
+Year,Series,Sector,Delivery coverage,Health service,Geopolitical Zone,State,GeoCode,Value
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,,NG,10.8
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,,NG,65.8
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,,NG,37.5
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,,NG,22.9
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,,NG,20.6
+2017,Coverage of essential health services,Urban,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,,NG,17.9
+2017,Coverage of essential health services,Urban,Reproductive and Maternal Health,Antenatal care coverage,,,NG,87.4
+2017,Coverage of essential health services,Urban,Reproductive and Maternal Health,Delivery in a health facility,,,NG,61.0
+2017,Coverage of essential health services,Urban,Child Health,Vacination/Immunization coverage,,,NG,38.5
+2017,Coverage of essential health services,Urban,Child Health,Anti-malaria treatment for children,,,NG,26.1
+2017,Coverage of essential health services,Rural,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,,NG,7.7
+2017,Coverage of essential health services,Rural,Reproductive and Maternal Health,Antenatal care coverage,,,NG,56.8
+2017,Coverage of essential health services,Rural,Reproductive and Maternal Health,Delivery in a health facility,,,NG,27.6
+2017,Coverage of essential health services,Rural,Child Health,Vacination/Immunization coverage,,,NG,15.7
+2017,Coverage of essential health services,Rural,Child Health,Anti-malaria treatment for children,,,NG,18.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,North  Central,,NGNCZ06,13.8
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,North East,,NGNEZ05,6.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,North West,,NGNWZ04,7.4
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,South East,,NGSEZ03,14.7
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,South South,,NGSSZ02,11.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,South West,,NGSWZ01,21.7
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,North  Central,,NGNCZ06,62.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,North East,,NGNEZ05,67.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,North West,,NGNWZ04,53.6
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,South East,,NGSEZ03,91.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,South South,,NGSSZ02,81.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,South West,,NGSWZ01,89.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,North  Central,,NGNCZ06,44.4
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,North East,,NGNEZ05,25.8
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,North West,,NGNWZ04,17.8
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,South East,,NGSEZ03,87.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,South South,,NGSSZ02,66.8
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,South West,,NGSWZ01,76.6
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,North  Central,,NGNCZ06,26.5
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,North East,,NGNEZ05,19.6
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,North West,,NGNWZ04,8.5
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,South East,,NGSEZ03,44.4
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,South South,,NGSSZ02,42.5
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,South West,,NGSWZ01,50.2
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,North  Central,,NGNCZ06,21.1
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,North East,,NGNEZ05,9.1
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,North West,,NGNWZ04,22.1
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,South East,,NGSEZ03,33.1
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,South South,,NGSSZ02,23.5
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,South West,,NGSWZ01,37.9
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Abia,NGAB01,9.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Adamawa,NGAD02,7.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Akwa Ibom,NGAK03,10.8
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Anambra,NGAN04,16.9
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Bauchi,NGBA05,8.4
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Bayelsa,NGBY06,10.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Benue,NGBE07,13.9
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Borno,NGBO08,5.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Cross River,NGXR09,16.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Delta,NGDE10,8.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Ebonyi,NGEB11,2.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Edo,NGED12,10.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Ekiti,NGEK13,24.4
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Enugu,NGEN14,18.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Gombe,NGGO15,6.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Imo,NGIM16,21.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Jigawa,NGJI17,1.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Kaduna,NGKD18,21.9
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Kano,NGKN19,5.7
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Katsina,NGKT20,4.9
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Kebbi,NGKE21,5.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Kogi,NGKO22,6.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Kwara,NGKW23,23.7
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Lagos,NGLA24,17.4
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Nasarawa,NGNA25,13.8
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Niger,NGNI26,8.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Ogun,NGOG27,18.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Ondo,NGON28,18.8
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Osun,NGOS29,22.9
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Oyo,NGOY30,30.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Plateau,NGPL31,19.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Rivers,NGRI32,11.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Sokoto,NGSO33,4.6
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Taraba,NGTA34,5.6
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Yobe,NGYO35,3.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Zamfara,NGZA36,5.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Federal Capital Territory,NGFC37,19.9
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Abia,NGAB01,90.7
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Adamawa,NGAD02,80.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Akwa Ibom,NGAK03,80.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Anambra,NGAN04,98.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Bauchi,NGBA05,59.8
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Bayelsa,NGBY06,62.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Benue,NGBE07,67.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Borno,NGBO08,89.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Cross River,NGXR09,81.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Delta,NGDE10,77.4
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Ebonyi,NGEB11,75.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Edo,NGED12,91.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Ekiti,NGEK13,87.9
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Enugu,NGEN14,93.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Gombe,NGGO15,67.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Imo,NGIM16,95.7
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Jigawa,NGJI17,51.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Kaduna,NGKD18,76.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Kano,NGKN19,65.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Katsina,NGKT20,45.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Kebbi,NGKE21,45.4
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Kogi,NGKO22,80.4
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Kwara,NGKW23,74.8
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Lagos,NGLA24,92.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Nasarawa,NGNA25,67.9
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Niger,NGNI26,47.9
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Ogun,NGOG27,85.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Ondo,NGON28,85.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Osun,NGOS29,95.6
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Oyo,NGOY30,86.9
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Plateau,NGPL31,61.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Rivers,NGRI32,87.6
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Sokoto,NGSO33,35.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Taraba,NGTA34,45.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Yobe,NGYO35,41.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Zamfara,NGZA36,42.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Federal Capital Territory,NGFC37,82.8
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Abia,NGAB01,89.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Adamawa,NGAD02,41.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Akwa Ibom,NGAK03,62.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Anambra,NGAN04,96.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Bauchi,NGBA05,17.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Bayelsa,NGBY06,32.4
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Benue,NGBE07,61.6
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Borno,NGBO08,37.1
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Cross River,NGXR09,56.6
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Delta,NGDE10,69.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Ebonyi,NGEB11,68.6
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Edo,NGED12,92.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Ekiti,NGEK13,80.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Enugu,NGEN14,86.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Gombe,NGGO15,29.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Imo,NGIM16,92.4
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Jigawa,NGJI17,16.9
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Kaduna,NGKD18,35.4
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Kano,NGKN19,15.7
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Katsina,NGKT20,17.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Kebbi,NGKE21,12.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Kogi,NGKO22,76.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Kwara,NGKW23,61.6
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Lagos,NGLA24,79.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Nasarawa,NGNA25,44.7
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Niger,NGNI26,21.7
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Ogun,NGOG27,77.8
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Ondo,NGON28,73.5
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Osun,NGOS29,73.4
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Oyo,NGOY30,74.9
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Plateau,NGPL31,43.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Rivers,NGRI32,80.0
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Sokoto,NGSO33,12.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Taraba,NGTA34,22.3
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Yobe,NGYO35,9.2
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Zamfara,NGZA36,10.7
+2017,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Federal Capital Territory,NGFC37,61.0
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Abia,NGAB01,33.9
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Adamawa,NGAD02,29.0
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Akwa Ibom,NGAK03,44.2
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Anambra,NGAN04,55.2
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Bauchi,NGBA05,13.9
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Bayelsa,NGBY06,28.5
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Benue,NGBE07,37.0
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Borno,NGBO08,31.5
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Cross River,NGXR09,49.9
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Delta,NGDE10,36.3
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Ebonyi,NGEB11,35.0
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Edo,NGED12,45.7
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Ekiti,NGEK13,48.0
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Enugu,NGEN14,50.5
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Gombe,NGGO15,16.7
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Imo,NGIM16,43.5
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Jigawa,NGJI17,1.8
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Kaduna,NGKD18,24.9
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Kano,NGKN19,9.5
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Katsina,NGKT20,5.9
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Kebbi,NGKE21,4.8
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Kogi,NGKO22,29.9
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Kwara,NGKW23,33.9
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Lagos,NGLA24,68.1
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Nasarawa,NGNA25,21.4
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Niger,NGNI26,13.8
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Ogun,NGOG27,35.0
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Ondo,NGON28,44.8
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Osun,NGOS29,43.0
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Oyo,NGOY30,37.4
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Plateau,NGPL31,30.6
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Rivers,NGRI32,44.8
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Sokoto,NGSO33,2.2
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Taraba,NGTA34,11.5
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Yobe,NGYO35,6.5
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Zamfara,NGZA36,4.9
+2017,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Federal Capital Territory,NGFC37,46.8
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Abia,NGAB01,39.6
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Adamawa,NGAD02,8.4
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Akwa Ibom,NGAK03,11.3
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Anambra,NGAN04,24.5
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Bauchi,NGBA05,15.4
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Bayelsa,NGBY06,43.8
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Borno,NGBO08,6.4
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Cross River,NGXR09,38.4
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Delta,NGDE10,15.6
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Ebonyi,NGEB11,10.9
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Edo,NGED12,54.7
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Enugu,NGEN14,49.8
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Gombe,NGGO15,15.2
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Imo,NGIM16,31.4
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Jigawa,NGJI17,12.7
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Kaduna,NGKD18,33.1
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Kano,NGKN19,23.4
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Katsina,NGKT20,22.5
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Kebbi,NGKE21,10.4
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Kogi,NGKO22,27.4
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Lagos,NGLA24,62.4
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Nasarawa,NGNA25,7.1
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Niger,NGNI26,16.7
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Ogun,NGOG27,29.8
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Ondo,NGON28,9.6
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Osun,NGOS29,20.2
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Oyo,NGOY30,34.4
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Plateau,NGPL31,18.2
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Rivers,NGRI32,8.3
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Sokoto,NGSO33,26.3
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Yobe,NGYO35,5.8
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Zamfara,NGZA36,9.4
+2017,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Federal Capital Territory,NGFC37,42.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,,NG,22.0
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,,NG,69.6
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,,NG,48.9
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,,NG,44.2
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,,NG,20.6
+2021,Coverage of essential health services,Urban,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,,NG,27.0
+2021,Coverage of essential health services,Urban,Reproductive and Maternal Health,Antenatal care coverage,,,NG,87.5
+2021,Coverage of essential health services,Urban,Reproductive and Maternal Health,Delivery in a health facility,,,NG,74.3
+2021,Coverage of essential health services,Urban,Child Health,Vacination/Immunization coverage,,,NG,38.5
+2021,Coverage of essential health services,Urban,Child Health,Anti-malaria treatment for children,,,NG,26.1
+2021,Coverage of essential health services,Rural,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,,NG,12.2
+2021,Coverage of essential health services,Rural,Reproductive and Maternal Health,Antenatal care coverage,,,NG,59.3
+2021,Coverage of essential health services,Rural,Reproductive and Maternal Health,Delivery in a health facility,,,NG,34.5
+2021,Coverage of essential health services,Rural,Child Health,Vacination/Immunization coverage,,,NG,15.7
+2021,Coverage of essential health services,Rural,Child Health,Anti-malaria treatment for children,,,NG,18.1
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,North  Central,,NGNCZ06,20.4
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,North East,,NGNEZ05,9.0
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,North West,,NGNWZ04,18.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,South East,,NGSEZ03,23.0
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,South South,,NGSSZ02,20.5
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,South West,,NGSWZ01,29.9
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,North  Central,,NGNCZ06,72.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,North East,,NGNEZ05,55.1
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,North West,,NGNWZ04,58.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,South East,,NGSEZ03,94.4
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,South South,,NGSSZ02,79.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,South West,,NGSWZ01,83.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,North  Central,,NGNCZ06,59.4
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,North East,,NGNEZ05,34.1
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,North West,,NGNWZ04,20.6
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,South East,,NGSEZ03,91.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,South South,,NGSSZ02,62.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,South West,,NGSWZ01,79.3
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,North  Central,,NGNCZ06,44.1
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,North East,,NGNEZ05,31.3
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,North West,,NGNWZ04,33.7
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,South East,,NGSEZ03,66.2
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,South South,,NGSSZ02,57.9
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,South West,,NGSWZ01,56.7
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,North  Central,,NGNCZ06,32.1
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,North East,,NGNEZ05,35.0
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,North West,,NGNWZ04,29.1
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,South East,,NGSEZ03,65.2
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,South South,,NGSSZ02,34.4
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,South West,,NGSWZ01,33.1
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Abia,NGAB01,22.0
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Adamawa,NGAD02,9.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Akwa Ibom,NGAK03,21.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Anambra,NGAN04,27.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Bauchi,NGBA05,7.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Bayelsa,NGBY06,8.0
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Benue,NGBE07,15.6
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Borno,NGBO08,6.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Cross River,NGXR09,26.9
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Delta,NGDE10,18.9
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Ebonyi,NGEB11,27.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Edo,NGED12,24.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Ekiti,NGEK13,24.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Enugu,NGEN14,18.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Gombe,NGGO15,7.1
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Imo,NGIM16,19.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Jigawa,NGJI17,3.6
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Kaduna,NGKD18,19.1
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Kano,NGKN19,13.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Katsina,NGKT20,7.6
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Kebbi,NGKE21,11.0
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Kogi,NGKO22,17.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Kwara,NGKW23,33.4
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Lagos,NGLA24,36.6
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Nasarawa,NGNA25,20.0
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Niger,NGNI26,12.6
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Ogun,NGOG27,20.4
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Ondo,NGON28,22.6
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Osun,NGOS29,26.5
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Oyo,NGOY30,33.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Plateau,NGPL31,23.6
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Rivers,NGRI32,18.5
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Sokoto,NGSO33,8.5
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Taraba,NGTA34,8.9
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Yobe,NGYO35,17.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Zamfara,NGZA36,10.0
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Modern contraceptive prevalence rate,,Federal Capital Territory,NGFC37,31.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Abia,NGAB01,89.0
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Adamawa,NGAD02,86.0
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Akwa Ibom,NGAK03,81.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Anambra,NGAN04,95.5
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Bauchi,NGBA05,42.5
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Bayelsa,NGBY06,59.4
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Benue,NGBE07,68.9
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Borno,NGBO08,58.5
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Cross River,NGXR09,83.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Delta,NGDE10,82.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Ebonyi,NGEB11,93.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Edo,NGED12,91.1
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Ekiti,NGEK13,83.4
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Enugu,NGEN14,95.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Gombe,NGGO15,57.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Imo,NGIM16,96.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Jigawa,NGJI17,72.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Kaduna,NGKD18,85.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Kano,NGKN19,73.1
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Katsina,NGKT20,40.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Kebbi,NGKE21,41.9
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Kogi,NGKO22,78.9
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Kwara,NGKW23,84.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Lagos,NGLA24,90.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Nasarawa,NGNA25,72.0
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Niger,NGNI26,62.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Ogun,NGOG27,73.9
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Ondo,NGON28,66.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Osun,NGOS29,88.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Oyo,NGOY30,86.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Plateau,NGPL31,82.4
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Rivers,NGRI32,73.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Sokoto,NGSO33,30.5
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Taraba,NGTA34,42.4
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Yobe,NGYO35,57.5
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Zamfara,NGZA36,33.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Antenatal care coverage,,Federal Capital Territory,NGFC37,72.1
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Abia,NGAB01,91.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Adamawa,NGAD02,63.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Akwa Ibom,NGAK03,49.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Anambra,NGAN04,90.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Bauchi,NGBA05,21.1
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Bayelsa,NGBY06,38.9
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Benue,NGBE07,56.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Borno,NGBO08,30.6
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Cross River,NGXR09,58.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Delta,NGDE10,65.0
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Ebonyi,NGEB11,90.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Edo,NGED12,87.5
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Ekiti,NGEK13,77.6
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Enugu,NGEN14,89.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Gombe,NGGO15,36.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Imo,NGIM16,93.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Jigawa,NGJI17,18.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Kaduna,NGKD18,31.4
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Kano,NGKN19,25.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Katsina,NGKT20,12.4
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Kebbi,NGKE21,21.1
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Kogi,NGKO22,83.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Kwara,NGKW23,76.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Lagos,NGLA24,86.7
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Nasarawa,NGNA25,53.4
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Niger,NGNI26,38.0
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Ogun,NGOG27,71.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Ondo,NGON28,71.1
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Osun,NGOS29,86.1
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Oyo,NGOY30,75.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Plateau,NGPL31,61.5
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Rivers,NGRI32,65.4
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Sokoto,NGSO33,14.2
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Taraba,NGTA34,25.3
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Yobe,NGYO35,47.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Zamfara,NGZA36,12.8
+2021,Coverage of essential health services,,Reproductive and Maternal Health,Delivery in a health facility,,Federal Capital Territory,NGFC37,82.2
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Abia,NGAB01,50.8
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Adamawa,NGAD02,42.2
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Akwa Ibom,NGAK03,59.8
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Anambra,NGAN04,55.7
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Bauchi,NGBA05,23.0
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Bayelsa,NGBY06,38.9
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Benue,NGBE07,40.0
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Borno,NGBO08,19.7
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Cross River,NGXR09,53.8
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Delta,NGDE10,56.1
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Ebonyi,NGEB11,91.1
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Edo,NGED12,62.7
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Ekiti,NGEK13,74.4
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Enugu,NGEN14,62.2
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Gombe,NGGO15,26.4
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Imo,NGIM16,64.4
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Jigawa,NGJI17,43.0
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Kaduna,NGKD18,44.0
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Kano,NGKN19,33.0
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Katsina,NGKT20,35.0
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Kebbi,NGKE21,44.8
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Kogi,NGKO22,44.2
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Kwara,NGKW23,49.2
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Lagos,NGLA24,72.0
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Nasarawa,NGNA25,39.1
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Niger,NGNI26,34.0
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Ogun,NGOG27,36.5
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Ondo,NGON28,54.6
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Osun,NGOS29,55.2
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Oyo,NGOY30,39.4
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Plateau,NGPL31,52.4
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Rivers,NGRI32,62.7
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Sokoto,NGSO33,7.2
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Taraba,NGTA34,32.7
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Yobe,NGYO35,58.6
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Zamfara,NGZA36,15.0
+2021,Coverage of essential health services,,Child Health,Vacination/Immunization coverage,,Federal Capital Territory,NGFC37,76.5
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Abia,NGAB01,12.7
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Adamawa,NGAD02,44.1
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Akwa Ibom,NGAK03,50.7
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Anambra,NGAN04,82.1
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Bauchi,NGBA05,46.9
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Bayelsa,NGBY06,28.2
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Benue,NGBE07,45.1
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Borno,NGBO08,35.3
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Cross River,NGXR09,30.5
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Delta,NGDE10,40.4
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Ebonyi,NGEB11,52.3
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Edo,NGED12,39.4
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Ekiti,NGEK13,8.3
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Enugu,NGEN14,90.6
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Gombe,NGGO15,30.8
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Imo,NGIM16,68.4
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Jigawa,NGJI17,41.1
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Kaduna,NGKD18,55.8
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Kano,NGKN19,36.6
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Katsina,NGKT20,20.2
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Kebbi,NGKE21,14.3
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Kogi,NGKO22,53.5
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Kwara,NGKW23,61.5
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Lagos,NGLA24,42.0
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Nasarawa,NGNA25,9.2
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Niger,NGNI26,23.3
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Ogun,NGOG27,29.0
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Ondo,NGON28,48.2
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Osun,NGOS29,20.5
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Oyo,NGOY30,58.9
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Plateau,NGPL31,33.1
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Rivers,NGRI32,16.4
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Sokoto,NGSO33,10.7
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Taraba,NGTA34,15.5
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Yobe,NGYO35,23.6
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Zamfara,NGZA36,17.6
+2021,Coverage of essential health services,,Child Health,Anti-malaria treatment for children,,Federal Capital Territory,NGFC37,53.2

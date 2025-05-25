@@ -1,1 +1,143 @@
-Year,Value
+Year,Series,Sector,Gender,Wealth Index Quintile,Geopolitical Zone,Education Level,Ethnicity,State,Age group,Units,GeoCode,Value
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,,Percentage (%),NG,10.8
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,Urban,,,,,,,,Percentage (%),NG,17.9
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,Rural,,,,,,,,Percentage (%),NG,7.7
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,Poorest,,,,,,Percentage (%),NG,2.6
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,Second,,,,,,Percentage (%),NG,6.0
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,Middle,,,,,,Percentage (%),NG,9.5
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,Fourth,,,,,,Percentage (%),NG,15.3
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,Richest,,,,,,Percentage (%),NG,21.9
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,North  Central,,,,,Percentage (%),NGNCZ06,13.8
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,North East,,,,,Percentage (%),NGNEZ05,6.1
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,North West,,,,,Percentage (%),NGNWZ04,7.4
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,South East,,,,,Percentage (%),NGSEZ03,14.7
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,South South,,,,,Percentage (%),NGSSZ02,11.2
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,South West,,,,,Percentage (%),NGSWZ01,21.7
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,None,,,,Percentage (%),NG,4.8
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,Primary,,,,Percentage (%),NG,2.9
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,Junior secondary,,,,Percentage (%),NG,13.4
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,Senior secondary,,,,Percentage (%),NG,18.0
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,Higher/tertiary,,,,Percentage (%),NG,23.1
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Hausa,,,Percentage (%),NG,6.4
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Igbo,,,Percentage (%),NG,15.2
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Yoruba,,,Percentage (%),NG,23.2
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Other ethnicity,,,Percentage (%),NG,12.6
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Abia,,Percentage (%),NGAB01,9.5
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Adamawa,,Percentage (%),NGAD02,7.1
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Akwa Ibom,,Percentage (%),NGAK03,10.8
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Anambra,,Percentage (%),NGAN04,16.9
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Bauchi,,Percentage (%),NGBA05,8.4
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Bayelsa,,Percentage (%),NGBY06,10.0
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Benue,,Percentage (%),NGBE07,13.9
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Borno,,Percentage (%),NGBO08,5.3
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Cross River,,Percentage (%),NGXR09,16.1
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Delta,,Percentage (%),NGDE10,8.0
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Ebonyi,,Percentage (%),NGEB11,2.1
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Edo,,Percentage (%),NGED12,10.0
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Ekiti,,Percentage (%),NGEK13,24.4
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Enugu,,Percentage (%),NGEN14,18.0
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Gombe,,Percentage (%),NGGO15,6.0
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Imo,,Percentage (%),NGIM16,21.3
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Jigawa,,Percentage (%),NGJI17,1.1
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Kaduna,,Percentage (%),NGKD18,21.9
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Kano,,Percentage (%),NGKN19,5.7
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Katsina,,Percentage (%),NGKT20,4.9
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Kebbi,,Percentage (%),NGKE21,5.0
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Kogi,,Percentage (%),NGKO22,6.2
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Kwara,,Percentage (%),NGKW23,23.7
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Lagos,,Percentage (%),NGLA24,17.4
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Nasarawa,,Percentage (%),NGNA25,13.8
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Niger,,Percentage (%),NGNI26,8.1
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Ogun,,Percentage (%),NGOG27,18.2
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Ondo,,Percentage (%),NGON28,18.8
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Osun,,Percentage (%),NGOS29,22.9
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Oyo,,Percentage (%),NGOY30,30.0
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Plateau,,Percentage (%),NGPL31,19.2
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Rivers,,Percentage (%),NGRI32,11.0
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Sokoto,,Percentage (%),NGSO33,4.6
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Taraba,,Percentage (%),NGTA34,5.6
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Yobe,,Percentage (%),NGYO35,3.3
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Zamfara,,Percentage (%),NGZA36,5.0
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Federal Capital Territory,,Percentage (%),NGFC37,19.9
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,,Percentage (%),NG,39.9
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,Urban,,,,,,,,Percentage (%),NG,50.4
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,Rural,,,,,,,,Percentage (%),NG,30.5
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,Poorest,,,,,,Percentage (%),NG,19.5
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,Second,,,,,,Percentage (%),NG,28.5
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,Middle,,,,,,Percentage (%),NG,38.7
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,Fourth,,,,,,Percentage (%),NG,45.4
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,Richest,,,,,,Percentage (%),NG,58.4
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,North  Central,,,,,Percentage (%),NGNCZ06,44.4
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,North East,,,,,Percentage (%),NGNEZ05,23.5
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,North West,,,,,Percentage (%),NGNWZ04,30.1
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,South East,,,,,Percentage (%),NGSEZ03,47.8
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,South South,,,,,Percentage (%),NGSSZ02,39.1
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,South West,,,,,Percentage (%),NGSWZ01,51.6
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,None,,,,Percentage (%),NG,22.9
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,Primary,,,,Percentage (%),NG,38.7
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,Junior Secondary,,,,Percentage (%),NG,39.5
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,Senior Secondary,,,,Percentage (%),NG,47.9
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,Higher/Tertiary,,,,Percentage (%),NG,56.2
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Hausa,,,Percentage (%),NG,28.4
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Igbo,,,Percentage (%),NG,50.4
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Yoruba,,,Percentage (%),NG,53.2
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Fulani,,,Percentage (%),NG,19.5
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Kanuri,,,Percentage (%),NG,23.1
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Ijaw,,,Percentage (%),NG,24.5
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Tiv,,,Percentage (%),NG,44.8
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Ibibio,,,Percentage (%),NG,48.4
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Edo,,,Percentage (%),NG,50.3
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,Other ethnicity,,,Percentage (%),NG,38.9
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Abia,,Percentage (%),NGAB01,42.8
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Adamawa,,Percentage (%),NGAD02,23.4
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Akwa Ibom,,Percentage (%),NGAK03,39.6
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Anambra,,Percentage (%),NGAN04,54.2
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Bauchi,,Percentage (%),NGBA05,21.1
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Bayelsa,,Percentage (%),NGBY06,17.7
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Benue,,Percentage (%),NGBE07,38.2
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Borno,,Percentage (%),NGBO08,15.7
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Cross River,,Percentage (%),NGXR09,50.6
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Delta,,Percentage (%),NGDE10,35.1
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Ebonyi,,Percentage (%),NGEB11,57.7
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Edo,,Percentage (%),NGED12,45.6
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Ekiti,,Percentage (%),NGEK13,42.2
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Enugu,,Percentage (%),NGEN14,43.3
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Gombe,,Percentage (%),NGGO15,24.2
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Imo,,Percentage (%),NGIM16,40.9
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Jigawa,,Percentage (%),NGJI17,9.5
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Kaduna,,Percentage (%),NGKD18,36.6
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Kano,,Percentage (%),NGKN19,37.4
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Katsina,,Percentage (%),NGKT20,23.3
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Kebbi,,Percentage (%),NGKE21,38.1
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Kogi,,Percentage (%),NGKO22,41.3
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Kwara,,Percentage (%),NGKW23,63.4
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Lagos,,Percentage (%),NGLA24,61.2
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Nasarawa,,Percentage (%),NGNA25,40.7
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Niger,,Percentage (%),NGNI26,33.1
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Ogun,,Percentage (%),NGOG27,37.0
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Ondo,,Percentage (%),NGON28,44.6
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Osun,,Percentage (%),NGOS29,46.8
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Oyo,,Percentage (%),NGOY30,54.4
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Plateau,,Percentage (%),NGPL31,43.8
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Rivers,,Percentage (%),NGRI32,36.0
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Sokoto,,Percentage (%),NGSO33,30.7
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Taraba,,Percentage (%),NGTA34,25.4
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Yobe,,Percentage (%),NGYO35,37.7
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Zamfara,,Percentage (%),NGZA36,27.5
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,Federal Capital Territory,,Percentage (%),NGFC37,57.6
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,15-19,Percentage (%),NG,18.1
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,15-17,Percentage (%),NG,15.8
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,18-19,Percentage (%),NG,18.9
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,20-24,Percentage (%),NG,29.6
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,25-29,Percentage (%),NG,32.5
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,30-34,Percentage (%),NG,39.3
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,35-39,Percentage (%),NG,44.9
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,40-44,Percentage (%),NG,47.4
+2021,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,45-49,Percentage (%),NG,48.2
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,15-19,Percentage (%),NG,1.8
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,20-24,Percentage (%),NG,7.1
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,25-29,Percentage (%),NG,10.3
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,30-34,Percentage (%),NG,13.1
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,35-39,Percentage (%),NG,12.8
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,40-44,Percentage (%),NG,13.6
+2017,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,,,,,,,,45-49,Percentage (%),NG,11.5

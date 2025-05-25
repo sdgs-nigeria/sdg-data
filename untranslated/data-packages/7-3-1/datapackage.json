@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Energy intensity measured in terms of primary energy and GDP",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

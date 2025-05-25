@@ -1,11 +1,17 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Edo,1,1
-Fulani,1,1
-Hausa,1,1
-Ibibio,1,1
-Igbo,1,1
-Ijaw,1,1
-Kanuri,1,1
-Other ethnicity,1,1
-Tiv,1,1
-Yoruba,1,1
+Edo,74,24
+Fulani,74,24
+Hausa,75,24
+Higher/tertiary,2,1
+Ibibio,74,24
+Igbo,75,24
+Ijaw,74,24
+Junior secondary,2,1
+Kanuri,74,24
+None,2,1
+Other ethnic group,1,1
+Other ethnicity,74,23
+Primary,2,1
+Senior secondary,2,1
+Tiv,74,24
+Yoruba,75,24

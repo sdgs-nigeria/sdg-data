@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

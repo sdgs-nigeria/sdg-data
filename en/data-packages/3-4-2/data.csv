@@ -1,1 +1,4 @@
-Year,Value
+Year,Series,Gender,Value
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,6.9
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Female,3.8
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",Male,10.1

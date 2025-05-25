@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

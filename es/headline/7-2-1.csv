@@ -1,1 +1,25 @@
-Year,Value
+Year,Value,Units,Series
+2016,28.52,Percentage (%),Renewable energy (% of Total energy production)
+2017,24.44,Percentage (%),Renewable energy (% of Total energy production)
+2018,22.81,Percentage (%),Renewable energy (% of Total energy production)
+2019,18.36,Percentage (%),Renewable energy (% of Total energy production)
+2020,23.31,Percentage (%),Renewable energy (% of Total energy production)
+2021,22.82,Percentage (%),Renewable energy (% of Total energy production)
+2022,26.7,Percentage (%),Renewable energy (% of Total energy production)
+2023,24.75,Percentage (%),Renewable energy (% of Total energy production)
+2016,8171.6,GWh,Volume of renewable energy production
+2017,7746.76,GWh,Volume of renewable energy production
+2018,7691.74,GWh,Volume of renewable energy production
+2019,6165.81,GWh,Volume of renewable energy production
+2020,8213.82,GWh,Volume of renewable energy production
+2021,8390.16,GWh,Volume of renewable energy production
+2022,9328.98,GWh,Volume of renewable energy production
+2023,9086.0,GWh,Volume of renewable energy production
+2016,28657.0,GWh,Total electricity production from renewable & non-renwable sources
+2017,31696.62,GWh,Total electricity production from renewable & non-renwable sources
+2018,33727.4,GWh,Total electricity production from renewable & non-renwable sources
+2019,33591.2,GWh,Total electricity production from renewable & non-renwable sources
+2020,35230.22,GWh,Total electricity production from renewable & non-renwable sources
+2021,36769.97,GWh,Total electricity production from renewable & non-renwable sources
+2022,34942.27,GWh,Total electricity production from renewable & non-renwable sources
+2023,36710.0,GWh,Total electricity production from renewable & non-renwable sources

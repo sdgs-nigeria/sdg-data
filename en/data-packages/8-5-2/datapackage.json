@@ -12,8 +12,86 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unemployment rate, by sex, age and persons with disabilities",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-55",
+                "55-64",
+                "65+",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Period",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Q4 2022",
+                "Q1 2023",
+                "Q2 2023",
+                "Q3 2023",
+                "Q1 2024",
+                "Q2 2024",
+                ""
+              ]
+            },
+            "title": "Period"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

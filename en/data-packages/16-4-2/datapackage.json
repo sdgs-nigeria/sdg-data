@@ -12,12 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total number of arms seized, small arms seized and light weapons seized",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Arms class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Arms Seized",
+                "Small Arms Seized",
+                "Light Weapons Seized",
+                ""
+              ]
+            },
+            "title": "Arms class"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

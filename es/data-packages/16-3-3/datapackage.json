@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Experience physical or sexual violence and sought help by sources from which they sought help",
+                "Experience physical violence and sought help by sources from which they sought help",
+                "Experience sexual violence and sought help by sources from which they sought help",
+                "Experience physical and sexual violence and sought help by sources from which they sought help",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Help source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Own family",
+                "Husband/partner's family",
+                "Husband/partner",
+                "Boyfriend",
+                "Friend",
+                "Neighbour",
+                "Religious leader",
+                "Doctor/medical personnel",
+                "Police",
+                "Lawyer",
+                "Social work organisation",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Help source"
           },
           {
             "name": "Value",

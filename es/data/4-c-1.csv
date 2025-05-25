@@ -1,1 +1,31 @@
-Year,Value
+Year,Series,Gender,School type,Value
+2017/2018,"Proportion of teachers with the minimum required qualifications, by education level",Male,Junior Secondary,156248.0
+2018/2019,"Proportion of teachers with the minimum required qualifications, by education level",Male,Junior Secondary,178831.0
+2019/2020,"Proportion of teachers with the minimum required qualifications, by education level",Male,Junior Secondary,154.201
+2020/2021,"Proportion of teachers with the minimum required qualifications, by education level",Male,Junior Secondary,129800.0
+2021/2022,"Proportion of teachers with the minimum required qualifications, by education level",Male,Junior Secondary,158724.0
+2017/2018,"Proportion of teachers with the minimum required qualifications, by education level",Female,Junior Secondary,135513.0
+2018/2019,"Proportion of teachers with the minimum required qualifications, by education level",Female,Junior Secondary,197813.0
+2019/2020,"Proportion of teachers with the minimum required qualifications, by education level",Female,Junior Secondary,148959.0
+2020/2021,"Proportion of teachers with the minimum required qualifications, by education level",Female,Junior Secondary,131264.0
+2021/2022,"Proportion of teachers with the minimum required qualifications, by education level",Female,Junior Secondary,151023.0
+2017/2018,"Proportion of teachers with the minimum required qualifications, by education level",,Junior Secondary,291761.0
+2018/2019,"Proportion of teachers with the minimum required qualifications, by education level",,Junior Secondary,367146.0
+2019/2020,"Proportion of teachers with the minimum required qualifications, by education level",,Junior Secondary,303160.0
+2020/2021,"Proportion of teachers with the minimum required qualifications, by education level",,Junior Secondary,261064.0
+2021/2022,"Proportion of teachers with the minimum required qualifications, by education level",,Junior Secondary,309747.0
+2017/2018,"Proportion of teachers with the minimum required qualifications, by education level",Male,Senior Secondary,205542.0
+2018/2019,"Proportion of teachers with the minimum required qualifications, by education level",Male,Senior Secondary,204262.0
+2019/2020,"Proportion of teachers with the minimum required qualifications, by education level",Male,Senior Secondary,221622.0
+2020/2021,"Proportion of teachers with the minimum required qualifications, by education level",Male,Senior Secondary,285356.0
+2021/2022,"Proportion of teachers with the minimum required qualifications, by education level",Male,Senior Secondary,285356.0
+2017/2018,"Proportion of teachers with the minimum required qualifications, by education level",Female,Senior Secondary,188160.0
+2018/2019,"Proportion of teachers with the minimum required qualifications, by education level",Female,Senior Secondary,222300.0
+2019/2020,"Proportion of teachers with the minimum required qualifications, by education level",Female,Senior Secondary,230379.0
+2020/2021,"Proportion of teachers with the minimum required qualifications, by education level",Female,Senior Secondary,237764.0
+2021/2022,"Proportion of teachers with the minimum required qualifications, by education level",Female,Senior Secondary,237764.0
+2017/2018,"Proportion of teachers with the minimum required qualifications, by education level",,Senior Secondary,393702.0
+2018/2019,"Proportion of teachers with the minimum required qualifications, by education level",,Senior Secondary,426562.0
+2019/2020,"Proportion of teachers with the minimum required qualifications, by education level",,Senior Secondary,452001.0
+2020/2021,"Proportion of teachers with the minimum required qualifications, by education level",,Senior Secondary,523120.0
+2021/2022,"Proportion of teachers with the minimum required qualifications, by education level",,Senior Secondary,523120.0

@@ -12,7 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Financial Soundness Indicators",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Period",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Half Year",
+                "Full Year",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Financial soundness indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non Performing Loans to total gross loans",
+                "Capital Adequacy Ratio",
+                "Liquid assets to total assets",
+                "Liquid assets to short term liabilities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of women who have experieced sexual violence by age 18 in the past 12 months",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-39",
+                "40-49",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Marital status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Never married",
+                "Ever married",
+                ""
+              ]
+            },
+            "title": "Marital status"
           },
           {
             "name": "Value",

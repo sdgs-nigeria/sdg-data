@@ -1,1 +1,367 @@
-Year,Value
+Year,Series,Gender,Sector,Wealth Index Quintile,Ethnicity,Geopolitical zone,State,Grade,GeoCode,Value
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,,,NG,25.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,Urban,,,,,,NG,44.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,Rural,,,,,,NG,13.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,Hausa,,,,NG,12.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,Igbo,,,,NG,52.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,Yoruba,,,,NG,46.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,Fulani,,,,NG,5.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,Kanuri,,,,NG,7.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,Ijaw,,,,NG,30.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,Tiv,,,,NG,18.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,Ibibio,,,,NG,34.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,Edo,,,,NG,63.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,Other ethnicity,,,,NG,21.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,Poorest,,,,,NG,5.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,Second,,,,,NG,11.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,Middle,,,,,NG,21.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,Fourth,,,,,NG,35.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,Richest,,,,,NG,63.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,North Central,,,NGNCZ06,22.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,North East,,,NGNEZ05,12.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,North West,,,NGNWZ04,10.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,South East,,,NGSEZ03,49.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,South South,,,NGSSZ02,33.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,South West,,,NGSWZ01,47.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Abia,,NGAB01,35.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Adamawa,,NGAD02,22.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Akwa Ibom,,NGAK03,30.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Anambra,,NGAN04,36.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Bauchi,,NGBA05,11.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Bayelsa,,NGBY06,42.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Benue,,NGBE07,24.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Borno,,NGBO08,6.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Cross River,,NGXR09,12.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Delta,,NGDE10,31.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Ebonyi,,NGEB11,75.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Edo,,NGED12,46.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Ekiti,,NGEK13,27.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Enugu,,NGEN14,60.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Gombe,,NGGO15,11.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Imo,,NGIM16,52.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Jigawa,,NGJI17,1.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Kaduna,,NGKD18,16.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Kano,,NGKN19,9.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Katsina,,NGKT20,11.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Kebbi,,NGKE21,3.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Kogi,,NGKO22,26.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Kwara,,NGKW23,45.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Lagos,,NGLA24,82.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Nasarawa,,NGNA25,9.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Niger,,NGNI26,11.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Ogun,,NGOG27,33.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Ondo,,NGON28,30.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Osun,,NGOS29,44.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Oyo,,NGOY30,28.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Plateau,,NGPL31,14.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Rivers,,NGRI32,45.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Sokoto,,NGSO33,13.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Taraba,,NGTA34,10.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Yobe,,NGYO35,14.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Zamfara,,NGZA36,14.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Male,,,,,Federal Capital Territory,,NGFC37,44.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,,,NG,28.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,Urban,,,,,,NG,48.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,Rural,,,,,,NG,13.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,Hausa,,,,NG,10.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,Igbo,,,,NG,63.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,Yoruba,,,,NG,54.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,Fulani,,,,NG,5.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,Kanuri,,,,NG,11.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,Ijaw,,,,NG,34.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,Tiv,,,,NG,19.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,Ibibio,,,,NG,44.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,Edo,,,,NG,50.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,Other ethnicity,,,,NG,22.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,Poorest,,,,,NG,3.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,Second,,,,,NG,10.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,Middle,,,,,NG,22.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,Fourth,,,,,NG,43.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,Richest,,,,,NG,69.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,North Central,,,NGNCZ06,21.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,North East,,,NGNEZ05,11.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,North West,,,NGNWZ04,8.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,South East,,,NGSEZ03,60.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,South South,,,NGSSZ02,40.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,South West,,,NGSWZ01,57.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Abia,,NGAB01,38.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Adamawa,,NGAD02,23.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Akwa Ibom,,NGAK03,40.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Anambra,,NGAN04,74.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Bauchi,,NGBA05,7.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Bayelsa,,NGBY06,38.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Benue,,NGBE07,24.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Borno,,NGBO08,6.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Cross River,,NGXR09,30.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Delta,,NGDE10,37.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Ebonyi,,NGEB11,54.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Edo,,NGED12,49.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Ekiti,,NGEK13,38.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Enugu,,NGEN14,64.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Gombe,,NGGO15,9.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Imo,,NGIM16,57.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Jigawa,,NGJI17,2.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Kaduna,,NGKD18,19.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Kano,,NGKN19,9.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Katsina,,NGKT20,7.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Kebbi,,NGKE21,5.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Kogi,,NGKO22,22.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Kwara,,NGKW23,30.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Lagos,,NGLA24,91.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Nasarawa,,NGNA25,7.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Niger,,NGNI26,12.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Ogun,,NGOG27,35.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Ondo,,NGON28,37.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Osun,,NGOS29,51.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Oyo,,NGOY30,48.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Plateau,,NGPL31,15.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Rivers,,NGRI32,41.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Sokoto,,NGSO33,8.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Taraba,,NGTA34,10.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Yobe,,NGYO35,17.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Zamfara,,NGZA36,6.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",Female,,,,,Federal Capital Territory,,NGFC37,48.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,,,NG,26.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,Urban,,,,,,NG,46.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,Rural,,,,,,NG,13.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,Hausa,,,,NG,11.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,Igbo,,,,NG,57.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,Yoruba,,,,NG,50.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,Fulani,,,,NG,5.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,Kanuri,,,,NG,9.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,Ijaw,,,,NG,32.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,Tiv,,,,NG,18.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,Ibibio,,,,NG,40.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,Edo,,,,NG,57.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,Other ethnicity,,,,NG,21.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,Poorest,,,,,NG,4.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,Second,,,,,NG,10.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,Middle,,,,,NG,21.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,Fourth,,,,,NG,39.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,Richest,,,,,NG,66.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,North Central,,,NGNCZ06,21.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,North East,,,NGNEZ05,11.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,North West,,,NGNWZ04,9.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,South East,,,NGSEZ03,55.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,South South,,,NGSSZ02,36.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,South West,,,NGSWZ01,52.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Abia,,NGAB01,36.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Adamawa,,NGAD02,22.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Akwa Ibom,,NGAK03,35.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Anambra,,NGAN04,61.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Bauchi,,NGBA05,9.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Bayelsa,,NGBY06,40.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Benue,,NGBE07,24.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Borno,,NGBO08,6.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Cross River,,NGXR09,20.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Delta,,NGDE10,33.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Ebonyi,,NGEB11,62.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Edo,,NGED12,48.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Ekiti,,NGEK13,32.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Enugu,,NGEN14,62.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Gombe,,NGGO15,11.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Imo,,NGIM16,54.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Jigawa,,NGJI17,2.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Kaduna,,NGKD18,17.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Kano,,NGKN19,9.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Katsina,,NGKT20,9.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Kebbi,,NGKE21,4.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Kogi,,NGKO22,24.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Kwara,,NGKW23,38.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Lagos,,NGLA24,87.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Nasarawa,,NGNA25,8.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Niger,,NGNI26,12.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Ogun,,NGOG27,34.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Ondo,,NGON28,33.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Osun,,NGOS29,48.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Oyo,,NGOY30,37.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Plateau,,NGPL31,15.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Rivers,,NGRI32,43.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Sokoto,,NGSO33,10.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Taraba,,NGTA34,10.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Yobe,,NGYO35,15.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Zamfara,,NGZA36,10.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy, by sex",,,,,,Federal Capital Territory,,NGFC37,46.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,,,NG,25.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,Urban,,,,,,NG,43.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,Rural,,,,,,NG,14.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,Hausa,,,,NG,12.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,Igbo,,,,NG,48.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,Yoruba,,,,NG,48.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,Fulani,,,,NG,5.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,Kanuri,,,,NG,6.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,Ijaw,,,,NG,21.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,Tiv,,,,NG,13.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,Ibibio,,,,NG,43.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,Edo,,,,NG,62.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,Other ethnicity,,,,NG,22.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,Poorest,,,,,NG,5.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,Second,,,,,NG,12.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,Middle,,,,,NG,21.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,Fourth,,,,,NG,33.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,Richest,,,,,NG,63.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,North Central,,,NGNCZ06,23.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,North East,,,NGNEZ05,10.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,North West,,,NGNWZ04,9.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,South East,,,NGSEZ03,43.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,South South,,,NGSSZ02,35.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,South West,,,NGSWZ01,50.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Abia,,NGAB01,24.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Adamawa,,NGAD02,11.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Akwa Ibom,,NGAK03,40.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Anambra,,NGAN04,42.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Bauchi,,NGBA05,8.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Bayelsa,,NGBY06,30.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Benue,,NGBE07,22.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Borno,,NGBO08,10.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Cross River,,NGXR09,17.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Delta,,NGDE10,33.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Ebonyi,,NGEB11,51.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Edo,,NGED12,38.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Ekiti,,NGEK13,39.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Enugu,,NGEN14,52.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Gombe,,NGGO15,14.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Imo,,NGIM16,50.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Jigawa,,NGJI17,0.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Kaduna,,NGKD18,14.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Kano,,NGKN19,10.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Katsina,,NGKT20,15.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Kebbi,,NGKE21,6.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Kogi,,NGKO22,30.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Kwara,,NGKW23,29.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Lagos,,NGLA24,82.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Nasarawa,,NGNA25,6.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Niger,,NGNI26,22.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Ogun,,NGOG27,36.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Ondo,,NGON28,38.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Osun,,NGOS29,49.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Oyo,,NGOY30,28.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Plateau,,NGPL31,17.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Rivers,,NGRI32,49.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Sokoto,,NGSO33,8.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Taraba,,NGTA34,7.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Yobe,,NGYO35,12.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Zamfara,,NGZA36,6.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Male,,,,,Federal Capital Territory,,NGFC37,38.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,,,NG,25.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,Urban,,,,,,NG,42.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,Rural,,,,,,NG,12.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,Hausa,,,,NG,9.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,Igbo,,,,NG,56.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,Yoruba,,,,NG,49.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,Fulani,,,,NG,4.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,Kanuri,,,,NG,9.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,Ijaw,,,,NG,34.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,Tiv,,,,NG,16.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,Ibibio,,,,NG,43.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,Edo,,,,NG,40.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,Other ethnicity,,,,NG,19.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,Poorest,,,,,NG,4.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,Second,,,,,NG,10.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,Middle,,,,,NG,18.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,Fourth,,,,,NG,38.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,Richest,,,,,NG,61.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,North Central,,,NGNCZ06,20.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,North East,,,NGNEZ05,8.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,North West,,,NGNWZ04,8.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,South East,,,NGSEZ03,53.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,South South,,,NGSSZ02,33.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,South West,,,NGSWZ01,52.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Abia,,NGAB01,20.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Adamawa,,NGAD02,9.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Akwa Ibom,,NGAK03,40.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Anambra,,NGAN04,78.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Bauchi,,NGBA05,7.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Bayelsa,,NGBY06,34.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Benue,,NGBE07,24.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Borno,,NGBO08,5.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Cross River,,NGXR09,21.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Delta,,NGDE10,32.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Ebonyi,,NGEB11,29.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Edo,,NGED12,38.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Ekiti,,NGEK13,33.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Enugu,,NGEN14,40.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Gombe,,NGGO15,15.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Imo,,NGIM16,66.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Jigawa,,NGJI17,1.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Kaduna,,NGKD18,17.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Kano,,NGKN19,11.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Katsina,,NGKT20,11.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Kebbi,,NGKE21,5.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Kogi,,NGKO22,26.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Kwara,,NGKW23,28.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Lagos,,NGLA24,82.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Nasarawa,,NGNA25,9.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Niger,,NGNI26,14.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Ogun,,NGOG27,33.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Ondo,,NGON28,49.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Osun,,NGOS29,53.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Oyo,,NGOY30,32.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Plateau,,NGPL31,15.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Rivers,,NGRI32,29.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Sokoto,,NGSO33,4.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Taraba,,NGTA34,11.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Yobe,,NGYO35,10.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Zamfara,,NGZA36,2.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",Female,,,,,Federal Capital Territory,,NGFC37,31.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,,,NG,25.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,Urban,,,,,,NG,42.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,Rural,,,,,,NG,13.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,Hausa,,,,NG,10.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,Igbo,,,,NG,52.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,Yoruba,,,,NG,48.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,Fulani,,,,NG,4.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,Kanuri,,,,NG,7.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,Ijaw,,,,NG,27.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,Tiv,,,,NG,14.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,Ibibio,,,,NG,43.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,Edo,,,,NG,51.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,Other ethnicity,,,,NG,21.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,Poorest,,,,,NG,4.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,Second,,,,,NG,11.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,Middle,,,,,NG,20.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,Fourth,,,,,NG,36.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,Richest,,,,,NG,62.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,North Central,,,NGNCZ06,21.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,North East,,,NGNEZ05,9.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,North West,,,NGNWZ04,9.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,South East,,,NGSEZ03,49.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,South South,,,NGSSZ02,34.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,South West,,,NGSWZ01,51.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Abia,,NGAB01,22.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Adamawa,,NGAD02,10.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Akwa Ibom,,NGAK03,40.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Anambra,,NGAN04,66.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Bauchi,,NGBA05,7.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Bayelsa,,NGBY06,32.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Benue,,NGBE07,23.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Borno,,NGBO08,7.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Cross River,,NGXR09,19.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Delta,,NGDE10,33.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Ebonyi,,NGEB11,38.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Edo,,NGED12,38.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Ekiti,,NGEK13,36.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Enugu,,NGEN14,46.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Gombe,,NGGO15,14.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Imo,,NGIM16,57.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Jigawa,,NGJI17,0.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Kaduna,,NGKD18,16.0
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Kano,,NGKN19,11.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Katsina,,NGKT20,13.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Kebbi,,NGKE21,5.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Kogi,,NGKO22,28.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Kwara,,NGKW23,29.1
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Lagos,,NGLA24,82.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Nasarawa,,NGNA25,7.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Niger,,NGNI26,18.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Ogun,,NGOG27,35.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Ondo,,NGON28,43.7
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Osun,,NGOS29,51.6
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Oyo,,NGOY30,30.3
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Plateau,,NGPL31,16.8
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Rivers,,NGRI32,40.2
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Sokoto,,NGSO33,6.4
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Taraba,,NGTA34,9.5
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Yobe,,NGYO35,11.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Zamfara,,NGZA36,4.9
+2021,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (b) numeracy, by sex",,,,,,Federal Capital Territory,,NGFC37,34.7

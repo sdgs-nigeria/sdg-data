@@ -1,1 +1,101 @@
-Year,Value
+Year,Series,Gender,Circumcision status,Number of sexual partners,Age group,Units,Value
+2018,"Hepatitis B incidence per 100,000 population",Male,Circumcised,,,Percentage (%),10.2
+2018,"Hepatitis B incidence per 100,000 population",Male,Not circumcised,,,Percentage (%),11.4
+2018,"Hepatitis B incidence per 100,000 population",Male,,Zero,,Percentage (%),10.7
+2018,"Hepatitis B incidence per 100,000 population",Male,,One,,Percentage (%),10.8
+2018,"Hepatitis B incidence per 100,000 population",Male,,Two or more,,Percentage (%),8.3
+2018,"Hepatitis B incidence per 100,000 population",Male,,,15-19,Percentage (%),10.3
+2018,"Hepatitis B incidence per 100,000 population",Male,,,20-24,Percentage (%),10.7
+2018,"Hepatitis B incidence per 100,000 population",Male,,,25-29,Percentage (%),13.7
+2018,"Hepatitis B incidence per 100,000 population",Male,,,30-34,Percentage (%),11.2
+2018,"Hepatitis B incidence per 100,000 population",Male,,,35-39,Percentage (%),13.1
+2018,"Hepatitis B incidence per 100,000 population",Male,,,40-44,Percentage (%),9.2
+2018,"Hepatitis B incidence per 100,000 population",Male,,,45-49,Percentage (%),7.7
+2018,"Hepatitis B incidence per 100,000 population",Male,,,50-54,Percentage (%),6.1
+2018,"Hepatitis B incidence per 100,000 population",Male,,,55-59,Percentage (%),3.9
+2018,"Hepatitis B incidence per 100,000 population",Male,,,60-64,Percentage (%),5.2
+2018,"Hepatitis B incidence per 100,000 population",Male,,,15-24,Percentage (%),10.5
+2018,"Hepatitis B incidence per 100,000 population",Male,,,15-49,Percentage (%),11.1
+2018,"Hepatitis B incidence per 100,000 population",Male,,,15-64,Percentage (%),10.3
+2018,"Hepatitis B incidence per 100,000 population",Male,Circumcised,,,Number,4279.0
+2018,"Hepatitis B incidence per 100,000 population",Male,Not circumcised,,,Number,77.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,Zero,,Number,1438.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,One,,Number,2035.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,Two or more,,Number,862.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,,15-19,Number,443.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,,20-24,Number,464.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,,25-29,Number,605.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,,30-34,Number,591.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,,35-39,Number,561.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,,40-44,Number,485.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,,45-49,Number,405.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,,50-54,Number,344.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,,55-59,Number,229.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,,60-64,Number,267.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,,15-24,Number,907.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,,15-49,Number,3554.0
+2018,"Hepatitis B incidence per 100,000 population",Male,,,15-64,Number,4394.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,Zero,,Percentage (%),5.8
+2018,"Hepatitis B incidence per 100,000 population",Female,,One,,Percentage (%),5.8
+2018,"Hepatitis B incidence per 100,000 population",Female,,Two or more,,Percentage (%),5.4
+2018,"Hepatitis B incidence per 100,000 population",Female,,,15-19,Percentage (%),5.4
+2018,"Hepatitis B incidence per 100,000 population",Female,,,20-24,Percentage (%),6.4
+2018,"Hepatitis B incidence per 100,000 population",Female,,,25-29,Percentage (%),5.1
+2018,"Hepatitis B incidence per 100,000 population",Female,,,30-34,Percentage (%),7.6
+2018,"Hepatitis B incidence per 100,000 population",Female,,,35-39,Percentage (%),7.2
+2018,"Hepatitis B incidence per 100,000 population",Female,,,40-44,Percentage (%),6.3
+2018,"Hepatitis B incidence per 100,000 population",Female,,,45-49,Percentage (%),4.1
+2018,"Hepatitis B incidence per 100,000 population",Female,,,50-54,Percentage (%),6.6
+2018,"Hepatitis B incidence per 100,000 population",Female,,,55-59,Percentage (%),1.1
+2018,"Hepatitis B incidence per 100,000 population",Female,,,60-64,Percentage (%),2.5
+2018,"Hepatitis B incidence per 100,000 population",Female,,,15-24,Percentage (%),5.9
+2018,"Hepatitis B incidence per 100,000 population",Female,,,15-49,Percentage (%),6.1
+2018,"Hepatitis B incidence per 100,000 population",Female,,,15-64,Percentage (%),5.8
+2018,"Hepatitis B incidence per 100,000 population",Female,,Zero,,Number,1842.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,One,,Number,3930.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,Two or more,,Number,244.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,,15-19,Number,604.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,,20-24,Number,815.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,,25-29,Number,988.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,,30-34,Number,857.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,,35-39,Number,825.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,,40-44,Number,633.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,,45-49,Number,406.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,,50-54,Number,405.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,,55-59,Number,227.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,,60-64,Number,284.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,,15-24,Number,1419.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,,15-49,Number,5128.0
+2018,"Hepatitis B incidence per 100,000 population",Female,,,15-64,Number,6044.0
+2018,"Hepatitis B incidence per 100,000 population",,,Zero,,Percentage (%),8.5
+2018,"Hepatitis B incidence per 100,000 population",,,One,,Percentage (%),7.7
+2018,"Hepatitis B incidence per 100,000 population",,,Two or more,,Percentage (%),7.9
+2018,"Hepatitis B incidence per 100,000 population",,,,15-19,Percentage (%),7.9
+2018,"Hepatitis B incidence per 100,000 population",,,,20-24,Percentage (%),8.6
+2018,"Hepatitis B incidence per 100,000 population",,,,25-29,Percentage (%),9.5
+2018,"Hepatitis B incidence per 100,000 population",,,,30-34,Percentage (%),9.5
+2018,"Hepatitis B incidence per 100,000 population",,,,35-39,Percentage (%),10.2
+2018,"Hepatitis B incidence per 100,000 population",,,,40-44,Percentage (%),7.7
+2018,"Hepatitis B incidence per 100,000 population",,,,45-49,Percentage (%),5.9
+2018,"Hepatitis B incidence per 100,000 population",,,,50-54,Percentage (%),6.3
+2018,"Hepatitis B incidence per 100,000 population",,,,55-59,Percentage (%),2.5
+2018,"Hepatitis B incidence per 100,000 population",,,,60-64,Percentage (%),3.8
+2018,"Hepatitis B incidence per 100,000 population",,,,15-24,Percentage (%),8.2
+2018,"Hepatitis B incidence per 100,000 population",,,,15-49,Percentage (%),8.6
+2018,"Hepatitis B incidence per 100,000 population",,,,15-64,Percentage (%),8.1
+2018,"Hepatitis B incidence per 100,000 population",,,Zero,,Number,3280.0
+2018,"Hepatitis B incidence per 100,000 population",,,One,,Number,5965.0
+2018,"Hepatitis B incidence per 100,000 population",,,Two or more,,Number,1106.0
+2018,"Hepatitis B incidence per 100,000 population",,,,15-19,Number,1047.0
+2018,"Hepatitis B incidence per 100,000 population",,,,20-24,Number,1279.0
+2018,"Hepatitis B incidence per 100,000 population",,,,25-29,Number,1593.0
+2018,"Hepatitis B incidence per 100,000 population",,,,30-34,Number,1448.0
+2018,"Hepatitis B incidence per 100,000 population",,,,35-39,Number,1386.0
+2018,"Hepatitis B incidence per 100,000 population",,,,40-44,Number,1118.0
+2018,"Hepatitis B incidence per 100,000 population",,,,45-49,Number,811.0
+2018,"Hepatitis B incidence per 100,000 population",,,,50-54,Number,749.0
+2018,"Hepatitis B incidence per 100,000 population",,,,55-59,Number,456.0
+2018,"Hepatitis B incidence per 100,000 population",,,,60-64,Number,551.0
+2018,"Hepatitis B incidence per 100,000 population",,,,15-24,Number,2326.0
+2018,"Hepatitis B incidence per 100,000 population",,,,15-49,Number,8682.0
+2018,"Hepatitis B incidence per 100,000 population",,,,15-64,Number,10438.0

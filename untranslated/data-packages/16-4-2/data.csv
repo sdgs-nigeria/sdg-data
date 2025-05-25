@@ -1,1 +1,16 @@
-Year,Value
+Year,Series,Arms class,Value
+2019,"Total number of arms seized, small arms seized and light weapons seized",Arms Seized,303
+2020,"Total number of arms seized, small arms seized and light weapons seized",Arms Seized,325
+2021,"Total number of arms seized, small arms seized and light weapons seized",Arms Seized,260
+2022,"Total number of arms seized, small arms seized and light weapons seized",Arms Seized,338
+2023,"Total number of arms seized, small arms seized and light weapons seized",Arms Seized,262
+2019,"Total number of arms seized, small arms seized and light weapons seized",Small Arms Seized,277
+2020,"Total number of arms seized, small arms seized and light weapons seized",Small Arms Seized,143
+2021,"Total number of arms seized, small arms seized and light weapons seized",Small Arms Seized,192
+2022,"Total number of arms seized, small arms seized and light weapons seized",Small Arms Seized,237
+2023,"Total number of arms seized, small arms seized and light weapons seized",Small Arms Seized,217
+2019,"Total number of arms seized, small arms seized and light weapons seized",Light Weapons Seized,79
+2020,"Total number of arms seized, small arms seized and light weapons seized",Light Weapons Seized,156
+2021,"Total number of arms seized, small arms seized and light weapons seized",Light Weapons Seized,85
+2022,"Total number of arms seized, small arms seized and light weapons seized",Light Weapons Seized,181
+2023,"Total number of arms seized, small arms seized and light weapons seized",Light Weapons Seized,103

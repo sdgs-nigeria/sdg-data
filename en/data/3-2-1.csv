@@ -1,1 +1,131 @@
-Year,Value
+Year,Series,Sector,Gender,Wealth Index Quintile,Geopolitical Zone,Education Level,Ethnicity,State,Units,GeoCode,Value
+2017,Under 5 mortality rate,,,,,,,,Percentage (%),NG,120
+2017,Under 5 mortality rate,Urban,,,,,,,Percentage (%),NG,78
+2017,Under 5 mortality rate,Rural,,,,,,,Percentage (%),NG,138
+2017,Under 5 mortality rate,,Male,,,,,,Percentage (%),NG,126
+2017,Under 5 mortality rate,,Female,,,,,,Percentage (%),NG,114
+2017,Under 5 mortality rate,,,Poorest,,,,,Percentage (%),NG,158
+2017,Under 5 mortality rate,,,Second,,,,,Percentage (%),NG,156
+2017,Under 5 mortality rate,,,Middle,,,,,Percentage (%),NG,125
+2017,Under 5 mortality rate,,,Fourth,,,,,Percentage (%),NG,80
+2017,Under 5 mortality rate,,,Richest,,,,,Percentage (%),NG,56
+2017,Under 5 mortality rate,,,,North  Central,,,,Percentage (%),NGNCZ06,103
+2017,Under 5 mortality rate,,,,North East,,,,Percentage (%),NGNEZ05,115
+2017,Under 5 mortality rate,,,,North West,,,,Percentage (%),NGNWZ04,162
+2017,Under 5 mortality rate,,,,South East,,,,Percentage (%),NGSEZ03,67
+2017,Under 5 mortality rate,,,,South South,,,,Percentage (%),NGSSZ02,59
+2017,Under 5 mortality rate,,,,South West,,,,Percentage (%),NGSWZ01,67
+2017,Under 5 mortality rate,,,,,None,,,Percentage (%),NG,145
+2017,Under 5 mortality rate,,,,,Non Formal,,,Percentage (%),NG,164
+2017,Under 5 mortality rate,,,,,Primary,,,Percentage (%),NG,110
+2017,Under 5 mortality rate,,,,,Senior Secondary,,,Percentage (%),NG,73
+2017,Under 5 mortality rate,,,,,Higher/Tertiary,,,Percentage (%),NG,55
+2017,Under 5 mortality rate,,,,,,Hausa,,Percentage (%),NG,149
+2017,Under 5 mortality rate,,,,,,Igbo,,Percentage (%),NG,63
+2017,Under 5 mortality rate,,,,,,Yoruba,,Percentage (%),NG,68
+2017,Under 5 mortality rate,,,,,,Other ethnicity,,Percentage (%),NG,92
+2017,Under 5 mortality rate,,,,,,,Abia,Percentage (%),NGAB01,83
+2017,Under 5 mortality rate,,,,,,,Adamawa,Percentage (%),NGAD02,84
+2017,Under 5 mortality rate,,,,,,,Akwa Ibom,Percentage (%),NGAK03,73
+2017,Under 5 mortality rate,,,,,,,Anambra,Percentage (%),NGAN04,53
+2017,Under 5 mortality rate,,,,,,,Bauchi,Percentage (%),NGBA05,161
+2017,Under 5 mortality rate,,,,,,,Bayelsa,Percentage (%),NGBY06,95
+2017,Under 5 mortality rate,,,,,,,Benue,Percentage (%),NGBE07,82
+2017,Under 5 mortality rate,,,,,,,Borno,Percentage (%),NGBO08,82
+2017,Under 5 mortality rate,,,,,,,Cross River,Percentage (%),NGXR09,52
+2017,Under 5 mortality rate,,,,,,,Delta,Percentage (%),NGDE10,63
+2017,Under 5 mortality rate,,,,,,,Ebonyi,Percentage (%),NGEB11,62
+2017,Under 5 mortality rate,,,,,,,Edo,Percentage (%),NGED12,14
+2017,Under 5 mortality rate,,,,,,,Ekiti,Percentage (%),NGEK13,86
+2017,Under 5 mortality rate,,,,,,,Enugu,Percentage (%),NGEN14,32
+2017,Under 5 mortality rate,,,,,,,Gombe,Percentage (%),NGGO15,162
+2017,Under 5 mortality rate,,,,,,,Imo,Percentage (%),NGIM16,96
+2017,Under 5 mortality rate,,,,,,,Jigawa,Percentage (%),NGJI17,192
+2017,Under 5 mortality rate,,,,,,,Kaduna,Percentage (%),NGKD18,82
+2017,Under 5 mortality rate,,,,,,,Kano,Percentage (%),NGKN19,203
+2017,Under 5 mortality rate,,,,,,,Katsina,Percentage (%),NGKT20,135
+2017,Under 5 mortality rate,,,,,,,Kebbi,Percentage (%),NGKE21,174
+2017,Under 5 mortality rate,,,,,,,Kogi,Percentage (%),NGKO22,75
+2017,Under 5 mortality rate,,,,,,,Kwara,Percentage (%),NGKW23,45
+2017,Under 5 mortality rate,,,,,,,Lagos,Percentage (%),NGLA24,50
+2017,Under 5 mortality rate,,,,,,,Nasarawa,Percentage (%),NGNA25,121
+2017,Under 5 mortality rate,,,,,,,Niger,Percentage (%),NGNI26,149
+2017,Under 5 mortality rate,,,,,,,Ogun,Percentage (%),NGOG27,66
+2017,Under 5 mortality rate,,,,,,,Ondo,Percentage (%),NGON28,67
+2017,Under 5 mortality rate,,,,,,,Osun,Percentage (%),NGOS29,101
+2017,Under 5 mortality rate,,,,,,,Oyo,Percentage (%),NGOY30,73
+2017,Under 5 mortality rate,,,,,,,Plateau,Percentage (%),NGPL31,80
+2017,Under 5 mortality rate,,,,,,,Rivers,Percentage (%),NGRI32,58
+2017,Under 5 mortality rate,,,,,,,Sokoto,Percentage (%),NGSO33,119
+2017,Under 5 mortality rate,,,,,,,Taraba,Percentage (%),NGTA34,105
+2017,Under 5 mortality rate,,,,,,,Yobe,Percentage (%),NGYO35,102
+2017,Under 5 mortality rate,,,,,,,Zamfara,Percentage (%),NGZA36,210
+2017,Under 5 mortality rate,,,,,,,Federal Capital Territory,Percentage (%),NGFC37,71
+2021,Under 5 mortality rate,,,,,,,,Percentage (%),NG,102
+2021,Under 5 mortality rate,Urban,,,,,,,Percentage (%),NG,67
+2021,Under 5 mortality rate,Rural,,,,,,,Percentage (%),NG,123
+2021,Under 5 mortality rate,,Male,,,,,,Percentage (%),NG,109
+2021,Under 5 mortality rate,,Female,,,,,,Percentage (%),NG,95
+2021,Under 5 mortality rate,,,Poorest,,,,,Percentage (%),NG,133
+2021,Under 5 mortality rate,,,Second,,,,,Percentage (%),NG,135
+2021,Under 5 mortality rate,,,Middle,,,,,Percentage (%),NG,98
+2021,Under 5 mortality rate,,,Fourth,,,,,Percentage (%),NG,73
+2021,Under 5 mortality rate,,,Richest,,,,,Percentage (%),NG,47
+2021,Under 5 mortality rate,,,,North  Central,,,,Percentage (%),NGNCZ06,62
+2021,Under 5 mortality rate,,,,North East,,,,Percentage (%),NGNEZ05,114
+2021,Under 5 mortality rate,,,,North West,,,,Percentage (%),NGNWZ04,158
+2021,Under 5 mortality rate,,,,South East,,,,Percentage (%),NGSEZ03,54
+2021,Under 5 mortality rate,,,,South South,,,,Percentage (%),NGSSZ02,82
+2021,Under 5 mortality rate,,,,South West,,,,Percentage (%),NGSWZ01,48
+2021,Under 5 mortality rate,,,,,None,,,Percentage (%),NG,142
+2021,Under 5 mortality rate,,,,,Primary,,,Percentage (%),NG,107
+2021,Under 5 mortality rate,,,,,Junior Secondary,,,Percentage (%),NG,92
+2021,Under 5 mortality rate,,,,,Senior Secondary,,,Percentage (%),NG,66
+2021,Under 5 mortality rate,,,,,Higher/Tertiary,,,Percentage (%),NG,40
+2021,Under 5 mortality rate,,,,,,Hausa,,Percentage (%),NG,152
+2021,Under 5 mortality rate,,,,,,Igbo,,Percentage (%),NG,51
+2021,Under 5 mortality rate,,,,,,Yoruba,,Percentage (%),NG,53
+2021,Under 5 mortality rate,,,,,,Fulani,,Percentage (%),NG,127
+2021,Under 5 mortality rate,,,,,,Kanuri,,Percentage (%),NG,139
+2021,Under 5 mortality rate,,,,,,Ijaw,,Percentage (%),NG,86
+2021,Under 5 mortality rate,,,,,,Tiv,,Percentage (%),NG,36
+2021,Under 5 mortality rate,,,,,,Ibibio,,Percentage (%),NG,77
+2021,Under 5 mortality rate,,,,,,Edo,,Percentage (%),NG,95
+2021,Under 5 mortality rate,,,,,,Other ethnicity,,Percentage (%),NG,80
+2021,Under 5 mortality rate,,,,,,,Abia,Percentage (%),NGAB01,115
+2021,Under 5 mortality rate,,,,,,,Adamawa,Percentage (%),NGAD02,63
+2021,Under 5 mortality rate,,,,,,,Akwa Ibom,Percentage (%),NGAK03,49
+2021,Under 5 mortality rate,,,,,,,Anambra,Percentage (%),NGAN04,22
+2021,Under 5 mortality rate,,,,,,,Bauchi,Percentage (%),NGBA05,153
+2021,Under 5 mortality rate,,,,,,,Bayelsa,Percentage (%),NGBY06,100
+2021,Under 5 mortality rate,,,,,,,Benue,Percentage (%),NGBE07,42
+2021,Under 5 mortality rate,,,,,,,Borno,Percentage (%),NGBO08,140
+2021,Under 5 mortality rate,,,,,,,Cross River,Percentage (%),NGXR09,67
+2021,Under 5 mortality rate,,,,,,,Delta,Percentage (%),NGDE10,89
+2021,Under 5 mortality rate,,,,,,,Ebonyi,Percentage (%),NGEB11,24
+2021,Under 5 mortality rate,,,,,,,Edo,Percentage (%),NGED12,81
+2021,Under 5 mortality rate,,,,,,,Ekiti,Percentage (%),NGEK13,82
+2021,Under 5 mortality rate,,,,,,,Enugu,Percentage (%),NGEN14,64
+2021,Under 5 mortality rate,,,,,,,Gombe,Percentage (%),NGGO15,117
+2021,Under 5 mortality rate,,,,,,,Imo,Percentage (%),NGIM16,57
+2021,Under 5 mortality rate,,,,,,,Jigawa,Percentage (%),NGJI17,174
+2021,Under 5 mortality rate,,,,,,,Kaduna,Percentage (%),NGKD18,127
+2021,Under 5 mortality rate,,,,,,,Kano,Percentage (%),NGKN19,148
+2021,Under 5 mortality rate,,,,,,,Katsina,Percentage (%),NGKT20,159
+2021,Under 5 mortality rate,,,,,,,Kebbi,Percentage (%),NGKE21,179
+2021,Under 5 mortality rate,,,,,,,Kogi,Percentage (%),NGKO22,67
+2021,Under 5 mortality rate,,,,,,,Kwara,Percentage (%),NGKW23,42
+2021,Under 5 mortality rate,,,,,,,Lagos,Percentage (%),NGLA24,15
+2021,Under 5 mortality rate,,,,,,,Nasarawa,Percentage (%),NGNA25,65
+2021,Under 5 mortality rate,,,,,,,Niger,Percentage (%),NGNI26,61
+2021,Under 5 mortality rate,,,,,,,Ogun,Percentage (%),NGOG27,85
+2021,Under 5 mortality rate,,,,,,,Ondo,Percentage (%),NGON28,64
+2021,Under 5 mortality rate,,,,,,,Osun,Percentage (%),NGOS29,24
+2021,Under 5 mortality rate,,,,,,,Oyo,Percentage (%),NGOY30,57
+2021,Under 5 mortality rate,,,,,,,Plateau,Percentage (%),NGPL31,105
+2021,Under 5 mortality rate,,,,,,,Rivers,Percentage (%),NGRI32,100
+2021,Under 5 mortality rate,,,,,,,Sokoto,Percentage (%),NGSO33,202
+2021,Under 5 mortality rate,,,,,,,Taraba,Percentage (%),NGTA34,83
+2021,Under 5 mortality rate,,,,,,,Yobe,Percentage (%),NGYO35,52
+2021,Under 5 mortality rate,,,,,,,Zamfara,Percentage (%),NGZA36,136
+2021,Under 5 mortality rate,,,,,,,Federal Capital Territory,Percentage (%),NGFC37,41

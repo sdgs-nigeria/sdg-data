@@ -1,1 +1,4 @@
-Year,Value
+Year,Series,Gender,Value
+2016,Mortality rate attributed to household and ambient air pollution,,175.0
+2017,Mortality rate attributed to household and ambient air pollution,Male,176.8
+2018,Mortality rate attributed to household and ambient air pollution,Female,172.8

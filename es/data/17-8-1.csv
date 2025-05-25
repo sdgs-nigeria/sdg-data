@@ -1,1 +1,141 @@
-Year,Value
+Year,Series,Sector,Gender,Wealth Index Quintile,Geopolitical zone,Ethnicity,State,Age group,GeoCode,Value
+2021,Proportion of individuals using the Internet,,Male,,,,,,NG,41.6
+2021,Proportion of individuals using the Internet,Urban,Male,,,,,,NG,61.3
+2021,Proportion of individuals using the Internet,Rural,Male,,,,,,NG,25.5
+2021,Proportion of individuals using the Internet,,Male,,,,,15-19,NG,31.8
+2021,Proportion of individuals using the Internet,,Male,,,,,15-17,NG,27.4
+2021,Proportion of individuals using the Internet,,Male,,,,,18-19,NG,39.4
+2021,Proportion of individuals using the Internet,,Male,,,,,20-24,NG,47.4
+2021,Proportion of individuals using the Internet,,Male,,,,,25-29,NG,50.7
+2021,Proportion of individuals using the Internet,,Male,,,,,30-34,NG,46.5
+2021,Proportion of individuals using the Internet,,Male,,,,,35-39,NG,47.6
+2021,Proportion of individuals using the Internet,,Male,,,,,40-44,NG,41.5
+2021,Proportion of individuals using the Internet,,Male,,,,,45-49,NG,31.7
+2021,Proportion of individuals using the Internet,,Male,,,Hausa,,,NG,31.2
+2021,Proportion of individuals using the Internet,,Male,,,Igbo,,,NG,60.5
+2021,Proportion of individuals using the Internet,,Male,,,Yoruba,,,NG,50.3
+2021,Proportion of individuals using the Internet,,Male,,,Fulani,,,NG,21.5
+2021,Proportion of individuals using the Internet,,Male,,,Kanuri,,,NG,43.2
+2021,Proportion of individuals using the Internet,,Male,,,Ijaw,,,NG,48.9
+2021,Proportion of individuals using the Internet,,Male,,,Tiv,,,NG,22.7
+2021,Proportion of individuals using the Internet,,Male,,,Ibibio,,,NG,51.1
+2021,Proportion of individuals using the Internet,,Male,,,Edo,,,NG,61.9
+2021,Proportion of individuals using the Internet,,Male,,,Other ethnicity,,,NG,39.8
+2021,Proportion of individuals using the Internet,,Male,Poorest,,,,,NG,9.7
+2021,Proportion of individuals using the Internet,,Male,Second,,,,,NG,19.5
+2021,Proportion of individuals using the Internet,,Male,Middle,,,,,NG,34.8
+2021,Proportion of individuals using the Internet,,Male,Fourth,,,,,NG,53.2
+2021,Proportion of individuals using the Internet,,Male,Richest,,,,,NG,79.1
+2021,Proportion of individuals using the Internet,,Male,,North  Central,,,,NGNCZ06,32.6
+2021,Proportion of individuals using the Internet,,Male,,North East,,,,NGNEZ05,31.2
+2021,Proportion of individuals using the Internet,,Male,,North West,,,,NGNWZ04,31.6
+2021,Proportion of individuals using the Internet,,Male,,South East,,,,NGSEZ03,55.1
+2021,Proportion of individuals using the Internet,,Male,,South South,,,,NGSSZ02,54.9
+2021,Proportion of individuals using the Internet,,Male,,South West,,,,NGSWZ01,51.1
+2021,Proportion of individuals using the Internet,,Male,,,,Abia,,NGAB01,21.6
+2021,Proportion of individuals using the Internet,,Male,,,,Adamawa,,NGAD02,18.9
+2021,Proportion of individuals using the Internet,,Male,,,,Akwa Ibom,,NGAK03,38.4
+2021,Proportion of individuals using the Internet,,Male,,,,Anambra,,NGAN04,69.2
+2021,Proportion of individuals using the Internet,,Male,,,,Bauchi,,NGBA05,31.9
+2021,Proportion of individuals using the Internet,,Male,,,,Bayelsa,,NGBY06,47.7
+2021,Proportion of individuals using the Internet,,Male,,,,Benue,,NGBE07,20.1
+2021,Proportion of individuals using the Internet,,Male,,,,Borno,,NGBO08,48.1
+2021,Proportion of individuals using the Internet,,Male,,,,Cross River,,NGXR09,30.0
+2021,Proportion of individuals using the Internet,,Male,,,,Delta,,NGDE10,68.6
+2021,Proportion of individuals using the Internet,,Male,,,,Ebonyi,,NGEB11,49.5
+2021,Proportion of individuals using the Internet,,Male,,,,Edo,,NGED12,57.9
+2021,Proportion of individuals using the Internet,,Male,,,,Ekiti,,NGEK13,31.2
+2021,Proportion of individuals using the Internet,,Male,,,,Enugu,,NGEN14,52.8
+2021,Proportion of individuals using the Internet,,Male,,,,Gombe,,NGGO15,35.6
+2021,Proportion of individuals using the Internet,,Male,,,,Imo,,NGIM16,72.7
+2021,Proportion of individuals using the Internet,,Male,,,,Jigawa,,NGJI17,30.0
+2021,Proportion of individuals using the Internet,,Male,,,,Kaduna,,NGKD18,47.8
+2021,Proportion of individuals using the Internet,,Male,,,,Kano,,NGKN19,51.8
+2021,Proportion of individuals using the Internet,,Male,,,,Katsina,,NGKT20,14.3
+2021,Proportion of individuals using the Internet,,Male,,,,Kebbi,,NGKE21,13.2
+2021,Proportion of individuals using the Internet,,Male,,,,Kogi,,NGKO22,26.3
+2021,Proportion of individuals using the Internet,,Male,,,,Kwara,,NGKW23,29.1
+2021,Proportion of individuals using the Internet,,Male,,,,Lagos,,NGLA24,81.2
+2021,Proportion of individuals using the Internet,,Male,,,,Nasarawa,,NGNA25,47.1
+2021,Proportion of individuals using the Internet,,Male,,,,Niger,,NGNI26,22.7
+2021,Proportion of individuals using the Internet,,Male,,,,Ogun,,NGOG27,43.6
+2021,Proportion of individuals using the Internet,,Male,,,,Ondo,,NGON28,43.4
+2021,Proportion of individuals using the Internet,,Male,,,,Osun,,NGOS29,41.0
+2021,Proportion of individuals using the Internet,,Male,,,,Oyo,,NGOY30,16.1
+2021,Proportion of individuals using the Internet,,Male,,,,Plateau,,NGPL31,36.0
+2021,Proportion of individuals using the Internet,,Male,,,,Rivers,,NGRI32,71.5
+2021,Proportion of individuals using the Internet,,Male,,,,Sokoto,,NGSO33,11.4
+2021,Proportion of individuals using the Internet,,Male,,,,Taraba,,NGTA34,16.5
+2021,Proportion of individuals using the Internet,,Male,,,,Yobe,,NGYO35,29.9
+2021,Proportion of individuals using the Internet,,Male,,,,Zamfara,,NGZA36,16.9
+2021,Proportion of individuals using the Internet,,Male,,,,Federal Capital Territory,,NGFC37,66.3
+2021,Proportion of individuals using the Internet,,Female,,,,,,NG,24.0
+2021,Proportion of individuals using the Internet,Urban,Female,,,,,,NG,39.7
+2021,Proportion of individuals using the Internet,Rural,Female,,,,,,NG,10.6
+2021,Proportion of individuals using the Internet,,Female,,,,,15-19,NG,20.8
+2021,Proportion of individuals using the Internet,,Female,,,,,15-17,NG,18.4
+2021,Proportion of individuals using the Internet,,Female,,,,,18-19,NG,25.1
+2021,Proportion of individuals using the Internet,,Female,,,,,20-24,NG,31.5
+2021,Proportion of individuals using the Internet,,Female,,,,,25-29,NG,28.2
+2021,Proportion of individuals using the Internet,,Female,,,,,30-34,NG,26.1
+2021,Proportion of individuals using the Internet,,Female,,,,,35-39,NG,23.3
+2021,Proportion of individuals using the Internet,,Female,,,,,40-44,NG,18.6
+2021,Proportion of individuals using the Internet,,Female,,,,,45-49,NG,14.5
+2021,Proportion of individuals using the Internet,,Female,,,Hausa,,,NG,9.6
+2021,Proportion of individuals using the Internet,,Female,,,Igbo,,,NG,43.1
+2021,Proportion of individuals using the Internet,,Female,,,Yoruba,,,NG,36.3
+2021,Proportion of individuals using the Internet,,Female,,,Fulani,,,NG,7.3
+2021,Proportion of individuals using the Internet,,Female,,,Kanuri,,,NG,11.2
+2021,Proportion of individuals using the Internet,,Female,,,Ijaw,,,NG,32.0
+2021,Proportion of individuals using the Internet,,Female,,,Tiv,,,NG,13.1
+2021,Proportion of individuals using the Internet,,Female,,,Ibibio,,,NG,38.9
+2021,Proportion of individuals using the Internet,,Female,,,Edo,,,NG,45.0
+2021,Proportion of individuals using the Internet,,Female,,,Other ethnicity,,,NG,21.2
+2021,Proportion of individuals using the Internet,,Female,Poorest,,,,,NG,2.1
+2021,Proportion of individuals using the Internet,,Female,Second,,,,,NG,6.1
+2021,Proportion of individuals using the Internet,,Female,Middle,,,,,NG,14.1
+2021,Proportion of individuals using the Internet,,Female,Fourth,,,,,NG,29.5
+2021,Proportion of individuals using the Internet,,Female,Richest,,,,,NG,58.9
+2021,Proportion of individuals using the Internet,,Female,,North  Central,,,,NGNCZ06,18.1
+2021,Proportion of individuals using the Internet,,Female,,North East,,,,NGNEZ05,9.1
+2021,Proportion of individuals using the Internet,,Female,,North West,,,,NGNWZ04,10.1
+2021,Proportion of individuals using the Internet,,Female,,South East,,,,NGSEZ03,39.2
+2021,Proportion of individuals using the Internet,,Female,,South South,,,,NGSSZ02,34.7
+2021,Proportion of individuals using the Internet,,Female,,South West,,,,NGSWZ01,38.6
+2021,Proportion of individuals using the Internet,,Female,,,,Abia,,NGAB01,20.8
+2021,Proportion of individuals using the Internet,,Female,,,,Adamawa,,NGAD02,7.3
+2021,Proportion of individuals using the Internet,,Female,,,,Akwa Ibom,,NGAK03,31.1
+2021,Proportion of individuals using the Internet,,Female,,,,Anambra,,NGAN04,36.3
+2021,Proportion of individuals using the Internet,,Female,,,,Bauchi,,NGBA05,3.5
+2021,Proportion of individuals using the Internet,,Female,,,,Bayelsa,,NGBY06,31.7
+2021,Proportion of individuals using the Internet,,Female,,,,Benue,,NGBE07,12.6
+2021,Proportion of individuals using the Internet,,Female,,,,Borno,,NGBO08,10.5
+2021,Proportion of individuals using the Internet,,Female,,,,Cross River,,NGXR09,22.5
+2021,Proportion of individuals using the Internet,,Female,,,,Delta,,NGDE10,30.6
+2021,Proportion of individuals using the Internet,,Female,,,,Ebonyi,,NGEB11,38.9
+2021,Proportion of individuals using the Internet,,Female,,,,Edo,,NGED12,41.5
+2021,Proportion of individuals using the Internet,,Female,,,,Ekiti,,NGEK13,22.3
+2021,Proportion of individuals using the Internet,,Female,,,,Enugu,,NGEN14,49.3
+2021,Proportion of individuals using the Internet,,Female,,,,Gombe,,NGGO15,11.6
+2021,Proportion of individuals using the Internet,,Female,,,,Imo,,NGIM16,46.9
+2021,Proportion of individuals using the Internet,,Female,,,,Jigawa,,NGJI17,3.1
+2021,Proportion of individuals using the Internet,,Female,,,,Kaduna,,NGKD18,19.6
+2021,Proportion of individuals using the Internet,,Female,,,,Kano,,NGKN19,15.5
+2021,Proportion of individuals using the Internet,,Female,,,,Katsina,,NGKT20,7.5
+2021,Proportion of individuals using the Internet,,Female,,,,Kebbi,,NGKE21,2.3
+2021,Proportion of individuals using the Internet,,Female,,,,Kogi,,NGKO22,18.7
+2021,Proportion of individuals using the Internet,,Female,,,,Kwara,,NGKW23,20.9
+2021,Proportion of individuals using the Internet,,Female,,,,Lagos,,NGLA24,64.9
+2021,Proportion of individuals using the Internet,,Female,,,,Nasarawa,,NGNA25,12.3
+2021,Proportion of individuals using the Internet,,Female,,,,Niger,,NGNI26,15.7
+2021,Proportion of individuals using the Internet,,Female,,,,Ogun,,NGOG27,22.1
+2021,Proportion of individuals using the Internet,,Female,,,,Ondo,,NGON28,24.0
+2021,Proportion of individuals using the Internet,,Female,,,,Osun,,NGOS29,24.6
+2021,Proportion of individuals using the Internet,,Female,,,,Oyo,,NGOY30,25.8
+2021,Proportion of individuals using the Internet,,Female,,,,Plateau,,NGPL31,19.4
+2021,Proportion of individuals using the Internet,,Female,,,,Rivers,,NGRI32,42.9
+2021,Proportion of individuals using the Internet,,Female,,,,Sokoto,,NGSO33,5.4
+2021,Proportion of individuals using the Internet,,Female,,,,Taraba,,NGTA34,19.7
+2021,Proportion of individuals using the Internet,,Female,,,,Yobe,,NGYO35,8.4
+2021,Proportion of individuals using the Internet,,Female,,,,Zamfara,,NGZA36,4.6
+2021,Proportion of individuals using the Internet,,Female,,,,Federal Capital Territory,,NGFC37,32.3

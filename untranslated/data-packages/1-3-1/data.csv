@@ -1,69 +1,69 @@
-Year,Degree of urbanisation,Sex,Wealth Index Quintile,Geopolitical zone,Education Status,Ethnicity,State,Value
-2021,,,,,,,,21.9
-2021,Urban,,,,,,,19.3
-2021,Rural,,,,,,,23.7
-2021,,Male,,,,,,22.4
-2021,,Female,,,,,,18.0
-2021,,,Poorest,,,,,18.8
-2021,,,Second,,,,,26.3
-2021,,,Middle,,,,,24.6
-2021,,,Fourth,,,,,22.3
-2021,,,Richest,,,,,17.3
-2021,,,,North  Central,,,,9.1
-2021,,,,North East,,,,33.8
-2021,,,,North West,,,,29.2
-2021,,,,South East,,,,10.3
-2021,,,,South South,,,,25.0
-2021,,,,South West,,,,16.4
-2021,,,,,None,,,21.5
-2021,,,,,Primary,,,26.0
-2021,,,,,Junior Secondary,,,21.4
-2021,,,,,Senior Secondary,,,18.8
-2021,,,,,Higher/Tertiary,,,22.0
-2021,,,,,,Hausa,,29.6
-2021,,,,,,Igbo,,11.0
-2021,,,,,,Yoruba,,16.7
-2021,,,,,,Fulani,,22.3
-2021,,,,,,Kanuri,,30.7
-2021,,,,,,Ijaw,,19.2
-2021,,,,,,Tiv,,7.2
-2021,,,,,,Ibibio,,41.4
-2021,,,,,,Edo,,15.7
-2021,,,,,,Other ethnicity,,22.2
-2021,,,,,,,Abia,8.2
-2021,,,,,,,Adamawa,48.7
-2021,,,,,,,Akwa-Ibom,55.9
-2021,,,,,,,Anambra,8.0
-2021,,,,,,,Bauchi,39.4
-2021,,,,,,,Bayelsa,15.3
-2021,,,,,,,Benue,6.6
-2021,,,,,,,Borno,32.7
-2021,,,,,,,Cross River,7.4
-2021,,,,,,,Delta,19.7
-2021,,,,,,,Ebonyi,13.5
-2021,,,,,,,Edo,12.6
-2021,,,,,,,Ekiti,19.3
-2021,,,,,,,Enugu,5.7
-2021,,,,,,,Gombe,23.6
-2021,,,,,,,Imo,16.7
-2021,,,,,,,Jigawa,39.1
-2021,,,,,,,Kaduna,19.6
-2021,,,,,,,Kano,41.2
-2021,,,,,,,Katsina,27.7
-2021,,,,,,,Kebbi,28.0
-2021,,,,,,,Kogi,6.5
-2021,,,,,,,Kwara,6.8
-2021,,,,,,,Lagos,12.0
-2021,,,,,,,Nasarawa,10.2
-2021,,,,,,,Niger,16.4
-2021,,,,,,,Ogun,14.6
-2021,,,,,,,Ondo,6.3
-2021,,,,,,,Osun,11.7
-2021,,,,,,,Oyo,33.2
-2021,,,,,,,Plateau,7.0
-2021,,,,,,,Rivers,30.0
-2021,,,,,,,Sokoto,22.8
-2021,,,,,,,Taraba,25.8
-2021,,,,,,,Yobe,22.2
-2021,,,,,,,Zamfara,10.5
-2021,,,,,,,FCT Abuja,6.5
+Year,Series,Sector,Gender,Wealth Index Quintile,Geopolitical Zone,Education Level,Ethnicity,State,Units,GeoCode,Value
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,,Percentage (%),NG,21.9
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",Urban,,,,,,,Percentage (%),NG,19.3
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",Rural,,,,,,,Percentage (%),NG,23.7
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,Male,,,,,,Percentage (%),NG,22.4
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,Female,,,,,,Percentage (%),NG,18.0
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,Poorest,,,,,Percentage (%),NG,18.8
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,Second,,,,,Percentage (%),NG,26.3
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,Middle,,,,,Percentage (%),NG,24.6
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,Fourth,,,,,Percentage (%),NG,22.3
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,Richest,,,,,Percentage (%),NG,17.3
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,North  Central,,,,Percentage (%),NGNCZ06,9.1
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,North East,,,,Percentage (%),NGNEZ05,33.8
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,North West,,,,Percentage (%),NGNWZ04,29.2
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,South East,,,,Percentage (%),NGSEZ03,10.3
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,South South,,,,Percentage (%),NGSSZ02,25.0
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,South West,,,,Percentage (%),NGSWZ01,16.4
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,None,,,Percentage (%),NG,21.5
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,Primary,,,Percentage (%),NG,26.0
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,Junior Secondary,,,Percentage (%),NG,21.4
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,Senior Secondary,,,Percentage (%),NG,18.8
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,Higher/Tertiary,,,Percentage (%),NG,22.0
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,Hausa,,Percentage (%),NG,29.6
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,Igbo,,Percentage (%),NG,11.0
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,Yoruba,,Percentage (%),NG,16.7
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,Fulani,,Percentage (%),NG,22.3
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,Kanuri,,Percentage (%),NG,30.7
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,Ijaw,,Percentage (%),NG,19.2
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,Tiv,,Percentage (%),NG,7.2
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,Ibibio,,Percentage (%),NG,41.4
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,Edo,,Percentage (%),NG,15.7
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,Other ethnicity,,Percentage (%),NG,22.2
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Abia,Percentage (%),NGAB01,8.2
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Adamawa,Percentage (%),NGAD02,48.7
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Akwa Ibom,Percentage (%),NGAK03,55.9
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Anambra,Percentage (%),NGAN04,8.0
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Bauchi,Percentage (%),NGBA05,39.4
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Bayelsa,Percentage (%),NGBY06,15.3
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Benue,Percentage (%),NGBE07,6.6
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Borno,Percentage (%),NGBO08,32.7
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Cross River,Percentage (%),NGXR09,7.4
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Delta,Percentage (%),NGDE10,19.7
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Ebonyi,Percentage (%),NGEB11,13.5
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Edo,Percentage (%),NGED12,12.6
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Ekiti,Percentage (%),NGEK13,19.3
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Enugu,Percentage (%),NGEN14,5.7
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Gombe,Percentage (%),NGGO15,23.6
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Imo,Percentage (%),NGIM16,16.7
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Jigawa,Percentage (%),NGJI17,39.1
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Kaduna,Percentage (%),NGKD18,19.6
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Kano,Percentage (%),NGKN19,41.2
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Katsina,Percentage (%),NGKT20,27.7
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Kebbi,Percentage (%),NGKE21,28.0
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Kogi,Percentage (%),NGKO22,6.5
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Kwara,Percentage (%),NGKW23,6.8
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Lagos,Percentage (%),NGLA24,12.0
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Nasarawa,Percentage (%),NGNA25,10.2
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Niger,Percentage (%),NGNI26,16.4
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Ogun,Percentage (%),NGOG27,14.6
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Ondo,Percentage (%),NGON28,6.3
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Osun,Percentage (%),NGOS29,11.7
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Oyo,Percentage (%),NGOY30,33.2
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Plateau,Percentage (%),NGPL31,7.0
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Rivers,Percentage (%),NGRI32,30.0
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Sokoto,Percentage (%),NGSO33,22.8
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Taraba,Percentage (%),NGTA34,25.8
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Yobe,Percentage (%),NGYO35,22.2
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Zamfara,Percentage (%),NGZA36,10.5
+2021,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",,,,,,,Federal Capital Territory,Percentage (%),NGFC37,6.5

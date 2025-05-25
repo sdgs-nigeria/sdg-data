@@ -1,1 +1,7 @@
-Year,Value
+Year,Series,Sector,Value
+2016,Proportion of people that have access to mobile phones and internet,,74.4
+2021,Proportion of people that have access to mobile phones and internet,,87.7
+2016,Proportion of people that have access to mobile phones and internet,Urban,89.8
+2021,Proportion of people that have access to mobile phones and internet,Urban,95.6
+2016,Proportion of people that have access to mobile phones and internet,Rural,65.5
+2021,Proportion of people that have access to mobile phones and internet,Rural,80.8

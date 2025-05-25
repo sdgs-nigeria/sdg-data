@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

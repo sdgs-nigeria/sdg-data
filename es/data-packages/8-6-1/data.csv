@@ -1,1 +1,52 @@
-Year,Value
+Year,Series,Sector,Gender,State,Period,Units,GeoCode,Value
+2022,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,,Q4 2022,Percentage (%),NG,12.1
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,,Q1 2023,Percentage (%),NG,10.0
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,,Q2 2023,Percentage (%),NG,13.8
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,,Q3 2023,Percentage (%),NG,13.7
+2024,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,,Q1 2024,Percentage (%),NG,15.6
+2024,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,,Q2 2024,Percentage (%),NG,14.4
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,Male,,Q2 2023,Percentage (%),NG,11.4
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,Male,,Q3 2023,Percentage (%),NG,12.0
+2024,"Proportion of youth (aged 15-24 years) not in education, employment or training",,Male,,Q1 2024,Percentage (%),NG,14.1
+2024,"Proportion of youth (aged 15-24 years) not in education, employment or training",,Male,,Q2 2024,Percentage (%),NG,13.0
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,Female,,Q2 2023,Percentage (%),NG,16.3
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,Female,,Q3 2023,Percentage (%),NG,15.5
+2024,"Proportion of youth (aged 15-24 years) not in education, employment or training",,Female,,Q1 2024,Percentage (%),NG,17.3
+2024,"Proportion of youth (aged 15-24 years) not in education, employment or training",,Female,,Q2 2024,Percentage (%),NG,15.9
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Abia,,Percentage (%),NGAB01,38.1
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Adamawa,,Percentage (%),NGAD02,19.7
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Akwa Ibom,,Percentage (%),NGAK03,12.4
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Anambra,,Percentage (%),NGAN04,17.9
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Bauchi,,Percentage (%),NGBA05,6.0
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Bayelsa,,Percentage (%),NGBY06,14.9
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Benue,,Percentage (%),NGBE07,10.6
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Borno,,Percentage (%),NGBO08,12.5
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Cross River,,Percentage (%),NGXR09,13.5
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Delta,,Percentage (%),NGDE10,27.1
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Ebonyi,,Percentage (%),NGEB11,15.2
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Edo,,Percentage (%),NGED12,19.7
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Ekiti,,Percentage (%),NGEK13,27.9
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Enugu,,Percentage (%),NGEN14,19.5
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Gombe,,Percentage (%),NGGO15,18.8
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Imo,,Percentage (%),NGIM16,23.9
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Jigawa,,Percentage (%),NGJI17,15.8
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Kaduna,,Percentage (%),NGKD18,10.3
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Kano,,Percentage (%),NGKN19,12.5
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Katsina,,Percentage (%),NGKT20,7.7
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Kebbi,,Percentage (%),NGKE21,5.0
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Kogi,,Percentage (%),NGKO22,19.6
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Kwara,,Percentage (%),NGKW23,12.7
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Lagos,,Percentage (%),NGLA24,15.1
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Nasarawa,,Percentage (%),NGNA25,7.4
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Niger,,Percentage (%),NGNI26,10.6
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Ogun,,Percentage (%),NGOG27,22.4
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Ondo,,Percentage (%),NGON28,21.1
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Osun,,Percentage (%),NGOS29,20.5
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Oyo,,Percentage (%),NGOY30,7.0
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Plateau,,Percentage (%),NGPL31,10.7
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Rivers,,Percentage (%),NGRI32,36.0
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Sokoto,,Percentage (%),NGSO33,12.3
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Taraba,,Percentage (%),NGTA34,14.6
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Yobe,,Percentage (%),NGYO35,12.6
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Zamfara,,Percentage (%),NGZA36,4.5
+2023,"Proportion of youth (aged 15-24 years) not in education, employment or training",,,Federal Capital Territory,,Percentage (%),NGFC37,27.3

@@ -1,1 +1,199 @@
-Year,Value
+Year,Series,Severity,Sector,Wealth Index Quintile,Geopolitical Zone,Education Level,Ethnicity,State,Units,GeoCode,Value
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,,Percentage (%),NG,46.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,Urban,,,,,,Percentage (%),NG,45.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,Rural,,,,,,Percentage (%),NG,47.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,Poorest,,,,,Percentage (%),NG,48.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,Second,,,,,Percentage (%),NG,47.1
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,Middle,,,,,Percentage (%),NG,48.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,Fourth,,,,,Percentage (%),NG,48.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,Richest,,,,,Percentage (%),NG,39.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,North  Central,,,,Percentage (%),NGNCZ06,47.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,North East,,,,Percentage (%),NGNEZ05,42.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,North West,,,,Percentage (%),NGNWZ04,47.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,South East,,,,Percentage (%),NGSEZ03,50.5
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,South South,,,,Percentage (%),NGSSZ02,49.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,South West,,,,Percentage (%),NGSWZ01,41.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,None,,,Percentage (%),NG,46.9
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,Primary,,,Percentage (%),NG,49.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,Junior Secondary,,,Percentage (%),NG,48.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,Senior Secondary,,,Percentage (%),NG,46.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,Higher/Tertiary,,,Percentage (%),NG,41.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,Hausa,,Percentage (%),NG,47.1
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,Igbo,,Percentage (%),NG,48.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,Yoruba,,Percentage (%),NG,43.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,Fulani,,Percentage (%),NG,45.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,Kanuri,,Percentage (%),NG,46.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,Ijaw,,Percentage (%),NG,52.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,Tiv,,Percentage (%),NG,38.5
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,Ibibio,,Percentage (%),NG,52.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,Edo,,Percentage (%),NG,39.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,Other ethnicity,,Percentage (%),NG,47.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Abia,Percentage (%),NGAB01,53.5
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Adamawa,Percentage (%),NGAD02,34.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Akwa Ibom,Percentage (%),NGAK03,55.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Anambra,Percentage (%),NGAN04,53.1
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Bauchi,Percentage (%),NGBA05,51.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Bayelsa,Percentage (%),NGBY06,55.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Benue,Percentage (%),NGBE07,41.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Borno,Percentage (%),NGBO08,39.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Cross River,Percentage (%),NGXR09,54.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Delta,Percentage (%),NGDE10,44.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Ebonyi,Percentage (%),NGEB11,44.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Edo,Percentage (%),NGED12,43.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Ekiti,Percentage (%),NGEK13,44.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Enugu,Percentage (%),NGEN14,48.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Gombe,Percentage (%),NGGO15,38.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Imo,Percentage (%),NGIM16,50.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Jigawa,Percentage (%),NGJI17,48.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Kaduna,Percentage (%),NGKD18,45.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Kano,Percentage (%),NGKN19,48.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Katsina,Percentage (%),NGKT20,51.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Kebbi,Percentage (%),NGKE21,48.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Kogi,Percentage (%),NGKO22,47.5
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Kwara,Percentage (%),NGKW23,46.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Lagos,Percentage (%),NGLA24,41.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Nasarawa,Percentage (%),NGNA25,43.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Niger,Percentage (%),NGNI26,54.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Ogun,Percentage (%),NGOG27,45.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Ondo,Percentage (%),NGON28,39.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Osun,Percentage (%),NGOS29,41.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Oyo,Percentage (%),NGOY30,38.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Plateau,Percentage (%),NGPL31,50.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Rivers,Percentage (%),NGRI32,49.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Sokoto,Percentage (%),NGSO33,44.1
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Taraba,Percentage (%),NGTA34,38.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Yobe,Percentage (%),NGYO35,47.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Zamfara,Percentage (%),NGZA36,44.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate,,,,,,Federal Capital Territory,Percentage (%),NGFC37,46.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,,Percentage (%),NG,26.9
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,Urban,,,,,,Percentage (%),NG,26.1
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,Rural,,,,,,Percentage (%),NG,27.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,Poorest,,,,,Percentage (%),NG,30.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,Second,,,,,Percentage (%),NG,28.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,Middle,,,,,Percentage (%),NG,30.1
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,Fourth,,,,,Percentage (%),NG,27.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,Richest,,,,,Percentage (%),NG,19.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,North  Central,,,,Percentage (%),NGNCZ06,28.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,North East,,,,Percentage (%),NGNEZ05,29.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,North West,,,,Percentage (%),NGNWZ04,26.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,South East,,,,Percentage (%),NGSEZ03,26.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,South South,,,,Percentage (%),NGSSZ02,27.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,South West,,,,Percentage (%),NGSWZ01,24.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,None,,,Percentage (%),NG,27.9
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,Primary,,,Percentage (%),NG,28.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,Junior Secondary,,,Percentage (%),NG,28.9
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,Senior Secondary,,,Percentage (%),NG,27.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,Higher/Tertiary,,,Percentage (%),NG,22.1
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,Hausa,,Percentage (%),NG,26.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,Igbo,,Percentage (%),NG,25.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,Yoruba,,Percentage (%),NG,25.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,Fulani,,Percentage (%),NG,23.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,Kanuri,,Percentage (%),NG,34.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,Ijaw,,Percentage (%),NG,21.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,Tiv,,Percentage (%),NG,21.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,Ibibio,,Percentage (%),NG,29.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,Edo,,Percentage (%),NG,28.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,Other ethnicity,,Percentage (%),NG,30.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Abia,Percentage (%),NGAB01,21.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Adamawa,Percentage (%),NGAD02,24.9
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Akwa Ibom,Percentage (%),NGAK03,33.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Anambra,Percentage (%),NGAN04,12.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Bauchi,Percentage (%),NGBA05,32.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Bayelsa,Percentage (%),NGBY06,24.9
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Benue,Percentage (%),NGBE07,20.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Borno,Percentage (%),NGBO08,26.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Cross River,Percentage (%),NGXR09,28.9
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Delta,Percentage (%),NGDE10,20.5
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Ebonyi,Percentage (%),NGEB11,32.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Edo,Percentage (%),NGED12,27.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Ekiti,Percentage (%),NGEK13,26.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Enugu,Percentage (%),NGEN14,35.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Gombe,Percentage (%),NGGO15,17.1
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Imo,Percentage (%),NGIM16,35.1
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Jigawa,Percentage (%),NGJI17,25.9
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Kaduna,Percentage (%),NGKD18,40.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Kano,Percentage (%),NGKN19,17.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Katsina,Percentage (%),NGKT20,28.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Kebbi,Percentage (%),NGKE21,26.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Kogi,Percentage (%),NGKO22,35.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Kwara,Percentage (%),NGKW23,27.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Lagos,Percentage (%),NGLA24,26.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Nasarawa,Percentage (%),NGNA25,23.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Niger,Percentage (%),NGNI26,26.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Ogun,Percentage (%),NGOG27,25.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Ondo,Percentage (%),NGON28,22.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Osun,Percentage (%),NGOS29,21.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Oyo,Percentage (%),NGOY30,23.5
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Plateau,Percentage (%),NGPL31,41.5
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Rivers,Percentage (%),NGRI32,29.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Sokoto,Percentage (%),NGSO33,16.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Taraba,Percentage (%),NGTA34,43.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Yobe,Percentage (%),NGYO35,35.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Zamfara,Percentage (%),NGZA36,32.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe,,,,,,Federal Capital Territory,Percentage (%),NGFC37,24.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,,Percentage (%),NG,73.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,Urban,,,,,,Percentage (%),NG,71.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,Rural,,,,,,Percentage (%),NG,74.9
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,Poorest,,,,,Percentage (%),NG,78.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,Second,,,,,Percentage (%),NG,75.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,Middle,,,,,Percentage (%),NG,78.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,Fourth,,,,,Percentage (%),NG,76.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,Richest,,,,,Percentage (%),NG,58.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,North  Central,,,,Percentage (%),NGNCZ06,76.1
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,North East,,,,Percentage (%),NGNEZ05,72.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,North West,,,,Percentage (%),NGNWZ04,73.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,South East,,,,Percentage (%),NGSEZ03,77.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,South South,,,,Percentage (%),NGSSZ02,77.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,South West,,,,Percentage (%),NGSWZ01,66.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,None,,,Percentage (%),NG,74.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,Primary,,,Percentage (%),NG,77.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,Junior Secondary,,,Percentage (%),NG,77.1
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,Senior Secondary,,,Percentage (%),NG,74.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,Higher/Tertiary,,,Percentage (%),NG,63.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,Hausa,,Percentage (%),NG,73.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,Igbo,,Percentage (%),NG,74.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,Yoruba,,Percentage (%),NG,68.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,Fulani,,Percentage (%),NG,69.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,Kanuri,,Percentage (%),NG,80.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,Ijaw,,Percentage (%),NG,74.5
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,Tiv,,Percentage (%),NG,59.9
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,Ibibio,,Percentage (%),NG,82.3
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,Edo,,Percentage (%),NG,67.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,Other ethnicity,,Percentage (%),NG,77.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Abia,Percentage (%),NGAB01,74.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Adamawa,Percentage (%),NGAD02,59.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Akwa Ibom,Percentage (%),NGAK03,89.1
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Anambra,Percentage (%),NGAN04,65.5
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Bauchi,Percentage (%),NGBA05,83.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Bayelsa,Percentage (%),NGBY06,80.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Benue,Percentage (%),NGBE07,62.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Borno,Percentage (%),NGBO08,65.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Cross River,Percentage (%),NGXR09,83.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Delta,Percentage (%),NGDE10,64.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Ebonyi,Percentage (%),NGEB11,77.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Edo,Percentage (%),NGED12,70.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Ekiti,Percentage (%),NGEK13,71.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Enugu,Percentage (%),NGEN14,83.9
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Gombe,Percentage (%),NGGO15,55.9
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Imo,Percentage (%),NGIM16,86.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Jigawa,Percentage (%),NGJI17,74.5
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Kaduna,Percentage (%),NGKD18,86.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Kano,Percentage (%),NGKN19,66.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Katsina,Percentage (%),NGKT20,79.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Kebbi,Percentage (%),NGKE21,74.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Kogi,Percentage (%),NGKO22,82.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Kwara,Percentage (%),NGKW23,73.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Lagos,Percentage (%),NGLA24,67.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Nasarawa,Percentage (%),NGNA25,67.5
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Niger,Percentage (%),NGNI26,80.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Ogun,Percentage (%),NGOG27,71.4
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Ondo,Percentage (%),NGON28,62.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Osun,Percentage (%),NGOS29,62.6
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Oyo,Percentage (%),NGOY30,62.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Plateau,Percentage (%),NGPL31,92.0
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Rivers,Percentage (%),NGRI32,78.7
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Sokoto,Percentage (%),NGSO33,60.8
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Taraba,Percentage (%),NGTA34,81.5
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Yobe,Percentage (%),NGYO35,82.9
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Zamfara,Percentage (%),NGZA36,77.2
+2021,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate or Severe,,,,,,Federal Capital Territory,Percentage (%),NGFC37,70.8

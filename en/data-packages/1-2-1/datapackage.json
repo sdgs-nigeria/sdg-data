@@ -16,7 +16,18 @@
             "title": "Year"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population living below the national poverty line, by sex, and age",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +36,7 @@
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "Sector"
           },
           {
             "name": "State",
@@ -39,7 +50,6 @@
                 "Bauchi",
                 "Bayelsa",
                 "Benue",
-                "Borno",
                 "Cross River",
                 "Delta",
                 "Ebonyi",
@@ -68,11 +78,27 @@
                 "Taraba",
                 "Yobe",
                 "Zamfara",
-                "FCT",
+                "Federal Capital Territory",
                 ""
               ]
             },
             "title": "State"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

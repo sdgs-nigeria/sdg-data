@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of domestic and industrial wastewater flows safely treated",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

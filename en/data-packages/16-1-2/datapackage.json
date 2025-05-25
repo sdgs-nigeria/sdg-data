@@ -12,12 +12,68 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Value",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Communal Clash-Related Conflict Cases",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Category of disaster effect",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deaths",
+                "Displaced Persons",
+                "Directly Affected Persons",
+                "Injuries",
+                ""
+              ]
+            },
+            "title": "Category of disaster effect"
+          },
+          {
+            "name": "State",
             "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "State"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -25,15 +25,15 @@
                 "Electricity",
                 "Radio",
                 "Television",
-                "Internet",
                 "Telephone",
+                "Internet",
                 ""
               ]
             },
             "title": "Access to Basic Services"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -42,7 +42,7 @@
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "Sector"
           },
           {
             "name": "Wealth Index Quintile",
@@ -97,13 +97,13 @@
               "enum": [
                 "Abia",
                 "Adamawa",
-                "Akwa-Ibom",
+                "Akwa Ibom",
                 "Anambra",
                 "Bauchi",
                 "Bayelsa",
                 "Benue",
                 "Borno",
-                "Cross-River",
+                "Cross River",
                 "Delta",
                 "Ebonyi",
                 "Edo",
@@ -131,11 +131,16 @@
                 "Taraba",
                 "Yobe",
                 "Zamfara",
-                "FCT",
+                "Federal Capital Territory",
                 ""
               ]
             },
             "title": "State"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

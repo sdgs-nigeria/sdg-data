@@ -1,1 +1,6 @@
-Year,Value
+Year,Series,Units,Value
+2016,"PM2.5 air pollution, mean annual exposure",micrograms per cubic meter,65.43
+2017,"PM2.5 air pollution, mean annual exposure",micrograms per cubic meter,63.21
+2018,"PM2.5 air pollution, mean annual exposure",micrograms per cubic meter,57.02
+2019,"PM2.5 air pollution, mean annual exposure",micrograms per cubic meter,51.72
+2020,"PM2.5 air pollution, mean annual exposure",micrograms per cubic meter,56.53

@@ -1,1 +1,67 @@
-Year,Value
+Year,Series,Sector,Age at most recent live birth,Wealth Index Quintile,Geopolitical Zone,Education Level,Ethnicity,Place of delivery,Units,GeoCode,Value
+2017,Proportion of births attended by skilled health personnel,,,,,,,,Percentage (%),NG,43.0
+2017,Proportion of births attended by skilled health personnel,Urban,,,,,,,Percentage (%),NG,67.1
+2017,Proportion of births attended by skilled health personnel,Rural,,,,,,,Percentage (%),NG,32.9
+2017,Proportion of births attended by skilled health personnel,,Less than 20,,,,,,Percentage (%),NG,31.4
+2017,Proportion of births attended by skilled health personnel,,20-34,,,,,,Percentage (%),NG,45.1
+2017,Proportion of births attended by skilled health personnel,,35-49,,,,,,Percentage (%),NG,43.5
+2017,Proportion of births attended by skilled health personnel,,,Poorest,,,,,Percentage (%),NG,12.8
+2017,Proportion of births attended by skilled health personnel,,,Second,,,,,Percentage (%),NG,24.3
+2017,Proportion of births attended by skilled health personnel,,,Middle,,,,,Percentage (%),NG,42.1
+2017,Proportion of births attended by skilled health personnel,,,Fourth,,,,,Percentage (%),NG,63.5
+2017,Proportion of births attended by skilled health personnel,,,Richest,,,,,Percentage (%),NG,84.9
+2017,Proportion of births attended by skilled health personnel,,,,North  Central,,,,Percentage (%),NGNCZ06,50.3
+2017,Proportion of births attended by skilled health personnel,,,,North East,,,,Percentage (%),NGNEZ05,34.0
+2017,Proportion of births attended by skilled health personnel,,,,North West,,,,Percentage (%),NGNWZ04,23.6
+2017,Proportion of births attended by skilled health personnel,,,,South East,,,,Percentage (%),NGSEZ03,90.7
+2017,Proportion of births attended by skilled health personnel,,,,South South,,,,Percentage (%),NGSSZ02,64.0
+2017,Proportion of births attended by skilled health personnel,,,,South West,,,,Percentage (%),NGSWZ01,82.7
+2017,Proportion of births attended by skilled health personnel,,,,,None,,,Percentage (%),NG,22.4
+2017,Proportion of births attended by skilled health personnel,,,,,Non-formal,,,Percentage (%),NG,16.5
+2017,Proportion of births attended by skilled health personnel,,,,,Primary,,,Percentage (%),NG,44.1
+2017,Proportion of births attended by skilled health personnel,,,,,Secondary,,,Percentage (%),NG,70.9
+2017,Proportion of births attended by skilled health personnel,,,,,Higher,,,Percentage (%),NG,92.7
+2017,Proportion of births attended by skilled health personnel,,,,,,Hausa,,Percentage (%),NG,25.6
+2017,Proportion of births attended by skilled health personnel,,,,,,Igbo,,Percentage (%),NG,88.8
+2017,Proportion of births attended by skilled health personnel,,,,,,Yoruba,,Percentage (%),NG,82.4
+2017,Proportion of births attended by skilled health personnel,,,,,,Other ethnic group,,Percentage (%),NG,52.6
+2017,Proportion of births attended by skilled health personnel,,,,,,,Home,Percentage (%),NG,10.7
+2017,Proportion of births attended by skilled health personnel,,,,,,,Health facility,Percentage (%),NG,95.6
+2017,Proportion of births attended by skilled health personnel,,,,,,,Public,Percentage (%),NG,97.6
+2017,Proportion of births attended by skilled health personnel,,,,,,,Private,Percentage (%),NG,92.0
+2022,Proportion of births attended by skilled health personnel,,,,,,,,Percentage (%),NG,50.7
+2022,Proportion of births attended by skilled health personnel,Urban,,,,,,,Percentage (%),NG,77.3
+2022,Proportion of births attended by skilled health personnel,Rural,,,,,,,Percentage (%),NG,35.5
+2022,Proportion of births attended by skilled health personnel,,Less than 20,,,,,,Percentage (%),NG,34.8
+2022,Proportion of births attended by skilled health personnel,,20-34,,,,,,Percentage (%),NG,51.8
+2022,Proportion of births attended by skilled health personnel,,35-49,,,,,,Percentage (%),NG,55.7
+2022,Proportion of births attended by skilled health personnel,,,Poorest,,,,,Percentage (%),NG,22.1
+2022,Proportion of births attended by skilled health personnel,,,Second,,,,,Percentage (%),NG,32.9
+2022,Proportion of births attended by skilled health personnel,,,Middle,,,,,Percentage (%),NG,51.5
+2022,Proportion of births attended by skilled health personnel,,,Fourth,,,,,Percentage (%),NG,73.0
+2022,Proportion of births attended by skilled health personnel,,,Richest,,,,,Percentage (%),NG,91.8
+2022,Proportion of births attended by skilled health personnel,,,,North  Central,,,,Percentage (%),NGNCZ06,59.3
+2022,Proportion of births attended by skilled health personnel,,,,North East,,,,Percentage (%),NGNEZ05,35.4
+2022,Proportion of births attended by skilled health personnel,,,,North West,,,,Percentage (%),NGNWZ04,24.2
+2022,Proportion of births attended by skilled health personnel,,,,South East,,,,Percentage (%),NGSEZ03,92.8
+2022,Proportion of births attended by skilled health personnel,,,,South South,,,,Percentage (%),NGSSZ02,63.7
+2022,Proportion of births attended by skilled health personnel,,,,South West,,,,Percentage (%),NGSWZ01,79.7
+2022,Proportion of births attended by skilled health personnel,,,,,None,,,Percentage (%),NG,21.4
+2022,Proportion of births attended by skilled health personnel,,,,,Primary,,,Percentage (%),NG,42.9
+2022,Proportion of births attended by skilled health personnel,,,,,Senior secondary,,,Percentage (%),NG,56.1
+2022,Proportion of births attended by skilled health personnel,,,,,Secondary,,,Percentage (%),NG,76.7
+2022,Proportion of births attended by skilled health personnel,,,,,Higher,,,Percentage (%),NG,92.6
+2022,Proportion of births attended by skilled health personnel,,,,,,,Home,Percentage (%),NG,10.7
+2022,Proportion of births attended by skilled health personnel,,,,,,,Health facility,Percentage (%),NG,92.1
+2022,Proportion of births attended by skilled health personnel,,,,,,,Public,Percentage (%),NG,91.5
+2022,Proportion of births attended by skilled health personnel,,,,,,,Private,Percentage (%),NG,93.2
+2022,Proportion of births attended by skilled health personnel,,,,,,Hausa,,Percentage (%),NG,26.3
+2022,Proportion of births attended by skilled health personnel,,,,,,Igbo,,Percentage (%),NG,91.8
+2022,Proportion of births attended by skilled health personnel,,,,,,Yoruba,,Percentage (%),NG,81.9
+2022,Proportion of births attended by skilled health personnel,,,,,,Fulani,,Percentage (%),NG,24.7
+2022,Proportion of births attended by skilled health personnel,,,,,,Kanuri,,Percentage (%),NG,36.6
+2022,Proportion of births attended by skilled health personnel,,,,,,Ijaw,,Percentage (%),NG,41.3
+2022,Proportion of births attended by skilled health personnel,,,,,,Tiv,,Percentage (%),NG,52.4
+2022,Proportion of births attended by skilled health personnel,,,,,,Ibibio,,Percentage (%),NG,44.7
+2022,Proportion of births attended by skilled health personnel,,,,,,Edo,,Percentage (%),NG,91.6
+2022,Proportion of births attended by skilled health personnel,,,,,,Other ethnic group,,Percentage (%),NG,57.4

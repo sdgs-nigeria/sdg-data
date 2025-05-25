@@ -12,8 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children and young people achieving at least a minimum proficiency level in (i) reading",
+                "Proportion of children and young people achieving at least a minimum proficiency level in (ii) mathematics",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Grade",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "grade 2/3",
+                "end of primary",
+                "end of lower secondary",
+                ""
+              ]
+            },
+            "title": "Grade"
           },
           {
             "name": "Value",

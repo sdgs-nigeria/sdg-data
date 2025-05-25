@@ -12,7 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GDP Growth rate",
+                "Fiscal deficits",
+                "Inflation Rate",
+                "Monetary Policy Rate",
+                "Money Supply",
+                "Total Trade",
+                "Foreign Direct Investment",
+                "Unemployment Rate",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Naira",
+                "USD",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

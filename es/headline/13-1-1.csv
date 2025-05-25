@@ -1,1 +1,10 @@
-Year,Value
+Year,Value,Units,Series
+2022,0.02,No per 100000,Number of deaths attributed to disasters
+2022,26.05,No per 100001,Number of displaced persons attributed to disasters
+2022,48.77,No per 100002,Number of directly affected persons attributed to disasters
+2023,0.01,No per 100003,Number of deaths attributed to disasters
+2023,2.76,No per 100004,Number of displaced persons attributed to disasters
+2023,6.43,No per 100005,Number of directly affected persons attributed to disasters
+2024,0.01,No per 100006,Number of deaths attributed to disasters
+2024,1.9,No per 100007,Number of displaced persons attributed to disasters
+2024,5.56,No per 100008,Number of directly affected persons attributed to disasters

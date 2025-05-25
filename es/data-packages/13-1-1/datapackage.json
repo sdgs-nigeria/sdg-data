@@ -12,8 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths attributed to disasters",
+                "Number of displaced persons attributed to disasters",
+                "Number of directly affected persons attributed to disasters",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "No per 100000",
+                "No per 100001",
+                "No per 100002",
+                "No per 100003",
+                "No per 100004",
+                "No per 100005",
+                "No per 100006",
+                "No per 100007",
+                "No per 100008",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

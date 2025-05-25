@@ -1,1 +1,265 @@
-Year,Value
+Year,Series,Distance,Geopolitical zone,State,GeoCode,Value
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,,NG,75.4
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,North Central,,NGNCZ06,76.8
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,North East,,NGNEZ05,73.0
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,North West,,NGNWZ04,81.2
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,South East,,NGSEZ03,67.9
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,South South,,NGSSZ02,75.3
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,South West,,NGSWZ01,77.9
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Abia,NGAB01,61.5
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Adamawa,NGAD02,65.7
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Akwa Ibom,NGAK03,67.9
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Anambra,NGAN04,77.3
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Bauchi,NGBA05,80.9
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Bayelsa,NGBY06,86.7
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Benue,NGBE07,73.1
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Borno,NGBO08,77.4
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Cross River,NGXR09,76.2
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Delta,NGDE10,67.0
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Ebonyi,NGEB11,53.5
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Edo,NGED12,84.0
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Ekiti,NGEK13,87.4
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Enugu,NGEN14,66.8
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Gombe,NGGO15,83.2
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Imo,NGIM16,71.7
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Jigawa,NGJI17,87.9
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Kaduna,NGKD18,72.5
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Kano,NGKN19,80.0
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Katsina,NGKT20,81.5
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Kebbi,NGKE21,87.5
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Kogi,NGKO22,70.4
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Kwara,NGKW23,80.9
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Lagos,NGLA24,89.0
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Nasarawa,NGNA25,82.8
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Niger,NGNI26,75.2
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Ogun,NGOG27,78.8
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Ondo,NGON28,66.3
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Osun,NGOS29,76.1
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Oyo,NGOY30,71.6
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Plateau,NGPL31,77.3
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Rivers,NGRI32,80.9
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Sokoto,NGSO33,77.7
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Taraba,NGTA34,71.0
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Yobe,NGYO35,65.7
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Zamfara,NGZA36,86.4
+2022,Distance of nearest market where farmers sell their goods,Less than 1 KM,,Federal Capital Territory,NGFC37,90.3
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,,NG,19.3
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,North Central,,NGNCZ06,17.9
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,North East,,NGNEZ05,17.5
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,North West,,NGNWZ04,15.0
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,South East,,NGSEZ03,27.0
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,South South,,NGSSZ02,20.7
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,South West,,NGSWZ01,17.3
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Abia,NGAB01,33.9
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Adamawa,NGAD02,20.4
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Akwa Ibom,NGAK03,27.7
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Anambra,NGAN04,18.3
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Bauchi,NGBA05,11.9
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Bayelsa,NGBY06,12.0
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Benue,NGBE07,21.0
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Borno,NGBO08,18.3
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Cross River,NGXR09,15.3
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Delta,NGDE10,29.9
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Ebonyi,NGEB11,38.4
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Edo,NGED12,14.3
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Ekiti,NGEK13,7.7
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Enugu,NGEN14,25.8
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Gombe,NGGO15,6.8
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Imo,NGIM16,25.5
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Jigawa,NGJI17,5.4
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Kaduna,NGKD18,24.1
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Kano,NGKN19,15.3
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Katsina,NGKT20,15.4
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Kebbi,NGKE21,11.2
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Kogi,NGKO22,20.8
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Kwara,NGKW23,15.0
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Lagos,NGLA24,8.3
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Nasarawa,NGNA25,8.6
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Niger,NGNI26,20.5
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Ogun,NGOG27,16.3
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Ondo,NGON28,29.2
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Osun,NGOS29,20.7
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Oyo,NGOY30,20.9
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Plateau,NGPL31,20.0
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Rivers,NGRI32,15.5
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Sokoto,NGSO33,16.6
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Taraba,NGTA34,22.9
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Yobe,NGYO35,19.9
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Zamfara,NGZA36,11.5
+2022,Distance of nearest market where farmers sell their goods,1 to 2 KM,,Federal Capital Territory,NGFC37,8.1
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,,NG,5.2
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,North Central,,NGNCZ06,5.4
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,North East,,NGNEZ05,9.6
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,North West,,NGNWZ04,3.9
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,South East,,NGSEZ03,5.1
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,South South,,NGSSZ02,4.0
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,South West,,NGSWZ01,4.7
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Abia,NGAB01,4.6
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Adamawa,NGAD02,13.9
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Akwa Ibom,NGAK03,4.4
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Anambra,NGAN04,4.4
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Bauchi,NGBA05,7.2
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Bayelsa,NGBY06,1.3
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Benue,NGBE07,5.9
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Borno,NGBO08,4.3
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Cross River,NGXR09,8.5
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Delta,NGDE10,3.1
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Ebonyi,NGEB11,8.1
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Edo,NGED12,1.7
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Ekiti,NGEK13,4.9
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Enugu,NGEN14,7.4
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Gombe,NGGO15,9.9
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Imo,NGIM16,2.8
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Jigawa,NGJI17,6.6
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Kaduna,NGKD18,3.5
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Kano,NGKN19,4.7
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Katsina,NGKT20,3.1
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Kebbi,NGKE21,1.4
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Kogi,NGKO22,8.8
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Kwara,NGKW23,4.1
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Lagos,NGLA24,2.8
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Nasarawa,NGNA25,8.6
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Niger,NGNI26,4.3
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Ogun,NGOG27,4.9
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Ondo,NGON28,4.5
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Osun,NGOS29,3.2
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Oyo,NGOY30,7.5
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Plateau,NGPL31,2.7
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Rivers,NGRI32,3.6
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Sokoto,NGSO33,5.7
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Taraba,NGTA34,6.1
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Yobe,NGYO35,14.4
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Zamfara,NGZA36,2.0
+2022,Distance of nearest market where farmers sell their goods,Above 2 KM,,Federal Capital Territory,NGFC37,1.6
+2022,Distance of nearest health facility,Less than 1 KM,,,NG,80.7
+2022,Distance of nearest health facility,Less than 1 KM,North Central,,NGNCZ06,83.6
+2022,Distance of nearest health facility,Less than 1 KM,North East,,NGNEZ05,80.3
+2022,Distance of nearest health facility,Less than 1 KM,North West,,NGNWZ04,85.2
+2022,Distance of nearest health facility,Less than 1 KM,South East,,NGSEZ03,67.7
+2022,Distance of nearest health facility,Less than 1 KM,South South,,NGSSZ02,80.9
+2022,Distance of nearest health facility,Less than 1 KM,South West,,NGSWZ01,81.2
+2022,Distance of nearest health facility,Less than 1 KM,,Abia,NGAB01,60.7
+2022,Distance of nearest health facility,Less than 1 KM,,Adamawa,NGAD02,78.0
+2022,Distance of nearest health facility,Less than 1 KM,,Akwa Ibom,NGAK03,77.9
+2022,Distance of nearest health facility,Less than 1 KM,,Anambra,NGAN04,71.7
+2022,Distance of nearest health facility,Less than 1 KM,,Bauchi,NGBA05,86.4
+2022,Distance of nearest health facility,Less than 1 KM,,Bayelsa,NGBY06,92.9
+2022,Distance of nearest health facility,Less than 1 KM,,Benue,NGBE07,86.0
+2022,Distance of nearest health facility,Less than 1 KM,,Borno,NGBO08,76.5
+2022,Distance of nearest health facility,Less than 1 KM,,Cross River,NGXR09,86.3
+2022,Distance of nearest health facility,Less than 1 KM,,Delta,NGDE10,68.0
+2022,Distance of nearest health facility,Less than 1 KM,,Ebonyi,NGEB11,36.4
+2022,Distance of nearest health facility,Less than 1 KM,,Edo,NGED12,89.6
+2022,Distance of nearest health facility,Less than 1 KM,,Ekiti,NGEK13,63.6
+2022,Distance of nearest health facility,Less than 1 KM,,Enugu,NGEN14,70.6
+2022,Distance of nearest health facility,Less than 1 KM,,Gombe,NGGO15,89.1
+2022,Distance of nearest health facility,Less than 1 KM,,Imo,NGIM16,70.3
+2022,Distance of nearest health facility,Less than 1 KM,,Jigawa,NGJI17,94.8
+2022,Distance of nearest health facility,Less than 1 KM,,Kaduna,NGKD18,79.6
+2022,Distance of nearest health facility,Less than 1 KM,,Kano,NGKN19,84.8
+2022,Distance of nearest health facility,Less than 1 KM,,Katsina,NGKT20,86.6
+2022,Distance of nearest health facility,Less than 1 KM,,Kebbi,NGKE21,85.2
+2022,Distance of nearest health facility,Less than 1 KM,,Kogi,NGKO22,78.0
+2022,Distance of nearest health facility,Less than 1 KM,,Kwara,NGKW23,86.2
+2022,Distance of nearest health facility,Less than 1 KM,,Lagos,NGLA24,86.4
+2022,Distance of nearest health facility,Less than 1 KM,,Nasarawa,NGNA25,76.0
+2022,Distance of nearest health facility,Less than 1 KM,,Niger,NGNI26,81.5
+2022,Distance of nearest health facility,Less than 1 KM,,Ogun,NGOG27,76.9
+2022,Distance of nearest health facility,Less than 1 KM,,Ondo,NGON28,67.2
+2022,Distance of nearest health facility,Less than 1 KM,,Osun,NGOS29,80.5
+2022,Distance of nearest health facility,Less than 1 KM,,Oyo,NGOY30,87.1
+2022,Distance of nearest health facility,Less than 1 KM,,Plateau,NGPL31,83.6
+2022,Distance of nearest health facility,Less than 1 KM,,Rivers,NGRI32,83.1
+2022,Distance of nearest health facility,Less than 1 KM,,Sokoto,NGSO33,76.3
+2022,Distance of nearest health facility,Less than 1 KM,,Taraba,NGTA34,76.1
+2022,Distance of nearest health facility,Less than 1 KM,,Yobe,NGYO35,76.9
+2022,Distance of nearest health facility,Less than 1 KM,,Zamfara,NGZA36,90.1
+2022,Distance of nearest health facility,Less than 1 KM,,Federal Capital Territory,NGFC37,98.7
+2022,Distance of nearest health facility,1 to 2 KM,,,NG,16.0
+2022,Distance of nearest health facility,1 to 2 KM,North Central,,NGNCZ06,13.5
+2022,Distance of nearest health facility,1 to 2 KM,North East,,NGNEZ05,14.9
+2022,Distance of nearest health facility,1 to 2 KM,North West,,NGNWZ04,12.5
+2022,Distance of nearest health facility,1 to 2 KM,South East,,NGSEZ03,27.6
+2022,Distance of nearest health facility,1 to 2 KM,South South,,NGSSZ02,16.3
+2022,Distance of nearest health facility,1 to 2 KM,South West,,NGSWZ01,15.4
+2022,Distance of nearest health facility,1 to 2 KM,,Abia,NGAB01,36.6
+2022,Distance of nearest health facility,1 to 2 KM,,Adamawa,NGAD02,14.5
+2022,Distance of nearest health facility,1 to 2 KM,,Akwa Ibom,NGAK03,18.0
+2022,Distance of nearest health facility,1 to 2 KM,,Anambra,NGAN04,26.0
+2022,Distance of nearest health facility,1 to 2 KM,,Bauchi,NGBA05,12.5
+2022,Distance of nearest health facility,1 to 2 KM,,Bayelsa,NGBY06,7.1
+2022,Distance of nearest health facility,1 to 2 KM,,Benue,NGBE07,12.5
+2022,Distance of nearest health facility,1 to 2 KM,,Borno,NGBO08,19.1
+2022,Distance of nearest health facility,1 to 2 KM,,Cross River,NGXR09,8.8
+2022,Distance of nearest health facility,1 to 2 KM,,Delta,NGDE10,27.6
+2022,Distance of nearest health facility,1 to 2 KM,,Ebonyi,NGEB11,51.5
+2022,Distance of nearest health facility,1 to 2 KM,,Edo,NGED12,9.8
+2022,Distance of nearest health facility,1 to 2 KM,,Ekiti,NGEK13,30.3
+2022,Distance of nearest health facility,1 to 2 KM,,Enugu,NGEN14,20.3
+2022,Distance of nearest health facility,1 to 2 KM,,Gombe,NGGO15,9.4
+2022,Distance of nearest health facility,1 to 2 KM,,Imo,NGIM16,24.1
+2022,Distance of nearest health facility,1 to 2 KM,,Jigawa,NGJI17,3.8
+2022,Distance of nearest health facility,1 to 2 KM,,Kaduna,NGKD18,17.9
+2022,Distance of nearest health facility,1 to 2 KM,,Kano,NGKN19,12.7
+2022,Distance of nearest health facility,1 to 2 KM,,Katsina,NGKT20,11.1
+2022,Distance of nearest health facility,1 to 2 KM,,Kebbi,NGKE21,13.3
+2022,Distance of nearest health facility,1 to 2 KM,,Kogi,NGKO22,16.1
+2022,Distance of nearest health facility,1 to 2 KM,,Kwara,NGKW23,12.3
+2022,Distance of nearest health facility,1 to 2 KM,,Lagos,NGLA24,8.6
+2022,Distance of nearest health facility,1 to 2 KM,,Nasarawa,NGNA25,14.0
+2022,Distance of nearest health facility,1 to 2 KM,,Niger,NGNI26,16.2
+2022,Distance of nearest health facility,1 to 2 KM,,Ogun,NGOG27,18.8
+2022,Distance of nearest health facility,1 to 2 KM,,Ondo,NGON28,31.0
+2022,Distance of nearest health facility,1 to 2 KM,,Osun,NGOS29,16.5
+2022,Distance of nearest health facility,1 to 2 KM,,Oyo,NGOY30,11.2
+2022,Distance of nearest health facility,1 to 2 KM,,Plateau,NGPL31,14.9
+2022,Distance of nearest health facility,1 to 2 KM,,Rivers,NGRI32,15.0
+2022,Distance of nearest health facility,1 to 2 KM,,Sokoto,NGSO33,19.4
+2022,Distance of nearest health facility,1 to 2 KM,,Taraba,NGTA34,14.5
+2022,Distance of nearest health facility,1 to 2 KM,,Yobe,NGYO35,17.7
+2022,Distance of nearest health facility,1 to 2 KM,,Zamfara,NGZA36,9.2
+2022,Distance of nearest health facility,1 to 2 KM,,Federal Capital Territory,NGFC37,1.3
+2022,Distance of nearest health facility,Above 2 KM,,,NG,3.3
+2022,Distance of nearest health facility,Above 2 KM,North Central,,NGNCZ06,2.9
+2022,Distance of nearest health facility,Above 2 KM,North East,,NGNEZ05,4.8
+2022,Distance of nearest health facility,Above 2 KM,North West,,NGNWZ04,2.3
+2022,Distance of nearest health facility,Above 2 KM,South East,,NGSEZ03,4.6
+2022,Distance of nearest health facility,Above 2 KM,South South,,NGSSZ02,2.8
+2022,Distance of nearest health facility,Above 2 KM,South West,,NGSWZ01,3.4
+2022,Distance of nearest health facility,Above 2 KM,,Abia,NGAB01,2.6
+2022,Distance of nearest health facility,Above 2 KM,,Adamawa,NGAD02,7.5
+2022,Distance of nearest health facility,Above 2 KM,,Akwa Ibom,NGAK03,4.1
+2022,Distance of nearest health facility,Above 2 KM,,Anambra,NGAN04,2.4
+2022,Distance of nearest health facility,Above 2 KM,,Bauchi,NGBA05,1.1
+2022,Distance of nearest health facility,Above 2 KM,,Bayelsa,NGBY06,0.0
+2022,Distance of nearest health facility,Above 2 KM,,Benue,NGBE07,1.5
+2022,Distance of nearest health facility,Above 2 KM,,Borno,NGBO08,4.4
+2022,Distance of nearest health facility,Above 2 KM,,Cross River,NGXR09,4.9
+2022,Distance of nearest health facility,Above 2 KM,,Delta,NGDE10,4.4
+2022,Distance of nearest health facility,Above 2 KM,,Ebonyi,NGEB11,12.1
+2022,Distance of nearest health facility,Above 2 KM,,Edo,NGED12,0.6
+2022,Distance of nearest health facility,Above 2 KM,,Ekiti,NGEK13,6.1
+2022,Distance of nearest health facility,Above 2 KM,,Enugu,NGEN14,9.2
+2022,Distance of nearest health facility,Above 2 KM,,Gombe,NGGO15,1.6
+2022,Distance of nearest health facility,Above 2 KM,,Imo,NGIM16,5.6
+2022,Distance of nearest health facility,Above 2 KM,,Jigawa,NGJI17,1.4
+2022,Distance of nearest health facility,Above 2 KM,,Kaduna,NGKD18,2.5
+2022,Distance of nearest health facility,Above 2 KM,,Kano,NGKN19,2.5
+2022,Distance of nearest health facility,Above 2 KM,,Katsina,NGKT20,2.3
+2022,Distance of nearest health facility,Above 2 KM,,Kebbi,NGKE21,1.5
+2022,Distance of nearest health facility,Above 2 KM,,Kogi,NGKO22,5.9
+2022,Distance of nearest health facility,Above 2 KM,,Kwara,NGKW23,1.4
+2022,Distance of nearest health facility,Above 2 KM,,Lagos,NGLA24,5.0
+2022,Distance of nearest health facility,Above 2 KM,,Nasarawa,NGNA25,10.0
+2022,Distance of nearest health facility,Above 2 KM,,Niger,NGNI26,2.3
+2022,Distance of nearest health facility,Above 2 KM,,Ogun,NGOG27,4.3
+2022,Distance of nearest health facility,Above 2 KM,,Ondo,NGON28,1.7
+2022,Distance of nearest health facility,Above 2 KM,,Osun,NGOS29,2.9
+2022,Distance of nearest health facility,Above 2 KM,,Oyo,NGOY30,1.8
+2022,Distance of nearest health facility,Above 2 KM,,Plateau,NGPL31,1.5
+2022,Distance of nearest health facility,Above 2 KM,,Rivers,NGRI32,1.9
+2022,Distance of nearest health facility,Above 2 KM,,Sokoto,NGSO33,4.3
+2022,Distance of nearest health facility,Above 2 KM,,Taraba,NGTA34,9.4
+2022,Distance of nearest health facility,Above 2 KM,,Yobe,NGYO35,5.4
+2022,Distance of nearest health facility,Above 2 KM,,Zamfara,NGZA36,0.8
+2022,Distance of nearest health facility,Above 2 KM,,Federal Capital Territory,NGFC37,0.0

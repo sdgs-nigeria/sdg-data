@@ -1,1 +1,64 @@
-Year,Value
+Year,Series,Gender,Sector,Ethnicity,Wealth Index Quintile,Geopolitical zone,State,GeoCode,Value
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,,NG,34.7
+2021,Participation rate in organized learning (one year before the official primary entry age),Male,,,,,,NG,35.3
+2021,Participation rate in organized learning (one year before the official primary entry age),Female,,,,,,NG,34.1
+2021,Participation rate in organized learning (one year before the official primary entry age),,Urban,,,,,NG,50.7
+2021,Participation rate in organized learning (one year before the official primary entry age),,Rural,,,,,NG,24.2
+2021,Participation rate in organized learning (one year before the official primary entry age),,,Hausa,,,,NG,17.2
+2021,Participation rate in organized learning (one year before the official primary entry age),,,Igbo,,,,NG,53.7
+2021,Participation rate in organized learning (one year before the official primary entry age),,,Yoruba,,,,NG,62.0
+2021,Participation rate in organized learning (one year before the official primary entry age),,,Fulani,,,,NG,13.1
+2021,Participation rate in organized learning (one year before the official primary entry age),,,Kanuri,,,,NG,12.5
+2021,Participation rate in organized learning (one year before the official primary entry age),,,Ijaw,,,,NG,48.0
+2021,Participation rate in organized learning (one year before the official primary entry age),,,Tiv,,,,NG,35.2
+2021,Participation rate in organized learning (one year before the official primary entry age),,,Ibibio,,,,NG,59.4
+2021,Participation rate in organized learning (one year before the official primary entry age),,,Edo,,,,NG,61.7
+2021,Participation rate in organized learning (one year before the official primary entry age),,,Other ethnicity,,,,NG,37.6
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,Poorest,,,NG,13.1
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,Second,,,NG,21.7
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,Middle,,,NG,38.7
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,Fourth,,,NG,52.5
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,Richest,,,NG,55.6
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,North  Central,,NGNCZ06,33.1
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,North East,,NGNEZ05,14.6
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,North West,,NGNWZ04,16.4
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,South East,,NGSEZ03,54.2
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,South South,,NGSSZ02,60.1
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,South West,,NGSWZ01,59.7
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Abia,NGAB01,49.8
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Adamawa,NGAD02,26.7
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Akwa Ibom,NGAK03,58.5
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Anambra,NGAN04,52.6
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Bauchi,NGBA05,8.4
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Bayelsa,NGBY06,61.8
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Benue,NGBE07,36.8
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Borno,NGBO08,17.7
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Cross River,NGXR09,61.1
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Delta,NGDE10,68.9
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Ebonyi,NGEB11,66.7
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Edo,NGED12,61.1
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Ekiti,NGEK13,62.6
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Enugu,NGEN14,43.8
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Gombe,NGGO15,14.8
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Imo,NGIM16,58.6
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Jigawa,NGJI17,14.4
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Kaduna,NGKD18,32.7
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Kano,NGKN19,20.3
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Katsina,NGKT20,15.9
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Kebbi,NGKE21,5.0
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Kogi,NGKO22,38.5
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Kwara,NGKW23,46.0
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Lagos,NGLA24,58.4
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Nasarawa,NGNA25,28.6
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Niger,NGNI26,11.8
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Ogun,NGOG27,64.8
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Ondo,NGON28,68.2
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Osun,NGOS29,63.4
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Oyo,NGOY30,49.5
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Plateau,NGPL31,37.4
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Rivers,NGRI32,52.9
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Sokoto,NGSO33,8.7
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Taraba,NGTA34,12.6
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Yobe,NGYO35,6.9
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Zamfara,NGZA36,5.7
+2021,Participation rate in organized learning (one year before the official primary entry age),,,,,,Federal Capital Territory,NGFC37,45.6

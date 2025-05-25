@@ -1,1 +1,131 @@
-Year,Value
+Year,Series,Sector,Gender,Wealth Index Quintile,Geopolitical Zone,Education Level,Ethnicity,State,Units,GeoCode,Value
+2017,Neonatal mortality rate,,,,,,,,Percentage (%),NG,39
+2017,Neonatal mortality rate,Urban,,,,,,,Percentage (%),NG,35
+2017,Neonatal mortality rate,Rural,,,,,,,Percentage (%),NG,40
+2017,Neonatal mortality rate,,Male,,,,,,Percentage (%),NG,44
+2017,Neonatal mortality rate,,Female,,,,,,Percentage (%),NG,33
+2017,Neonatal mortality rate,,,Poorest,,,,,Percentage (%),NG,39
+2017,Neonatal mortality rate,,,Second,,,,,Percentage (%),NG,42
+2017,Neonatal mortality rate,,,Middle,,,,,Percentage (%),NG,44
+2017,Neonatal mortality rate,,,Fourth,,,,,Percentage (%),NG,36
+2017,Neonatal mortality rate,,,Richest,,,,,Percentage (%),NG,30
+2017,Neonatal mortality rate,,,,North  Central,,,,Percentage (%),NGNCZ06,43
+2017,Neonatal mortality rate,,,,North East,,,,Percentage (%),NGNEZ05,33
+2017,Neonatal mortality rate,,,,North West,,,,Percentage (%),NGNWZ04,45
+2017,Neonatal mortality rate,,,,South East,,,,Percentage (%),NGSEZ03,26
+2017,Neonatal mortality rate,,,,South South,,,,Percentage (%),NGSSZ02,22
+2017,Neonatal mortality rate,,,,South West,,,,Percentage (%),NGSWZ01,36
+2017,Neonatal mortality rate,,,,,None,,,Percentage (%),NG,43
+2017,Neonatal mortality rate,,,,,Non Formal,,,Percentage (%),NG,41
+2017,Neonatal mortality rate,,,,,Primary,,,Percentage (%),NG,39
+2017,Neonatal mortality rate,,,,,Senior Secondary,,,Percentage (%),NG,33
+2017,Neonatal mortality rate,,,,,Higher/Tertiary,,,Percentage (%),NG,34
+2017,Neonatal mortality rate,,,,,,Hausa,,Percentage (%),NG,42
+2017,Neonatal mortality rate,,,,,,Igbo,,Percentage (%),NG,28
+2017,Neonatal mortality rate,,,,,,Yoruba,,Percentage (%),NG,37
+2017,Neonatal mortality rate,,,,,,Other ethnicity,,Percentage (%),NG,36
+2017,Neonatal mortality rate,,,,,,,Abia,Percentage (%),NGAB01,32
+2017,Neonatal mortality rate,,,,,,,Adamawa,Percentage (%),NGAD02,21
+2017,Neonatal mortality rate,,,,,,,Akwa Ibom,Percentage (%),NGAK03,21
+2017,Neonatal mortality rate,,,,,,,Anambra,Percentage (%),NGAN04,23
+2017,Neonatal mortality rate,,,,,,,Bauchi,Percentage (%),NGBA05,41
+2017,Neonatal mortality rate,,,,,,,Bayelsa,Percentage (%),NGBY06,29
+2017,Neonatal mortality rate,,,,,,,Benue,Percentage (%),NGBE07,41
+2017,Neonatal mortality rate,,,,,,,Borno,Percentage (%),NGBO08,26
+2017,Neonatal mortality rate,,,,,,,Cross River,Percentage (%),NGXR09,20
+2017,Neonatal mortality rate,,,,,,,Delta,Percentage (%),NGDE10,28
+2017,Neonatal mortality rate,,,,,,,Ebonyi,Percentage (%),NGEB11,30
+2017,Neonatal mortality rate,,,,,,,Edo,Percentage (%),NGED12,7
+2017,Neonatal mortality rate,,,,,,,Ekiti,Percentage (%),NGEK13,46
+2017,Neonatal mortality rate,,,,,,,Enugu,Percentage (%),NGEN14,9
+2017,Neonatal mortality rate,,,,,,,Gombe,Percentage (%),NGGO15,35
+2017,Neonatal mortality rate,,,,,,,Imo,Percentage (%),NGIM16,35
+2017,Neonatal mortality rate,,,,,,,Jigawa,Percentage (%),NGJI17,37
+2017,Neonatal mortality rate,,,,,,,Kaduna,Percentage (%),NGKD18,28
+2017,Neonatal mortality rate,,,,,,,Kano,Percentage (%),NGKN19,69
+2017,Neonatal mortality rate,,,,,,,Katsina,Percentage (%),NGKT20,35
+2017,Neonatal mortality rate,,,,,,,Kebbi,Percentage (%),NGKE21,55
+2017,Neonatal mortality rate,,,,,,,Kogi,Percentage (%),NGKO22,29
+2017,Neonatal mortality rate,,,,,,,Kwara,Percentage (%),NGKW23,27
+2017,Neonatal mortality rate,,,,,,,Lagos,Percentage (%),NGLA24,29
+2017,Neonatal mortality rate,,,,,,,Nasarawa,Percentage (%),NGNA25,47
+2017,Neonatal mortality rate,,,,,,,Niger,Percentage (%),NGNI26,59
+2017,Neonatal mortality rate,,,,,,,Ogun,Percentage (%),NGOG27,28
+2017,Neonatal mortality rate,,,,,,,Ondo,Percentage (%),NGON28,30
+2017,Neonatal mortality rate,,,,,,,Osun,Percentage (%),NGOS29,56
+2017,Neonatal mortality rate,,,,,,,Oyo,Percentage (%),NGOY30,42
+2017,Neonatal mortality rate,,,,,,,Plateau,Percentage (%),NGPL31,34
+2017,Neonatal mortality rate,,,,,,,Rivers,Percentage (%),NGRI32,27
+2017,Neonatal mortality rate,,,,,,,Sokoto,Percentage (%),NGSO33,28
+2017,Neonatal mortality rate,,,,,,,Taraba,Percentage (%),NGTA34,22
+2017,Neonatal mortality rate,,,,,,,Yobe,Percentage (%),NGYO35,44
+2017,Neonatal mortality rate,,,,,,,Zamfara,Percentage (%),NGZA36,53
+2017,Neonatal mortality rate,,,,,,,Federal Capital Territory,Percentage (%),NGFC37,27
+2021,Neonatal mortality rate,,,,,,,,Percentage (%),NG,34
+2021,Neonatal mortality rate,Urban,,,,,,,Percentage (%),NG,31
+2021,Neonatal mortality rate,Rural,,,,,,,Percentage (%),NG,36
+2021,Neonatal mortality rate,,Male,,,,,,Percentage (%),NG,39
+2021,Neonatal mortality rate,,Female,,,,,,Percentage (%),NG,29
+2021,Neonatal mortality rate,,,Poorest,,,,,Percentage (%),NG,36
+2021,Neonatal mortality rate,,,Second,,,,,Percentage (%),NG,42
+2021,Neonatal mortality rate,,,Middle,,,,,Percentage (%),NG,33
+2021,Neonatal mortality rate,,,Fourth,,,,,Percentage (%),NG,28
+2021,Neonatal mortality rate,,,Richest,,,,,Percentage (%),NG,30
+2021,Neonatal mortality rate,,,,North  Central,,,,Percentage (%),NGNCZ06,23
+2021,Neonatal mortality rate,,,,North East,,,,Percentage (%),NGNEZ05,34
+2021,Neonatal mortality rate,,,,North West,,,,Percentage (%),NGNWZ04,44
+2021,Neonatal mortality rate,,,,South East,,,,Percentage (%),NGSEZ03,9
+2021,Neonatal mortality rate,,,,South South,,,,Percentage (%),NGSSZ02,48
+2021,Neonatal mortality rate,,,,South West,,,,Percentage (%),NGSWZ01,27
+2021,Neonatal mortality rate,,,,,None,,,Percentage (%),NG,38
+2021,Neonatal mortality rate,,,,,Primary,,,Percentage (%),NG,36
+2021,Neonatal mortality rate,,,,,Junior Secondary,,,Percentage (%),NG,37
+2021,Neonatal mortality rate,,,,,Senior Secondary,,,Percentage (%),NG,31
+2021,Neonatal mortality rate,,,,,Higher/Tertiary,,,Percentage (%),NG,24
+2021,Neonatal mortality rate,,,,,,Hausa,,Percentage (%),NG,42
+2021,Neonatal mortality rate,,,,,,Igbo,,Percentage (%),NG,14
+2021,Neonatal mortality rate,,,,,,Yoruba,,Percentage (%),NG,31
+2021,Neonatal mortality rate,,,,,,Fulani,,Percentage (%),NG,38
+2021,Neonatal mortality rate,,,,,,Kanuri,,Percentage (%),NG,36
+2021,Neonatal mortality rate,,,,,,Ijaw,,Percentage (%),NG,26
+2021,Neonatal mortality rate,,,,,,Tiv,,Percentage (%),NG,15
+2021,Neonatal mortality rate,,,,,,Ibibio,,Percentage (%),NG,50
+2021,Neonatal mortality rate,,,,,,Edo,,Percentage (%),NG,67
+2021,Neonatal mortality rate,,,,,,Other ethnicity,,Percentage (%),NG,33
+2021,Neonatal mortality rate,,,,,,,Abia,Percentage (%),NGAB01,19
+2021,Neonatal mortality rate,,,,,,,Adamawa,Percentage (%),NGAD02,25
+2021,Neonatal mortality rate,,,,,,,Akwa Ibom,Percentage (%),NGAK03,31
+2021,Neonatal mortality rate,,,,,,,Anambra,Percentage (%),NGAN04,6
+2021,Neonatal mortality rate,,,,,,,Bauchi,Percentage (%),NGBA05,45
+2021,Neonatal mortality rate,,,,,,,Bayelsa,Percentage (%),NGBY06,37
+2021,Neonatal mortality rate,,,,,,,Benue,Percentage (%),NGBE07,18
+2021,Neonatal mortality rate,,,,,,,Borno,Percentage (%),NGBO08,36
+2021,Neonatal mortality rate,,,,,,,Cross River,Percentage (%),NGXR09,21
+2021,Neonatal mortality rate,,,,,,,Delta,Percentage (%),NGDE10,52
+2021,Neonatal mortality rate,,,,,,,Ebonyi,Percentage (%),NGEB11,1
+2021,Neonatal mortality rate,,,,,,,Edo,Percentage (%),NGED12,52
+2021,Neonatal mortality rate,,,,,,,Ekiti,Percentage (%),NGEK13,53
+2021,Neonatal mortality rate,,,,,,,Enugu,Percentage (%),NGEN14,8
+2021,Neonatal mortality rate,,,,,,,Gombe,Percentage (%),NGGO15,37
+2021,Neonatal mortality rate,,,,,,,Imo,Percentage (%),NGIM16,14
+2021,Neonatal mortality rate,,,,,,,Jigawa,Percentage (%),NGJI17,53
+2021,Neonatal mortality rate,,,,,,,Kaduna,Percentage (%),NGKD18,47
+2021,Neonatal mortality rate,,,,,,,Kano,Percentage (%),NGKN19,44
+2021,Neonatal mortality rate,,,,,,,Katsina,Percentage (%),NGKT20,49
+2021,Neonatal mortality rate,,,,,,,Kebbi,Percentage (%),NGKE21,43
+2021,Neonatal mortality rate,,,,,,,Kogi,Percentage (%),NGKO22,27
+2021,Neonatal mortality rate,,,,,,,Kwara,Percentage (%),NGKW23,18
+2021,Neonatal mortality rate,,,,,,,Lagos,Percentage (%),NGLA24,11
+2021,Neonatal mortality rate,,,,,,,Nasarawa,Percentage (%),NGNA25,24
+2021,Neonatal mortality rate,,,,,,,Niger,Percentage (%),NGNI26,20
+2021,Neonatal mortality rate,,,,,,,Ogun,Percentage (%),NGOG27,56
+2021,Neonatal mortality rate,,,,,,,Ondo,Percentage (%),NGON28,18
+2021,Neonatal mortality rate,,,,,,,Osun,Percentage (%),NGOS29,12
+2021,Neonatal mortality rate,,,,,,,Oyo,Percentage (%),NGOY30,31
+2021,Neonatal mortality rate,,,,,,,Plateau,Percentage (%),NGPL31,44
+2021,Neonatal mortality rate,,,,,,,Rivers,Percentage (%),NGRI32,70
+2021,Neonatal mortality rate,,,,,,,Sokoto,Percentage (%),NGSO33,34
+2021,Neonatal mortality rate,,,,,,,Taraba,Percentage (%),NGTA34,29
+2021,Neonatal mortality rate,,,,,,,Yobe,Percentage (%),NGYO35,10
+2021,Neonatal mortality rate,,,,,,,Zamfara,Percentage (%),NGZA36,31
+2021,Neonatal mortality rate,,,,,,,Federal Capital Territory,Percentage (%),NGFC37,10

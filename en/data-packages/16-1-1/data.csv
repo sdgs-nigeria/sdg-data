@@ -1,1 +1,39 @@
-Year,Value
+Year,Series,State,GeoCode,Value
+2017,"Number of victims of intentional homicide per 100,000 population",,NG,3219
+2017,"Number of victims of intentional homicide per 100,000 population",Abia,NGAB01,97
+2017,"Number of victims of intentional homicide per 100,000 population",Adamawa,NGAD02,114
+2017,"Number of victims of intentional homicide per 100,000 population",Akwa Ibom,NGAK03,81
+2017,"Number of victims of intentional homicide per 100,000 population",Anambra,NGAN04,41
+2017,"Number of victims of intentional homicide per 100,000 population",Bauchi,NGBA05,58
+2017,"Number of victims of intentional homicide per 100,000 population",Bayelsa,NGBY06,30
+2017,"Number of victims of intentional homicide per 100,000 population",Benue,NGBE07,51
+2017,"Number of victims of intentional homicide per 100,000 population",Borno,NGBO08,123
+2017,"Number of victims of intentional homicide per 100,000 population",Cross River,NGXR09,87
+2017,"Number of victims of intentional homicide per 100,000 population",Delta,NGDE10,117
+2017,"Number of victims of intentional homicide per 100,000 population",Ebonyi,NGEB11,204
+2017,"Number of victims of intentional homicide per 100,000 population",Edo,NGED12,187
+2017,"Number of victims of intentional homicide per 100,000 population",Ekiti,NGEK13,78
+2017,"Number of victims of intentional homicide per 100,000 population",Enugu,NGEN14,40
+2017,"Number of victims of intentional homicide per 100,000 population",Gombe,NGGO15,73
+2017,"Number of victims of intentional homicide per 100,000 population",Imo,NGIM16,52
+2017,"Number of victims of intentional homicide per 100,000 population",Jigawa,NGJI17,62
+2017,"Number of victims of intentional homicide per 100,000 population",Kaduna,NGKD18,128
+2017,"Number of victims of intentional homicide per 100,000 population",Kano,NGKN19,124
+2017,"Number of victims of intentional homicide per 100,000 population",Katsina,NGKT20,52
+2017,"Number of victims of intentional homicide per 100,000 population",Kebbi,NGKE21,55
+2017,"Number of victims of intentional homicide per 100,000 population",Kogi,NGKO22,76
+2017,"Number of victims of intentional homicide per 100,000 population",Kwara,NGKW23,78
+2017,"Number of victims of intentional homicide per 100,000 population",Lagos,NGLA24,216
+2017,"Number of victims of intentional homicide per 100,000 population",Nasarawa,NGNA25,51
+2017,"Number of victims of intentional homicide per 100,000 population",Niger,NGNI26,121
+2017,"Number of victims of intentional homicide per 100,000 population",Ogun,NGOG27,105
+2017,"Number of victims of intentional homicide per 100,000 population",Ondo,NGON28,108
+2017,"Number of victims of intentional homicide per 100,000 population",Osun,NGOS29,25
+2017,"Number of victims of intentional homicide per 100,000 population",Oyo,NGOY30,30
+2017,"Number of victims of intentional homicide per 100,000 population",Plateau,NGPL31,71
+2017,"Number of victims of intentional homicide per 100,000 population",Rivers,NGRI32,67
+2017,"Number of victims of intentional homicide per 100,000 population",Sokoto,NGSO33,55
+2017,"Number of victims of intentional homicide per 100,000 population",Taraba,NGTA34,115
+2017,"Number of victims of intentional homicide per 100,000 population",Yobe,NGYO35,110
+2017,"Number of victims of intentional homicide per 100,000 population",Zamfara,NGZA36,44
+2017,"Number of victims of intentional homicide per 100,000 population",Federal Capital Territory,NGFC37,91

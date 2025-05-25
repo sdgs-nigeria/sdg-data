@@ -1,1 +1,9 @@
 From,To
+Gender,Discrimination
+Discrimination,Sector
+Discrimination,Education level
+Discrimination,Ethnicity
+Discrimination,Wealth Index Quintile
+Discrimination,Geopolitical zone
+Discrimination,State
+Discrimination,Age group

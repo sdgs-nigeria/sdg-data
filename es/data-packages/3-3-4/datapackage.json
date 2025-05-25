@@ -12,8 +12,91 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hepatitis B incidence per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Circumcision status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Circumcised",
+                "Not circumcised",
+                ""
+              ]
+            },
+            "title": "Circumcision status"
+          },
+          {
+            "name": "Number of sexual partners",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zero",
+                "One",
+                "Two or more",
+                ""
+              ]
+            },
+            "title": "Number of sexual partners"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "15-24",
+                "15-49",
+                "15-64",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

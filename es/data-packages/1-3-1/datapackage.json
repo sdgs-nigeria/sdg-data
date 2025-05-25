@@ -16,7 +16,18 @@
             "title": "Año"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,10 +36,10 @@
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "Sector"
           },
           {
-            "name": "Sex",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,7 +48,7 @@
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Gender"
           },
           {
             "name": "Wealth Index Quintile",
@@ -55,7 +66,7 @@
             "title": "Wealth Index Quintile"
           },
           {
-            "name": "Geopolitical zone",
+            "name": "Geopolitical Zone",
             "type": "string",
             "constraints": {
               "enum": [
@@ -68,10 +79,10 @@
                 ""
               ]
             },
-            "title": "Geopolitical zone"
+            "title": "Geopolitical Zone"
           },
           {
-            "name": "Education Status",
+            "name": "Education Level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -83,7 +94,7 @@
                 ""
               ]
             },
-            "title": "Education Status"
+            "title": "Education Level"
           },
           {
             "name": "Ethnicity",
@@ -112,7 +123,7 @@
               "enum": [
                 "Abia",
                 "Adamawa",
-                "Akwa-Ibom",
+                "Akwa Ibom",
                 "Anambra",
                 "Bauchi",
                 "Bayelsa",
@@ -146,11 +157,27 @@
                 "Taraba",
                 "Yobe",
                 "Zamfara",
-                "FCT Abuja",
+                "Federal Capital Territory",
                 ""
               ]
             },
             "title": "State"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

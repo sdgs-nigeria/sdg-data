@@ -1,1 +1,231 @@
-Year,Value
+Year,Series,Measure,Sector,Geopolitical Zone,State,Unit multiplier,Units,GeoCode,Value
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,,Units,Index,NG,0.257
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),Rural,,,Units,Index,NG,0.302
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),Urban,,,Units,Index,NG,0.155
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,North  Central,,Units,Index,NGNCZ06,0.272
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,North East,,Units,Index,NGNEZ05,0.324
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,North West,,Units,Index,NGNWZ04,0.324
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,South East,,Units,Index,NGSEZ03,0.183
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,South South,,Units,Index,NGSSZ02,0.25
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,South West,,Units,Index,NGSWZ01,0.151
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Abia,Units,Index,NGAB01,0.101
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Adamawa,Units,Index,NGAD02,0.283
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Akwa Ibom,Units,Index,NGAK03,0.293
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Anambra,Units,Index,NGAN04,0.109
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Bauchi,Units,Index,NGBA05,0.298
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Bayelsa,Units,Index,NGBY06,0.401
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Benue,Units,Index,NGBE07,0.312
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Borno,Units,Index,NGBO08,0.315
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Cross River,Units,Index,NGXR09,0.299
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Delta,Units,Index,NGDE10,0.173
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Ebonyi,Units,Index,NGEB11,0.32
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Edo,Units,Index,NGED12,0.126
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Ekiti,Units,Index,NGEK13,0.125
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Enugu,Units,Index,NGEN14,0.234
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Gombe,Units,Index,NGGO15,0.38
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Imo,Units,Index,NGIM16,0.142
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Jigawa,Units,Index,NGJI17,0.385
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Kaduna,Units,Index,NGKD18,0.298
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Kano,Units,Index,NGKN19,0.27
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Katsina,Units,Index,NGKT20,0.304
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Kebbi,Units,Index,NGKE21,0.385
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Kogi,Units,Index,NGKO22,0.25
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Kwara,Units,Index,NGKW23,0.185
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Lagos,Units,Index,NGLA24,0.101
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Nasarawa,Units,Index,NGNA25,0.243
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Niger,Units,Index,NGNI26,0.278
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Ogun,Units,Index,NGOG27,0.289
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Ondo,Units,Index,NGON28,0.095
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Osun,Units,Index,NGOS29,0.15
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Oyo,Units,Index,NGOY30,0.19
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Plateau,Units,Index,NGPL31,0.365
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Rivers,Units,Index,NGRI32,0.241
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Sokoto,Units,Index,NGSO33,0.409
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Taraba,Units,Index,NGTA34,0.34
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Yobe,Units,Index,NGYO35,0.37
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Zamfara,Units,Index,NGZA36,0.328
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Multidimension Poverty Index (MPI),,,Federal Capital Territory,Units,Index,NGFC37,0.186
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,,Units,Percentage (%),NG,62.9
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),Rural,,,Units,Percentage (%),NG,72.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),Urban,,,Units,Percentage (%),NG,42.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,North  Central,,Units,Percentage (%),NGNCZ06,66.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,North East,,Units,Percentage (%),NGNEZ05,76.5
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,North West,,Units,Percentage (%),NGNWZ04,75.8
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,South East,,Units,Percentage (%),NGSEZ03,49.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,South South,,Units,Percentage (%),NGSSZ02,62.6
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,South West,,Units,Percentage (%),NGSWZ01,40.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Abia,Units,Percentage (%),NGAB01,29.8
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Adamawa,Units,Percentage (%),NGAD02,68.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Akwa Ibom,Units,Percentage (%),NGAK03,71.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Anambra,Units,Percentage (%),NGAN04,32.1
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Bauchi,Units,Percentage (%),NGBA05,73.9
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Bayelsa,Units,Percentage (%),NGBY06,88.5
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Benue,Units,Percentage (%),NGBE07,75.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Borno,Units,Percentage (%),NGBO08,72.5
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Cross River,Units,Percentage (%),NGXR09,75.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Delta,Units,Percentage (%),NGDE10,47.6
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Ebonyi,Units,Percentage (%),NGEB11,78.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Edo,Units,Percentage (%),NGED12,35.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Ekiti,Units,Percentage (%),NGEK13,36.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Enugu,Units,Percentage (%),NGEN14,63.1
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Gombe,Units,Percentage (%),NGGO15,86.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Imo,Units,Percentage (%),NGIM16,40.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Jigawa,Units,Percentage (%),NGJI17,84.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Kaduna,Units,Percentage (%),NGKD18,73.9
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Kano,Units,Percentage (%),NGKN19,66.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Katsina,Units,Percentage (%),NGKT20,72.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Kebbi,Units,Percentage (%),NGKE21,82.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Kogi,Units,Percentage (%),NGKO22,61.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Kwara,Units,Percentage (%),NGKW23,48.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Lagos,Units,Percentage (%),NGLA24,29.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Nasarawa,Units,Percentage (%),NGNA25,60.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Niger,Units,Percentage (%),NGNI26,69.1
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Ogun,Units,Percentage (%),NGOG27,68.1
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Ondo,Units,Percentage (%),NGON28,27.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Osun,Units,Percentage (%),NGOS29,40.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Oyo,Units,Percentage (%),NGOY30,48.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Plateau,Units,Percentage (%),NGPL31,84.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Rivers,Units,Percentage (%),NGRI32,62.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Sokoto,Units,Percentage (%),NGSO33,90.5
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Taraba,Units,Percentage (%),NGTA34,79.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Yobe,Units,Percentage (%),NGYO35,83.5
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Zamfara,Units,Percentage (%),NGZA36,78.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Incidence (H),,,Federal Capital Territory,Units,Percentage (%),NGFC37,48.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,,Units,Percentage (%),NG,40.9
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),Rural,,,Units,Percentage (%),NG,41.9
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),Urban,,,Units,Percentage (%),NG,36.9
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,North  Central,,Units,Percentage (%),NGNCZ06,41.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,North East,,Units,Percentage (%),NGNEZ05,42.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,North West,,Units,Percentage (%),NGNWZ04,42.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,South East,,Units,Percentage (%),NGSEZ03,37.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,South South,,Units,Percentage (%),NGSSZ02,39.8
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,South West,,Units,Percentage (%),NGSWZ01,37.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Abia,Units,Percentage (%),NGAB01,33.9
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Adamawa,Units,Percentage (%),NGAD02,41.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Akwa Ibom,Units,Percentage (%),NGAK03,41.1
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Anambra,Units,Percentage (%),NGAN04,34.1
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Bauchi,Units,Percentage (%),NGBA05,40.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Bayelsa,Units,Percentage (%),NGBY06,45.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Benue,Units,Percentage (%),NGBE07,41.6
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Borno,Units,Percentage (%),NGBO08,43.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Cross River,Units,Percentage (%),NGXR09,39.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Delta,Units,Percentage (%),NGDE10,36.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Ebonyi,Units,Percentage (%),NGEB11,41.1
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Edo,Units,Percentage (%),NGED12,35.6
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Ekiti,Units,Percentage (%),NGEK13,34.9
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Enugu,Units,Percentage (%),NGEN14,37.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Gombe,Units,Percentage (%),NGGO15,44.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Imo,Units,Percentage (%),NGIM16,35.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Jigawa,Units,Percentage (%),NGJI17,45.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Kaduna,Units,Percentage (%),NGKD18,40.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Kano,Units,Percentage (%),NGKN19,40.8
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Katsina,Units,Percentage (%),NGKT20,41.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Kebbi,Units,Percentage (%),NGKE21,46.8
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Kogi,Units,Percentage (%),NGKO22,40.8
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Kwara,Units,Percentage (%),NGKW23,38.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Lagos,Units,Percentage (%),NGLA24,34.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Nasarawa,Units,Percentage (%),NGNA25,39.9
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Niger,Units,Percentage (%),NGNI26,40.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Ogun,Units,Percentage (%),NGOG27,42.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Ondo,Units,Percentage (%),NGON28,34.9
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Osun,Units,Percentage (%),NGOS29,36.8
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Oyo,Units,Percentage (%),NGOY30,39.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Plateau,Units,Percentage (%),NGPL31,43.5
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Rivers,Units,Percentage (%),NGRI32,38.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Sokoto,Units,Percentage (%),NGSO33,45.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Taraba,Units,Percentage (%),NGTA34,42.8
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Yobe,Units,Percentage (%),NGYO35,44.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Zamfara,Units,Percentage (%),NGZA36,42.1
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Intensity (A),,,Federal Capital Territory,Units,Percentage (%),NGFC37,38.6
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,,Units,Percentage (%),NG,100.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,Rural,,,Units,Percentage (%),NG,69.6
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,Urban,,,Units,Percentage (%),NG,30.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,North  Central,,Units,Percentage (%),NGNCZ06,14.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,North East,,Units,Percentage (%),NGNEZ05,12.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,North West,,Units,Percentage (%),NGNWZ04,28.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,South East,,Units,Percentage (%),NGSEZ03,10.5
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,South South,,Units,Percentage (%),NGSSZ02,14.8
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,South West,,Units,Percentage (%),NGSWZ01,19.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Abia,Units,Percentage (%),NGAB01,1.8
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Adamawa,Units,Percentage (%),NGAD02,2.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Akwa Ibom,Units,Percentage (%),NGAK03,3.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Anambra,Units,Percentage (%),NGAN04,2.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Bauchi,Units,Percentage (%),NGBA05,3.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Bayelsa,Units,Percentage (%),NGBY06,1.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Benue,Units,Percentage (%),NGBE07,3.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Borno,Units,Percentage (%),NGBO08,1.5
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Cross River,Units,Percentage (%),NGXR09,2.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Delta,Units,Percentage (%),NGDE10,2.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Ebonyi,Units,Percentage (%),NGEB11,2.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Edo,Units,Percentage (%),NGED12,1.9
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Ekiti,Units,Percentage (%),NGEK13,1.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Enugu,Units,Percentage (%),NGEN14,2.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Gombe,Units,Percentage (%),NGGO15,1.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Imo,Units,Percentage (%),NGIM16,2.1
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Jigawa,Units,Percentage (%),NGJI17,3.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Kaduna,Units,Percentage (%),NGKD18,5.1
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Kano,Units,Percentage (%),NGKN19,7.5
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Katsina,Units,Percentage (%),NGKT20,4.5
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Kebbi,Units,Percentage (%),NGKE21,2.5
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Kogi,Units,Percentage (%),NGKO22,2.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Kwara,Units,Percentage (%),NGKW23,1.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Lagos,Units,Percentage (%),NGLA24,6.8
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Nasarawa,Units,Percentage (%),NGNA25,1.1
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Niger,Units,Percentage (%),NGNI26,2.5
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Ogun,Units,Percentage (%),NGOG27,2.6
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Ondo,Units,Percentage (%),NGON28,2.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Osun,Units,Percentage (%),NGOS29,2.2
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Oyo,Units,Percentage (%),NGOY30,3.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Plateau,Units,Percentage (%),NGPL31,2.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Rivers,Units,Percentage (%),NGRI32,3.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Sokoto,Units,Percentage (%),NGSO33,3.0
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Taraba,Units,Percentage (%),NGTA34,1.7
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Yobe,Units,Percentage (%),NGYO35,1.8
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Zamfara,Units,Percentage (%),NGZA36,2.5
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Population Share,,,Federal Capital Territory,Units,Percentage (%),NGFC37,1.6
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,,Units,Millions,NG,132.92
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,Rural,,,Units,Millions,NG,105.98
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,Urban,,,Units,Millions,NG,26.94
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,North  Central,,Units,Millions,NGNCZ06,20.19
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,North East,,Units,Millions,NGNEZ05,20.47
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,North West,,Units,Millions,NGNWZ04,45.49
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,South East,,Units,Millions,NGSEZ03,10.85
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,South South,,Units,Millions,NGSSZ02,19.66
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,South West,,Units,Millions,NGSWZ01,16.27
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Abia,Units,Millions,NGAB01,1.12
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Adamawa,Units,Millions,NGAD02,3.44
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Akwa Ibom,Units,Millions,NGAK03,5.08
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Anambra,Units,Millions,NGAN04,1.64
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Bauchi,Units,Millions,NGBA05,5.71
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Bayelsa,Units,Millions,NGBY06,2.61
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Benue,Units,Millions,NGBE07,4.71
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Borno,Units,Millions,NGBO08,2.25
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Cross River,Units,Millions,NGXR09,3.44
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Delta,Units,Millions,NGDE10,2.73
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Ebonyi,Units,Millions,NGEB11,3.66
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Edo,Units,Millions,NGED12,1.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Ekiti,Units,Millions,NGEK13,1.31
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Enugu,Units,Millions,NGEN14,2.63
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Gombe,Units,Millions,NGGO15,3.02
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Imo,Units,Millions,NGIM16,1.8
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Jigawa,Units,Millions,NGJI17,5.76
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Kaduna,Units,Millions,NGKD18,8.04
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Kano,Units,Millions,NGKN19,10.51
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Katsina,Units,Millions,NGKT20,6.92
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Kebbi,Units,Millions,NGKE21,4.28
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Kogi,Units,Millions,NGKO22,2.88
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Kwara,Units,Millions,NGKW23,1.72
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Lagos,Units,Millions,NGLA24,4.22
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Nasarawa,Units,Millions,NGNA25,1.36
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Niger,Units,Millions,NGNI26,3.6
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Ogun,Units,Millions,NGOG27,3.78
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Ondo,Units,Millions,NGON28,1.3
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Osun,Units,Millions,NGOS29,1.88
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Oyo,Units,Millions,NGOY30,3.79
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Plateau,Units,Millions,NGPL31,4.32
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Rivers,Units,Millions,NGRI32,4.4
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Sokoto,Units,Millions,NGSO33,5.81
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Taraba,Units,Millions,NGTA34,2.81
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Yobe,Units,Millions,NGYO35,3.23
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Zamfara,Units,Millions,NGZA36,4.17
+2022,Proportion of persons of all ages living in poverty in all its dimensions according to national definitions,Number of Poor,,,Federal Capital Territory,Units,Millions,NGFC37,1.59

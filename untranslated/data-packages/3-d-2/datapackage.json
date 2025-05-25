@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

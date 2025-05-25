@@ -12,7 +12,84 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hepatitis B incidence per 100,000 population",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Circumcision status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Circumcised",
+                "Not circumcised",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Number of sexual partners",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zero",
+                "One",
+                "Two or more",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                "15-24",
+                "15-49",
+                "15-64",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Number",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

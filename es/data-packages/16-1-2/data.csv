@@ -1,1 +1,13 @@
-Year,Value
+Year,Series,Category of disaster effect,State,Unit multiplier,Units,GeoCode,Value
+2022,Communal Clash-Related Conflict Cases,Deaths,,Units,Number,NG,424
+2022,Communal Clash-Related Conflict Cases,Displaced Persons,,Units,Number,NG,53479
+2022,Communal Clash-Related Conflict Cases,Directly Affected Persons,,Units,Number,NG,104827
+2022,Communal Clash-Related Conflict Cases,Injuries,,Units,Number,NG,746
+2023,Communal Clash-Related Conflict Cases,Deaths,,Units,Number,NG,171
+2023,Communal Clash-Related Conflict Cases,Displaced Persons,,Units,Number,NG,8239
+2023,Communal Clash-Related Conflict Cases,Directly Affected Persons,,Units,Number,NG,26041
+2023,Communal Clash-Related Conflict Cases,Injuries,,Units,Number,NG,193
+2024,Communal Clash-Related Conflict Cases,Deaths,,Units,Number,NG,70
+2024,Communal Clash-Related Conflict Cases,Displaced Persons,,Units,Number,NG,26998
+2024,Communal Clash-Related Conflict Cases,Directly Affected Persons,,Units,Number,NG,32867
+2024,Communal Clash-Related Conflict Cases,Injuries,,Units,Number,NG,44

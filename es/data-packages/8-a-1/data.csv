@@ -1,1 +1,22 @@
-Year,Value
+Year,Series,Unit multiplier,Units,Value
+2016,Aid commitments,Billions,USD,16.09
+2017,Aid commitments,Billions,USD,20.62
+2018,Aid commitments,Billions,USD,21.95
+2019,Aid commitments,Billions,USD,17.9
+2020,Aid commitments,Billions,USD,20.48
+2021,Aid commitments,Billions,USD,18.73
+2022,Aid commitments,Billions,USD,20.7
+2016,Aid for trade,Billions,USD,4.99
+2017,Aid for trade,Billions,USD,7.11
+2018,Aid for trade,Billions,USD,7.39
+2019,Aid for trade,Billions,USD,2.91
+2020,Aid for trade,Billions,USD,5.84
+2021,Aid for trade,Billions,USD,5.2
+2022,Aid for trade,Billions,USD,5.57
+2016,Aid disbursement,Billions,USD,11.1
+2017,Aid disbursement,Billions,USD,13.51
+2018,Aid disbursement,Billions,USD,14.56
+2019,Aid disbursement,Billions,USD,14.99
+2020,Aid disbursement,Billions,USD,14.64
+2021,Aid disbursement,Billions,USD,13.53
+2022,Aid disbursement,Billions,USD,15.13

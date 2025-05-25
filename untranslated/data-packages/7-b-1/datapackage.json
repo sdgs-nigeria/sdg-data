@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Installed renewable energy generating capacity in developing and developed countries (in watts per capita)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

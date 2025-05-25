@@ -12,7 +12,82 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation",
+                "Proportion of total adult population who perceive their rights to land as secure, by sex and type of tenure",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tenure rights",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Certificate of Occupancy (CoFo)",
+                "Right of Occupancy (RoFo)",
+                "Customary Certificate of Occupancy (CCoFo)",
+                "Tittle Deed",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geopolitical zone",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North Central",
+                "North East",
+                "North West",
+                "South East",
+                "South South",
+                "South West",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

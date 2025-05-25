@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of urban population living in slums, informal settlements or inadequate housing",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

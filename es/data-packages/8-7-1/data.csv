@@ -1,1 +1,299 @@
-Year,Value
+Year,Series,Sector,Gender,Geopolitical zone,Wealth Index Quintile,State,Units,GeoCode,Value
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,,Percentage (%),NG,40.7
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,Male,,,,Percentage (%),NG,41.2
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,Female,,,,Percentage (%),NG,40.1
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",Urban,,,,,Percentage (%),NG,30.7
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",Rural,,,,,Percentage (%),NG,46.5
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",Urban,Male,,,,Percentage (%),NG,30.6
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",Rural,Male,,,,Percentage (%),NG,46.9
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",Urban,Female,,,,Percentage (%),NG,30.8
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",Rural,Female,,,,Percentage (%),NG,46.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,North Central,,,Percentage (%),NGNCZ06,44.2
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,North East,,,Percentage (%),NGNEZ05,52.5
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,North West,,,Percentage (%),NGNWZ04,37.2
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,South East,,,Percentage (%),NGSEZ03,49.2
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,South South,,,Percentage (%),NGSSZ02,43.1
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,South West,,,Percentage (%),NGSWZ01,27.8
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Abia,Percentage (%),NGAB01,56.6
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Adamawa,Percentage (%),NGAD02,51.1
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Akwa Ibom,Percentage (%),NGAK03,54.7
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Anambra,Percentage (%),NGAN04,47.6
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Bauchi,Percentage (%),NGBA05,59.5
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Bayelsa,Percentage (%),NGBY06,43.2
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Benue,Percentage (%),NGBE07,32.5
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Borno,Percentage (%),NGBO08,41.1
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Cross River,Percentage (%),NGXR09,70.7
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Delta,Percentage (%),NGDE10,48.9
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Ebonyi,Percentage (%),NGEB11,60.5
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Edo,Percentage (%),NGED12,35.5
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Ekiti,Percentage (%),NGEK13,58.4
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Enugu,Percentage (%),NGEN14,33.2
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Gombe,Percentage (%),NGGO15,33.7
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Imo,Percentage (%),NGIM16,48.7
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Jigawa,Percentage (%),NGJI17,40.7
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Kaduna,Percentage (%),NGKD18,37.8
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Kano,Percentage (%),NGKN19,28.3
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Katsina,Percentage (%),NGKT20,37.9
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Kebbi,Percentage (%),NGKE21,47.7
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Kogi,Percentage (%),NGKO22,53.2
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Kwara,Percentage (%),NGKW23,40.3
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Lagos,Percentage (%),NGLA24,5.9
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Nasarawa,Percentage (%),NGNA25,41.2
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Niger,Percentage (%),NGNI26,47.6
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Ogun,Percentage (%),NGOG27,30.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Ondo,Percentage (%),NGON28,35.2
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Osun,Percentage (%),NGOS29,42.9
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Oyo,Percentage (%),NGOY30,38.3
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Plateau,Percentage (%),NGPL31,59.9
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Rivers,Percentage (%),NGRI32,19.8
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Sokoto,Percentage (%),NGSO33,36.7
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Taraba,Percentage (%),NGTA34,62.9
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Yobe,Percentage (%),NGYO35,68.2
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Zamfara,Percentage (%),NGZA36,48.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,Federal Capital Territory,Percentage (%),NGFC37,37.5
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,,,,Number of children,NG,14990674.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,Male,,,,Number of children,NG,7726113.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,Female,,,,Number of children,NG,7264561.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",Urban,,,,,Number of children,NG,4135450.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",Rural,,,,,Number of children,NG,10855225.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",Urban,Male,,,,Number of children,NG,1996146.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",Rural,Male,,,,Number of children,NG,5729967.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",Urban,Female,,,,Number of children,NG,2139304.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",Rural,Female,,,,Number of children,NG,5125257.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,North Central,,,Number of children,NGNCZ06,2375186.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,North East,,,Number of children,NGNEZ05,2904718.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,North West,,,Number of children,NGNWZ04,4103046.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,South East,,,Number of children,NGSEZ03,1679430.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,South South,,,Number of children,NGSSZ02,2086674.0
+2022,"Proportion and number of children aged 5-11 years engaged in child labour, by sex and age",,,South West,,,Number of children,NGSWZ01,1841621.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,,Percentage (%),NG,37.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,Male,,,,Percentage (%),NG,37.2
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,Female,,,,Percentage (%),NG,36.8
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",Urban,,,,,Percentage (%),NG,27.5
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",Rural,,,,,Percentage (%),NG,42.9
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",Urban,Male,,,,Percentage (%),NG,25.6
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",Rural,Male,,,,Percentage (%),NG,43.8
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",Urban,Female,,,,Percentage (%),NG,29.2
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",Rural,Female,,,,Percentage (%),NG,42.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,North Central,,,Percentage (%),NGNCZ06,40.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,North East,,,Percentage (%),NGNEZ05,46.4
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,North West,,,Percentage (%),NGNWZ04,33.3
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,South East,,,Percentage (%),NGSEZ03,50.7
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,South South,,,Percentage (%),NGSSZ02,41.6
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,South West,,,Percentage (%),NGSWZ01,23.1
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Abia,Percentage (%),NGAB01,62.8
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Adamawa,Percentage (%),NGAD02,37.9
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Akwa Ibom,Percentage (%),NGAK03,43.7
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Anambra,Percentage (%),NGAN04,39.8
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Bauchi,Percentage (%),NGBA05,46.5
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Bayelsa,Percentage (%),NGBY06,43.7
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Benue,Percentage (%),NGBE07,13.2
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Borno,Percentage (%),NGBO08,42.5
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Cross River,Percentage (%),NGXR09,59.4
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Delta,Percentage (%),NGDE10,53.2
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Ebonyi,Percentage (%),NGEB11,48.8
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Edo,Percentage (%),NGED12,40.3
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Ekiti,Percentage (%),NGEK13,37.2
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Enugu,Percentage (%),NGEN14,39.6
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Gombe,Percentage (%),NGGO15,46.5
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Imo,Percentage (%),NGIM16,64.2
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Jigawa,Percentage (%),NGJI17,31.6
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Kaduna,Percentage (%),NGKD18,34.6
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Kano,Percentage (%),NGKN19,30.8
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Katsina,Percentage (%),NGKT20,20.6
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Kebbi,Percentage (%),NGKE21,49.1
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Kogi,Percentage (%),NGKO22,55.4
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Kwara,Percentage (%),NGKW23,53.6
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Lagos,Percentage (%),NGLA24,7.2
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Nasarawa,Percentage (%),NGNA25,33.6
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Niger,Percentage (%),NGNI26,46.9
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Ogun,Percentage (%),NGOG27,23.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Ondo,Percentage (%),NGON28,32.2
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Osun,Percentage (%),NGOS29,26.1
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Oyo,Percentage (%),NGOY30,38.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Plateau,Percentage (%),NGPL31,58.4
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Rivers,Percentage (%),NGRI32,22.7
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Sokoto,Percentage (%),NGSO33,39.3
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Taraba,Percentage (%),NGTA34,50.4
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Yobe,Percentage (%),NGYO35,58.2
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Zamfara,Percentage (%),NGZA36,48.7
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,Federal Capital Territory,Percentage (%),NGFC37,38.5
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,,,,Number of children,NG,5132574.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,Male,,,,Number of children,NG,2610529.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,Female,,,,Number of children,NG,2522045.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",Urban,,,,,Number of children,NG,1441428.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",Rural,,,,,Number of children,NG,3629160.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",Urban,Male,,,,Number of children,NG,650364.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",Rural,Male,,,,Number of children,NG,1960165.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",Urban,Female,,,,Number of children,NG,802230.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",Rural,Female,,,,Number of children,NG,1675463.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,North Central,,,Number of children,NGNCZ06,761352.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,North East,,,Number of children,NGNEZ05,890971.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,North West,,,Number of children,NGNWZ04,1311367.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,South East,,,Number of children,NGSEZ03,695416.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,South South,,,Number of children,NGSSZ02,854874.0
+2022,"Proportion and number of children aged 12-14 years engaged in child labour, by sex and age",,,South West,,,Number of children,NGSWZ01,618595.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,,,,Percentage (%),NG,39.7
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,Male,,,,Percentage (%),NG,40.1
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,Female,,,,Percentage (%),NG,39.2
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",Urban,,,,,Percentage (%),NG,29.8
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",Rural,,,,,Percentage (%),NG,45.5
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",Urban,Male,,,,Percentage (%),NG,29.2
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",Rural,Male,,,,Percentage (%),NG,46.2
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",Urban,Female,,,,Percentage (%),NG,30.3
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",Rural,Female,,,,Percentage (%),NG,44.9
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,North Central,,,Percentage (%),NGNCZ06,43.1
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,North East,,,Percentage (%),NGNEZ05,50.9
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,North West,,,Percentage (%),NGNWZ04,36.2
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,South East,,,Percentage (%),NGSEZ03,49.6
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,South South,,,Percentage (%),NGSSZ02,42.6
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,South West,,,Percentage (%),NGSWZ01,26.4
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,,,,Number of children,NG,20123248.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,Male,,,,Number of children,NG,10336642.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,Female,,,,Number of children,NG,9786606.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",Urban,,,,,Number of children,NG,5576878.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",Rural,,,,,Number of children,NG,14484385.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",Urban,Male,,,,Number of children,NG,2646510.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",Rural,Male,,,,Number of children,NG,7690132.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",Urban,Female,,,,Number of children,NG,2951554.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",Rural,Female,,,,Number of children,NG,6835052.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,North Central,,,Number of children,NGNCZ06,3136537.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,North East,,,Number of children,NGNEZ05,3795689.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,North West,,,Number of children,NGNWZ04,5414412.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,South East,,,Number of children,NGSEZ03,2374846.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,South South,,,Number of children,NGSSZ02,2941548.0
+2022,"Proportion and number of children aged 5-14 years engaged in child labour, by sex and age",,,South West,,,Number of children,NGSWZ01,2460217.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,,Percentage (%),NG,39.2
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,Male,,,,Percentage (%),NG,37.4
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,Female,,,,Percentage (%),NG,37.2
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",Urban,,,,,Percentage (%),NG,31.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",Rural,,,,,Percentage (%),NG,41.4
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",Urban,Male,,,,Percentage (%),NG,31.3
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",Rural,Male,,,,Percentage (%),NG,41.2
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",Urban,Female,,,,Percentage (%),NG,30.7
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",Rural,Female,,,,Percentage (%),NG,41.7
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,North Central,,,Percentage (%),NGNCZ06,43.3
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,North East,,,Percentage (%),NGNEZ05,42.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,North West,,,Percentage (%),NGNWZ04,28.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,South East,,,Percentage (%),NGSEZ03,50.7
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,South South,,,Percentage (%),NGSSZ02,45.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,South West,,,Percentage (%),NGSWZ01,31.5
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Abia,Percentage (%),NGAB01,66.9
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Adamawa,Percentage (%),NGAD02,40.4
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Akwa Ibom,Percentage (%),NGAK03,56.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Anambra,Percentage (%),NGAN04,42.8
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Bauchi,Percentage (%),NGBA05,37.5
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Bayelsa,Percentage (%),NGBY06,40.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Benue,Percentage (%),NGBE07,23.3
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Borno,Percentage (%),NGBO08,43.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Cross River,Percentage (%),NGXR09,68.4
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Delta,Percentage (%),NGDE10,49.8
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Ebonyi,Percentage (%),NGEB11,49.6
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Edo,Percentage (%),NGED12,48.2
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Ekiti,Percentage (%),NGEK13,33.3
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Enugu,Percentage (%),NGEN14,31.1
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Gombe,Percentage (%),NGGO15,35.5
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Imo,Percentage (%),NGIM16,65.4
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Jigawa,Percentage (%),NGJI17,35.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Kaduna,Percentage (%),NGKD18,37.2
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Kano,Percentage (%),NGKN19,23.4
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Katsina,Percentage (%),NGKT20,23.4
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Kebbi,Percentage (%),NGKE21,48.3
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Kogi,Percentage (%),NGKO22,56.6
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Kwara,Percentage (%),NGKW23,47.7
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Lagos,Percentage (%),NGLA24,19.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Nasarawa,Percentage (%),NGNA25,36.3
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Niger,Percentage (%),NGNI26,47.9
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Ogun,Percentage (%),NGOG27,37.9
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Ondo,Percentage (%),NGON28,40.6
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Osun,Percentage (%),NGOS29,18.5
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Oyo,Percentage (%),NGOY30,47.1
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Plateau,Percentage (%),NGPL31,56.5
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Rivers,Percentage (%),NGRI32,20.8
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Sokoto,Percentage (%),NGSO33,12.3
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Taraba,Percentage (%),NGTA34,53.5
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Yobe,Percentage (%),NGYO35,49.8
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Zamfara,Percentage (%),NGZA36,28.9
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,Federal Capital Territory,Percentage (%),NGFC37,36.3
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,,,,Number of children,NG,24673485.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,Male,,,,Number of children,NG,2353021.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,Female,,,,Number of children,NG,2197216.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",Urban,,,,,Number of children,NG,1504773.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",Rural,,,,,Number of children,NG,3039041.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",Urban,Male,,,,Number of children,NG,750326.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",Rural,Male,,,,Number of children,NG,1602695.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",Urban,Female,,,,Number of children,NG,754447.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",Rural,Female,,,,Number of children,NG,1442769.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,North Central,,,Number of children,NGNCZ06,748039.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,North East,,,Number of children,NGNEZ05,671119.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,North West,,,Number of children,NGNWZ04,992690.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,South East,,,Number of children,NGSEZ03,629823.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,South South,,,Number of children,NGSSZ02,741225.0
+2022,"Proportion and number of children aged 15-17 years engaged in child labour, by sex and age",,,South West,,,Number of children,NGSWZ01,767342.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,,Percentage (%),NG,39.2
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,Male,,,,Percentage (%),NG,39.6
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,Female,,,,Percentage (%),NG,38.8
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",Urban,,,,,Percentage (%),NG,30.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",Rural,,,,,Percentage (%),NG,44.8
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",Urban,Male,,,,Percentage (%),NG,29.6
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",Rural,Male,,,,Percentage (%),NG,45.2
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",Urban,Female,,,,Percentage (%),NG,30.4
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",Rural,Female,,,,Percentage (%),NG,44.3
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,North Central,,,Percentage (%),NGNCZ06,43.1
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,North East,,,Percentage (%),NGNEZ05,49.4
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,North West,,,Percentage (%),NGNWZ04,34.6
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,South East,,,Percentage (%),NGSEZ03,49.9
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,South South,,,Percentage (%),NGSSZ02,43.1
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,South West,,,Percentage (%),NGSWZ01,27.5
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Abia,Percentage (%),NGAB01,60.1
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Adamawa,Percentage (%),NGAD02,45.8
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Akwa Ibom,Percentage (%),NGAK03,52.5
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Anambra,Percentage (%),NGAN04,44.7
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Bauchi,Percentage (%),NGBA05,53.3
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Bayelsa,Percentage (%),NGBY06,42.8
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Benue,Percentage (%),NGBE07,26.5
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Borno,Percentage (%),NGBO08,41.7
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Cross River,Percentage (%),NGXR09,67.4
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Delta,Percentage (%),NGDE10,50.1
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Ebonyi,Percentage (%),NGEB11,56.2
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Edo,Percentage (%),NGED12,39.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Ekiti,Percentage (%),NGEK13,47.8
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Enugu,Percentage (%),NGEN14,34.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Gombe,Percentage (%),NGGO15,36.7
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Imo,Percentage (%),NGIM16,56.2
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Jigawa,Percentage (%),NGJI17,38.1
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Kaduna,Percentage (%),NGKD18,37.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Kano,Percentage (%),NGKN19,27.9
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Katsina,Percentage (%),NGKT20,31.4
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Kebbi,Percentage (%),NGKE21,48.1
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Kogi,Percentage (%),NGKO22,54.4
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Kwara,Percentage (%),NGKW23,44.1
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Lagos,Percentage (%),NGLA24,8.9
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Nasarawa,Percentage (%),NGNA25,38.7
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Niger,Percentage (%),NGNI26,47.5
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Ogun,Percentage (%),NGOG27,30.4
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Ondo,Percentage (%),NGON28,35.6
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Osun,Percentage (%),NGOS29,34.6
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Oyo,Percentage (%),NGOY30,40.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Plateau,Percentage (%),NGPL31,58.9
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Rivers,Percentage (%),NGRI32,20.7
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Sokoto,Percentage (%),NGSO33,31.4
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Taraba,Percentage (%),NGTA34,58.6
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Yobe,Percentage (%),NGYO35,62.6
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Zamfara,Percentage (%),NGZA36,44.1
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,Federal Capital Territory,Percentage (%),NGFC37,37.5
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,,,,Number of children,NG,44796733.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,Male,,,,Number of children,NG,12689663.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,Female,,,,Number of children,NG,11983822.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",Urban,,,,,Number of children,NG,7081651.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",Rural,,,,,Number of children,NG,17523426.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",Urban,Male,,,,Number of children,NG,3396836.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",Rural,Male,,,,Number of children,NG,9292827.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",Urban,Female,,,,Number of children,NG,3706001.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",Rural,Female,,,,Number of children,NG,8277821.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,North Central,,,Number of children,NGNCZ06,3884576.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,North East,,,Number of children,NGNEZ05,4466808.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,North West,,,Number of children,NGNWZ04,6407102.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,South East,,,Number of children,NGSEZ03,3004669.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,South South,,,Number of children,NGSSZ02,3682773.0
+2022,"Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",,,South West,,,Number of children,NGSWZ01,3227559.0

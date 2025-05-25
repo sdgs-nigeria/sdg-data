@@ -1,1 +1,67 @@
-Year,Value
+Year,Series,Sector,Wealth Index Quintile,Ethnicity,Geopolitical zone,State,Education level,GeoCode,Value
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,,,NG,21.3
+2021,Proportion of population with primary reliance on clean fuels and technology,Urban,,,,,,NG,43.5
+2021,Proportion of population with primary reliance on clean fuels and technology,Rural,,,,,,NG,4.9
+2021,Proportion of population with primary reliance on clean fuels and technology,,,Hausa,,,,NG,5.1
+2021,Proportion of population with primary reliance on clean fuels and technology,,,Igbo,,,,NG,42.3
+2021,Proportion of population with primary reliance on clean fuels and technology,,,Yoruba,,,,NG,52.1
+2021,Proportion of population with primary reliance on clean fuels and technology,,,Fulani,,,,NG,3.2
+2021,Proportion of population with primary reliance on clean fuels and technology,,,Kanuri,,,,NG,1.4
+2021,Proportion of population with primary reliance on clean fuels and technology,,,Ijaw,,,,NG,22.9
+2021,Proportion of population with primary reliance on clean fuels and technology,,,Tiv,,,,NG,6.7
+2021,Proportion of population with primary reliance on clean fuels and technology,,,Ibibio,,,,NG,21.8
+2021,Proportion of population with primary reliance on clean fuels and technology,,,Edo,,,,NG,51.9
+2021,Proportion of population with primary reliance on clean fuels and technology,,,Other ethnicity,,,,NG,13.0
+2021,Proportion of population with primary reliance on clean fuels and technology,,Poorest,,,,,NG,0.3
+2021,Proportion of population with primary reliance on clean fuels and technology,,Second,,,,,NG,0.5
+2021,Proportion of population with primary reliance on clean fuels and technology,,Middle,,,,,NG,4.2
+2021,Proportion of population with primary reliance on clean fuels and technology,,Fourth,,,,,NG,26.0
+2021,Proportion of population with primary reliance on clean fuels and technology,,Richest,,,,,NG,75.5
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,North Central,,,NGNCZ06,11.7
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,North East,,,NGNEZ05,1.3
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,North West,,,NGNWZ04,5.3
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,South East,,,NGSEZ03,36.7
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,South South,,,NGSSZ02,25.6
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,South West,,,NGSWZ01,54.7
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Abia,,NGAB01,13.1
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Adamawa,,NGAD02,1.8
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Akwa Ibom,,NGAK03,10.8
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Anambra,,NGAN04,54.5
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Bauchi,,NGBA05,0.6
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Bayelsa,,NGBY06,22.4
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Benue,,NGBE07,2.8
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Borno,,NGBO08,1.2
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Cross River,,NGXR09,10.6
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Delta,,NGDE10,34.7
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Ebonyi,,NGEB11,42.7
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Edo,,NGED12,50.5
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Ekiti,,NGEK13,23.5
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Enugu,,NGEN14,37.5
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Gombe,,NGGO15,2.5
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Imo,,NGIM16,31.1
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Jigawa,,NGJI17,1.1
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Kaduna,,NGKD18,13.4
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Kano,,NGKN19,6.8
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Katsina,,NGKT20,3.7
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Kebbi,,NGKE21,1.2
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Kogi,,NGKO22,14.3
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Kwara,,NGKW23,21.6
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Lagos,,NGLA24,83.2
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Nasarawa,,NGNA25,3.8
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Niger,,NGNI26,4.7
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Ogun,,NGOG27,49.2
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Ondo,,NGON28,33.5
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Osun,,NGOS29,44.8
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Oyo,,NGOY30,44.6
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Plateau,,NGPL31,8.7
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Rivers,,NGRI32,22.6
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Sokoto,,NGSO33,3.9
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Taraba,,NGTA34,1.0
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Yobe,,NGYO35,1.1
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Zamfara,,NGZA36,2.3
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,Federal Capital Territory,,NGFC37,42.0
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,,None,NG,2.9
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,,Primary,NG,14.7
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,,Junior secondary,NG,16.8
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,,Senior secondary,NG,31.6
+2021,Proportion of population with primary reliance on clean fuels and technology,,,,,,Higher/tertiary,NG,47.3

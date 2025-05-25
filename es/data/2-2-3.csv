@@ -1,1 +1,249 @@
-Year,Value
+Year,Series,Haemoglobin level,Sector,Wealth Index Quintile,Geopolitical Zone,Education Level,Maternity status,Age group,State,GeoCode,Value
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,,NG,61.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,Urban,,,,,,,NG,53.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,Rural,,,,,,,NG,61.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,Lowest,,,,,,NG,65.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,Second,,,,,,NG,61.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,Middle,,,,,,NG,59.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,Fourth,,,,,,NG,55.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,Highest,,,,,,NG,50.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,North  Central,,,,,NGNCZ06,55.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,North East,,,,,NGNEZ05,58.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,North West,,,,,NGNWZ04,58.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,South East,,,,,NGSEZ03,66.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,South South,,,,,NGSSZ02,60.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,South West,,,,,NGSWZ01,51.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,None,,,,NG,63.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,Primary,,,,NG,58.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,Secondary,,,,NG,55.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,Post Secondary,,,,NG,47.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,Pregnant,,,NG,61.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,Breastfeeding,,,NG,59.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,Neither,,,NG,56.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,15-19,,NG,60.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,20-29,,NG,56.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,30-39,,NG,58.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,40-49,,NG,57.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Abia,NGAB01,58.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Adamawa,NGAD02,35.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Akwa Ibom,NGAK03,57.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Anambra,NGAN04,70.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Bauchi,NGBA05,68.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Bayelsa,NGBY06,58.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Benue,NGBE07,48.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Borno,NGBO08,53.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Cross River,NGXR09,46.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Delta,NGDE10,64.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Ebonyi,NGEB11,71.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Edo,NGED12,55.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Ekiti,NGEK13,50.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Enugu,NGEN14,60.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Gombe,NGGO15,63.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Imo,NGIM16,64.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Jigawa,NGJI17,65.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Kaduna,NGKD18,44.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Kano,NGKN19,46.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Katsina,NGKT20,71.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Kebbi,NGKE21,60.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Kogi,NGKO22,58.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Kwara,NGKW23,54.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Lagos,NGLA24,49.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Nasarawa,NGNA25,65.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Niger,NGNI26,64.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Ogun,NGOG27,49.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Ondo,NGON28,55.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Osun,NGOS29,57.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Oyo,NGOY30,49.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Plateau,NGPL31,43.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Rivers,NGRI32,66.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Sokoto,NGSO33,73.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Taraba,NGTA34,54.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Yobe,NGYO35,67.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Zamfara,NGZA36,71.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Any <12.0 g/dl,,,,,,,Federal Capital Territory,NGFC37,50.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,,NG,25.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,Urban,,,,,,,NG,27.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,Rural,,,,,,,NG,28.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,Lowest,,,,,,NG,27.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,Second,,,,,,NG,27.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,Middle,,,,,,NG,29.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,Fourth,,,,,,NG,26.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,Highest,,,,,,NG,27.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,North  Central,,,,,NGNCZ06,26.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,North East,,,,,NGNEZ05,27.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,North West,,,,,NGNWZ04,27.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,South East,,,,,NGSEZ03,29.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,South South,,,,,NGSSZ02,25.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,South West,,,,,NGSWZ01,30.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,None,,,,NG,28.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,Primary,,,,NG,28.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,Secondary,,,,NG,27.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,Post Secondary,,,,NG,26.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,Pregnant,,,NG,25.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,Breastfeeding,,,NG,27.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,Neither,,,NG,28.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,15-19,,NG,30.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,20-29,,NG,26.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,30-39,,NG,27.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,40-49,,NG,28.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Abia,NGAB01,26.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Adamawa,NGAD02,18.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Akwa Ibom,NGAK03,27.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Anambra,NGAN04,34.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Bauchi,NGBA05,30.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Bayelsa,NGBY06,22.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Benue,NGBE07,25.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Borno,NGBO08,27.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Cross River,NGXR09,25.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Delta,NGDE10,28.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Ebonyi,NGEB11,23.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Edo,NGED12,26.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Ekiti,NGEK13,26.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Enugu,NGEN14,31.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Gombe,NGGO15,32.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Imo,NGIM16,30.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Jigawa,NGJI17,27.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Kaduna,NGKD18,22.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Kano,NGKN19,23.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Katsina,NGKT20,36.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Kebbi,NGKE21,29.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Kogi,NGKO22,30.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Kwara,NGKW23,26.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Lagos,NGLA24,32.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Nasarawa,NGNA25,24.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Niger,NGNI26,26.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Ogun,NGOG27,28.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Ondo,NGON28,32.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Osun,NGOS29,30.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Oyo,NGOY30,28.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Plateau,NGPL31,25.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Rivers,NGRI32,24.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Sokoto,NGSO33,24.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Taraba,NGTA34,26.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Yobe,NGYO35,27.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Zamfara,NGZA36,24.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Mild 11.0-11.9 g/dl,,,,,,,Federal Capital Territory,NGFC37,27.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,,NG,33.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,Urban,,,,,,,NG,24.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,Rural,,,,,,,NG,31.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,Lowest,,,,,,NG,35.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,Second,,,,,,NG,32.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,Middle,,,,,,NG,28.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,Fourth,,,,,,NG,27.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,Highest,,,,,,NG,21.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,North  Central,,,,,NGNCZ06,27.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,North East,,,,,NGNEZ05,29.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,North West,,,,,NGNWZ04,29.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,South East,,,,,NGSEZ03,34.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,South South,,,,,NGSSZ02,32.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,South West,,,,,NGSWZ01,20.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,None,,,,NG,33.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,Primary,,,,NG,28.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,Secondary,,,,NG,26.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,Post Secondary,,,,NG,19.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,Pregnant,,,NG,33.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,Breastfeeding,,,NG,30.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,Neither,,,NG,27.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,15-19,,NG,28.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,20-29,,NG,28.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,30-39,,NG,28.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,40-49,,NG,27.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Abia,NGAB01,29.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Adamawa,NGAD02,16.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Akwa Ibom,NGAK03,27.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Anambra,NGAN04,35.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Bauchi,NGBA05,35.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Bayelsa,NGBY06,34.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Benue,NGBE07,22.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Borno,NGBO08,24.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Cross River,NGXR09,20.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Delta,NGDE10,32.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Ebonyi,NGEB11,45.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Edo,NGED12,28.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Ekiti,NGEK13,23.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Enugu,NGEN14,27.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Gombe,NGGO15,29.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Imo,NGIM16,32.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Jigawa,NGJI17,34.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Kaduna,NGKD18,19.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Kano,NGKN19,19.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Katsina,NGKT20,33.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Kebbi,NGKE21,30.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Kogi,NGKO22,27.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Kwara,NGKW23,26.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Lagos,NGLA24,16.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Nasarawa,NGNA25,36.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Niger,NGNI26,37.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Ogun,NGOG27,19.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Ondo,NGON28,22.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Osun,NGOS29,26.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Oyo,NGOY30,21.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Plateau,NGPL31,15.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Rivers,NGRI32,40.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Sokoto,NGSO33,48.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Taraba,NGTA34,27.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Yobe,NGYO35,39.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Zamfara,NGZA36,42.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Moderate 8.0-10.9 g/dl,,,,,,,Federal Capital Territory,NGFC37,22.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,,NG,2.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,Urban,,,,,,,NG,1.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,Rural,,,,,,,NG,1.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,Lowest,,,,,,NG,2.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,Second,,,,,,NG,1.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,Middle,,,,,,NG,1.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,Fourth,,,,,,NG,1.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,Highest,,,,,,NG,1.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,North  Central,,,,,NGNCZ06,1.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,North East,,,,,NGNEZ05,1.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,North West,,,,,NGNWZ04,2.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,South East,,,,,NGSEZ03,1.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,South South,,,,,NGSSZ02,2.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,South West,,,,,NGSWZ01,0.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,None,,,,NG,2.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,Primary,,,,NG,1.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,Secondary,,,,NG,1.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,Post Secondary,,,,NG,0.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,Pregnant,,,NG,2.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,Breastfeeding,,,NG,2.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,Neither,,,NG,1.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,15-19,,NG,1.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,20-29,,NG,1.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,30-39,,NG,2.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,40-49,,NG,1.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Abia,NGAB01,2.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Adamawa,NGAD02,0.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Akwa Ibom,NGAK03,2.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Anambra,NGAN04,0.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Bauchi,NGBA05,2.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Bayelsa,NGBY06,1.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Benue,NGBE07,0.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Borno,NGBO08,1.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Cross River,NGXR09,0.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Delta,NGDE10,3.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Ebonyi,NGEB11,3.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Edo,NGED12,0.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Ekiti,NGEK13,1.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Enugu,NGEN14,1.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Gombe,NGGO15,1.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Imo,NGIM16,1.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Jigawa,NGJI17,4.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Kaduna,NGKD18,1.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Kano,NGKN19,3.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Katsina,NGKT20,0.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Kebbi,NGKE21,1.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Kogi,NGKO22,0.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Kwara,NGKW23,1.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Lagos,NGLA24,0.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Nasarawa,NGNA25,3.6
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Niger,NGNI26,0.2
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Ogun,NGOG27,1.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Ondo,NGON28,0.5
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Osun,NGOS29,0.7
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Oyo,NGOY30,0.4
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Plateau,NGPL31,2.3
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Rivers,NGRI32,2.1
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Sokoto,NGSO33,1.0
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Taraba,NGTA34,0.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Yobe,NGYO35,0.8
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Zamfara,NGZA36,3.9
+2018,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",Severe <8.0 g/dl,,,,,,,Federal Capital Territory,NGFC37,0.5

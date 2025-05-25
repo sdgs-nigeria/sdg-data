@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Dollar value of all resources made available to strengthen statistical capacity in developing countries",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

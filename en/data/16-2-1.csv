@@ -1,1 +1,129 @@
-Year,Value
+Year,Series,Gender,Sector,Ethnicity,Wealth Index Quintile,Geopolitical zone,State,Age group,GeoCode,Value
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,,,NG,90.4
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,Urban,,,,,,NG,90.7
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,Rural,,,,,,NG,90.2
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,,2-Jan,NG,78.8
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,,4-Mar,NG,91.6
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,,9-May,NG,93.1
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,,14-Oct,NG,91.8
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,Male,,,,,,,NG,90.4
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,Female,,,,,,,NG,90.4
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Hausa,,,,,NG,87.2
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Igbo,,,,,NG,94.1
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Yoruba,,,,,NG,92.0
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Fulani,,,,,NG,87.9
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Kanuri,,,,,NG,88.5
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Ijaw,,,,,NG,95.8
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Tiv,,,,,NG,92.6
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Ibibio,,,,,NG,95.6
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Edo,,,,,NG,88.9
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Other ethnicity,,,,,NG,92.0
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,Poorest,,,,NG,87.8
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,Second,,,,NG,90.5
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,Middle,,,,NG,92.8
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,Fourth,,,,NG,91.6
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,Richest,,,,NG,89.5
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,North  Central,,,NGNCZ06,91.6
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,North East,,,NGNEZ05,89.4
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,North West,,,NGNWZ04,86.9
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,South East,,,NGSEZ03,96.0
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,South South,,,NGSSZ02,96.9
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,South West,,,NGSWZ01,89.0
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Abia,,NGAB01,90.5
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Adamawa,,NGAD02,87.4
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Akwa Ibom,,NGAK03,96.0
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Anambra,,NGAN04,96.4
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Bauchi,,NGBA05,90.4
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Bayelsa,,NGBY06,98.1
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Benue,,NGBE07,92.8
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Borno,,NGBO08,88.9
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Cross River,,NGXR09,98.7
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Delta,,NGDE10,98.4
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Ebonyi,,NGEB11,97.2
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Edo,,NGED12,91.7
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Ekiti,,NGEK13,90.5
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Enugu,,NGEN14,95.9
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Gombe,,NGGO15,88.0
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Imo,,NGIM16,99.1
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Jigawa,,NGJI17,85.4
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Kaduna,,NGKD18,90.9
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Kano,,NGKN19,93.3
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Katsina,,NGKT20,90.3
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Kebbi,,NGKE21,92.1
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Kogi,,NGKO22,93.6
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Kwara,,NGKW23,93.3
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Lagos,,NGLA24,83.4
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Nasarawa,,NGNA25,91.4
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Niger,,NGNI26,89.4
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Ogun,,NGOG27,97.8
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Ondo,,NGON28,87.1
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Osun,,NGOS29,88.8
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Oyo,,NGOY30,91.1
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Plateau,,NGPL31,92.3
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Rivers,,NGRI32,97.9
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Sokoto,,NGSO33,61.7
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Taraba,,NGTA34,90.8
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Yobe,,NGYO35,90.0
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Zamfara,,NGZA36,82.7
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Federal Capital Territory,,NGFC37,88.9
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,,,NG,84.9
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,Urban,,,,,,NG,87.4
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,Rural,,,,,,NG,83.7
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,,2-Jan,NG,72.7
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,,4-Mar,NG,86.3
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,,9-May,NG,88.1
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,,14-Oct,NG,85.8
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,Male,,,,,,,NG,85.8
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,Female,,,,,,,NG,83.9
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Hausa,,,,,NG,81.1
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Igbo,,,,,NG,91.1
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Yoruba,,,,,NG,91.1
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,Other ethnicity,,,,,NG,88.3
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,Poorest,,,,NG,77.7
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,Second,,,,NG,83.0
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,Middle,,,,NG,88.5
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,Fourth,,,,NG,88.8
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,Richest,,,,NG,88.1
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,North  Central,,,NGNCZ06,90.3
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,North East,,,NGNEZ05,83.4
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,North West,,,NGNWZ04,78.1
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,South East,,,NGSEZ03,92.7
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,South South,,,NGSSZ02,93.6
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,South West,,,NGSWZ01,91.8
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Abia,,NGAB01,94.0
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Adamawa,,NGAD02,64.4
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Akwa Ibom,,NGAK03,93.5
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Anambra,,NGAN04,96.0
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Bauchi,,NGBA05,87.7
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Bayelsa,,NGBY06,98.0
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Benue,,NGBE07,90.6
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Borno,,NGBO08,83.8
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Cross River,,NGXR09,97.7
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Delta,,NGDE10,90.1
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Ebonyi,,NGEB11,91.4
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Edo,,NGED12,89.3
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Ekiti,,NGEK13,85.2
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Enugu,,NGEN14,86.1
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Gombe,,NGGO15,88.6
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Imo,,NGIM16,94.4
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Jigawa,,NGJI17,67.2
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Kaduna,,NGKD18,95.4
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Kano,,NGKN19,82.5
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Katsina,,NGKT20,83.3
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Kebbi,,NGKE21,69.3
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Kogi,,NGKO22,86.8
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Kwara,,NGKW23,78.2
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Lagos,,NGLA24,87.0
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Nasarawa,,NGNA25,94.0
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Niger,,NGNI26,95.1
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Ogun,,NGOG27,91.4
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Ondo,,NGON28,93.4
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Osun,,NGOS29,97.4
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Oyo,,NGOY30,95.2
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Plateau,,NGPL31,88.4
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Rivers,,NGRI32,93.5
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Sokoto,,NGSO33,53.7
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Taraba,,NGTA34,94.0
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Yobe,,NGYO35,82.3
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Zamfara,,NGZA36,75.7
+2017,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,,,,,,Federal Capital Territory,,NGFC37,87.7

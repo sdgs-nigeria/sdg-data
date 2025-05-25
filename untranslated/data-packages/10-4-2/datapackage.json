@@ -12,7 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Social Protection Budget Allocation as a % of GDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +44,5 @@
   ],
   "profile": "data-package",
   "name": "10-4-2",
-  "title": "Redistributive impact of fiscal policy"
+  "title": "Redistributive impact of fiscal policy on the Gini index"
 }

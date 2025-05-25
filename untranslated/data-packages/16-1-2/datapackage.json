@@ -12,11 +12,61 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Communal Clash-Related Conflict Cases",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category of disaster effect",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deaths",
+                "Displaced Persons",
+                "Directly Affected Persons",
+                "Injuries",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "State",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

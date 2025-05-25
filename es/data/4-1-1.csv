@@ -1,1 +1,19 @@
-Year,Value
+Year,Series,Gender,Grade,Value
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (i) reading,Male,grade 2/3,18.2
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (i) reading,Female,grade 2/3,17.5
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (i) reading,,grade 2/3,17.9
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (i) reading,Male,end of primary,39.2
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (i) reading,Female,end of primary,45.2
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (i) reading,,end of primary,42.2
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (i) reading,Male,end of lower secondary,61.8
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (i) reading,Female,end of lower secondary,79.3
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (i) reading,,end of lower secondary,69.2
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (ii) mathematics,Male,grade 2/3,17.7
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (ii) mathematics,Female,grade 2/3,16.2
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (ii) mathematics,,grade 2/3,17.0
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (ii) mathematics,Male,end of primary,35.4
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (ii) mathematics,Female,end of primary,42.3
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (ii) mathematics,,end of primary,38.8
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (ii) mathematics,Male,end of lower secondary,60.2
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (ii) mathematics,Female,end of lower secondary,66.2
+2021,Proportion of children and young people achieving at least a minimum proficiency level in (ii) mathematics,,end of lower secondary,62.7

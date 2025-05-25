@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

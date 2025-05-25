@@ -12,7 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commercial Banks Loans to Small scale Enterprises",
+                "Commercial Banks Loans to Small scale Enterprises as percentage of total credit",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Naira",
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

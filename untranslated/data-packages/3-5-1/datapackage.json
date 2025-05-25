@@ -12,11 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Coverage of treatment interventions (pharmacological, psychosocial, rehabilitation, and aftercare services) for substance use disorders",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Treatment interventions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Detoxification",
+                "Self-groups",
+                "Relapse Prevention",
+                "Social Rehabilation",
+                "Referral to ART",
+                "Counselling",
+                "Hiv Testing & Couselling",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

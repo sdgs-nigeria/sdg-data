@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Above-ground biomass in forest",
+                "Proportion of forest area with a long-term management plan",
+                "Proportion of forest area within legally established protected areas",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "tonnes per hectare",
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

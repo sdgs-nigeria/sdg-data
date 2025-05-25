@@ -12,8 +12,58 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of currently married men age 15-49 who usually make specific decisions either by themselves or jointly with their spouse",
+                "Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "15-19",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Type of decision",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "own care",
+                "making major household purchases",
+                "both decisions",
+                "neither of the two decisions",
+                "visits to her family or relatives",
+                "all three decisions",
+                ""
+              ]
+            },
+            "title": "Type of decision"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

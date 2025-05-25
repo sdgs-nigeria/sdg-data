@@ -1,1 +1,200 @@
-Year,Value
+Year,Series,Sector,Gender,Wealth Index Quintile,Geopolitical zone,Education Level,Ethnicity,State,GeoCode,Value
+2021,Primary school completion rate,,,,,,,,NG,73.1
+2021,Primary school completion rate,,Male,,,,,,NG,72.8
+2021,Primary school completion rate,,Female,,,,,,NG,73.4
+2021,Primary school completion rate,Urban,,,,,,,NG,89.9
+2021,Primary school completion rate,Rural,,,,,,,NG,60.7
+2021,Primary school completion rate,,,,,None,,,NG,49.0
+2021,Primary school completion rate,,,,,Primary,,,NG,86.0
+2021,Primary school completion rate,,,,,Junior secondary,,,NG,92.9
+2021,Primary school completion rate,,,,,Senior secondary,,,NG,94.7
+2021,Primary school completion rate,,,,,Higher/tertiary,,,NG,96.3
+2021,Primary school completion rate,,,,,,Hausa,,NG,56.2
+2021,Primary school completion rate,,,,,,Igbo,,NG,96.7
+2021,Primary school completion rate,,,,,,Yoruba,,NG,92.9
+2022,Primary school completion rate,,,,,,Fulani,,NG,34.2
+2021,Primary school completion rate,,,,,,Kanuri,,NG,40.3
+2021,Primary school completion rate,,,,,,Ijaw,,NG,89.1
+2021,Primary school completion rate,,,,,,Tiv,,NG,65.8
+2021,Primary school completion rate,,,,,,Ibibio,,NG,95.9
+2021,Primary school completion rate,,,,,,Edo,,NG,92.0
+2021,Primary school completion rate,,,,,,Other ethnicity,,NG,79.2
+2021,Primary school completion rate,,,Poorest,,,,,NG,33.8
+2021,Primary school completion rate,,,Second,,,,,NG,61.4
+2021,Primary school completion rate,,,Middle,,,,,NG,81.5
+2021,Primary school completion rate,,,Fourth,,,,,NG,91.7
+2021,Primary school completion rate,,,Richest,,,,,NG,96.8
+2021,Primary school completion rate,,,,North  Central,,,,NGNCZ06,74.5
+2021,Primary school completion rate,,,,North East,,,,NGNEZ05,48.6
+2021,Primary school completion rate,,,,North West,,,,NGNWZ04,56.1
+2021,Primary school completion rate,,,,South East,,,,NGSEZ03,96.9
+2021,Primary school completion rate,,,,South South,,,,NGSSZ02,92.5
+2021,Primary school completion rate,,,,South West,,,,NGSWZ01,92.6
+2021,Primary school completion rate,,,,,,,Abia,NGAB01,94.3
+2021,Primary school completion rate,,,,,,,Adamawa,NGAD02,73.0
+2021,Primary school completion rate,,,,,,,Akwa Ibom,NGAK03,94.4
+2021,Primary school completion rate,,,,,,,Anambra,NGAN04,99.2
+2021,Primary school completion rate,,,,,,,Bauchi,NGBA05,29.5
+2021,Primary school completion rate,,,,,,,Bayelsa,NGBY06,85.9
+2021,Primary school completion rate,,,,,,,Benue,NGBE07,73.6
+2021,Primary school completion rate,,,,,,,Borno,NGBO08,51.0
+2021,Primary school completion rate,,,,,,,Cross River,NGXR09,93.0
+2021,Primary school completion rate,,,,,,,Delta,NGDE10,92.4
+2021,Primary school completion rate,,,,,,,Ebonyi,NGEB11,95.8
+2021,Primary school completion rate,,,,,,,Edo,NGED12,90.5
+2021,Primary school completion rate,,,,,,,Ekiti,NGEK13,95.4
+2021,Primary school completion rate,,,,,,,Enugu,NGEN14,95.1
+2021,Primary school completion rate,,,,,,,Gombe,NGGO15,49.5
+2021,Primary school completion rate,,,,,,,Imo,NGIM16,98.3
+2021,Primary school completion rate,,,,,,,Jigawa,NGJI17,38.0
+2021,Primary school completion rate,,,,,,,Kaduna,NGKD18,71.4
+2021,Primary school completion rate,,,,,,,Kano,NGKN19,69.0
+2021,Primary school completion rate,,,,,,,Katsina,NGKT20,62.6
+2021,Primary school completion rate,,,,,,,Kebbi,NGKE21,39.5
+2021,Primary school completion rate,,,,,,,Kogi,NGKO22,84.3
+2021,Primary school completion rate,,,,,,,Kwara,NGKW23,81.1
+2021,Primary school completion rate,,,,,,,Lagos,NGLA24,97.9
+2021,Primary school completion rate,,,,,,,Nasarawa,NGNA25,69.1
+2021,Primary school completion rate,,,,,,,Niger,NGNI26,58.7
+2021,Primary school completion rate,,,,,,,Ogun,NGOG27,85.5
+2021,Primary school completion rate,,,,,,,Ondo,NGON28,91.3
+2021,Primary school completion rate,,,,,,,Osun,NGOS29,92.2
+2021,Primary school completion rate,,,,,,,Oyo,NGOY30,90.9
+2021,Primary school completion rate,,,,,,,Plateau,NGPL31,78.6
+2021,Primary school completion rate,,,,,,,Rivers,NGRI32,95.7
+2021,Primary school completion rate,,,,,,,Sokoto,NGSO33,35.9
+2021,Primary school completion rate,,,,,,,Taraba,NGTA34,63.1
+2021,Primary school completion rate,,,,,,,Yobe,NGYO35,40.0
+2021,Primary school completion rate,,,,,,,Zamfara,NGZA36,44.5
+2021,Primary school completion rate,,,,,,,Federal Capital Territory,NGFC37,91.2
+2021,Lower secondary completion rate,,,,,,,,NG,67.7
+2021,Lower secondary completion rate,,Male,,,,,,NG,68.6
+2021,Lower secondary completion rate,,Female,,,,,,NG,66.9
+2021,Lower secondary completion rate,Urban,,,,,,,NG,85.2
+2021,Lower secondary completion rate,Rural,,,,,,,NG,53.5
+2021,Lower secondary completion rate,,,,,None,,,NG,41.3
+2021,Lower secondary completion rate,,,,,Primary,,,NG,73.0
+2021,Lower secondary completion rate,,,,,Junior secondary,,,NG,75.8
+2021,Lower secondary completion rate,,,,,Senior secondary,,,NG,90.2
+2021,Lower secondary completion rate,,,,,Higher/tertiary,,,NG,95.3
+2021,Lower secondary completion rate,,,,,,Hausa,,NG,49.0
+2021,Lower secondary completion rate,,,,,,Igbo,,NG,91.7
+2021,Lower secondary completion rate,,,,,,Yoruba,,NG,88.1
+2021,Lower secondary completion rate,,,,,,Fulani,,NG,31.1
+2021,Lower secondary completion rate,,,,,,Kanuri,,NG,41.3
+2021,Lower secondary completion rate,,,,,,Ijaw,,NG,85.9
+2021,Lower secondary completion rate,,,,,,Tiv,,NG,58.0
+2021,Lower secondary completion rate,,,,,,Ibibio,,NG,84.4
+2021,Lower secondary completion rate,,,,,,Edo,,NG,86.8
+2021,Lower secondary completion rate,,,,,,Other ethnicity,,NG,73.8
+2021,Lower secondary completion rate,,,Poorest,,,,,NG,26.8
+2021,Lower secondary completion rate,,,Second,,,,,NG,49.0
+2021,Lower secondary completion rate,,,Middle,,,,,NG,72.5
+2021,Lower secondary completion rate,,,Fourth,,,,,NG,87.2
+2021,Lower secondary completion rate,,,Richest,,,,,NG,93.8
+2021,Lower secondary completion rate,,,,North  Central,,,,NGNCZ06,69.9
+2021,Lower secondary completion rate,,,,North East,,,,NGNEZ05,44.9
+2021,Lower secondary completion rate,,,,North West,,,,NGNWZ04,48.8
+2021,Lower secondary completion rate,,,,South East,,,,NGSEZ03,91.4
+2021,Lower secondary completion rate,,,,South South,,,,NGSSZ02,87.3
+2021,Lower secondary completion rate,,,,South West,,,,NGSWZ01,85.2
+2021,Lower secondary completion rate,,,,,,,Abia,NGAB01,92.6
+2021,Lower secondary completion rate,,,,,,,Adamawa,NGAD02,59.2
+2021,Lower secondary completion rate,,,,,,,Akwa Ibom,NGAK03,84.3
+2021,Lower secondary completion rate,,,,,,,Anambra,NGAN04,94.3
+2021,Lower secondary completion rate,,,,,,,Bauchi,NGBA05,24.6
+2021,Lower secondary completion rate,,,,,,,Bayelsa,NGBY06,86.4
+2021,Lower secondary completion rate,,,,,,,Benue,NGBE07,70.5
+2021,Lower secondary completion rate,,,,,,,Borno,NGBO08,48.3
+2021,Lower secondary completion rate,,,,,,,Cross River,NGXR09,82.3
+2021,Lower secondary completion rate,,,,,,,Delta,NGDE10,88.0
+2021,Lower secondary completion rate,,,,,,,Ebonyi,NGEB11,91.5
+2021,Lower secondary completion rate,,,,,,,Edo,NGED12,86.0
+2021,Lower secondary completion rate,,,,,,,Ekiti,NGEK13,90.5
+2021,Lower secondary completion rate,,,,,,,Enugu,NGEN14,88.0
+2021,Lower secondary completion rate,,,,,,,Gombe,NGGO15,48.6
+2021,Lower secondary completion rate,,,,,,,Imo,NGIM16,89.0
+2021,Lower secondary completion rate,,,,,,,Jigawa,NGJI17,30.6
+2021,Lower secondary completion rate,,,,,,,Kaduna,NGKD18,60.5
+2021,Lower secondary completion rate,,,,,,,Kano,NGKN19,63.8
+2021,Lower secondary completion rate,,,,,,,Katsina,NGKT20,46.6
+2021,Lower secondary completion rate,,,,,,,Kebbi,NGKE21,32.1
+2021,Lower secondary completion rate,,,,,,,Kogi,NGKO22,78.4
+2021,Lower secondary completion rate,,,,,,,Kwara,NGKW23,70.7
+2021,Lower secondary completion rate,,,,,,,Lagos,NGLA24,88.6
+2021,Lower secondary completion rate,,,,,,,Nasarawa,NGNA25,61.7
+2021,Lower secondary completion rate,,,,,,,Niger,NGNI26,59.1
+2021,Lower secondary completion rate,,,,,,,Ogun,NGOG27,80.4
+2021,Lower secondary completion rate,,,,,,,Ondo,NGON28,87.2
+2021,Lower secondary completion rate,,,,,,,Osun,NGOS29,84.1
+2021,Lower secondary completion rate,,,,,,,Oyo,NGOY30,81.5
+2021,Lower secondary completion rate,,,,,,,Plateau,NGPL31,69.9
+2021,Lower secondary completion rate,,,,,,,Rivers,NGRI32,92.8
+2021,Lower secondary completion rate,,,,,,,Sokoto,NGSO33,32.6
+2021,Lower secondary completion rate,,,,,,,Taraba,NGTA34,58.4
+2021,Lower secondary completion rate,,,,,,,Yobe,NGYO35,39.8
+2021,Lower secondary completion rate,,,,,,,Zamfara,NGZA36,43.2
+2021,Lower secondary completion rate,,,,,,,Federal Capital Territory,NGFC37,86.1
+2021,Upper secondary completion rate,,,,,,,,NG,53.6
+2021,Upper secondary completion rate,,Male,,,,,,NG,56.9
+2021,Upper secondary completion rate,,Female,,,,,,NG,50.5
+2021,Upper secondary completion rate,Urban,,,,,,,NG,75.8
+2021,Upper secondary completion rate,Rural,,,,,,,NG,37.2
+2021,Upper secondary completion rate,,,,,,Hausa,,NG,36.4
+2021,Upper secondary completion rate,,,,,,Igbo,,NG,81.2
+2021,Upper secondary completion rate,,,,,,Yoruba,,NG,77.0
+2021,Upper secondary completion rate,,,,,,Fulani,,NG,18.9
+2021,Upper secondary completion rate,,,,,,Kanuri,,NG,32.3
+2021,Upper secondary completion rate,,,,,,Ijaw,,NG,69.4
+2021,Upper secondary completion rate,,,,,,Tiv,,NG,41.1
+2021,Upper secondary completion rate,,,,,,Ibibio,,NG,69.0
+2021,Upper secondary completion rate,,,,,,Edo,,NG,81.2
+2021,Upper secondary completion rate,,,,,,Other ethnicity,,NG,57.6
+2021,Upper secondary completion rate,,,Poorest,,,,,NG,15.6
+2021,Upper secondary completion rate,,,Second,,,,,NG,32.5
+2021,Upper secondary completion rate,,,Middle,,,,,NG,55.8
+2021,Upper secondary completion rate,,,Fourth,,,,,NG,76.3
+2021,Upper secondary completion rate,,,Richest,,,,,NG,89.7
+2021,Upper secondary completion rate,,,,North  Central,,,,NGNCZ06,54.3
+2021,Upper secondary completion rate,,,,North East,,,,NGNEZ05,33.3
+2021,Upper secondary completion rate,,,,North West,,,,NGNWZ04,36.6
+2021,Upper secondary completion rate,,,,South East,,,,NGSEZ03,82.3
+2021,Upper secondary completion rate,,,,South South,,,,NGSSZ02,71.0
+2021,Upper secondary completion rate,,,,South West,,,,NGSWZ01,72.8
+2021,Upper secondary completion rate,,,,,,,Abia,NGAB01,76.4
+2021,Upper secondary completion rate,,,,,,,Adamawa,NGAD02,47.3
+2021,Upper secondary completion rate,,,,,,,Akwa Ibom,NGAK03,67.5
+2021,Upper secondary completion rate,,,,,,,Anambra,NGAN04,90.3
+2021,Upper secondary completion rate,,,,,,,Bauchi,NGBA05,17.3
+2021,Upper secondary completion rate,,,,,,,Bayelsa,NGBY06,74.7
+2021,Upper secondary completion rate,,,,,,,Benue,NGBE07,44.5
+2021,Upper secondary completion rate,,,,,,,Borno,NGBO08,36.8
+2021,Upper secondary completion rate,,,,,,,Cross River,NGXR09,59.8
+2021,Upper secondary completion rate,,,,,,,Delta,NGDE10,68.7
+2021,Upper secondary completion rate,,,,,,,Ebonyi,NGEB11,87.3
+2021,Upper secondary completion rate,,,,,,,Edo,NGED12,78.5
+2021,Upper secondary completion rate,,,,,,,Ekiti,NGEK13,70.6
+2021,Upper secondary completion rate,,,,,,,Enugu,NGEN14,73.2
+2021,Upper secondary completion rate,,,,,,,Gombe,NGGO15,36.6
+2021,Upper secondary completion rate,,,,,,,Imo,NGIM16,83.1
+2021,Upper secondary completion rate,,,,,,,Jigawa,NGJI17,19.3
+2021,Upper secondary completion rate,,,,,,,Kaduna,NGKD18,49.5
+2021,Upper secondary completion rate,,,,,,,Kano,NGKN19,48.7
+2021,Upper secondary completion rate,,,,,,,Katsina,NGKT20,31.7
+2021,Upper secondary completion rate,,,,,,,Kebbi,NGKE21,24.0
+2021,Upper secondary completion rate,,,,,,,Kogi,NGKO22,63.0
+2021,Upper secondary completion rate,,,,,,,Kwara,NGKW23,66.3
+2021,Upper secondary completion rate,,,,,,,Lagos,NGLA24,84.7
+2021,Upper secondary completion rate,,,,,,,Nasarawa,NGNA25,46.7
+2021,Upper secondary completion rate,,,,,,,Niger,NGNI26,50.5
+2021,Upper secondary completion rate,,,,,,,Ogun,NGOG27,62.4
+2021,Upper secondary completion rate,,,,,,,Ondo,NGON28,72.7
+2021,Upper secondary completion rate,,,,,,,Osun,NGOS29,72.2
+2021,Upper secondary completion rate,,,,,,,Oyo,NGOY30,63.9
+2021,Upper secondary completion rate,,,,,,,Plateau,NGPL31,50.9
+2021,Upper secondary completion rate,,,,,,,Rivers,NGRI32,76.5
+2021,Upper secondary completion rate,,,,,,,Sokoto,NGSO33,22.1
+2021,Upper secondary completion rate,,,,,,,Taraba,NGTA34,38.5
+2021,Upper secondary completion rate,,,,,,,Yobe,NGYO35,30.9
+2021,Upper secondary completion rate,,,,,,,Zamfara,NGZA36,36.2
+2021,Upper secondary completion rate,,,,,,,Federal Capital Territory,NGFC37,66.9

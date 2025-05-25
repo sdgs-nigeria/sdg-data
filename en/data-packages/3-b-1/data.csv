@@ -1,1 +1,69 @@
-Year,Value
+Year,Series,Sector,Gender,Wealth Index Quintile,Geopolitical Zone,Education Level,Ethnicity,State,GeoCode,Value
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,,NG,21.5
+2021,Proportion of the target population covered by all vaccines included in their national programme,,Male,,,,,,NG,22.8
+2021,Proportion of the target population covered by all vaccines included in their national programme,,Female,,,,,,NG,20.0
+2021,Proportion of the target population covered by all vaccines included in their national programme,Urban,,,,,,,NG,29.5
+2021,Proportion of the target population covered by all vaccines included in their national programme,Rural,,,,,,,NG,16.8
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,None,,,NG,12.8
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,Primary,,,NG,17.9
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,Junior secondary,,,NG,21.1
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,Senior secondary,,,NG,30.2
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,Higher/tertiary,,,NG,37.4
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,Hausa,,NG,12.7
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,Igbo,,NG,36.1
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,Yoruba,,NG,35.0
+2022,Proportion of the target population covered by all vaccines included in their national programme,,,,,,Fulani,,NG,11.6
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,Kanuri,,NG,19.8
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,Ijaw,,NG,28.8
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,Tiv,,NG,15.7
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,Ibibio,,NG,25.2
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,Edo,,NG,23.8
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,Other ethnicity,,NG,22.7
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,Poorest,,,,,NG,12.6
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,Second,,,,,NG,16.6
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,Middle,,,,,NG,21.8
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,Fourth,,,,,NG,25.2
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,Richest,,,,,NG,36.7
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,North  Central,,,,NGNCZ06,17.6
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,North East,,,,NGNEZ05,13.4
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,North West,,,,NGNWZ04,13.5
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,South East,,,,NGSEZ03,36.4
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,South South,,,,NGSSZ02,30.6
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,South West,,,,NGSWZ01,34.2
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Abia,NGAB01,27.0
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Adamawa,NGAD02,9.6
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Akwa Ibom,NGAK03,30.3
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Anambra,NGAN04,33.5
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Bauchi,NGBA05,7.5
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Bayelsa,NGBY06,35.8
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Benue,NGBE07,14.2
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Borno,NGBO08,7.8
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Cross River,NGXR09,32.9
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Delta,NGDE10,32.1
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Ebonyi,NGEB11,65.2
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Edo,NGED12,27.2
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Ekiti,NGEK13,31.5
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Enugu,NGEN14,42.2
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Gombe,NGGO15,8.8
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Imo,NGIM16,21.6
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Jigawa,NGJI17,17.5
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Kaduna,NGKD18,20.0
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Kano,NGKN19,5.5
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Katsina,NGKT20,16.5
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Kebbi,NGKE21,30.3
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Kogi,NGKO22,25.0
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Kwara,NGKW23,23.0
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Lagos,NGLA24,40.4
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Nasarawa,NGNA25,20.1
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Niger,NGNI26,9.6
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Ogun,NGOG27,25.7
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Ondo,NGON28,35.7
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Osun,NGOS29,36.9
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Oyo,NGOY30,29.7
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Plateau,NGPL31,13.0
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Rivers,NGRI32,28.5
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Sokoto,NGSO33,6.5
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Taraba,NGTA34,19.3
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Yobe,NGYO35,35.6
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Zamfara,NGZA36,4.5
+2021,Proportion of the target population covered by all vaccines included in their national programme,,,,,,,Federal Capital Territory,NGFC37,37.5

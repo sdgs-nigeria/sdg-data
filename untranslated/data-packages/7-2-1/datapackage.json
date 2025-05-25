@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Renewable energy (% of Total energy production)",
+                "Volume of renewable energy production",
+                "Total electricity production from renewable & non-renwable sources",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "GWh",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

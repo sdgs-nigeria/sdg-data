@@ -1,1 +1,149 @@
-Year,Value
+Year,Series,Gender,Sector,Ethnicity,Wealth Index Quintile,Geopolitical zone,State,Age group,GeoCode,Value
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,,,NG,47.2
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,Urban,,,,,,NG,68.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,Rural,,,,,,NG,29.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,,15-24,NG,25.2
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,,15-19,NG,13.2
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,,15-17,NG,8.0
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,,18-19,NG,22.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,,20-24,NG,43.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,,25-29,NG,57.0
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,,30-39,NG,63.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,,40-49,NG,65.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,None,,,,,NG,10.7
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Primary,,,,,NG,30.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Junior secondary,,,,,NG,23.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Senior secondary,,,,,NG,48.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Higher/tertiary,,,,,NG,94.2
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Hausa,,,,,NG,28.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Igbo,,,,,NG,72.5
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Yoruba,,,,,NG,65.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Fulani,,,,,NG,22.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Kanuri,,,,,NG,40.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Ijaw,,,,,NG,48.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Tiv,,,,,NG,32.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Ibibio,,,,,NG,55.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Edo,,,,,NG,74.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,Other ethnicity,,,,,NG,45.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,Poorest,,,,NG,10.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,Second,,,,NG,24.5
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,Middle,,,,NG,44.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,Fourth,,,,NG,63.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,Richest,,,,NG,81.0
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,North  Central,,,NGNCZ06,42.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,North East,,,NGNEZ05,33.0
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,North West,,,NGNWZ04,28.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,South East,,,NGSEZ03,69.0
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,South South,,,NGSSZ02,58.5
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,South West,,,NGSWZ01,64.6
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Abia,,NGAB01,66.7
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Adamawa,,NGAD02,46.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Akwa Ibom,,NGAK03,44.5
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Anambra,,NGAN04,80.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Bauchi,,NGBA05,18.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Bayelsa,,NGBY06,58.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Benue,,NGBE07,29.7
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Borno,,NGBO08,46.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Cross River,,NGXR09,37.2
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Delta,,NGDE10,60.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Ebonyi,,NGEB11,62.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Edo,,NGED12,70.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Ekiti,,NGEK13,54.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Enugu,,NGEN14,69.6
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Gombe,,NGGO15,31.7
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Imo,,NGIM16,63.6
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Jigawa,,NGJI17,18.7
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Kaduna,,NGKD18,40.7
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Kano,,NGKN19,37.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Katsina,,NGKT20,19.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Kebbi,,NGKE21,18.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Kogi,,NGKO22,45.5
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Kwara,,NGKW23,54.7
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Lagos,,NGLA24,85.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Nasarawa,,NGNA25,36.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Niger,,NGNI26,27.6
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Ogun,,NGOG27,46.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Ondo,,NGON28,54.7
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Osun,,NGOS29,56.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Oyo,,NGOY30,53.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Plateau,,NGPL31,36.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Rivers,,NGRI32,71.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Sokoto,,NGSO33,19.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Taraba,,NGTA34,29.2
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Yobe,,NGYO35,25.2
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Zamfara,,NGZA36,23.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Male,,,,,Federal Capital Territory,,NGFC37,87.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,,,NG,35.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,Urban,,,,,,NG,56.6
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,Rural,,,,,,NG,17.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,,15-24,NG,21.5
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,,15-19,NG,11.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,,15-17,NG,6.5
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,,18-19,NG,19.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,,20-24,NG,35.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,,25-29,NG,40.7
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,,30-39,NG,46.0
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,,40-49,NG,43.6
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,None,,,,,NG,5.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Primary,,,,,NG,20.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Junior secondary,,,,,NG,18.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Senior secondary,,,,,NG,43.2
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Higher/tertiary,,,,,NG,93.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Hausa,,,,,NG,12.6
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Igbo,,,,,NG,64.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Yoruba,,,,,NG,54.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Fulani,,,,,NG,9.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Kanuri,,,,,NG,19.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Ijaw,,,,,NG,41.6
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Tiv,,,,,NG,23.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Ibibio,,,,,NG,49.7
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Edo,,,,,NG,67.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,Other ethnicity,,,,,NG,32.2
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,Poorest,,,,NG,3.5
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,Second,,,,NG,10.6
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,Middle,,,,NG,26.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,Fourth,,,,NG,49.0
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,Richest,,,,NG,75.5
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,North  Central,,,NGNCZ06,28.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,North East,,,NGNEZ05,16.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,North West,,,NGNWZ04,11.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,South East,,,NGSEZ03,61.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,South South,,,NGSSZ02,50.2
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,South West,,,NGSWZ01,56.2
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Abia,,NGAB01,51.2
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Adamawa,,NGAD02,18.0
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Akwa Ibom,,NGAK03,40.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Anambra,,NGAN04,68.7
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Bauchi,,NGBA05,7.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Bayelsa,,NGBY06,42.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Benue,,NGBE07,23.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Borno,,NGBO08,24.6
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Cross River,,NGXR09,36.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Delta,,NGDE10,50.1
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Ebonyi,,NGEB11,54.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Edo,,NGED12,60.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Ekiti,,NGEK13,49.0
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Enugu,,NGEN14,61.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Gombe,,NGGO15,18.5
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Imo,,NGIM16,63.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Jigawa,,NGJI17,6.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Kaduna,,NGKD18,20.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Kano,,NGKN19,14.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Katsina,,NGKT20,9.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Kebbi,,NGKE21,6.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Kogi,,NGKO22,31.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Kwara,,NGKW23,35.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Lagos,,NGLA24,80.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Nasarawa,,NGNA25,20.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Niger,,NGNI26,18.5
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Ogun,,NGOG27,37.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Ondo,,NGON28,38.6
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Osun,,NGOS29,45.7
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Oyo,,NGOY30,45.9
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Plateau,,NGPL31,21.8
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Rivers,,NGRI32,59.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Sokoto,,NGSO33,8.2
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Taraba,,NGTA34,22.0
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Yobe,,NGYO35,14.3
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Zamfara,,NGZA36,9.4
+2021,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Female,,,,,Federal Capital Territory,,NGFC37,57.5

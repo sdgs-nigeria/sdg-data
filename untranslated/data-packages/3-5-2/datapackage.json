@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

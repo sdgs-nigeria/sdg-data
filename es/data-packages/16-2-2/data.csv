@@ -1,1 +1,37 @@
-Year,Value
+Year,Series,Gender,Age group,Units,Value
+2016,"Number of victims of human trafficking per 100,000 population, by sex, age",,,"per 100,000 population",1017
+2017,"Number of victims of human trafficking per 100,000 population, by sex, age",,,"per 100,000 population",1890
+2018,"Number of victims of human trafficking per 100,000 population, by sex, age",,,"per 100,000 population",1173
+2019,"Number of victims of human trafficking per 100,000 population, by sex, age",,,"per 100,000 population",1152
+2020,"Number of victims of human trafficking per 100,000 population, by sex, age",,,"per 100,000 population",1087
+2021,"Number of victims of human trafficking per 100,000 population, by sex, age",,,"per 100,000 population",1470
+2016,"Number of victims of human trafficking per 100,000 population, by sex, age",Male,,"per 100,000 population",197
+2017,"Number of victims of human trafficking per 100,000 population, by sex, age",Male,,"per 100,000 population",466
+2018,"Number of victims of human trafficking per 100,000 population, by sex, age",Male,,"per 100,000 population",193
+2019,"Number of victims of human trafficking per 100,000 population, by sex, age",Male,,"per 100,000 population",223
+2020,"Number of victims of human trafficking per 100,000 population, by sex, age",Male,,"per 100,000 population",219
+2021,"Number of victims of human trafficking per 100,000 population, by sex, age",Male,,"per 100,000 population",244
+2016,"Number of victims of human trafficking per 100,000 population, by sex, age",Female,,"per 100,000 population",820
+2017,"Number of victims of human trafficking per 100,000 population, by sex, age",Female,,"per 100,000 population",1424
+2018,"Number of victims of human trafficking per 100,000 population, by sex, age",Female,,"per 100,000 population",980
+2019,"Number of victims of human trafficking per 100,000 population, by sex, age",Female,,"per 100,000 population",929
+2020,"Number of victims of human trafficking per 100,000 population, by sex, age",Female,,"per 100,000 population",868
+2021,"Number of victims of human trafficking per 100,000 population, by sex, age",Female,,"per 100,000 population",1226
+2016,"Number of victims of human trafficking per 100,000 population, by sex, age",,0-11,"per 100,000 population",184
+2017,"Number of victims of human trafficking per 100,000 population, by sex, age",,0-11,"per 100,000 population",339
+2018,"Number of victims of human trafficking per 100,000 population, by sex, age",,0-11,"per 100,000 population",233
+2019,"Number of victims of human trafficking per 100,000 population, by sex, age",,0-11,"per 100,000 population",215
+2020,"Number of victims of human trafficking per 100,000 population, by sex, age",,0-11,"per 100,000 population",193
+2021,"Number of victims of human trafficking per 100,000 population, by sex, age",,0-11,"per 100,000 population",286
+2016,"Number of victims of human trafficking per 100,000 population, by sex, age",,12-17,"per 100,000 population",297
+2017,"Number of victims of human trafficking per 100,000 population, by sex, age",,12-17,"per 100,000 population",44
+2018,"Number of victims of human trafficking per 100,000 population, by sex, age",,12-17,"per 100,000 population",348
+2019,"Number of victims of human trafficking per 100,000 population, by sex, age",,12-17,"per 100,000 population",358
+2020,"Number of victims of human trafficking per 100,000 population, by sex, age",,12-17,"per 100,000 population",378
+2021,"Number of victims of human trafficking per 100,000 population, by sex, age",,12-17,"per 100,000 population",482
+2016,"Number of victims of human trafficking per 100,000 population, by sex, age",,18 & Above,"per 100,000 population",532
+2017,"Number of victims of human trafficking per 100,000 population, by sex, age",,18 & Above,"per 100,000 population",1107
+2018,"Number of victims of human trafficking per 100,000 population, by sex, age",,18 & Above,"per 100,000 population",592
+2019,"Number of victims of human trafficking per 100,000 population, by sex, age",,18 & Above,"per 100,000 population",579
+2020,"Number of victims of human trafficking per 100,000 population, by sex, age",,18 & Above,"per 100,000 population",517
+2021,"Number of victims of human trafficking per 100,000 population, by sex, age",,18 & Above,"per 100,000 population",702

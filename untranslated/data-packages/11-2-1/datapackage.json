@@ -12,7 +12,50 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population that has convenient access to public transport",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Cities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aba",
+                "Abeokuta",
+                "Abuja",
+                "Ado-Ekiti",
+                "Akure",
+                "Benin City",
+                "Gombe",
+                "Ibadan",
+                "Ijebu-Ode",
+                "Kaduna",
+                "Kano",
+                "Lagos",
+                "Oyo",
+                "Porthacourt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

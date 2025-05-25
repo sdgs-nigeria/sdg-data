@@ -1,41 +1,40 @@
-Year,Degree of urbanisation,State,Value
-2019,Urban,,18.04
-2019,Rural,,52.1
-2019,,,40.1
-2019,,Abia,30.67
-2019,,Adamawa,75.41
-2019,,Akwa Ibom,26.82
-2019,,Anambra,14.78
-2019,,Bauchi,61.53
-2019,,Bayelsa,22.61
-2019,,Benue,32.9
-2019,,Borno,
-2019,,Cross River,36.29
-2019,,Delta,6.02
-2019,,Ebonyi,79.76
-2019,,Edo,11.99
-2019,,Ekiti,28.04
-2019,,Enugu,58.13
-2019,,Gombe,62.31
-2019,,Imo,28.86
-2019,,Jigawa,87.02
-2019,,Kaduna,43.48
-2019,,Kano,55.08
-2019,,Katsina,56.42
-2019,,Kebbi,50.17
-2019,,Kogi,28.51
-2019,,Kwara,20.35
-2019,,Lagos,4.5
-2019,,Nasarawa,57.3
-2019,,Niger,66.11
-2019,,Ogun,9.32
-2019,,Ondo,12.52
-2019,,Osun,8.52
-2019,,Oyo,9.83
-2019,,Plateau,55.05
-2019,,Rivers,23.91
-2019,,Sokoto,87.73
-2019,,Taraba,87.72
-2019,,Yobe,72.34
-2019,,Zamfara,73.98
-2019,,FCT,38.66
+Year,Series,Sector,State,Units,GeoCode,Value
+2019,"Proportion of population living below the national poverty line, by sex, and age",Urban,,Percentage (%),NG,18.04
+2019,"Proportion of population living below the national poverty line, by sex, and age",Rural,,Percentage (%),NG,52.1
+2019,"Proportion of population living below the national poverty line, by sex, and age",,,Percentage (%),NG,40.1
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Abia,Percentage (%),NGAB01,30.67
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Adamawa,Percentage (%),NGAD02,75.41
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Akwa Ibom,Percentage (%),NGAK03,26.82
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Anambra,Percentage (%),NGAN04,14.78
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Bauchi,Percentage (%),NGBA05,61.53
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Bayelsa,Percentage (%),NGBY06,22.61
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Benue,Percentage (%),NGBE07,32.9
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Cross River,Percentage (%),NGXSR09,36.29
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Delta,Percentage (%),NGDE10,6.02
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Ebonyi,Percentage (%),NGEB11,79.76
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Edo,Percentage (%),NGED12,11.99
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Ekiti,Percentage (%),NGEK13,28.04
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Enugu,Percentage (%),NGEN14,58.13
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Gombe,Percentage (%),NGGO15,62.31
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Imo,Percentage (%),NGIM16,28.86
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Jigawa,Percentage (%),NGJI17,87.02
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Kaduna,Percentage (%),NGKD18,43.48
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Kano,Percentage (%),NGKN19,55.08
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Katsina,Percentage (%),NGKT20,56.42
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Kebbi,Percentage (%),NGKE21,50.17
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Kogi,Percentage (%),NGKO22,28.51
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Kwara,Percentage (%),NGKW23,20.35
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Lagos,Percentage (%),NGLA24,4.5
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Nasarawa,Percentage (%),NGNA25,57.3
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Niger,Percentage (%),NGNI26,66.11
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Ogun,Percentage (%),NGOG27,9.32
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Ondo,Percentage (%),NGON28,12.52
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Osun,Percentage (%),NGOS29,8.52
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Oyo,Percentage (%),NGOY30,9.83
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Plateau,Percentage (%),NGPL31,55.05
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Rivers,Percentage (%),NGRI32,23.91
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Sokoto,Percentage (%),NGSO33,87.73
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Taraba,Percentage (%),NGTA34,87.72
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Yobe,Percentage (%),NGYO35,72.34
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Zamfara,Percentage (%),NGZA36,73.98
+2019,"Proportion of population living below the national poverty line, by sex, and age",,Federal Capital Territory,Percentage (%),NGFC37,38.66

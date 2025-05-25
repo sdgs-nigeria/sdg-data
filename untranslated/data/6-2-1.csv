@@ -1,1 +1,284 @@
-Year,Value
+Year,Series,Sector,Wealth Index Quintile,Geopolitical zone,State,Units,GeoCode,Value
+2021,Proportion of population using (a) safely managed sanitation services,,,,,Percentage (%),NG,17.8
+2021,Proportion of population using (a) safely managed sanitation services,,,North Central,,Percentage (%),NGNCZ06,19.0
+2021,Proportion of population using (a) safely managed sanitation services,,,North East,,Percentage (%),NGNEZ05,29.2
+2021,Proportion of population using (a) safely managed sanitation services,,,North West,,Percentage (%),NGNWZ04,15.7
+2021,Proportion of population using (a) safely managed sanitation services,,,South East,,Percentage (%),NGSEZ03,16.1
+2021,Proportion of population using (a) safely managed sanitation services,,,South South,,Percentage (%),NGSSZ02,13.5
+2021,Proportion of population using (a) safely managed sanitation services,,,South West,,Percentage (%),NGSWZ01,13.4
+2020,Proportion of population using (a) safely managed sanitation services,Urban,,,,Percentage (%),NG,19.9
+2021,Proportion of population using (a) safely managed sanitation services,Peri-Urban,,,,Percentage (%),NG,17.1
+2021,Proportion of population using (a) safely managed sanitation services,Urban-Urban,,,,Percentage (%),NG,20.4
+2021,Proportion of population using (a) safely managed sanitation services,Rural,,,,Percentage (%),NG,17.7
+2021,Proportion of population using (a) safely managed sanitation services,Itenerant,,,,Percentage (%),NG,17.4
+2021,Proportion of population using (a) safely managed sanitation services,Rural-Rural,,,,Percentage (%),NG,17.2
+2021,Proportion of population using (a) safely managed sanitation services,Small Town,,,,Percentage (%),NG,21.0
+2021,Proportion of population using (a) safely managed sanitation services,,Poorest,,,Percentage (%),NG,8.2
+2021,Proportion of population using (a) safely managed sanitation services,,Second,,,Percentage (%),NG,12.9
+2021,Proportion of population using (a) safely managed sanitation services,,Middle,,,Percentage (%),NG,19.7
+2021,Proportion of population using (a) safely managed sanitation services,,Fourth,,,Percentage (%),NG,24.4
+2021,Proportion of population using (a) safely managed sanitation services,,Richest,,,Percentage (%),NG,22.7
+2021,Proportion of population using (a) safely managed sanitation services,,,,Abia,Percentage (%),NGAB01,55.5
+2021,Proportion of population using (a) safely managed sanitation services,,,,Adamawa,Percentage (%),NGAD02,35.4
+2021,Proportion of population using (a) safely managed sanitation services,,,,Akwa Ibom,Percentage (%),NGAK03,43.7
+2021,Proportion of population using (a) safely managed sanitation services,,,,Anambra,Percentage (%),NGAN04,5.9
+2021,Proportion of population using (a) safely managed sanitation services,,,,Bauchi,Percentage (%),NGBA05,41.1
+2021,Proportion of population using (a) safely managed sanitation services,,,,Bayelsa,Percentage (%),NGBY06,3.0
+2021,Proportion of population using (a) safely managed sanitation services,,,,Benue,Percentage (%),NGBE07,21.9
+2021,Proportion of population using (a) safely managed sanitation services,,,,Borno,Percentage (%),NGBO08,30.0
+2021,Proportion of population using (a) safely managed sanitation services,,,,Cross River,Percentage (%),NGXR09,19.9
+2021,Proportion of population using (a) safely managed sanitation services,,,,Delta,Percentage (%),NGDE10,12.6
+2021,Proportion of population using (a) safely managed sanitation services,,,,Ebonyi,Percentage (%),NGEB11,4.3
+2021,Proportion of population using (a) safely managed sanitation services,,,,Edo,Percentage (%),NGED12,7.9
+2021,Proportion of population using (a) safely managed sanitation services,,,,Ekiti,Percentage (%),NGEK13,13.4
+2021,Proportion of population using (a) safely managed sanitation services,,,,Enugu,Percentage (%),NGEN14,14.3
+2021,Proportion of population using (a) safely managed sanitation services,,,,Gombe,Percentage (%),NGGO15,23.7
+2021,Proportion of population using (a) safely managed sanitation services,,,,Imo,Percentage (%),NGIM16,27.6
+2021,Proportion of population using (a) safely managed sanitation services,,,,Jigawa,Percentage (%),NGJI17,27.8
+2021,Proportion of population using (a) safely managed sanitation services,,,,Kaduna,Percentage (%),NGKD18,12.7
+2021,Proportion of population using (a) safely managed sanitation services,,,,Kano,Percentage (%),NGKN19,16.9
+2021,Proportion of population using (a) safely managed sanitation services,,,,Katsina,Percentage (%),NGKT20,13.8
+2021,Proportion of population using (a) safely managed sanitation services,,,,Kebbi,Percentage (%),NGKE21,1.3
+2021,Proportion of population using (a) safely managed sanitation services,,,,Kogi,Percentage (%),NGKO22,4.6
+2021,Proportion of population using (a) safely managed sanitation services,,,,Kwara,Percentage (%),NGKW23,16.4
+2021,Proportion of population using (a) safely managed sanitation services,,,,Lagos,Percentage (%),NGLA24,15.0
+2021,Proportion of population using (a) safely managed sanitation services,,,,Nasarawa,Percentage (%),NGNA25,16.3
+2021,Proportion of population using (a) safely managed sanitation services,,,,Niger,Percentage (%),NGNI26,22.3
+2021,Proportion of population using (a) safely managed sanitation services,,,,Ogun,Percentage (%),NGOG27,11.5
+2021,Proportion of population using (a) safely managed sanitation services,,,,Ondo,Percentage (%),NGON28,18.9
+2021,Proportion of population using (a) safely managed sanitation services,,,,Osun,Percentage (%),NGOS29,25.9
+2021,Proportion of population using (a) safely managed sanitation services,,,,Oyo,Percentage (%),NGOY30,10.2
+2021,Proportion of population using (a) safely managed sanitation services,,,,Plateau,Percentage (%),NGPL31,19.2
+2021,Proportion of population using (a) safely managed sanitation services,,,,Rivers,Percentage (%),NGRI32,12.8
+2021,Proportion of population using (a) safely managed sanitation services,,,,Sokoto,Percentage (%),NGSO33,33.3
+2021,Proportion of population using (a) safely managed sanitation services,,,,Taraba,Percentage (%),NGTA34,20.2
+2021,Proportion of population using (a) safely managed sanitation services,,,,Yobe,Percentage (%),NGYO35,17.2
+2021,Proportion of population using (a) safely managed sanitation services,,,,Zamfara,Percentage (%),NGZA36,8.5
+2021,Proportion of population using (a) safely managed sanitation services,,,,Federal Capital Territory,Percentage (%),NGFC37,28.2
+2019,Proportion of population using (a) safely managed sanitation services,,,,,Percentage (%),NG,20.9
+2019,Proportion of population using (a) safely managed sanitation services,,,North Central,,Percentage (%),NGNCZ06,14.0
+2019,Proportion of population using (a) safely managed sanitation services,,,North East,,Percentage (%),NGNEZ05,22.2
+2019,Proportion of population using (a) safely managed sanitation services,,,North West,,Percentage (%),NGNWZ04,24.1
+2019,Proportion of population using (a) safely managed sanitation services,,,South East,,Percentage (%),NGSEZ03,26.0
+2019,Proportion of population using (a) safely managed sanitation services,,,South South,,Percentage (%),NGSSZ02,22.3
+2019,Proportion of population using (a) safely managed sanitation services,,,South West,,Percentage (%),NGSWZ01,17.5
+2019,Proportion of population using (a) safely managed sanitation services,Urban,,,,Percentage (%),NG,24.9
+2019,Proportion of population using (a) safely managed sanitation services,Peri-Urban,,,,Percentage (%),NG,24.8
+2019,Proportion of population using (a) safely managed sanitation services,Urban-Urban,,,,Percentage (%),NG,24.9
+2019,Proportion of population using (a) safely managed sanitation services,Rural,,,,Percentage (%),NG,19.2
+2019,Proportion of population using (a) safely managed sanitation services,Itenerant,,,,Percentage (%),NG,17.2
+2019,Proportion of population using (a) safely managed sanitation services,Rural-Rural,,,,Percentage (%),NG,18.8
+2019,Proportion of population using (a) safely managed sanitation services,Small Town,,,,Percentage (%),NG,22.3
+2019,Proportion of population using (a) safely managed sanitation services,,Poorest,,,Percentage (%),NG,12.2
+2019,Proportion of population using (a) safely managed sanitation services,,Second,,,Percentage (%),NG,17.4
+2019,Proportion of population using (a) safely managed sanitation services,,Middle,,,Percentage (%),NG,20.2
+2019,Proportion of population using (a) safely managed sanitation services,,Fourth,,,Percentage (%),NG,22.7
+2019,Proportion of population using (a) safely managed sanitation services,,Richest,,,Percentage (%),NG,33.3
+2019,Proportion of population using (a) safely managed sanitation services,,,,Abia,Percentage (%),NGAB01,28.4
+2019,Proportion of population using (a) safely managed sanitation services,,,,Adamawa,Percentage (%),NGAD02,28.9
+2019,Proportion of population using (a) safely managed sanitation services,,,,Akwa Ibom,Percentage (%),NGAK03,28.2
+2019,Proportion of population using (a) safely managed sanitation services,,,,Anambra,Percentage (%),NGAN04,33.3
+2019,Proportion of population using (a) safely managed sanitation services,,,,Bauchi,Percentage (%),NGBA05,20.5
+2019,Proportion of population using (a) safely managed sanitation services,,,,Bayelsa,Percentage (%),NGBY06,12.9
+2019,Proportion of population using (a) safely managed sanitation services,,,,Benue,Percentage (%),NGBE07,11.3
+2019,Proportion of population using (a) safely managed sanitation services,,,,Borno,Percentage (%),NGBO08,22.8
+2019,Proportion of population using (a) safely managed sanitation services,,,,Cross River,Percentage (%),NGXR09,17.1
+2019,Proportion of population using (a) safely managed sanitation services,,,,Delta,Percentage (%),NGDE10,24.4
+2019,Proportion of population using (a) safely managed sanitation services,,,,Ebonyi,Percentage (%),NGEB11,6.7
+2019,Proportion of population using (a) safely managed sanitation services,,,,Edo,Percentage (%),NGED12,23.8
+2019,Proportion of population using (a) safely managed sanitation services,,,,Ekiti,Percentage (%),NGEK13,12.0
+2019,Proportion of population using (a) safely managed sanitation services,,,,Enugu,Percentage (%),NGEN14,17.3
+2019,Proportion of population using (a) safely managed sanitation services,,,,Gombe,Percentage (%),NGGO15,27.7
+2019,Proportion of population using (a) safely managed sanitation services,,,,Imo,Percentage (%),NGIM16,34.2
+2019,Proportion of population using (a) safely managed sanitation services,,,,Jigawa,Percentage (%),NGJI17,19.5
+2019,Proportion of population using (a) safely managed sanitation services,,,,Kaduna,Percentage (%),NGKD18,27.3
+2019,Proportion of population using (a) safely managed sanitation services,,,,Kano,Percentage (%),NGKN19,31.6
+2019,Proportion of population using (a) safely managed sanitation services,,,,Katsina,Percentage (%),NGKT20,22.2
+2019,Proportion of population using (a) safely managed sanitation services,,,,Kebbi,Percentage (%),NGKE21,17.1
+2019,Proportion of population using (a) safely managed sanitation services,,,,Kogi,Percentage (%),NGKO22,12.3
+2019,Proportion of population using (a) safely managed sanitation services,,,,Kwara,Percentage (%),NGKW23,6.2
+2019,Proportion of population using (a) safely managed sanitation services,,,,Lagos,Percentage (%),NGLA24,28.0
+2019,Proportion of population using (a) safely managed sanitation services,,,,Nasarawa,Percentage (%),NGNA25,13.3
+2019,Proportion of population using (a) safely managed sanitation services,,,,Niger,Percentage (%),NGNI26,18.2
+2019,Proportion of population using (a) safely managed sanitation services,,,,Ogun,Percentage (%),NGOG27,16.3
+2019,Proportion of population using (a) safely managed sanitation services,,,,Ondo,Percentage (%),NGON28,13.8
+2019,Proportion of population using (a) safely managed sanitation services,,,,Osun,Percentage (%),NGOS29,16.0
+2019,Proportion of population using (a) safely managed sanitation services,,,,Oyo,Percentage (%),NGOY30,6.7
+2019,Proportion of population using (a) safely managed sanitation services,,,,Plateau,Percentage (%),NGPL31,12.6
+2019,Proportion of population using (a) safely managed sanitation services,,,,Rivers,Percentage (%),NGRI32,21.1
+2019,Proportion of population using (a) safely managed sanitation services,,,,Sokoto,Percentage (%),NGSO33,18.5
+2019,Proportion of population using (a) safely managed sanitation services,,,,Taraba,Percentage (%),NGTA34,15.7
+2019,Proportion of population using (a) safely managed sanitation services,,,,Yobe,Percentage (%),NGYO35,16.5
+2019,Proportion of population using (a) safely managed sanitation services,,,,Zamfara,Percentage (%),NGZA36,19.0
+2019,Proportion of population using (a) safely managed sanitation services,,,,Federal Capital Territory,Percentage (%),NGFC37,22.4
+2018,Proportion of population using (a) safely managed sanitation services,,,,,Percentage (%),NG,19.2
+2018,Proportion of population using (a) safely managed sanitation services,,,North Central,,Percentage (%),NGNCZ06,14.5
+2018,Proportion of population using (a) safely managed sanitation services,,,North East,,Percentage (%),NGNEZ05,20.0
+2018,Proportion of population using (a) safely managed sanitation services,,,North West,,Percentage (%),NGNWZ04,20.5
+2018,Proportion of population using (a) safely managed sanitation services,,,South East,,Percentage (%),NGSEZ03,26.3
+2018,Proportion of population using (a) safely managed sanitation services,,,South South,,Percentage (%),NGSSZ02,18.0
+2018,Proportion of population using (a) safely managed sanitation services,,,South West,,Percentage (%),NGSWZ01,17.4
+2018,Proportion of population using (a) safely managed sanitation services,Urban,,,,Percentage (%),NG,24.0
+2018,Proportion of population using (a) safely managed sanitation services,Peri-Urban,,,,Percentage (%),NG,19.3
+2018,Proportion of population using (a) safely managed sanitation services,Urban-Urban,,,,Percentage (%),NG,25.1
+2018,Proportion of population using (a) safely managed sanitation services,Rural,,,,Percentage (%),NG,17.2
+2018,Proportion of population using (a) safely managed sanitation services,Itenerant,,,,Percentage (%),NG,11.6
+2018,Proportion of population using (a) safely managed sanitation services,Rural-Rural,,,,Percentage (%),NG,17.2
+2018,Proportion of population using (a) safely managed sanitation services,Small Town,,,,Percentage (%),NG,19.8
+2018,Proportion of population using (a) safely managed sanitation services,,Poorest,,,Percentage (%),NG,12.0
+2018,Proportion of population using (a) safely managed sanitation services,,Second,,,Percentage (%),NG,14.6
+2018,Proportion of population using (a) safely managed sanitation services,,Middle,,,Percentage (%),NG,15.81
+2018,Proportion of population using (a) safely managed sanitation services,,Fourth,,,Percentage (%),NG,20.5
+2018,Proportion of population using (a) safely managed sanitation services,,Richest,,,Percentage (%),NG,34.2
+2018,Proportion of population using (a) safely managed sanitation services,,,,Abia,Percentage (%),NGAB01,33.0
+2018,Proportion of population using (a) safely managed sanitation services,,,,Adamawa,Percentage (%),NGAD02,29.1
+2018,Proportion of population using (a) safely managed sanitation services,,,,Akwa Ibom,Percentage (%),NGAK03,22.5
+2018,Proportion of population using (a) safely managed sanitation services,,,,Anambra,Percentage (%),NGAN04,33.5
+2018,Proportion of population using (a) safely managed sanitation services,,,,Bauchi,Percentage (%),NGBA05,23.6
+2018,Proportion of population using (a) safely managed sanitation services,,,,Bayelsa,Percentage (%),NGBY06,8.4
+2018,Proportion of population using (a) safely managed sanitation services,,,,Benue,Percentage (%),NGBE07,9.3
+2018,Proportion of population using (a) safely managed sanitation services,,,,Borno,Percentage (%),NGBO08,9.7
+2018,Proportion of population using (a) safely managed sanitation services,,,,Cross River,Percentage (%),NGXR09,22.3
+2018,Proportion of population using (a) safely managed sanitation services,,,,Delta,Percentage (%),NGDE10,18.9
+2018,Proportion of population using (a) safely managed sanitation services,,,,Ebonyi,Percentage (%),NGEB11,5.1
+2018,Proportion of population using (a) safely managed sanitation services,,,,Edo,Percentage (%),NGED12,18.3
+2018,Proportion of population using (a) safely managed sanitation services,,,,Ekiti,Percentage (%),NGEK13,14.3
+2018,Proportion of population using (a) safely managed sanitation services,,,,Enugu,Percentage (%),NGEN14,21.5
+2018,Proportion of population using (a) safely managed sanitation services,,,,Gombe,Percentage (%),NGGO15,36.3
+2018,Proportion of population using (a) safely managed sanitation services,,,,Imo,Percentage (%),NGIM16,29.6
+2018,Proportion of population using (a) safely managed sanitation services,,,,Jigawa,Percentage (%),NGJI17,6.7
+2018,Proportion of population using (a) safely managed sanitation services,,,,Kaduna,Percentage (%),NGKD18,7.4
+2018,Proportion of population using (a) safely managed sanitation services,,,,Kano,Percentage (%),NGKN19,28.4
+2018,Proportion of population using (a) safely managed sanitation services,,,,Katsina,Percentage (%),NGKT20,39.3
+2018,Proportion of population using (a) safely managed sanitation services,,,,Kebbi,Percentage (%),NGKE21,7.8
+2018,Proportion of population using (a) safely managed sanitation services,,,,Kogi,Percentage (%),NGKO22,13.0
+2018,Proportion of population using (a) safely managed sanitation services,,,,Kwara,Percentage (%),NGKW23,7.7
+2018,Proportion of population using (a) safely managed sanitation services,,,,Lagos,Percentage (%),NGLA24,21.8
+2018,Proportion of population using (a) safely managed sanitation services,,,,Nasarawa,Percentage (%),NGNA25,19.9
+2018,Proportion of population using (a) safely managed sanitation services,,,,Niger,Percentage (%),NGNI26,17.1
+2018,Proportion of population using (a) safely managed sanitation services,,,,Ogun,Percentage (%),NGOG27,18.3
+2018,Proportion of population using (a) safely managed sanitation services,,,,Ondo,Percentage (%),NGON28,15.7
+2018,Proportion of population using (a) safely managed sanitation services,,,,Osun,Percentage (%),NGOS29,16.4
+2018,Proportion of population using (a) safely managed sanitation services,,,,Oyo,Percentage (%),NGOY30,12.8
+2018,Proportion of population using (a) safely managed sanitation services,,,,Plateau,Percentage (%),NGPL31,15.2
+2018,Proportion of population using (a) safely managed sanitation services,,,,Rivers,Percentage (%),NGRI32,14.5
+2018,Proportion of population using (a) safely managed sanitation services,,,,Sokoto,Percentage (%),NGSO33,24.3
+2018,Proportion of population using (a) safely managed sanitation services,,,,Taraba,Percentage (%),NGTA34,15.9
+2018,Proportion of population using (a) safely managed sanitation services,,,,Yobe,Percentage (%),NGYO35,7.0
+2018,Proportion of population using (a) safely managed sanitation services,,,,Zamfara,Percentage (%),NGZA36,15.4
+2018,Proportion of population using (a) safely managed sanitation services,,,,Federal Capital Territory,Percentage (%),NGFC37,22.1
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,,Percentage (%),NG,17.5
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,North Central,,Percentage (%),NGNCZ06,11.4
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,North East,,Percentage (%),NGNEZ05,12.1
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,North West,,Percentage (%),NGNWZ04,21.5
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,South East,,Percentage (%),NGSEZ03,12.6
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,South South,,Percentage (%),NGSSZ02,24.3
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,South West,,Percentage (%),NGSWZ01,18.0
+2020,Proportion of population using (b) a hand-washing facility with soap and water,Urban,,,,Percentage (%),NG,25.1
+2021,Proportion of population using (b) a hand-washing facility with soap and water,Peri-Urban,,,,Percentage (%),NG,21.7
+2021,Proportion of population using (b) a hand-washing facility with soap and water,Urban-Urban,,,,Percentage (%),NG,26.0
+2021,Proportion of population using (b) a hand-washing facility with soap and water,Rural,,,,Percentage (%),NG,12.7
+2021,Proportion of population using (b) a hand-washing facility with soap and water,Itenerant,,,,Percentage (%),NG,19.2
+2021,Proportion of population using (b) a hand-washing facility with soap and water,Rural-Rural,,,,Percentage (%),NG,13.4
+2021,Proportion of population using (b) a hand-washing facility with soap and water,Small Town,,,,Percentage (%),NG,16.3
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,Poorest,,,Percentage (%),NG,9.7
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,Second,,,Percentage (%),NG,9.5
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,Middle,,,Percentage (%),NG,11.6
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,Fourth,,,Percentage (%),NG,16.0
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,Richest,,,Percentage (%),NG,38.6
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Abia,Percentage (%),NGAB01,7.3
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Adamawa,Percentage (%),NGAD02,9.4
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Akwa Ibom,Percentage (%),NGAK03,12.0
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Anambra,Percentage (%),NGAN04,24.4
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Bauchi,Percentage (%),NGBA05,20.6
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Bayelsa,Percentage (%),NGBY06,15.2
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Benue,Percentage (%),NGBE07,5.3
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Borno,Percentage (%),NGBO08,6.2
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Cross River,Percentage (%),NGXR09,29.9
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Delta,Percentage (%),NGDE10,34.8
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Ebonyi,Percentage (%),NGEB11,2.1
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Edo,Percentage (%),NGED12,2.0
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Ekiti,Percentage (%),NGEK13,4.2
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Enugu,Percentage (%),NGEN14,8.8
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Gombe,Percentage (%),NGGO15,9.9
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Imo,Percentage (%),NGIM16,12.9
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Jigawa,Percentage (%),NGJI17,37.3
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Kaduna,Percentage (%),NGKD18,33.2
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Kano,Percentage (%),NGKN19,11.0
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Katsina,Percentage (%),NGKT20,30.5
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Kebbi,Percentage (%),NGKE21,28.0
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Kogi,Percentage (%),NGKO22,3.9
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Kwara,Percentage (%),NGKW23,12.2
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Lagos,Percentage (%),NGLA24,34.0
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Nasarawa,Percentage (%),NGNA25,26.4
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Niger,Percentage (%),NGNI26,11.8
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Ogun,Percentage (%),NGOG27,7.9
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Ondo,Percentage (%),NGON28,6.1
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Osun,Percentage (%),NGOS29,21.5
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Oyo,Percentage (%),NGOY30,7.6
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Plateau,Percentage (%),NGPL31,7.8
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Rivers,Percentage (%),NGRI32,37.6
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Sokoto,Percentage (%),NGSO33,3.1
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Taraba,Percentage (%),NGTA34,3.0
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Yobe,Percentage (%),NGYO35,20.6
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Zamfara,Percentage (%),NGZA36,6.5
+2021,Proportion of population using (b) a hand-washing facility with soap and water,,,,Federal Capital Territory,Percentage (%),NGFC37,20.8
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,,Percentage (%),NG,15.1
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,North Central,,Percentage (%),NGNCZ06,10.5
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,North East,,Percentage (%),NGNEZ05,8.3
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,North West,,Percentage (%),NGNWZ04,25.4
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,South East,,Percentage (%),NGSEZ03,11.9
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,South South,,Percentage (%),NGSSZ02,20.0
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,South West,,Percentage (%),NGSWZ01,9.7
+2019,Proportion of population using (b) a hand-washing facility with soap and water,Urban,,,,Percentage (%),NG,18.8
+2019,Proportion of population using (b) a hand-washing facility with soap and water,Peri-Urban,,,,Percentage (%),NG,17.0
+2019,Proportion of population using (b) a hand-washing facility with soap and water,Urban-Urban,,,,Percentage (%),NG,19.3
+2019,Proportion of population using (b) a hand-washing facility with soap and water,Rural,,,,Percentage (%),NG,13.4
+2019,Proportion of population using (b) a hand-washing facility with soap and water,Itenerant,,,,Percentage (%),NG,14.8
+2019,Proportion of population using (b) a hand-washing facility with soap and water,Rural-Rural,,,,Percentage (%),NG,13.1
+2019,Proportion of population using (b) a hand-washing facility with soap and water,Small Town,,,,Percentage (%),NG,15.1
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,Poorest,,,Percentage (%),NG,12.0
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,Second,,,Percentage (%),NG,11.2
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,Middle,,,Percentage (%),NG,10.9
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,Fourth,,,Percentage (%),NG,14.0
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,Richest,,,Percentage (%),NG,27.4
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Abia,Percentage (%),NGAB01,10.4
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Adamawa,Percentage (%),NGAD02,15.2
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Akwa Ibom,Percentage (%),NGAK03,14.3
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Anambra,Percentage (%),NGAN04,19.7
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Bauchi,Percentage (%),NGBA05,1.4
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Bayelsa,Percentage (%),NGBY06,8.7
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Benue,Percentage (%),NGBE07,5.0
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Borno,Percentage (%),NGBO08,11.3
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Cross River,Percentage (%),NGXR09,31.1
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Delta,Percentage (%),NGDE10,19.7
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Ebonyi,Percentage (%),NGEB11,0.7
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Edo,Percentage (%),NGED12,18.2
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Ekiti,Percentage (%),NGEK13,10.5
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Enugu,Percentage (%),NGEN14,13.9
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Gombe,Percentage (%),NGGO15,2.1
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Imo,Percentage (%),NGIM16,9.2
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Jigawa,Percentage (%),NGJI17,49.4
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Kaduna,Percentage (%),NGKD18,24.4
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Kano,Percentage (%),NGKN19,29.3
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Katsina,Percentage (%),NGKT20,8.1
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Kebbi,Percentage (%),NGKE21,11.4
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Kogi,Percentage (%),NGKO22,9.7
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Kwara,Percentage (%),NGKW23,10.0
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Lagos,Percentage (%),NGLA24,16.1
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Nasarawa,Percentage (%),NGNA25,8.0
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Niger,Percentage (%),NGNI26,14.6
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Ogun,Percentage (%),NGOG27,8.0
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Ondo,Percentage (%),NGON28,9.5
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Osun,Percentage (%),NGOS29,3.5
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Oyo,Percentage (%),NGOY30,2.8
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Plateau,Percentage (%),NGPL31,6.3
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Rivers,Percentage (%),NGRI32,22.9
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Sokoto,Percentage (%),NGSO33,33.9
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Taraba,Percentage (%),NGTA34,3.1
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Yobe,Percentage (%),NGYO35,18.0
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Zamfara,Percentage (%),NGZA36,19.2
+2019,Proportion of population using (b) a hand-washing facility with soap and water,,,,Federal Capital Territory,Percentage (%),NGFC37,19.5
+2018,Proportion of population using (b) a hand-washing facility with soap and water,,,,,Percentage (%),NG,22.1
+2018,Proportion of population using (b) a hand-washing facility with soap and water,Urban,,,,Percentage (%),NG,27.5
+2018,Proportion of population using (b) a hand-washing facility with soap and water,Rural,,,,Percentage (%),NG,19.5

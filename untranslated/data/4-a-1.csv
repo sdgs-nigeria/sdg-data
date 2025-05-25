@@ -1,1 +1,541 @@
-Year,Value
+Year,Series,Sector,Category of school,School type,Geopolitical zone,State,Type of service,Units,GeoCode,Value
+2021,"Proportion of schools access basic services, by type of service",,,,,,Avaliability of perimeter fencing,Percentage (%),NG,34.2
+2021,"Proportion of schools access basic services, by type of service",,,,North Central,,Avaliability of perimeter fencing,Percentage (%),NGNCZ06,13.8
+2021,"Proportion of schools access basic services, by type of service",,,,North East,,Avaliability of perimeter fencing,Percentage (%),NGNEZ05,24.8
+2021,"Proportion of schools access basic services, by type of service",,,,North West,,Avaliability of perimeter fencing,Percentage (%),NGNWZ04,27.1
+2021,"Proportion of schools access basic services, by type of service",,,,South East,,Avaliability of perimeter fencing,Percentage (%),NGSEZ03,31.2
+2021,"Proportion of schools access basic services, by type of service",,,,South South,,Avaliability of perimeter fencing,Percentage (%),NGSSZ02,44.2
+2021,"Proportion of schools access basic services, by type of service",,,,South West,,Avaliability of perimeter fencing,Percentage (%),NGSWZ01,57.1
+2020,"Proportion of schools access basic services, by type of service",Urban,,,,,Avaliability of perimeter fencing,Percentage (%),NG,66.2
+2021,"Proportion of schools access basic services, by type of service",Peri-Urban,,,,,Avaliability of perimeter fencing,Percentage (%),NG,56.6
+2021,"Proportion of schools access basic services, by type of service",Urban-Urban,,,,,Avaliability of perimeter fencing,Percentage (%),NG,70.8
+2021,"Proportion of schools access basic services, by type of service",Rural,,,,,Avaliability of perimeter fencing,Percentage (%),NG,19.3
+2021,"Proportion of schools access basic services, by type of service",Itenerant,,,,,Avaliability of perimeter fencing,Percentage (%),NG,14.3
+2021,"Proportion of schools access basic services, by type of service",Rural-Rural,,,,,Avaliability of perimeter fencing,Percentage (%),NG,20.0
+2021,"Proportion of schools access basic services, by type of service",Small Town,,,,,Avaliability of perimeter fencing,Percentage (%),NG,39.7
+2021,"Proportion of schools access basic services, by type of service",,Normal,,,,Avaliability of perimeter fencing,Percentage (%),NG,34.1
+2021,"Proportion of schools access basic services, by type of service",,Special Needs,,,,Avaliability of perimeter fencing,Percentage (%),NG,60.3
+2021,"Proportion of schools access basic services, by type of service",,,Primary,,,Avaliability of perimeter fencing,Percentage (%),NG,32.2
+2021,"Proportion of schools access basic services, by type of service",,,Secondary,,,Avaliability of perimeter fencing,Percentage (%),NG,42.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Abia,Avaliability of perimeter fencing,Percentage (%),NGAB01,31.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Adamawa,Avaliability of perimeter fencing,Percentage (%),NGAD02,26.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Akwa Ibom,Avaliability of perimeter fencing,Percentage (%),NGAK03,13.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Anambra,Avaliability of perimeter fencing,Percentage (%),NGAN04,58.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Bauchi,Avaliability of perimeter fencing,Percentage (%),NGBA05,10.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Bayelsa,Avaliability of perimeter fencing,Percentage (%),NGBY06,15.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Benue,Avaliability of perimeter fencing,Percentage (%),NGBE07,6.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Borno,Avaliability of perimeter fencing,Percentage (%),NGBO08,59.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Cross River,Avaliability of perimeter fencing,Percentage (%),NGXR09,21.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Delta,Avaliability of perimeter fencing,Percentage (%),NGDE10,86.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Ebonyi,Avaliability of perimeter fencing,Percentage (%),NGEB11,26.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Edo,Avaliability of perimeter fencing,Percentage (%),NGED12,44.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Ekiti,Avaliability of perimeter fencing,Percentage (%),NGEK13,24.9
+2021,"Proportion of schools access basic services, by type of service",,,,,Enugu,Avaliability of perimeter fencing,Percentage (%),NGEN14,19.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Gombe,Avaliability of perimeter fencing,Percentage (%),NGGO15,11.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Imo,Avaliability of perimeter fencing,Percentage (%),NGIM16,20.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Jigawa,Avaliability of perimeter fencing,Percentage (%),NGJI17,4.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Kaduna,Avaliability of perimeter fencing,Percentage (%),NGKD18,29.5
+2021,"Proportion of schools access basic services, by type of service",,,,,Kano,Avaliability of perimeter fencing,Percentage (%),NGKN19,22.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Katsina,Avaliability of perimeter fencing,Percentage (%),NGKT20,30.5
+2021,"Proportion of schools access basic services, by type of service",,,,,Kebbi,Avaliability of perimeter fencing,Percentage (%),NGKE21,21.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Kogi,Avaliability of perimeter fencing,Percentage (%),NGKO22,2.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Kwara,Avaliability of perimeter fencing,Percentage (%),NGKW23,8.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Lagos,Avaliability of perimeter fencing,Percentage (%),NGLA24,95.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Nasarawa,Avaliability of perimeter fencing,Percentage (%),NGNA25,6.9
+2021,"Proportion of schools access basic services, by type of service",,,,,Niger,Avaliability of perimeter fencing,Percentage (%),NGNI26,18.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Ogun,Avaliability of perimeter fencing,Percentage (%),NGOG27,21.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Ondo,Avaliability of perimeter fencing,Percentage (%),NGON28,36.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Osun,Avaliability of perimeter fencing,Percentage (%),NGOS29,42.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Oyo,Avaliability of perimeter fencing,Percentage (%),NGOY30,34.5
+2021,"Proportion of schools access basic services, by type of service",,,,,Plateau,Avaliability of perimeter fencing,Percentage (%),NGPL31,17.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Rivers,Avaliability of perimeter fencing,Percentage (%),NGRI32,59.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Sokoto,Avaliability of perimeter fencing,Percentage (%),NGSO33,59.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Taraba,Avaliability of perimeter fencing,Percentage (%),NGTA34,19.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Yobe,Avaliability of perimeter fencing,Percentage (%),NGYO35,30.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Zamfara,Avaliability of perimeter fencing,Percentage (%),NGZA36,20.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Federal Capital Territory,Avaliability of perimeter fencing,Percentage (%),NGFC37,56.6
+2021,"Proportion of schools access basic services, by type of service",,,,,,Availability of toilet/laterine,Percentage (%),NG,60.9
+2021,"Proportion of schools access basic services, by type of service",,,,North Central,,Availability of toilet/laterine,Percentage (%),NGNCZ06,50.1
+2021,"Proportion of schools access basic services, by type of service",,,,North East,,Availability of toilet/laterine,Percentage (%),NGNEZ05,62.0
+2021,"Proportion of schools access basic services, by type of service",,,,North West,,Availability of toilet/laterine,Percentage (%),NGNWZ04,68.2
+2021,"Proportion of schools access basic services, by type of service",,,,South East,,Availability of toilet/laterine,Percentage (%),NGSEZ03,44.1
+2021,"Proportion of schools access basic services, by type of service",,,,South South,,Availability of toilet/laterine,Percentage (%),NGSSZ02,57.3
+2021,"Proportion of schools access basic services, by type of service",,,,South West,,Availability of toilet/laterine,Percentage (%),NGSWZ01,72.1
+2020,"Proportion of schools access basic services, by type of service",Urban,,,,,Availability of toilet/laterine,Percentage (%),NG,79.5
+2021,"Proportion of schools access basic services, by type of service",Peri-Urban,,,,,Availability of toilet/laterine,Percentage (%),NG,79.9
+2021,"Proportion of schools access basic services, by type of service",Urban-Urban,,,,,Availability of toilet/laterine,Percentage (%),NG,79.4
+2021,"Proportion of schools access basic services, by type of service",Rural,,,,,Availability of toilet/laterine,Percentage (%),NG,52.2
+2021,"Proportion of schools access basic services, by type of service",Itenerant,,,,,Availability of toilet/laterine,Percentage (%),NG,47.7
+2021,"Proportion of schools access basic services, by type of service",Rural-Rural,,,,,Availability of toilet/laterine,Percentage (%),NG,55.8
+2021,"Proportion of schools access basic services, by type of service",Small Town,,,,,Availability of toilet/laterine,Percentage (%),NG,69.7
+2021,"Proportion of schools access basic services, by type of service",,Normal,,,,Availability of toilet/laterine,Percentage (%),NG,60.8
+2021,"Proportion of schools access basic services, by type of service",,Special Needs,,,,Availability of toilet/laterine,Percentage (%),NG,71.6
+2021,"Proportion of schools access basic services, by type of service",,,Primary,,,Availability of toilet/laterine,Percentage (%),NG,58.7
+2021,"Proportion of schools access basic services, by type of service",,,Secondary,,,Availability of toilet/laterine,Percentage (%),NG,69.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Abia,Availability of toilet/laterine,Percentage (%),NGAB01,63.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Adamawa,Availability of toilet/laterine,Percentage (%),NGAD02,52.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Akwa Ibom,Availability of toilet/laterine,Percentage (%),NGAK03,57.9
+2021,"Proportion of schools access basic services, by type of service",,,,,Anambra,Availability of toilet/laterine,Percentage (%),NGAN04,74.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Bauchi,Availability of toilet/laterine,Percentage (%),NGBA05,59.9
+2021,"Proportion of schools access basic services, by type of service",,,,,Bayelsa,Availability of toilet/laterine,Percentage (%),NGBY06,33.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Benue,Availability of toilet/laterine,Percentage (%),NGBE07,67.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Borno,Availability of toilet/laterine,Percentage (%),NGBO08,72.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Cross River,Availability of toilet/laterine,Percentage (%),NGXR09,48.9
+2021,"Proportion of schools access basic services, by type of service",,,,,Delta,Availability of toilet/laterine,Percentage (%),NGDE10,63.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Ebonyi,Availability of toilet/laterine,Percentage (%),NGEB11,24.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Edo,Availability of toilet/laterine,Percentage (%),NGED12,67.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Ekiti,Availability of toilet/laterine,Percentage (%),NGEK13,48.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Enugu,Availability of toilet/laterine,Percentage (%),NGEN14,36.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Gombe,Availability of toilet/laterine,Percentage (%),NGGO15,61.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Imo,Availability of toilet/laterine,Percentage (%),NGIM16,25.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Jigawa,Availability of toilet/laterine,Percentage (%),NGJI17,76.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Kaduna,Availability of toilet/laterine,Percentage (%),NGKD18,62.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Kano,Availability of toilet/laterine,Percentage (%),NGKN19,62.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Katsina,Availability of toilet/laterine,Percentage (%),NGKT20,86.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Kebbi,Availability of toilet/laterine,Percentage (%),NGKE21,63.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Kogi,Availability of toilet/laterine,Percentage (%),NGKO22,22.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Kwara,Availability of toilet/laterine,Percentage (%),NGKW23,56.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Lagos,Availability of toilet/laterine,Percentage (%),NGLA24,96.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Nasarawa,Availability of toilet/laterine,Percentage (%),NGNA25,38.5
+2021,"Proportion of schools access basic services, by type of service",,,,,Niger,Availability of toilet/laterine,Percentage (%),NGNI26,53.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Ogun,Availability of toilet/laterine,Percentage (%),NGOG27,64.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Ondo,Availability of toilet/laterine,Percentage (%),NGON28,62.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Osun,Availability of toilet/laterine,Percentage (%),NGOS29,67.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Oyo,Availability of toilet/laterine,Percentage (%),NGOY30,46.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Plateau,Availability of toilet/laterine,Percentage (%),NGPL31,41.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Rivers,Availability of toilet/laterine,Percentage (%),NGRI32,55.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Sokoto,Availability of toilet/laterine,Percentage (%),NGSO33,80.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Taraba,Availability of toilet/laterine,Percentage (%),NGTA34,58.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Yobe,Availability of toilet/laterine,Percentage (%),NGYO35,80.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Zamfara,Availability of toilet/laterine,Percentage (%),NGZA36,64.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Federal Capital Territory,Availability of toilet/laterine,Percentage (%),NGFC37,86.3
+2021,"Proportion of schools access basic services, by type of service",,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,51.4
+2021,"Proportion of schools access basic services, by type of service",,,,North Central,,Availiabilty of Handwashing Facilities,Percentage (%),NGNCZ06,47.5
+2021,"Proportion of schools access basic services, by type of service",,,,North East,,Availiabilty of Handwashing Facilities,Percentage (%),NGNEZ05,40.8
+2021,"Proportion of schools access basic services, by type of service",,,,North West,,Availiabilty of Handwashing Facilities,Percentage (%),NGNWZ04,39.9
+2021,"Proportion of schools access basic services, by type of service",,,,South East,,Availiabilty of Handwashing Facilities,Percentage (%),NGSEZ03,37.4
+2021,"Proportion of schools access basic services, by type of service",,,,South South,,Availiabilty of Handwashing Facilities,Percentage (%),NGSSZ02,58.2
+2021,"Proportion of schools access basic services, by type of service",,,,South West,,Availiabilty of Handwashing Facilities,Percentage (%),NGSWZ01,69.3
+2020,"Proportion of schools access basic services, by type of service",Urban,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,70.7
+2021,"Proportion of schools access basic services, by type of service",Peri-Urban,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,69.7
+2021,"Proportion of schools access basic services, by type of service",Urban-Urban,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,71.3
+2021,"Proportion of schools access basic services, by type of service",Rural,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,42.4
+2021,"Proportion of schools access basic services, by type of service",Itenerant,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,38.0
+2021,"Proportion of schools access basic services, by type of service",Rural-Rural,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,39.0
+2021,"Proportion of schools access basic services, by type of service",Small Town,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,61.0
+2021,"Proportion of schools access basic services, by type of service",,Normal,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,51.3
+2021,"Proportion of schools access basic services, by type of service",,Special Needs,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,59.4
+2021,"Proportion of schools access basic services, by type of service",,,Primary,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,48.8
+2021,"Proportion of schools access basic services, by type of service",,,Secondary,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,61.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Abia,Availiabilty of Handwashing Facilities,Percentage (%),NGAB01,19.5
+2021,"Proportion of schools access basic services, by type of service",,,,,Adamawa,Availiabilty of Handwashing Facilities,Percentage (%),NGAD02,17.9
+2021,"Proportion of schools access basic services, by type of service",,,,,Akwa Ibom,Availiabilty of Handwashing Facilities,Percentage (%),NGAK03,56.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Anambra,Availiabilty of Handwashing Facilities,Percentage (%),NGAN04,72.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Bauchi,Availiabilty of Handwashing Facilities,Percentage (%),NGBA05,57.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Bayelsa,Availiabilty of Handwashing Facilities,Percentage (%),NGBY06,29.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Benue,Availiabilty of Handwashing Facilities,Percentage (%),NGBE07,61.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Borno,Availiabilty of Handwashing Facilities,Percentage (%),NGBO08,41.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Cross River,Availiabilty of Handwashing Facilities,Percentage (%),NGXR09,74.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Delta,Availiabilty of Handwashing Facilities,Percentage (%),NGDE10,71.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Ebonyi,Availiabilty of Handwashing Facilities,Percentage (%),NGEB11,35.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Edo,Availiabilty of Handwashing Facilities,Percentage (%),NGED12,59.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Ekiti,Availiabilty of Handwashing Facilities,Percentage (%),NGEK13,66.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Enugu,Availiabilty of Handwashing Facilities,Percentage (%),NGEN14,39.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Gombe,Availiabilty of Handwashing Facilities,Percentage (%),NGGO15,45.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Imo,Availiabilty of Handwashing Facilities,Percentage (%),NGIM16,18.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Jigawa,Availiabilty of Handwashing Facilities,Percentage (%),NGJI17,48.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Kaduna,Availiabilty of Handwashing Facilities,Percentage (%),NGKD18,49.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Kano,Availiabilty of Handwashing Facilities,Percentage (%),NGKN19,38.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Katsina,Availiabilty of Handwashing Facilities,Percentage (%),NGKT20,45.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Kebbi,Availiabilty of Handwashing Facilities,Percentage (%),NGKE21,14.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Kogi,Availiabilty of Handwashing Facilities,Percentage (%),NGKO22,52.9
+2021,"Proportion of schools access basic services, by type of service",,,,,Kwara,Availiabilty of Handwashing Facilities,Percentage (%),NGKW23,25.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Lagos,Availiabilty of Handwashing Facilities,Percentage (%),NGLA24,83.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Nasarawa,Availiabilty of Handwashing Facilities,Percentage (%),NGNA25,55.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Niger,Availiabilty of Handwashing Facilities,Percentage (%),NGNI26,37.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Ogun,Availiabilty of Handwashing Facilities,Percentage (%),NGOG27,65.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Ondo,Availiabilty of Handwashing Facilities,Percentage (%),NGON28,74.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Osun,Availiabilty of Handwashing Facilities,Percentage (%),NGOS29,67.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Oyo,Availiabilty of Handwashing Facilities,Percentage (%),NGOY30,47.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Plateau,Availiabilty of Handwashing Facilities,Percentage (%),NGPL31,38.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Rivers,Availiabilty of Handwashing Facilities,Percentage (%),NGRI32,33.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Sokoto,Availiabilty of Handwashing Facilities,Percentage (%),NGSO33,63.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Taraba,Availiabilty of Handwashing Facilities,Percentage (%),NGTA34,47.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Yobe,Availiabilty of Handwashing Facilities,Percentage (%),NGYO35,26.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Zamfara,Availiabilty of Handwashing Facilities,Percentage (%),NGZA36,10.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Federal Capital Territory,Availiabilty of Handwashing Facilities,Percentage (%),NGFC37,84.0
+2021,"Proportion of schools access basic services, by type of service",,,,,,Enviroment Health in Schools,Percentage (%),NG,19.4
+2021,"Proportion of schools access basic services, by type of service",,,,North Central,,Enviroment Health in Schools,Percentage (%),NGNCZ06,12.9
+2021,"Proportion of schools access basic services, by type of service",,,,North East,,Enviroment Health in Schools,Percentage (%),NGNEZ05,19.5
+2021,"Proportion of schools access basic services, by type of service",,,,North West,,Enviroment Health in Schools,Percentage (%),NGNWZ04,22.2
+2021,"Proportion of schools access basic services, by type of service",,,,South East,,Enviroment Health in Schools,Percentage (%),NGSEZ03,14.0
+2021,"Proportion of schools access basic services, by type of service",,,,South South,,Enviroment Health in Schools,Percentage (%),NGSSZ02,17.9
+2021,"Proportion of schools access basic services, by type of service",,,,South West,,Enviroment Health in Schools,Percentage (%),NGSWZ01,25.6
+2020,"Proportion of schools access basic services, by type of service",Urban,,,,,Enviroment Health in Schools,Percentage (%),NG,28.9
+2021,"Proportion of schools access basic services, by type of service",Peri-Urban,,,,,Enviroment Health in Schools,Percentage (%),NG,25.3
+2021,"Proportion of schools access basic services, by type of service",Urban-Urban,,,,,Enviroment Health in Schools,Percentage (%),NG,30.6
+2021,"Proportion of schools access basic services, by type of service",Rural,,,,,Enviroment Health in Schools,Percentage (%),NG,15.0
+2021,"Proportion of schools access basic services, by type of service",Itenerant,,,,,Enviroment Health in Schools,Percentage (%),NG,11.8
+2021,"Proportion of schools access basic services, by type of service",Rural-Rural,,,,,Enviroment Health in Schools,Percentage (%),NG,10.8
+2021,"Proportion of schools access basic services, by type of service",Small Town,,,,,Enviroment Health in Schools,Percentage (%),NG,29.0
+2021,"Proportion of schools access basic services, by type of service",,Normal,,,,Enviroment Health in Schools,Percentage (%),NG,19.4
+2021,"Proportion of schools access basic services, by type of service",,Special Needs,,,,Enviroment Health in Schools,Percentage (%),NG,22.3
+2021,"Proportion of schools access basic services, by type of service",,,Primary,,,Enviroment Health in Schools,Percentage (%),NG,17.2
+2021,"Proportion of schools access basic services, by type of service",,,Secondary,,,Enviroment Health in Schools,Percentage (%),NG,27.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Abia,Enviroment Health in Schools,Percentage (%),NGAB01,24.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Adamawa,Enviroment Health in Schools,Percentage (%),NGAD02,4.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Akwa Ibom,Enviroment Health in Schools,Percentage (%),NGAK03,6.25
+2021,"Proportion of schools access basic services, by type of service",,,,,Anambra,Enviroment Health in Schools,Percentage (%),NGAN04,26.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Bauchi,Enviroment Health in Schools,Percentage (%),NGBA05,10.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Bayelsa,Enviroment Health in Schools,Percentage (%),NGBY06,4.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Benue,Enviroment Health in Schools,Percentage (%),NGBE07,3.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Borno,Enviroment Health in Schools,Percentage (%),NGBO08,59.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Cross River,Enviroment Health in Schools,Percentage (%),NGXR09,25.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Delta,Enviroment Health in Schools,Percentage (%),NGDE10,15.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Ebonyi,Enviroment Health in Schools,Percentage (%),NGEB11,0.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Edo,Enviroment Health in Schools,Percentage (%),NGED12,39.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Ekiti,Enviroment Health in Schools,Percentage (%),NGEK13,15.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Enugu,Enviroment Health in Schools,Percentage (%),NGEN14,9.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Gombe,Enviroment Health in Schools,Percentage (%),NGGO15,38.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Imo,Enviroment Health in Schools,Percentage (%),NGIM16,10.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Jigawa,Enviroment Health in Schools,Percentage (%),NGJI17,48.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Kaduna,Enviroment Health in Schools,Percentage (%),NGKD18,12.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Kano,Enviroment Health in Schools,Percentage (%),NGKN19,9.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Katsina,Enviroment Health in Schools,Percentage (%),NGKT20,27.9
+2021,"Proportion of schools access basic services, by type of service",,,,,Kebbi,Enviroment Health in Schools,Percentage (%),NGKE21,48.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Kogi,Enviroment Health in Schools,Percentage (%),NGKO22,8.9
+2021,"Proportion of schools access basic services, by type of service",,,,,Kwara,Enviroment Health in Schools,Percentage (%),NGKW23,1.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Lagos,Enviroment Health in Schools,Percentage (%),NGLA24,47.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Nasarawa,Enviroment Health in Schools,Percentage (%),NGNA25,14.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Niger,Enviroment Health in Schools,Percentage (%),NGNI26,5.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Ogun,Enviroment Health in Schools,Percentage (%),NGOG27,15.5
+2021,"Proportion of schools access basic services, by type of service",,,,,Ondo,Enviroment Health in Schools,Percentage (%),NGON28,11.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Osun,Enviroment Health in Schools,Percentage (%),NGOS29,6.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Oyo,Enviroment Health in Schools,Percentage (%),NGOY30,12.9
+2021,"Proportion of schools access basic services, by type of service",,,,,Plateau,Enviroment Health in Schools,Percentage (%),NGPL31,21.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Rivers,Enviroment Health in Schools,Percentage (%),NGRI32,0.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Sokoto,Enviroment Health in Schools,Percentage (%),NGSO33,41.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Taraba,Enviroment Health in Schools,Percentage (%),NGTA34,10.5
+2021,"Proportion of schools access basic services, by type of service",,,,,Yobe,Enviroment Health in Schools,Percentage (%),NGYO35,0.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Zamfara,Enviroment Health in Schools,Percentage (%),NGZA36,16.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Federal Capital Territory,Enviroment Health in Schools,Percentage (%),NGFC37,60.4
+2021,"Proportion of schools access basic services, by type of service",,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,37.0
+2021,"Proportion of schools access basic services, by type of service",,,,North Central,,Proportion of Schools with basic water supply,Percentage (%),NGNCZ06,36.9
+2021,"Proportion of schools access basic services, by type of service",,,,North East,,Proportion of Schools with basic water supply,Percentage (%),NGNEZ05,35.0
+2021,"Proportion of schools access basic services, by type of service",,,,North West,,Proportion of Schools with basic water supply,Percentage (%),NGNWZ04,43.2
+2021,"Proportion of schools access basic services, by type of service",,,,South East,,Proportion of Schools with basic water supply,Percentage (%),NGSEZ03,21.5
+2021,"Proportion of schools access basic services, by type of service",,,,South South,,Proportion of Schools with basic water supply,Percentage (%),NGSSZ02,29.0
+2021,"Proportion of schools access basic services, by type of service",,,,South West,,Proportion of Schools with basic water supply,Percentage (%),NGSWZ01,42.9
+2020,"Proportion of schools access basic services, by type of service",Urban,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,49.0
+2021,"Proportion of schools access basic services, by type of service",Peri-Urban,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,45.7
+2021,"Proportion of schools access basic services, by type of service",Urban-Urban,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,50.6
+2021,"Proportion of schools access basic services, by type of service",Rural,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,31.4
+2021,"Proportion of schools access basic services, by type of service",Itenerant,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,26.4
+2021,"Proportion of schools access basic services, by type of service",Rural-Rural,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,30.3
+2021,"Proportion of schools access basic services, by type of service",Small Town,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,52.1
+2021,"Proportion of schools access basic services, by type of service",,Normal,,,,Proportion of Schools with basic water supply,Percentage (%),NG,36.9
+2021,"Proportion of schools access basic services, by type of service",,Special Needs,,,,Proportion of Schools with basic water supply,Percentage (%),NG,56.2
+2021,"Proportion of schools access basic services, by type of service",,,Primary,,,Proportion of Schools with basic water supply,Percentage (%),NG,35.3
+2021,"Proportion of schools access basic services, by type of service",,,Secondary,,,Proportion of Schools with basic water supply,Percentage (%),NG,43.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Abia,Proportion of Schools with basic water supply,Percentage (%),NGAB01,18.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Adamawa,Proportion of Schools with basic water supply,Percentage (%),NGAD02,28.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Akwa Ibom,Proportion of Schools with basic water supply,Percentage (%),NGAK03,35.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Anambra,Proportion of Schools with basic water supply,Percentage (%),NGAN04,42.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Bauchi,Proportion of Schools with basic water supply,Percentage (%),NGBA05,36.5
+2021,"Proportion of schools access basic services, by type of service",,,,,Bayelsa,Proportion of Schools with basic water supply,Percentage (%),NGBY06,4.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Benue,Proportion of Schools with basic water supply,Percentage (%),NGBE07,43.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Borno,Proportion of Schools with basic water supply,Percentage (%),NGBO08,45.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Cross River,Proportion of Schools with basic water supply,Percentage (%),NGXR09,34.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Delta,Proportion of Schools with basic water supply,Percentage (%),NGDE10,30.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Ebonyi,Proportion of Schools with basic water supply,Percentage (%),NGEB11,32.9
+2021,"Proportion of schools access basic services, by type of service",,,,,Edo,Proportion of Schools with basic water supply,Percentage (%),NGED12,30.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Ekiti,Proportion of Schools with basic water supply,Percentage (%),NGEK13,42.9
+2021,"Proportion of schools access basic services, by type of service",,,,,Enugu,Proportion of Schools with basic water supply,Percentage (%),NGEN14,7.9
+2021,"Proportion of schools access basic services, by type of service",,,,,Gombe,Proportion of Schools with basic water supply,Percentage (%),NGGO15,66.5
+2021,"Proportion of schools access basic services, by type of service",,,,,Imo,Proportion of Schools with basic water supply,Percentage (%),NGIM16,9.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Jigawa,Proportion of Schools with basic water supply,Percentage (%),NGJI17,30.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Kaduna,Proportion of Schools with basic water supply,Percentage (%),NGKD18,47.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Kano,Proportion of Schools with basic water supply,Percentage (%),NGKN19,45.5
+2021,"Proportion of schools access basic services, by type of service",,,,,Katsina,Proportion of Schools with basic water supply,Percentage (%),NGKT20,55.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Kebbi,Proportion of Schools with basic water supply,Percentage (%),NGKE21,38.2
+2021,"Proportion of schools access basic services, by type of service",,,,,Kogi,Proportion of Schools with basic water supply,Percentage (%),NGKO22,38.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Kwara,Proportion of Schools with basic water supply,Percentage (%),NGKW23,12.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Lagos,Proportion of Schools with basic water supply,Percentage (%),NGLA24,56.5
+2021,"Proportion of schools access basic services, by type of service",,,,,Nasarawa,Proportion of Schools with basic water supply,Percentage (%),NGNA25,24.5
+2021,"Proportion of schools access basic services, by type of service",,,,,Niger,Proportion of Schools with basic water supply,Percentage (%),NGNI26,40.3
+2021,"Proportion of schools access basic services, by type of service",,,,,Ogun,Proportion of Schools with basic water supply,Percentage (%),NGOG27,35.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Ondo,Proportion of Schools with basic water supply,Percentage (%),NGON28,25.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Osun,Proportion of Schools with basic water supply,Percentage (%),NGOS29,27.0
+2021,"Proportion of schools access basic services, by type of service",,,,,Oyo,Proportion of Schools with basic water supply,Percentage (%),NGOY30,39.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Plateau,Proportion of Schools with basic water supply,Percentage (%),NGPL31,35.8
+2021,"Proportion of schools access basic services, by type of service",,,,,Rivers,Proportion of Schools with basic water supply,Percentage (%),NGRI32,24.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Sokoto,Proportion of Schools with basic water supply,Percentage (%),NGSO33,41.4
+2021,"Proportion of schools access basic services, by type of service",,,,,Taraba,Proportion of Schools with basic water supply,Percentage (%),NGTA34,13.6
+2021,"Proportion of schools access basic services, by type of service",,,,,Yobe,Proportion of Schools with basic water supply,Percentage (%),NGYO35,37.7
+2021,"Proportion of schools access basic services, by type of service",,,,,Zamfara,Proportion of Schools with basic water supply,Percentage (%),NGZA36,28.1
+2021,"Proportion of schools access basic services, by type of service",,,,,Federal Capital Territory,Proportion of Schools with basic water supply,Percentage (%),NGFC37,74.1
+2019,"Proportion of schools access basic services, by type of service",,,,,,Avaliability of perimeter fencing,Percentage (%),NG,25.8
+2019,"Proportion of schools access basic services, by type of service",,,,North Central,,Avaliability of perimeter fencing,Percentage (%),NGNCZ06,14.9
+2019,"Proportion of schools access basic services, by type of service",,,,North East,,Avaliability of perimeter fencing,Percentage (%),NGNEZ05,26.2
+2019,"Proportion of schools access basic services, by type of service",,,,North West,,Avaliability of perimeter fencing,Percentage (%),NGNWZ04,22.9
+2019,"Proportion of schools access basic services, by type of service",,,,South East,,Avaliability of perimeter fencing,Percentage (%),NGSEZ03,26.3
+2019,"Proportion of schools access basic services, by type of service",,,,South South,,Avaliability of perimeter fencing,Percentage (%),NGSSZ02,34.8
+2019,"Proportion of schools access basic services, by type of service",,,,South West,,Avaliability of perimeter fencing,Percentage (%),NGSWZ01,43.4
+2019,"Proportion of schools access basic services, by type of service",Urban,,,,,Avaliability of perimeter fencing,Percentage (%),NG,58.3
+2019,"Proportion of schools access basic services, by type of service",Peri-Urban,,,,,Avaliability of perimeter fencing,Percentage (%),NG,36.2
+2019,"Proportion of schools access basic services, by type of service",Urban-Urban,,,,,Avaliability of perimeter fencing,Percentage (%),NG,67.5
+2019,"Proportion of schools access basic services, by type of service",Rural,,,,,Avaliability of perimeter fencing,Percentage (%),NG,15.4
+2019,"Proportion of schools access basic services, by type of service",Itenerant,,,,,Avaliability of perimeter fencing,Percentage (%),NG,9.5
+2019,"Proportion of schools access basic services, by type of service",Rural-Rural,,,,,Avaliability of perimeter fencing,Percentage (%),NG,14.3
+2019,"Proportion of schools access basic services, by type of service",Small Town,,,,,Avaliability of perimeter fencing,Percentage (%),NG,20.9
+2019,"Proportion of schools access basic services, by type of service",,,Primary,,,Avaliability of perimeter fencing,Percentage (%),NG,22.4
+2019,"Proportion of schools access basic services, by type of service",,,Secondary,,,Avaliability of perimeter fencing,Percentage (%),NG,39.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Abia,Avaliability of perimeter fencing,Percentage (%),NGAB01,27.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Adamawa,Avaliability of perimeter fencing,Percentage (%),NGAD02,24.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Akwa Ibom,Avaliability of perimeter fencing,Percentage (%),NGAK03,1.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Anambra,Avaliability of perimeter fencing,Percentage (%),NGAN04,36.6
+2019,"Proportion of schools access basic services, by type of service",,,,,Bauchi,Avaliability of perimeter fencing,Percentage (%),NGBA05,8.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Bayelsa,Avaliability of perimeter fencing,Percentage (%),NGBY06,14.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Benue,Avaliability of perimeter fencing,Percentage (%),NGBE07,9.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Borno,Avaliability of perimeter fencing,Percentage (%),NGBO08,76.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Cross River,Avaliability of perimeter fencing,Percentage (%),NGXR09,17.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Delta,Avaliability of perimeter fencing,Percentage (%),NGDE10,72.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Ebonyi,Avaliability of perimeter fencing,Percentage (%),NGEB11,20.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Edo,Avaliability of perimeter fencing,Percentage (%),NGED12,40.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Ekiti,Avaliability of perimeter fencing,Percentage (%),NGEK13,29.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Enugu,Avaliability of perimeter fencing,Percentage (%),NGEN14,21.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Gombe,Avaliability of perimeter fencing,Percentage (%),NGGO15,16.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Imo,Avaliability of perimeter fencing,Percentage (%),NGIM16,25.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Jigawa,Avaliability of perimeter fencing,Percentage (%),NGJI17,9.6
+2019,"Proportion of schools access basic services, by type of service",,,,,Kaduna,Avaliability of perimeter fencing,Percentage (%),NGKD18,12.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Kano,Avaliability of perimeter fencing,Percentage (%),NGKN19,35.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Katsina,Avaliability of perimeter fencing,Percentage (%),NGKT20,25.6
+2019,"Proportion of schools access basic services, by type of service",,,,,Kebbi,Avaliability of perimeter fencing,Percentage (%),NGKE21,21.6
+2019,"Proportion of schools access basic services, by type of service",,,,,Kogi,Avaliability of perimeter fencing,Percentage (%),NGKO22,6.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Kwara,Avaliability of perimeter fencing,Percentage (%),NGKW23,12.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Lagos,Avaliability of perimeter fencing,Percentage (%),NGLA24,90.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Nasarawa,Avaliability of perimeter fencing,Percentage (%),NGNA25,15.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Niger,Avaliability of perimeter fencing,Percentage (%),NGNI26,22.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Ogun,Avaliability of perimeter fencing,Percentage (%),NGOG27,50.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Ondo,Avaliability of perimeter fencing,Percentage (%),NGON28,28.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Osun,Avaliability of perimeter fencing,Percentage (%),NGOS29,37.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Oyo,Avaliability of perimeter fencing,Percentage (%),NGOY30,36.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Plateau,Avaliability of perimeter fencing,Percentage (%),NGPL31,20.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Rivers,Avaliability of perimeter fencing,Percentage (%),NGRI32,55.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Sokoto,Avaliability of perimeter fencing,Percentage (%),NGSO33,17.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Taraba,Avaliability of perimeter fencing,Percentage (%),NGTA34,4.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Yobe,Avaliability of perimeter fencing,Percentage (%),NGYO35,22.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Zamfara,Avaliability of perimeter fencing,Percentage (%),NGZA36,22.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Federal Capital Territory,Avaliability of perimeter fencing,Percentage (%),NGFC37,36.2
+2019,"Proportion of schools access basic services, by type of service",,,,,,Availability of toilet/laterine,Percentage (%),NG,43.0
+2019,"Proportion of schools access basic services, by type of service",,,,North Central,,Availability of toilet/laterine,Percentage (%),NGNCZ06,43.0
+2019,"Proportion of schools access basic services, by type of service",,,,North East,,Availability of toilet/laterine,Percentage (%),NGNEZ05,61.9
+2019,"Proportion of schools access basic services, by type of service",,,,North West,,Availability of toilet/laterine,Percentage (%),NGNWZ04,69.2
+2019,"Proportion of schools access basic services, by type of service",,,,South East,,Availability of toilet/laterine,Percentage (%),NGSEZ03,51.4
+2019,"Proportion of schools access basic services, by type of service",,,,South South,,Availability of toilet/laterine,Percentage (%),NGSSZ02,58.7
+2019,"Proportion of schools access basic services, by type of service",,,,South West,,Availability of toilet/laterine,Percentage (%),NGSWZ01,64.2
+2019,"Proportion of schools access basic services, by type of service",Urban,,,,,Availability of toilet/laterine,Percentage (%),NG,75.5
+2019,"Proportion of schools access basic services, by type of service",Peri-Urban,,,,,Availability of toilet/laterine,Percentage (%),NG,68.8
+2019,"Proportion of schools access basic services, by type of service",Urban-Urban,,,,,Availability of toilet/laterine,Percentage (%),NG,78.3
+2019,"Proportion of schools access basic services, by type of service",Rural,,,,,Availability of toilet/laterine,Percentage (%),NG,52.0
+2019,"Proportion of schools access basic services, by type of service",Itenerant,,,,,Availability of toilet/laterine,Percentage (%),NG,61.6
+2019,"Proportion of schools access basic services, by type of service",Rural-Rural,,,,,Availability of toilet/laterine,Percentage (%),NG,50.2
+2019,"Proportion of schools access basic services, by type of service",Small Town,,,,,Availability of toilet/laterine,Percentage (%),NG,57.2
+2019,"Proportion of schools access basic services, by type of service",,,Primary,,,Availability of toilet/laterine,Percentage (%),NG,54.8
+2019,"Proportion of schools access basic services, by type of service",,,Secondary,,,Availability of toilet/laterine,Percentage (%),NG,69.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Abia,Availability of toilet/laterine,Percentage (%),NGAB01,60.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Adamawa,Availability of toilet/laterine,Percentage (%),NGAD02,45.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Akwa Ibom,Availability of toilet/laterine,Percentage (%),NGAK03,73.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Anambra,Availability of toilet/laterine,Percentage (%),NGAN04,79.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Bauchi,Availability of toilet/laterine,Percentage (%),NGBA05,73.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Bayelsa,Availability of toilet/laterine,Percentage (%),NGBY06,37.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Benue,Availability of toilet/laterine,Percentage (%),NGBE07,51.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Borno,Availability of toilet/laterine,Percentage (%),NGBO08,85.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Cross River,Availability of toilet/laterine,Percentage (%),NGXR09,55.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Delta,Availability of toilet/laterine,Percentage (%),NGDE10,53.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Ebonyi,Availability of toilet/laterine,Percentage (%),NGEB11,22.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Edo,Availability of toilet/laterine,Percentage (%),NGED12,65.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Ekiti,Availability of toilet/laterine,Percentage (%),NGEK13,50.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Enugu,Availability of toilet/laterine,Percentage (%),NGEN14,47.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Gombe,Availability of toilet/laterine,Percentage (%),NGGO15,47.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Imo,Availability of toilet/laterine,Percentage (%),NGIM16,49.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Jigawa,Availability of toilet/laterine,Percentage (%),NGJI17,62.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Kaduna,Availability of toilet/laterine,Percentage (%),NGKD18,60.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Kano,Availability of toilet/laterine,Percentage (%),NGKN19,73.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Katsina,Availability of toilet/laterine,Percentage (%),NGKT20,96.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Kebbi,Availability of toilet/laterine,Percentage (%),NGKE21,58.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Kogi,Availability of toilet/laterine,Percentage (%),NGKO22,13.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Kwara,Availability of toilet/laterine,Percentage (%),NGKW23,58.6
+2019,"Proportion of schools access basic services, by type of service",,,,,Lagos,Availability of toilet/laterine,Percentage (%),NGLA24,95.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Nasarawa,Availability of toilet/laterine,Percentage (%),NGNA25,33.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Niger,Availability of toilet/laterine,Percentage (%),NGNI26,55.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Ogun,Availability of toilet/laterine,Percentage (%),NGOG27,68.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Ondo,Availability of toilet/laterine,Percentage (%),NGON28,54.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Osun,Availability of toilet/laterine,Percentage (%),NGOS29,69.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Oyo,Availability of toilet/laterine,Percentage (%),NGOY30,56.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Plateau,Availability of toilet/laterine,Percentage (%),NGPL31,38.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Rivers,Availability of toilet/laterine,Percentage (%),NGRI32,57.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Sokoto,Availability of toilet/laterine,Percentage (%),NGSO33,51.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Taraba,Availability of toilet/laterine,Percentage (%),NGTA34,41.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Yobe,Availability of toilet/laterine,Percentage (%),NGYO35,75.6
+2019,"Proportion of schools access basic services, by type of service",,,,,Zamfara,Availability of toilet/laterine,Percentage (%),NGZA36,76.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Federal Capital Territory,Availability of toilet/laterine,Percentage (%),NGFC37,91.8
+2019,"Proportion of schools access basic services, by type of service",,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,23.6
+2019,"Proportion of schools access basic services, by type of service",,,,North Central,,Availiabilty of Handwashing Facilities,Percentage (%),NGNCZ06,20.4
+2019,"Proportion of schools access basic services, by type of service",,,,North East,,Availiabilty of Handwashing Facilities,Percentage (%),NGNEZ05,16.1
+2019,"Proportion of schools access basic services, by type of service",,,,North West,,Availiabilty of Handwashing Facilities,Percentage (%),NGNWZ04,16.7
+2019,"Proportion of schools access basic services, by type of service",,,,South East,,Availiabilty of Handwashing Facilities,Percentage (%),NGSEZ03,32.1
+2019,"Proportion of schools access basic services, by type of service",,,,South South,,Availiabilty of Handwashing Facilities,Percentage (%),NGSSZ02,31.2
+2019,"Proportion of schools access basic services, by type of service",,,,South West,,Availiabilty of Handwashing Facilities,Percentage (%),NGSWZ01,38.0
+2019,"Proportion of schools access basic services, by type of service",Urban,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,35.9
+2019,"Proportion of schools access basic services, by type of service",Peri-Urban,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,28.9
+2019,"Proportion of schools access basic services, by type of service",Urban-Urban,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,38.8
+2019,"Proportion of schools access basic services, by type of service",Rural,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,19.7
+2019,"Proportion of schools access basic services, by type of service",Itenerant,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,26.2
+2019,"Proportion of schools access basic services, by type of service",Rural-Rural,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,17.5
+2019,"Proportion of schools access basic services, by type of service",Small Town,,,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,27.0
+2019,"Proportion of schools access basic services, by type of service",,,Primary,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,48.8
+2019,"Proportion of schools access basic services, by type of service",,,Secondary,,,Availiabilty of Handwashing Facilities,Percentage (%),NG,61.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Abia,Availiabilty of Handwashing Facilities,Percentage (%),NGAB01,30.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Adamawa,Availiabilty of Handwashing Facilities,Percentage (%),NGAD02,6.3
+2019,"Proportion of schools access basic services, by type of service",,,,,Akwa Ibom,Availiabilty of Handwashing Facilities,Percentage (%),NGAK03,35.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Anambra,Availiabilty of Handwashing Facilities,Percentage (%),NGAN04,41.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Bauchi,Availiabilty of Handwashing Facilities,Percentage (%),NGBA05,27.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Bayelsa,Availiabilty of Handwashing Facilities,Percentage (%),NGBY06,14.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Benue,Availiabilty of Handwashing Facilities,Percentage (%),NGBE07,42.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Borno,Availiabilty of Handwashing Facilities,Percentage (%),NGBO08,22.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Cross River,Availiabilty of Handwashing Facilities,Percentage (%),NGXR09,38.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Delta,Availiabilty of Handwashing Facilities,Percentage (%),NGDE10,23.6
+2019,"Proportion of schools access basic services, by type of service",,,,,Ebonyi,Availiabilty of Handwashing Facilities,Percentage (%),NGEB11,18.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Edo,Availiabilty of Handwashing Facilities,Percentage (%),NGED12,21.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Ekiti,Availiabilty of Handwashing Facilities,Percentage (%),NGEK13,20.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Enugu,Availiabilty of Handwashing Facilities,Percentage (%),NGEN14,23.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Gombe,Availiabilty of Handwashing Facilities,Percentage (%),NGGO15,22.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Imo,Availiabilty of Handwashing Facilities,Percentage (%),NGIM16,41.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Jigawa,Availiabilty of Handwashing Facilities,Percentage (%),NGJI17,33.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Kaduna,Availiabilty of Handwashing Facilities,Percentage (%),NGKD18,15.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Kano,Availiabilty of Handwashing Facilities,Percentage (%),NGKN19,18.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Katsina,Availiabilty of Handwashing Facilities,Percentage (%),NGKT20,32.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Kebbi,Availiabilty of Handwashing Facilities,Percentage (%),NGKE21,0.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Kogi,Availiabilty of Handwashing Facilities,Percentage (%),NGKO22,0.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Kwara,Availiabilty of Handwashing Facilities,Percentage (%),NGKW23,27.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Lagos,Availiabilty of Handwashing Facilities,Percentage (%),NGLA24,58.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Nasarawa,Availiabilty of Handwashing Facilities,Percentage (%),NGNA25,2.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Niger,Availiabilty of Handwashing Facilities,Percentage (%),NGNI26,8.3
+2019,"Proportion of schools access basic services, by type of service",,,,,Ogun,Availiabilty of Handwashing Facilities,Percentage (%),NGOG27,37.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Ondo,Availiabilty of Handwashing Facilities,Percentage (%),NGON28,43.3
+2019,"Proportion of schools access basic services, by type of service",,,,,Osun,Availiabilty of Handwashing Facilities,Percentage (%),NGOS29,37.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Oyo,Availiabilty of Handwashing Facilities,Percentage (%),NGOY30,32.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Plateau,Availiabilty of Handwashing Facilities,Percentage (%),NGPL31,26.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Rivers,Availiabilty of Handwashing Facilities,Percentage (%),NGRI32,55.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Sokoto,Availiabilty of Handwashing Facilities,Percentage (%),NGSO33,2.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Taraba,Availiabilty of Handwashing Facilities,Percentage (%),NGTA34,0.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Yobe,Availiabilty of Handwashing Facilities,Percentage (%),NGYO35,18.3
+2019,"Proportion of schools access basic services, by type of service",,,,,Zamfara,Availiabilty of Handwashing Facilities,Percentage (%),NGZA36,14.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Federal Capital Territory,Availiabilty of Handwashing Facilities,Percentage (%),NGFC37,41.2
+2019,"Proportion of schools access basic services, by type of service",,,,,,Enviroment Health in Schools,Percentage (%),NG,14.8
+2019,"Proportion of schools access basic services, by type of service",,,,North Central,,Enviroment Health in Schools,Percentage (%),NGNCZ06,9.9
+2019,"Proportion of schools access basic services, by type of service",,,,North East,,Enviroment Health in Schools,Percentage (%),NGNEZ05,9.3
+2019,"Proportion of schools access basic services, by type of service",,,,North West,,Enviroment Health in Schools,Percentage (%),NGNWZ04,24.1
+2019,"Proportion of schools access basic services, by type of service",,,,South East,,Enviroment Health in Schools,Percentage (%),NGSEZ03,12.9
+2019,"Proportion of schools access basic services, by type of service",,,,South South,,Enviroment Health in Schools,Percentage (%),NGSSZ02,11.6
+2019,"Proportion of schools access basic services, by type of service",,,,South West,,Enviroment Health in Schools,Percentage (%),NGSWZ01,17.4
+2019,"Proportion of schools access basic services, by type of service",Urban,,,,,Enviroment Health in Schools,Percentage (%),NG,23.7
+2019,"Proportion of schools access basic services, by type of service",Peri-Urban,,,,,Enviroment Health in Schools,Percentage (%),NG,25.0
+2019,"Proportion of schools access basic services, by type of service",Urban-Urban,,,,,Enviroment Health in Schools,Percentage (%),NG,23.2
+2019,"Proportion of schools access basic services, by type of service",Rural,,,,,Enviroment Health in Schools,Percentage (%),NG,11.9
+2019,"Proportion of schools access basic services, by type of service",Itenerant,,,,,Enviroment Health in Schools,Percentage (%),NG,26.6
+2019,"Proportion of schools access basic services, by type of service",Rural-Rural,,,,,Enviroment Health in Schools,Percentage (%),NG,10.9
+2019,"Proportion of schools access basic services, by type of service",Small Town,,,,,Enviroment Health in Schools,Percentage (%),NG,12.8
+2019,"Proportion of schools access basic services, by type of service",,,Primary,,,Enviroment Health in Schools,Percentage (%),NG,12.7
+2019,"Proportion of schools access basic services, by type of service",,,Secondary,,,Enviroment Health in Schools,Percentage (%),NG,22.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Abia,Enviroment Health in Schools,Percentage (%),NGAB01,10.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Adamawa,Enviroment Health in Schools,Percentage (%),NGAD02,2.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Akwa Ibom,Enviroment Health in Schools,Percentage (%),NGAK03,6.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Anambra,Enviroment Health in Schools,Percentage (%),NGAN04,30.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Bauchi,Enviroment Health in Schools,Percentage (%),NGBA05,10.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Bayelsa,Enviroment Health in Schools,Percentage (%),NGBY06,9.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Benue,Enviroment Health in Schools,Percentage (%),NGBE07,5.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Borno,Enviroment Health in Schools,Percentage (%),NGBO08,4.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Cross River,Enviroment Health in Schools,Percentage (%),NGXR09,23.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Delta,Enviroment Health in Schools,Percentage (%),NGDE10,15.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Ebonyi,Enviroment Health in Schools,Percentage (%),NGEB11,10.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Edo,Enviroment Health in Schools,Percentage (%),NGED12,6.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Ekiti,Enviroment Health in Schools,Percentage (%),NGEK13,15.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Enugu,Enviroment Health in Schools,Percentage (%),NGEN14,7.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Gombe,Enviroment Health in Schools,Percentage (%),NGGO15,8.3
+2019,"Proportion of schools access basic services, by type of service",,,,,Imo,Enviroment Health in Schools,Percentage (%),NGIM16,5.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Jigawa,Enviroment Health in Schools,Percentage (%),NGJI17,69.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Kaduna,Enviroment Health in Schools,Percentage (%),NGKD18,22.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Kano,Enviroment Health in Schools,Percentage (%),NGKN19,17.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Katsina,Enviroment Health in Schools,Percentage (%),NGKT20,47.6
+2019,"Proportion of schools access basic services, by type of service",,,,,Kebbi,Enviroment Health in Schools,Percentage (%),NGKE21,24.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Kogi,Enviroment Health in Schools,Percentage (%),NGKO22,2.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Kwara,Enviroment Health in Schools,Percentage (%),NGKW23,18.6
+2019,"Proportion of schools access basic services, by type of service",,,,,Lagos,Enviroment Health in Schools,Percentage (%),NGLA24,53.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Nasarawa,Enviroment Health in Schools,Percentage (%),NGNA25,7.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Niger,Enviroment Health in Schools,Percentage (%),NGNI26,15.6
+2019,"Proportion of schools access basic services, by type of service",,,,,Ogun,Enviroment Health in Schools,Percentage (%),NGOG27,4.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Ondo,Enviroment Health in Schools,Percentage (%),NGON28,19.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Osun,Enviroment Health in Schools,Percentage (%),NGOS29,10.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Oyo,Enviroment Health in Schools,Percentage (%),NGOY30,10.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Plateau,Enviroment Health in Schools,Percentage (%),NGPL31,10.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Rivers,Enviroment Health in Schools,Percentage (%),NGRI32,8.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Sokoto,Enviroment Health in Schools,Percentage (%),NGSO33,5.1
+2019,"Proportion of schools access basic services, by type of service",,,,,Taraba,Enviroment Health in Schools,Percentage (%),NGTA34,11.6
+2019,"Proportion of schools access basic services, by type of service",,,,,Yobe,Enviroment Health in Schools,Percentage (%),NGYO35,28.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Zamfara,Enviroment Health in Schools,Percentage (%),NGZA36,6.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Federal Capital Territory,Enviroment Health in Schools,Percentage (%),NGFC37,34.7
+2019,"Proportion of schools access basic services, by type of service",,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,33.3
+2019,"Proportion of schools access basic services, by type of service",,,,North Central,,Proportion of Schools with basic water supply,Percentage (%),NGNCZ06,26.9
+2019,"Proportion of schools access basic services, by type of service",,,,North East,,Proportion of Schools with basic water supply,Percentage (%),NGNEZ05,40.4
+2019,"Proportion of schools access basic services, by type of service",,,,North West,,Proportion of Schools with basic water supply,Percentage (%),NGNWZ04,44.7
+2019,"Proportion of schools access basic services, by type of service",,,,South East,,Proportion of Schools with basic water supply,Percentage (%),NGSEZ03,17.4
+2019,"Proportion of schools access basic services, by type of service",,,,South South,,Proportion of Schools with basic water supply,Percentage (%),NGSSZ02,18.8
+2019,"Proportion of schools access basic services, by type of service",,,,South West,,Proportion of Schools with basic water supply,Percentage (%),NGSWZ01,35.3
+2019,"Proportion of schools access basic services, by type of service",Urban,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,48.8
+2019,"Proportion of schools access basic services, by type of service",Peri-Urban,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,42.5
+2019,"Proportion of schools access basic services, by type of service",Urban-Urban,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,51.4
+2019,"Proportion of schools access basic services, by type of service",Rural,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,27.5
+2019,"Proportion of schools access basic services, by type of service",Itenerant,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,34.8
+2019,"Proportion of schools access basic services, by type of service",Rural-Rural,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,26.4
+2019,"Proportion of schools access basic services, by type of service",Small Town,,,,,Proportion of Schools with basic water supply,Percentage (%),NG,30.6
+2019,"Proportion of schools access basic services, by type of service",,,Primary,,,Proportion of Schools with basic water supply,Percentage (%),NG,43.7
+2019,"Proportion of schools access basic services, by type of service",,,Secondary,,,Proportion of Schools with basic water supply,Percentage (%),NG,59.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Abia,Proportion of Schools with basic water supply,Percentage (%),NGAB01,14.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Adamawa,Proportion of Schools with basic water supply,Percentage (%),NGAD02,33.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Akwa Ibom,Proportion of Schools with basic water supply,Percentage (%),NGAK03,19.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Anambra,Proportion of Schools with basic water supply,Percentage (%),NGAN04,32.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Bauchi,Proportion of Schools with basic water supply,Percentage (%),NGBA05,50.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Bayelsa,Proportion of Schools with basic water supply,Percentage (%),NGBY06,2.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Benue,Proportion of Schools with basic water supply,Percentage (%),NGBE07,22.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Borno,Proportion of Schools with basic water supply,Percentage (%),NGBO08,71.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Cross River,Proportion of Schools with basic water supply,Percentage (%),NGXR09,14.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Delta,Proportion of Schools with basic water supply,Percentage (%),NGDE10,22.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Ebonyi,Proportion of Schools with basic water supply,Percentage (%),NGEB11,20.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Edo,Proportion of Schools with basic water supply,Percentage (%),NGED12,16.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Ekiti,Proportion of Schools with basic water supply,Percentage (%),NGEK13,37.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Enugu,Proportion of Schools with basic water supply,Percentage (%),NGEN14,15.5
+2019,"Proportion of schools access basic services, by type of service",,,,,Gombe,Proportion of Schools with basic water supply,Percentage (%),NGGO15,26.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Imo,Proportion of Schools with basic water supply,Percentage (%),NGIM16,5.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Jigawa,Proportion of Schools with basic water supply,Percentage (%),NGJI17,69.3
+2019,"Proportion of schools access basic services, by type of service",,,,,Kaduna,Proportion of Schools with basic water supply,Percentage (%),NGKD18,54.3
+2019,"Proportion of schools access basic services, by type of service",,,,,Kano,Proportion of Schools with basic water supply,Percentage (%),NGKN19,41.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Katsina,Proportion of Schools with basic water supply,Percentage (%),NGKT20,34.3
+2019,"Proportion of schools access basic services, by type of service",,,,,Kebbi,Proportion of Schools with basic water supply,Percentage (%),NGKE21,40.3
+2019,"Proportion of schools access basic services, by type of service",,,,,Kogi,Proportion of Schools with basic water supply,Percentage (%),NGKO22,4.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Kwara,Proportion of Schools with basic water supply,Percentage (%),NGKW23,44.8
+2019,"Proportion of schools access basic services, by type of service",,,,,Lagos,Proportion of Schools with basic water supply,Percentage (%),NGLA24,46.3
+2019,"Proportion of schools access basic services, by type of service",,,,,Nasarawa,Proportion of Schools with basic water supply,Percentage (%),NGNA25,19.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Niger,Proportion of Schools with basic water supply,Percentage (%),NGNI26,38.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Ogun,Proportion of Schools with basic water supply,Percentage (%),NGOG27,25.2
+2019,"Proportion of schools access basic services, by type of service",,,,,Ondo,Proportion of Schools with basic water supply,Percentage (%),NGON28,49.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Osun,Proportion of Schools with basic water supply,Percentage (%),NGOS29,34.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Oyo,Proportion of Schools with basic water supply,Percentage (%),NGOY30,26.4
+2019,"Proportion of schools access basic services, by type of service",,,,,Plateau,Proportion of Schools with basic water supply,Percentage (%),NGPL31,32.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Rivers,Proportion of Schools with basic water supply,Percentage (%),NGRI32,33.9
+2019,"Proportion of schools access basic services, by type of service",,,,,Sokoto,Proportion of Schools with basic water supply,Percentage (%),NGSO33,20.6
+2019,"Proportion of schools access basic services, by type of service",,,,,Taraba,Proportion of Schools with basic water supply,Percentage (%),NGTA34,13.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Yobe,Proportion of Schools with basic water supply,Percentage (%),NGYO35,32.7
+2019,"Proportion of schools access basic services, by type of service",,,,,Zamfara,Proportion of Schools with basic water supply,Percentage (%),NGZA36,58.0
+2019,"Proportion of schools access basic services, by type of service",,,,,Federal Capital Territory,Proportion of Schools with basic water supply,Percentage (%),NGFC37,68.1

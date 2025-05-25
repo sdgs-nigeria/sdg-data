@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

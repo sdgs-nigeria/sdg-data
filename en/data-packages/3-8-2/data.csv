@@ -1,1 +1,47 @@
-Year,Value
+Year,Series,Sector,Geopolitical Zone,State,Units,GeoCode,Value
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,,Percentage (%),NG,6.12
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,Urban,,,Percentage (%),NG,4.82
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,Rural,,,Percentage (%),NG,7.3
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,North  Central,,Percentage (%),NGNCZ06,6.14
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,North East,,Percentage (%),NGNEZ05,7.92
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,North West,,Percentage (%),NGNWZ04,5.92
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,South East,,Percentage (%),NGSEZ03,10.32
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,South South,,Percentage (%),NGSSZ02,5.81
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,South West,,Percentage (%),NGSWZ01,4.4
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Abia,Percentage (%),NGAB01,10.2
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Adamawa,Percentage (%),NGAD02,10.3
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Akwa Ibom,Percentage (%),NGAK03,7.7
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Anambra,Percentage (%),NGAN04,8.2
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Bauchi,Percentage (%),NGBA05,6.4
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Bayelsa,Percentage (%),NGBY06,3.3
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Benue,Percentage (%),NGBE07,4.6
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Borno,Percentage (%),NGBO08,
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Cross River,Percentage (%),NGXR09,7.2
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Delta,Percentage (%),NGDE10,6.1
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Ebonyi,Percentage (%),NGEB11,8.4
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Edo,Percentage (%),NGED12,3.8
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Ekiti,Percentage (%),NGEK13,3.4
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Enugu,Percentage (%),NGEN14,11.1
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Gombe,Percentage (%),NGGO15,7.8
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Imo,Percentage (%),NGIM16,12.7
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Jigawa,Percentage (%),NGJI17,6.7
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Kaduna,Percentage (%),NGKD18,6.4
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Kano,Percentage (%),NGKN19,4.2
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Katsina,Percentage (%),NGKT20,6.3
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Kebbi,Percentage (%),NGKE21,8.7
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Kogi,Percentage (%),NGKO22,8.4
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Kwara,Percentage (%),NGKW23,5.9
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Lagos,Percentage (%),NGLA24,3.7
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Nasarawa,Percentage (%),NGNA25,5.5
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Niger,Percentage (%),NGNI26,9.6
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Ogun,Percentage (%),NGOG27,5.1
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Ondo,Percentage (%),NGON28,5.2
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Osun,Percentage (%),NGOS29,3.8
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Oyo,Percentage (%),NGOY30,5.6
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Plateau,Percentage (%),NGPL31,4.4
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Rivers,Percentage (%),NGRI32,5.8
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Sokoto,Percentage (%),NGSO33,4.5
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Taraba,Percentage (%),NGTA34,7.1
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Yobe,Percentage (%),NGYO35,8.5
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Zamfara,Percentage (%),NGZA36,7.4
+2019,Proportion of population with large household expenditures on health as a share of total household expenditure or income,,,Federal Capital Territory,Percentage (%),NGFC37,5.0

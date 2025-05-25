@@ -1,1 +1,135 @@
-Year,Value
+Year,Series,Sector,Ethnicity,Education level,Geopolitical zone,Wealth Index Quintile,State,Gender,Units,GeoCode,Value
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,,,Percentage (%),NG,87.6
+2021,"Proportion of individuals who own a mobile telephone, by sex",Urban,,,,,,,Percentage (%),NG,95.5
+2021,"Proportion of individuals who own a mobile telephone, by sex",Rural,,,,,,,Percentage (%),NG,80.7
+2021,"Proportion of individuals who own a mobile telephone, by sex",,Hausa,,,,,,Percentage (%),NG,82.0
+2021,"Proportion of individuals who own a mobile telephone, by sex",,Igbo,,,,,,Percentage (%),NG,95.0
+2021,"Proportion of individuals who own a mobile telephone, by sex",,Yoruba,,,,,,Percentage (%),NG,93.0
+2021,"Proportion of individuals who own a mobile telephone, by sex",,Fulani,,,,,,Percentage (%),NG,72.7
+2021,"Proportion of individuals who own a mobile telephone, by sex",,Kanuri,,,,,,Percentage (%),NG,88.2
+2021,"Proportion of individuals who own a mobile telephone, by sex",,Ijaw,,,,,,Percentage (%),NG,85.9
+2021,"Proportion of individuals who own a mobile telephone, by sex",,Tiv,,,,,,Percentage (%),NG,79.6
+2021,"Proportion of individuals who own a mobile telephone, by sex",,Ibibio,,,,,,Percentage (%),NG,86.0
+2021,"Proportion of individuals who own a mobile telephone, by sex",,Edo,,,,,,Percentage (%),NG,95.5
+2021,"Proportion of individuals who own a mobile telephone, by sex",,Other ethnicity,,,,,,Percentage (%),NG,86.1
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,North Central,,,,Percentage (%),NGNCZ06,88.2
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,North East,,,,Percentage (%),NGNEZ05,80.2
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,North West,,,,Percentage (%),NGNWZ04,80.8
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,South East,,,,Percentage (%),NGSEZ03,95.2
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,South South,,,,Percentage (%),NGSSZ02,87.0
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,South West,,,,Percentage (%),NGSWZ01,92.4
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,Lowest,,,Percentage (%),NG,61.3
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,Second,,,Percentage (%),NG,83.2
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,Middle,,,Percentage (%),NG,91.4
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,Fourth,,,Percentage (%),NG,97.4
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,Highest,,,Percentage (%),NG,98.9
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Abia,,Percentage (%),NGAB01,94.7
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Adamawa,,Percentage (%),NGAD02,76.8
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Akwa Ibom,,Percentage (%),NGAK03,83.8
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Anambra,,Percentage (%),NGAN04,97.4
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Bauchi,,Percentage (%),NGBA05,77.9
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Bayelsa,,Percentage (%),NGBY06,86.6
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Benue,,Percentage (%),NGBE07,79.2
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Borno,,Percentage (%),NGBO08,87.6
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Cross River,,Percentage (%),NGXR09,74.1
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Delta,,Percentage (%),NGDE10,88.8
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Ebonyi,,Percentage (%),NGEB11,93.8
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Edo,,Percentage (%),NGED12,95.5
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Ekiti,,Percentage (%),NGEK13,92.9
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Enugu,,Percentage (%),NGEN14,92.7
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Gombe,,Percentage (%),NGGO15,81.2
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Imo,,Percentage (%),NGIM16,95.8
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Jigawa,,Percentage (%),NGJI17,73.8
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Kaduna,,Percentage (%),NGKD18,92.2
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Kano,,Percentage (%),NGKN19,86.3
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Katsina,,Percentage (%),NGKT20,79.8
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Kebbi,,Percentage (%),NGKE21,72.3
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Kogi,,Percentage (%),NGKO22,91.2
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Kwara,,Percentage (%),NGKW23,90.2
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Lagos,,Percentage (%),NGLA24,97.2
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Nasarawa,,Percentage (%),NGNA25,88.9
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Niger,,Percentage (%),NGNI26,92.0
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Ogun,,Percentage (%),NGOG27,88.5
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Ondo,,Percentage (%),NGON28,89.5
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Osun,,Percentage (%),NGOS29,93.2
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Oyo,,Percentage (%),NGOY30,88.4
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Plateau,,Percentage (%),NGPL31,87.6
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Rivers,,Percentage (%),NGRI32,90.7
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Sokoto,,Percentage (%),NGSO33,65.1
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Taraba,,Percentage (%),NGTA34,82.6
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Yobe,,Percentage (%),NGYO35,73.9
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Zamfara,,Percentage (%),NGZA36,82.0
+2021,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Federal Capital Territory,,Percentage (%),NGFC37,94.1
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,,,Percentage (%),NG,74.4
+2017,"Proportion of individuals who own a mobile telephone, by sex",Urban,,,,,,,Percentage (%),NG,89.8
+2017,"Proportion of individuals who own a mobile telephone, by sex",Rural,,,,,,,Percentage (%),NG,65.5
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,North Central,,,,Percentage (%),NGNCZ06,79.9
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,North East,,,,Percentage (%),NGNEZ05,69.1
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,North West,,,,Percentage (%),NGNWZ04,57.8
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,South East,,,,Percentage (%),NGSEZ03,81.9
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,South South,,,,Percentage (%),NGSSZ02,84.4
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,South West,,,,Percentage (%),NGSWZ01,87.9
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Abia,,Percentage (%),NGAB01,83.5
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Adamawa,,Percentage (%),NGAD02,68.0
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Akwa Ibom,,Percentage (%),NGAK03,86.3
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Anambra,,Percentage (%),NGAN04,86.9
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Bauchi,,Percentage (%),NGBA05,54.6
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Bayelsa,,Percentage (%),NGBY06,80.3
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Benue,,Percentage (%),NGBE07,86.2
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Borno,,Percentage (%),NGBO08,91.9
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Cross River,,Percentage (%),NGXR09,72.9
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Delta,,Percentage (%),NGDE10,81.4
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Ebonyi,,Percentage (%),NGEB11,54.6
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Edo,,Percentage (%),NGED12,86.4
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Ekiti,,Percentage (%),NGEK13,89.2
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Enugu,,Percentage (%),NGEN14,87.7
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Gombe,,Percentage (%),NGGO15,63.3
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Imo,,Percentage (%),NGIM16,90.5
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Jigawa,,Percentage (%),NGJI17,52.9
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Kaduna,,Percentage (%),NGKD18,75.6
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Kano,,Percentage (%),NGKN19,55.6
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Katsina,,Percentage (%),NGKT20,55.8
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Kebbi,,Percentage (%),NGKE21,50.9
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Kogi,,Percentage (%),NGKO22,83.0
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Kwara,,Percentage (%),NGKW23,67.6
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Lagos,,Percentage (%),NGLA24,95.4
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Nasarawa,,Percentage (%),NGNA25,78.2
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Niger,,Percentage (%),NGNI26,80.6
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Ogun,,Percentage (%),NGOG27,87.4
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Ondo,,Percentage (%),NGON28,77.0
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Osun,,Percentage (%),NGOS29,87.2
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Oyo,,Percentage (%),NGOY30,85.6
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Plateau,,Percentage (%),NGPL31,79.0
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Rivers,,Percentage (%),NGRI32,94.3
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Sokoto,,Percentage (%),NGSO33,44.9
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Taraba,,Percentage (%),NGTA34,64.0
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Yobe,,Percentage (%),NGYO35,61.1
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Zamfara,,Percentage (%),NGZA36,57.8
+2017,"Proportion of individuals who own a mobile telephone, by sex",,,,,,Federal Capital Territory,,Percentage (%),NGFC37,82.1
+2019,"Proportion of individuals who own a mobile telephone, by sex",,,,,,,,Percentage (%),NG,77.1
+2019,"Proportion of individuals who own a mobile telephone, by sex",Urban,,,,,,,Percentage (%),NG,84.8
+2019,"Proportion of individuals who own a mobile telephone, by sex",Rural,,,,,,,Percentage (%),NG,74.9
+2019,"Proportion of individuals who own a mobile telephone, by sex",,,,North Central,,,,Percentage (%),NGNCZ06,86.1
+2019,"Proportion of individuals who own a mobile telephone, by sex",,,,North East,,,,Percentage (%),NGNEZ05,47.2
+2019,"Proportion of individuals who own a mobile telephone, by sex",,,,North West,,,,Percentage (%),NGNWZ04,66.0
+2019,"Proportion of individuals who own a mobile telephone, by sex",,,,South East,,,,Percentage (%),NGSEZ03,82.9
+2019,"Proportion of individuals who own a mobile telephone, by sex",,,,South South,,,,Percentage (%),NGSSZ02,82.4
+2019,"Proportion of individuals who own a mobile telephone, by sex",,,,South West,,,,Percentage (%),NGSWZ01,85.9
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,,,,Male,Percentage (%),NG,66.0
+2023,"Proportion of individuals who own a mobile telephone, by sex",Urban,,,,,,Male,Percentage (%),NG,73.4
+2023,"Proportion of individuals who own a mobile telephone, by sex",Rural,,,,,,Male,Percentage (%),NG,63.3
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,North Central,,,Male,Percentage (%),NGNCZ06,56.4
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,North East,,,Male,Percentage (%),NGNEZ05,71.9
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,North West,,,Male,Percentage (%),NGNWZ04,60.2
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,South East,,,Male,Percentage (%),NGSEZ03,71.5
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,South South,,,Male,Percentage (%),NGSSZ02,75.3
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,South West,,,Male,Percentage (%),NGSWZ01,76.5
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,,,,Female,Percentage (%),NG,66.8
+2023,"Proportion of individuals who own a mobile telephone, by sex",Urban,,,,,,Female,Percentage (%),NG,73.5
+2023,"Proportion of individuals who own a mobile telephone, by sex",Rural,,,,,,Female,Percentage (%),NG,64.2
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,North Central,,,Female,Percentage (%),NGNCZ06,56.2
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,North East,,,Female,Percentage (%),NGNEZ05,73.5
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,North West,,,Female,Percentage (%),NGNWZ04,61.2
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,South East,,,Female,Percentage (%),NGSEZ03,71.7
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,South South,,,Female,Percentage (%),NGSSZ02,74.2
+2023,"Proportion of individuals who own a mobile telephone, by sex",,,,South West,,,Female,Percentage (%),NGSWZ01,76.8

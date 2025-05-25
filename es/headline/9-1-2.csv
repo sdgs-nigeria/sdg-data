@@ -1,1 +1,11 @@
-Year,Value
+Year,Value,Units,Series
+2019,2890111,,Number of passengers by rail transportation
+2020,1020368,,Number of passengers by rail transportation
+2021,2714458,,Number of passengers by rail transportation
+2022,3212948,,Number of passengers by rail transportation
+2023,2182388,,Number of passengers by rail transportation
+2019,200113,tonnes,Volumes of goods/cargos tons by rail transportation
+2020,87440,tonnes,Volumes of goods/cargos tons by rail transportation
+2021,142438,tonnes,Volumes of goods/cargos tons by rail transportation
+2022,157024,tonnes,Volumes of goods/cargos tons by rail transportation
+2023,318151,tonnes,Volumes of goods/cargos tons by rail transportation

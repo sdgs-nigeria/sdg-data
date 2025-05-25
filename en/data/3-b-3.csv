@@ -1,1 +1,154 @@
-Year,Value
+Year,Series,Geopolitical zone,Facility Type,State,Units,GeoCode,Value
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,,Percentage %,NG,29.7
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North Central,Primary Health Facility,,Percentage %,NGNCZ06,30.6
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North East,Primary Health Facility,,Percentage %,NGNEZ05,36.7
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North West,Primary Health Facility,,Percentage %,NGNWZ04,23.5
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South East,Primary Health Facility,,Percentage %,NGSEZ03,20.8
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South South,Primary Health Facility,,Percentage %,NGSSZ02,32.2
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South West,Primary Health Facility,,Percentage %,NGSWZ01,33.3
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,,Percentage %,NG,57.4
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North Central,Secondary Health Facility,,Percentage %,NGNCZ06,71.4
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North East,Secondary Health Facility,,Percentage %,NGNEZ05,47.2
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North West,Secondary Health Facility,,Percentage %,NGNWZ04,52.4
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South East,Secondary Health Facility,,Percentage %,NGSEZ03,43.3
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South South,Secondary Health Facility,,Percentage %,NGSSZ02,57.9
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South West,Secondary Health Facility,,Percentage %,NGSWZ01,68.6
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,,Percentage %,NG,32.9
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North Central,,,Percentage %,NGNCZ06,38.1
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North East,,,Percentage %,NGNEZ05,38.0
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North West,,,Percentage %,NGNWZ04,28.0
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South East,,,Percentage %,NGSEZ03,22.8
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South South,,,Percentage %,NGSSZ02,33.8
+2016,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South West,,,Percentage %,NGSWZ01,36.4
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,,Percentage %,NG,34.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North Central,Primary Health Facility,,Percentage %,NGNCZ06,38.8
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North East,Primary Health Facility,,Percentage %,NGNEZ05,25.4
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North West,Primary Health Facility,,Percentage %,NGNWZ04,30.1
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South East,Primary Health Facility,,Percentage %,NGSEZ03,44.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South South,Primary Health Facility,,Percentage %,NGSSZ02,37.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South West,Primary Health Facility,,Percentage %,NGSWZ01,33.8
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,,Percentage %,NG,50.6
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North Central,Secondary Health Facility,,Percentage %,NGNCZ06,53.8
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North East,Secondary Health Facility,,Percentage %,NGNEZ05,46.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North West,Secondary Health Facility,,Percentage %,NGNWZ04,57.8
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South East,Secondary Health Facility,,Percentage %,NGSEZ03,53.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South South,Secondary Health Facility,,Percentage %,NGSSZ02,38.7
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South West,Secondary Health Facility,,Percentage %,NGSWZ01,53.5
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,,Percentage %,NG,35.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North Central,,,Percentage %,NGNCZ06,39.4
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North East,,,Percentage %,NGNEZ05,26.1
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,North West,,,Percentage %,NGNWZ04,30.8
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South East,,,Percentage %,NGSEZ03,45.1
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South South,,,Percentage %,NGSSZ02,37.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,South West,,,Percentage %,NGSWZ01,35.1
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Abia,Percentage %,NGAB01,44.8
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Adamawa,Percentage %,NGAD02,21.6
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Akwa Ibom,Percentage %,NGAK03,36.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Anambra,Percentage %,NGAN04,47.7
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Bauchi,Percentage %,NGBA05,24.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Bayelsa,Percentage %,NGBY06,33.5
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Benue,Percentage %,NGBE07,35.8
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Borno,Percentage %,NGBO08,35.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Cross River,Percentage %,NGXR09,29.4
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Delta,Percentage %,NGDE10,53.6
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Ebonyi,Percentage %,NGEB11,41.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Edo,Percentage %,NGED12,39.8
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Ekiti,Percentage %,NGEK13,39.1
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Enugu,Percentage %,NGEN14,39.1
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Gombe,Percentage %,NGGO15,28.4
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Imo,Percentage %,NGIM16,52.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Jigawa,Percentage %,NGJI17,45.6
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Kaduna,Percentage %,NGKD18,39.5
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Kano,Percentage %,NGKN19,25.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Katsina,Percentage %,NGKT20,24.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Kebbi,Percentage %,NGKE21,13.7
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Kogi,Percentage %,NGKO22,27.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Kwara,Percentage %,NGKW23,41.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Lagos,Percentage %,NGLA24,42.4
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Nasarawa,Percentage %,NGNA25,39.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Niger,Percentage %,NGNI26,41.6
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Ogun,Percentage %,NGOG27,51.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Ondo,Percentage %,NGON28,31.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Osun,Percentage %,NGOS29,19.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Oyo,Percentage %,NGOY30,43.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Plateau,Percentage %,NGPL31,43.8
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Rivers,Percentage %,NGRI32,37.1
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Sokoto,Percentage %,NGSO33,40.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Taraba,Percentage %,NGTA34,21.1
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Yobe,Percentage %,NGYO35,26.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Zamfara,Percentage %,NGZA36,26.1
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Primary Health Facility,Federal Capital Territory,Percentage %,NGFC37,50.6
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Abia,Percentage %,NGAB01,61.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Adamawa,Percentage %,NGAD02,41.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Akwa Ibom,Percentage %,NGAK03,35.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Anambra,Percentage %,NGAN04,61.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Bauchi,Percentage %,NGBA05,46.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Bayelsa,Percentage %,NGBY06,36.1
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Benue,Percentage %,NGBE07,50.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Borno,Percentage %,NGBO08,52.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Cross River,Percentage %,NGXR09,39.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Delta,Percentage %,NGDE10,41.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Ebonyi,Percentage %,NGEB11,39.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Edo,Percentage %,NGED12,37.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Ekiti,Percentage %,NGEK13,66.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Enugu,Percentage %,NGEN14,50.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Gombe,Percentage %,NGGO15,40.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Imo,Percentage %,NGIM16,53.8
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Jigawa,Percentage %,NGJI17,68.7
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Kaduna,Percentage %,NGKD18,52.6
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Kano,Percentage %,NGKN19,56.8
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Katsina,Percentage %,NGKT20,61.4
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Kebbi,Percentage %,NGKE21,55.4
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Kogi,Percentage %,NGKO22,47.4
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Kwara,Percentage %,NGKW23,45.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Lagos,Percentage %,NGLA24,66.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Nasarawa,Percentage %,NGNA25,64.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Niger,Percentage %,NGNI26,68.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Ogun,Percentage %,NGOG27,55.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Ondo,Percentage %,NGON28,69.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Osun,Percentage %,NGOS29,19.5
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Oyo,Percentage %,NGOY30,54.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Plateau,Percentage %,NGPL31,65.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Rivers,Percentage %,NGRI32,42.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Sokoto,Percentage %,NGSO33,57.1
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Taraba,Percentage %,NGTA34,37.7
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Yobe,Percentage %,NGYO35,52.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Zamfara,Percentage %,NGZA36,56.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,Secondary Health Facility,Federal Capital Territory,Percentage %,NGFC37,72.5
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Abia,Percentage %,NGAB01,45.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Adamawa,Percentage %,NGAD02,22.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Akwa Ibom,Percentage %,NGAK03,36.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Anambra,Percentage %,NGAN04,48.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Bauchi,Percentage %,NGBA05,25.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Bayelsa,Percentage %,NGBY06,34.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Benue,Percentage %,NGBE07,36.6
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Borno,Percentage %,NGBO08,36.7
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Cross River,Percentage %,NGXR09,29.8
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Delta,Percentage %,NGDE10,52.7
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Ebonyi,Percentage %,NGEB11,41.1
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Edo,Percentage %,NGED12,39.6
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Ekiti,Percentage %,NGEK13,40.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Enugu,Percentage %,NGEN14,39.5
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Gombe,Percentage %,NGGO15,29.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Imo,Percentage %,NGIM16,53.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Jigawa,Percentage %,NGJI17,46.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Kaduna,Percentage %,NGKD18,39.7
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Kano,Percentage %,NGKN19,25.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Katsina,Percentage %,NGKT20,24.5
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Kebbi,Percentage %,NGKE21,15.8
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Kogi,Percentage %,NGKO22,28.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Kwara,Percentage %,NGKW23,41.7
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Lagos,Percentage %,NGLA24,45.4
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Nasarawa,Percentage %,NGNA25,40.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Niger,Percentage %,NGNI26,41.9
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Ogun,Percentage %,NGOG27,51.5
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Ondo,Percentage %,NGON28,33.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Osun,Percentage %,NGOS29,19.0
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Oyo,Percentage %,NGOY30,44.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Plateau,Percentage %,NGPL31,44.2
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Rivers,Percentage %,NGRI32,37.4
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Sokoto,Percentage %,NGSO33,41.7
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Taraba,Percentage %,NGTA34,21.4
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Yobe,Percentage %,NGYO35,27.3
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Zamfara,Percentage %,NGZA36,27.6
+2023,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,,,Federal Capital Territory,Percentage %,NGFC37,52.2

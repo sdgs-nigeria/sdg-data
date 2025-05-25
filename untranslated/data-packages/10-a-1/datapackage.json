@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

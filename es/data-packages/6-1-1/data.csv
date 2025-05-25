@@ -1,1 +1,113 @@
-Year,Value
+Year,Series,Sector,Wealth Index Quintile,Geopolitical zone,State,Units,GeoCode,Value
+2021,Proportion of population using safely managed drinking water services,,,,,Percentage (%),NG,12.9
+2021,Proportion of population using safely managed drinking water services,,,North Central,,Percentage (%),NGNCZ06,5.6
+2021,Proportion of population using safely managed drinking water services,,,North East,,Percentage (%),NGNEZ05,2.4
+2021,Proportion of population using safely managed drinking water services,,,North West,,Percentage (%),NGNWZ04,4.3
+2021,Proportion of population using safely managed drinking water services,,,South East,,Percentage (%),NGSEZ03,16.6
+2021,Proportion of population using safely managed drinking water services,,,South South,,Percentage (%),NGSSZ02,19.7
+2021,Proportion of population using safely managed drinking water services,,,South West,,Percentage (%),NGSWZ01,29.3
+2020,Proportion of population using safely managed drinking water services,Urban,,,,Percentage (%),NG,26.8
+2021,Proportion of population using safely managed drinking water services,Peri-Urban,,,,Percentage (%),NG,33.5
+2021,Proportion of population using safely managed drinking water services,Urban-Urban,,,,Percentage (%),NG,25.1
+2021,Proportion of population using safely managed drinking water services,Rural,,,,Percentage (%),NG,6.3
+2021,Proportion of population using safely managed drinking water services,Itenerant,,,,Percentage (%),NG,7.8
+2021,Proportion of population using safely managed drinking water services,Rural-Rural,,,,Percentage (%),NG,6.0
+2021,Proportion of population using safely managed drinking water services,Small Town,,,,Percentage (%),NG,7.3
+2021,Proportion of population using safely managed drinking water services,,Poorest,,,Percentage (%),NG,1.7
+2021,Proportion of population using safely managed drinking water services,,Second,,,Percentage (%),NG,2.3
+2021,Proportion of population using safely managed drinking water services,,Middle,,,Percentage (%),NG,5.6
+2021,Proportion of population using safely managed drinking water services,,Fourth,,,Percentage (%),NG,17.3
+2021,Proportion of population using safely managed drinking water services,,Richest,,,Percentage (%),NG,36.7
+2021,Proportion of population using safely managed drinking water services,,,,Abia,Percentage (%),NGAB01,7.6
+2021,Proportion of population using safely managed drinking water services,,,,Adamawa,Percentage (%),NGAD02,0.2
+2021,Proportion of population using safely managed drinking water services,,,,Akwa Ibom,Percentage (%),NGAK03,9.2
+2021,Proportion of population using safely managed drinking water services,,,,Anambra,Percentage (%),NGAN04,30.5
+2021,Proportion of population using safely managed drinking water services,,,,Bauchi,Percentage (%),NGBA05,2.2
+2021,Proportion of population using safely managed drinking water services,,,,Bayelsa,Percentage (%),NGBY06,7.4
+2021,Proportion of population using safely managed drinking water services,,,,Benue,Percentage (%),NGBE07,1.0
+2021,Proportion of population using safely managed drinking water services,,,,Borno,Percentage (%),NGBO08,4.2
+2021,Proportion of population using safely managed drinking water services,,,,Cross River,Percentage (%),NGXR09,4.6
+2021,Proportion of population using safely managed drinking water services,,,,Delta,Percentage (%),NGDE10,26.3
+2021,Proportion of population using safely managed drinking water services,,,,Ebonyi,Percentage (%),NGEB11,6.9
+2021,Proportion of population using safely managed drinking water services,,,,Edo,Percentage (%),NGED12,25.6
+2021,Proportion of population using safely managed drinking water services,,,,Ekiti,Percentage (%),NGEK13,9.9
+2021,Proportion of population using safely managed drinking water services,,,,Enugu,Percentage (%),NGEN14,11.0
+2021,Proportion of population using safely managed drinking water services,,,,Gombe,Percentage (%),NGGO15,3.2
+2021,Proportion of population using safely managed drinking water services,,,,Imo,Percentage (%),NGIM16,18.3
+2021,Proportion of population using safely managed drinking water services,,,,Jigawa,Percentage (%),NGJI17,2.1
+2021,Proportion of population using safely managed drinking water services,,,,Kaduna,Percentage (%),NGKD18,1.9
+2021,Proportion of population using safely managed drinking water services,,,,Kano,Percentage (%),NGKN19,6.2
+2021,Proportion of population using safely managed drinking water services,,,,Katsina,Percentage (%),NGKT20,7.0
+2021,Proportion of population using safely managed drinking water services,,,,Kebbi,Percentage (%),NGKE21,0.7
+2021,Proportion of population using safely managed drinking water services,,,,Kogi,Percentage (%),NGKO22,7.5
+2021,Proportion of population using safely managed drinking water services,,,,Kwara,Percentage (%),NGKW23,5.4
+2021,Proportion of population using safely managed drinking water services,,,,Lagos,Percentage (%),NGLA24,55.2
+2021,Proportion of population using safely managed drinking water services,,,,Nasarawa,Percentage (%),NGNA25,3.7
+2021,Proportion of population using safely managed drinking water services,,,,Niger,Percentage (%),NGNI26,3.2
+2021,Proportion of population using safely managed drinking water services,,,,Ogun,Percentage (%),NGOG27,34.0
+2021,Proportion of population using safely managed drinking water services,,,,Ondo,Percentage (%),NGON28,7.3
+2021,Proportion of population using safely managed drinking water services,,,,Osun,Percentage (%),NGOS29,15.1
+2021,Proportion of population using safely managed drinking water services,,,,Oyo,Percentage (%),NGOY30,14.4
+2021,Proportion of population using safely managed drinking water services,,,,Plateau,Percentage (%),NGPL31,3.1
+2021,Proportion of population using safely managed drinking water services,,,,Rivers,Percentage (%),NGRI32,30.9
+2021,Proportion of population using safely managed drinking water services,,,,Sokoto,Percentage (%),NGSO33,2.0
+2021,Proportion of population using safely managed drinking water services,,,,Taraba,Percentage (%),NGTA34,1.0
+2021,Proportion of population using safely managed drinking water services,,,,Yobe,Percentage (%),NGYO35,3.3
+2021,Proportion of population using safely managed drinking water services,,,,Zamfara,Percentage (%),NGZA36,7.2
+2021,Proportion of population using safely managed drinking water services,,,,Federal Capital Territory,Percentage (%),NGFC37,17.7
+2019,Proportion of population using safely managed drinking water services,,,,,Percentage (%),NG,13.6
+2019,Proportion of population using safely managed drinking water services,,,North Central,,Percentage (%),NGNCZ06,8.4
+2019,Proportion of population using safely managed drinking water services,,,North East,,Percentage (%),NGNEZ05,1.9
+2019,Proportion of population using safely managed drinking water services,,,North West,,Percentage (%),NGNWZ04,5.7
+2019,Proportion of population using safely managed drinking water services,,,South East,,Percentage (%),NGSEZ03,14.6
+2019,Proportion of population using safely managed drinking water services,,,South South,,Percentage (%),NGSSZ02,18.9
+2019,Proportion of population using safely managed drinking water services,,,South West,,Percentage (%),NGSWZ01,31.3
+2019,Proportion of population using safely managed drinking water services,Urban,,,,Percentage (%),NG,29.2
+2019,Proportion of population using safely managed drinking water services,Peri-Urban,,,,Percentage (%),NG,27.2
+2019,Proportion of population using safely managed drinking water services,Urban-Urban,,,,Percentage (%),NG,29.8
+2019,Proportion of population using safely managed drinking water services,Rural,,,,Percentage (%),NG,6.7
+2019,Proportion of population using safely managed drinking water services,Itenerant,,,,Percentage (%),NG,4.4
+2019,Proportion of population using safely managed drinking water services,Rural-Rural,,,,Percentage (%),NG,6.6
+2019,Proportion of population using safely managed drinking water services,Small Town,,,,Percentage (%),NG,7.6
+2019,Proportion of population using safely managed drinking water services,,Poorest,,,Percentage (%),NG,1.6
+2019,Proportion of population using safely managed drinking water services,,Second,,,Percentage (%),NG,2.9
+2019,Proportion of population using safely managed drinking water services,,Middle,,,Percentage (%),NG,6.9
+2019,Proportion of population using safely managed drinking water services,,Fourth,,,Percentage (%),NG,15.3
+2019,Proportion of population using safely managed drinking water services,,Richest,,,Percentage (%),NG,43.3
+2019,Proportion of population using safely managed drinking water services,,,,Abia,Percentage (%),NGAB01,12.3
+2019,Proportion of population using safely managed drinking water services,,,,Adamawa,Percentage (%),NGAD02,2.2
+2019,Proportion of population using safely managed drinking water services,,,,Akwa Ibom,Percentage (%),NGAK03,22.2
+2019,Proportion of population using safely managed drinking water services,,,,Anambra,Percentage (%),NGAN04,26.2
+2019,Proportion of population using safely managed drinking water services,,,,Bauchi,Percentage (%),NGBA05,1.1
+2019,Proportion of population using safely managed drinking water services,,,,Bayelsa,Percentage (%),NGBY06,7.2
+2019,Proportion of population using safely managed drinking water services,,,,Benue,Percentage (%),NGBE07,11.2
+2019,Proportion of population using safely managed drinking water services,,,,Borno,Percentage (%),NGBO08,3.9
+2019,Proportion of population using safely managed drinking water services,,,,Cross River,Percentage (%),NGXR09,1.6
+2019,Proportion of population using safely managed drinking water services,,,,Delta,Percentage (%),NGDE10,19.1
+2019,Proportion of population using safely managed drinking water services,,,,Ebonyi,Percentage (%),NGEB11,3.0
+2019,Proportion of population using safely managed drinking water services,,,,Edo,Percentage (%),NGED12,22.0
+2019,Proportion of population using safely managed drinking water services,,,,Ekiti,Percentage (%),NGEK13,15.0
+2019,Proportion of population using safely managed drinking water services,,,,Enugu,Percentage (%),NGEN14,17.6
+2019,Proportion of population using safely managed drinking water services,,,,Gombe,Percentage (%),NGGO15,0.3
+2019,Proportion of population using safely managed drinking water services,,,,Imo,Percentage (%),NGIM16,8.0
+2019,Proportion of population using safely managed drinking water services,,,,Jigawa,Percentage (%),NGJI17,2.4
+2019,Proportion of population using safely managed drinking water services,,,,Kaduna,Percentage (%),NGKD18,14.8
+2019,Proportion of population using safely managed drinking water services,,,,Kano,Percentage (%),NGKN19,6.3
+2019,Proportion of population using safely managed drinking water services,,,,Katsina,Percentage (%),NGKT20,2.1
+2019,Proportion of population using safely managed drinking water services,,,,Kebbi,Percentage (%),NGKE21,0.6
+2019,Proportion of population using safely managed drinking water services,,,,Kogi,Percentage (%),NGKO22,12.0
+2019,Proportion of population using safely managed drinking water services,,,,Kwara,Percentage (%),NGKW23,6.0
+2019,Proportion of population using safely managed drinking water services,,,,Lagos,Percentage (%),NGLA24,61.5
+2019,Proportion of population using safely managed drinking water services,,,,Nasarawa,Percentage (%),NGNA25,4.8
+2019,Proportion of population using safely managed drinking water services,,,,Niger,Percentage (%),NGNI26,5.4
+2019,Proportion of population using safely managed drinking water services,,,,Ogun,Percentage (%),NGOG27,18.1
+2019,Proportion of population using safely managed drinking water services,,,,Ondo,Percentage (%),NGON28,18.3
+2019,Proportion of population using safely managed drinking water services,,,,Osun,Percentage (%),NGOS29,12.5
+2019,Proportion of population using safely managed drinking water services,,,,Oyo,Percentage (%),NGOY30,17.4
+2019,Proportion of population using safely managed drinking water services,,,,Plateau,Percentage (%),NGPL31,4.8
+2019,Proportion of population using safely managed drinking water services,,,,Rivers,Percentage (%),NGRI32,27.3
+2019,Proportion of population using safely managed drinking water services,,,,Sokoto,Percentage (%),NGSO33,5.4
+2019,Proportion of population using safely managed drinking water services,,,,Taraba,Percentage (%),NGTA34,1.0
+2019,Proportion of population using safely managed drinking water services,,,,Yobe,Percentage (%),NGYO35,1.6
+2019,Proportion of population using safely managed drinking water services,,,,Zamfara,Percentage (%),NGZA36,3.0
+2019,Proportion of population using safely managed drinking water services,,,,Federal Capital Territory,Percentage (%),NGFC37,12.6

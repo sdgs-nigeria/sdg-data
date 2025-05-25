@@ -1,1 +1,53 @@
-Year,Value
+Year,Series,Sector,Age group,Education level,Geopolitical zone,Wealth Index Quintile,State,Units,GeoCode,Value
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,,Percentage (%),NG,23.2
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",Urban,,,,,,Percentage (%),NG,22.9
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",Rural,,,,,,Percentage (%),NG,23.9
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,North Central,,,Percentage (%),NGNCZ06,18.6
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,North East,,,Percentage (%),NGNEZ05,31.0
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,North West,,,Percentage (%),NGNWZ04,21.6
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,South East,,,Percentage (%),NGSEZ03,21.3
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,South South,,,Percentage (%),NGSSZ02,21.1
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,South West,,,Percentage (%),NGSWZ01,25.3
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,None,,,,Percentage (%),NG,30.6
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,Primary,,,,Percentage (%),NG,26.5
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,Secondary,,,,Percentage (%),NG,21.5
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,Higher,,,,Percentage (%),NG,19.2
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,Lowest,,Percentage (%),NG,35.8
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,Second,,Percentage (%),NG,22.4
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,Middle,,Percentage (%),NG,22.8
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,Fourth,,Percentage (%),NG,25.6
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,Highest,,Percentage (%),NG,20.1
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Abia,Percentage (%),NGAB01,8.1
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Adamawa,Percentage (%),NGAD02,26.9
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Akwa Ibom,Percentage (%),NGAK03,21.9
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Anambra,Percentage (%),NGAN04,12.5
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Bauchi,Percentage (%),NGBA05,29.7
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Benue,Percentage (%),NGBE07,13.9
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Borno,Percentage (%),NGBO08,25.5
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Cross River,Percentage (%),NGXR09,22.5
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Delta,Percentage (%),NGDE10,28.2
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Ebonyi,Percentage (%),NGEB11,30.9
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Edo,Percentage (%),NGED12,27.9
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Ekiti,Percentage (%),NGEK13,37.9
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Enugu,Percentage (%),NGEN14,17.3
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Gombe,Percentage (%),NGGO15,51.5
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Imo,Percentage (%),NGIM16,46.6
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Jigawa,Percentage (%),NGJI17,27.6
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Kaduna,Percentage (%),NGKD18,17.2
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Kano,Percentage (%),NGKN19,35.1
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Katsina,Percentage (%),NGKT20,18.8
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Kebbi,Percentage (%),NGKE21,14.2
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Kogi,Percentage (%),NGKO22,30.5
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Kwara,Percentage (%),NGKW23,12.6
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Lagos,Percentage (%),NGLA24,32.3
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Nasarawa,Percentage (%),NGNA25,15.1
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Niger,Percentage (%),NGNI26,19.6
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Ogun,Percentage (%),NGOG27,10.5
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Ondo,Percentage (%),NGON28,20.3
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Osun,Percentage (%),NGOS29,23.1
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Oyo,Percentage (%),NGOY30,10.1
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Plateau,Percentage (%),NGPL31,18.1
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Rivers,Percentage (%),NGRI32,16.9
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Taraba,Percentage (%),NGTA34,21.2
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Zamfara,Percentage (%),NGZA36,14.6
+2018,"Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",,,,,,Federal Capital Territory,Percentage (%),NGFC37,31.3

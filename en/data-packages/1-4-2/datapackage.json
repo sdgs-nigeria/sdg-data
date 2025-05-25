@@ -12,8 +12,90 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation",
+                "Proportion of total adult population who perceive their rights to land as secure, by sex and type of tenure",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Tenure rights",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Certificate of Occupancy (CoFo)",
+                "Right of Occupancy (RoFo)",
+                "Customary Certificate of Occupancy (CCoFo)",
+                "Tittle Deed",
+                ""
+              ]
+            },
+            "title": "Tenure rights"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "Geopolitical zone",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North Central",
+                "North East",
+                "North West",
+                "South East",
+                "South South",
+                "South West",
+                ""
+              ]
+            },
+            "title": "Geopolitical zone"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

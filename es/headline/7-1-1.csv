@@ -1,1 +1,17 @@
-Year,Value
+Year,Value,Units,Series,GeoCode
+2017,54.4,Percentage (%),Proportion of population with access to electricity,NG
+2022,59.5,Percentage (%),Proportion of population with access to electricity,NG
+2019,55.4,Percentage (%),Proportion of population with access to electricity,NG
+2019,53.0,Percentage (%),Proportion of population with access to electricity,NGNCZ06
+2019,20.9,Percentage (%),Proportion of population with access to electricity,NGNEZ05
+2019,40.3,Percentage (%),Proportion of population with access to electricity,NGNWZ04
+2019,71.4,Percentage (%),Proportion of population with access to electricity,NGSEZ03
+2019,72.8,Percentage (%),Proportion of population with access to electricity,NGSSZ02
+2019,67.3,Percentage (%),Proportion of population with access to electricity,NGSWZ01
+2023,53.6,Percentage (%),Proportion of population with access to electricity,NG
+2023,46.8,Percentage (%),Proportion of population with access to electricity,NGNCZ06
+2023,29.5,Percentage (%),Proportion of population with access to electricity,NGNEZ05
+2023,32.1,Percentage (%),Proportion of population with access to electricity,NGNWZ04
+2023,74.6,Percentage (%),Proportion of population with access to electricity,NGSEZ03
+2023,65.7,Percentage (%),Proportion of population with access to electricity,NGSSZ02
+2023,71.7,Percentage (%),Proportion of population with access to electricity,NGSWZ01

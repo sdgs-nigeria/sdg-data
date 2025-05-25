@@ -1,1 +1,319 @@
-Year,Value
+Year,Series,Gender,Sector,Ethnicity,Wealth Index Quintile,Geopolitical zone,State,Age group,Mother's education level,School type,GeoCode,Value
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,,,,Primary,NG,0.95
+2017,Percentage of population age 3 and above who never attended formal education,,,,,North  Central,,,,Primary,NGNCZ06,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,,,North East,,,,Primary,NGNEZ05,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,,,North West,,,,Primary,NGNWZ04,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,,,South East,,,,Primary,NGSEZ03,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,,South South,,,,Primary,NGSSZ02,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,,South West,,,,Primary,NGSWZ01,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,Urban,,,,,,,Primary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,Rural,,,,,,,Primary,NG,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,,,None,Primary,NG,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,,,Non-formal,Primary,NG,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,,,Primary,Primary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,,,Secondary,Primary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,,,Higher/tertiary,Primary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,Poorest,,,,,Primary,NG,0.8
+2017,Percentage of population age 3 and above who never attended formal education,,,,Second,,,,,Primary,NG,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,,Middle,,,,,Primary,NG,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,,Fourth,,,,,Primary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,Richest,,,,,Primary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,Hausa,,,,,,Primary,NG,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,Igbo,,,,,,Primary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,Yoruba,,,,,,Primary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,Other ethnicity,,,,,,Primary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Abia,,,Primary,NGAB01,1.05
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Adamawa,,,Primary,NGAD02,0.93
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Akwa Ibom,,,Primary,NGAK03,0.97
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Anambra,,,Primary,NGAN04,0.99
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Bauchi,,,Primary,NGBA05,0.89
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Bayelsa,,,Primary,NGBY06,1.04
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Benue,,,Primary,NGBE07,1.05
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Borno,,,Primary,NGBO08,0.82
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Cross River,,,Primary,NGXR09,1.05
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Delta,,,Primary,NGDE10,0.96
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Ebonyi,,,Primary,NGEB11,1.04
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Edo,,,Primary,NGED12,1.01
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Ekiti,,,Primary,NGEK13,1.03
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Enugu,,,Primary,NGEN14,1.03
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Gombe,,,Primary,NGGO15,0.91
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Imo,,,Primary,NGIM16,0.96
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Jigawa,,,Primary,NGJI17,0.93
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Kaduna,,,Primary,NGKD18,1.04
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Kano,,,Primary,NGKN19,0.93
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Katsina,,,Primary,NGKT20,1.04
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Kebbi,,,Primary,NGKE21,0.83
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Kogi,,,Primary,NGKO22,0.98
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Kwara,,,Primary,NGKW23,0.99
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Lagos,,,Primary,NGLA24,1.03
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Nasarawa,,,Primary,NGNA25,0.94
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Niger,,,Primary,NGNI26,0.79
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Ogun,,,Primary,NGOG27,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Ondo,,,Primary,NGON28,1.01
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Osun,,,Primary,NGOS29,1.06
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Oyo,,,Primary,NGOY30,0.96
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Plateau,,,Primary,NGPL31,0.99
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Rivers,,,Primary,NGRI32,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Sokoto,,,Primary,NGSO33,0.82
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Taraba,,,Primary,NGTA34,1.01
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Yobe,,,Primary,NGYO35,0.99
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Zamfara,,,Primary,NGZA36,0.72
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Federal Capital Territory,,,Primary,NGFC37,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,,,,Secondary,NG,0.97
+2017,Percentage of population age 3 and above who never attended formal education,,,,,North  Central,,,,Secondary,NGNCZ06,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,,North East,,,,Secondary,NGNEZ05,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,,,North West,,,,Secondary,NGNWZ04,1.1
+2017,Percentage of population age 3 and above who never attended formal education,,,,,South East,,,,Secondary,NGSEZ03,1.1
+2017,Percentage of population age 3 and above who never attended formal education,,,,,South South,,,,Secondary,NGSSZ02,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,,South West,,,,Secondary,NGSWZ01,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,Urban,,,,,,,Secondary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,Rural,,,,,,,Secondary,NG,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,,,None,Secondary,NG,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,,,Non-formal,Secondary,NG,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,,,Primary,Secondary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,,,Secondary,Secondary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,,,Higher/tertiary,Secondary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,Poorest,,,,,Secondary,NG,0.7
+2017,Percentage of population age 3 and above who never attended formal education,,,,Second,,,,,Secondary,NG,0.8
+2017,Percentage of population age 3 and above who never attended formal education,,,,Middle,,,,,Secondary,NG,0.8
+2017,Percentage of population age 3 and above who never attended formal education,,,,Fourth,,,,,Secondary,NG,1.1
+2017,Percentage of population age 3 and above who never attended formal education,,,,Richest,,,,,Secondary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,Hausa,,,,,,Secondary,NG,0.9
+2017,Percentage of population age 3 and above who never attended formal education,,,Igbo,,,,,,Secondary,NG,1.1
+2017,Percentage of population age 3 and above who never attended formal education,,,Yoruba,,,,,,Secondary,NG,1.1
+2017,Percentage of population age 3 and above who never attended formal education,,,Other ethnicity,,,,,,Secondary,NG,1.0
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Abia,,,Secondary,NGAB01,1.1
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Adamawa,,,Secondary,NGAD02,0.88
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Akwa Ibom,,,Secondary,NGAK03,1.03
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Anambra,,,Secondary,NGAN04,1.11
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Bauchi,,,Secondary,NGBA05,0.76
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Bayelsa,,,Secondary,NGBY06,1.06
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Benue,,,Secondary,NGBE07,1.03
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Borno,,,Secondary,NGBO08,1.06
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Cross River,,,Secondary,NGXR09,1.13
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Delta,,,Secondary,NGDE10,0.98
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Ebonyi,,,Secondary,NGEB11,1.01
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Edo,,,Secondary,NGED12,1.12
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Ekiti,,,Secondary,NGEK13,1.01
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Enugu,,,Secondary,NGEN14,1.14
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Gombe,,,Secondary,NGGO15,0.98
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Imo,,,Secondary,NGIM16,1.09
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Jigawa,,,Secondary,NGJI17,0.8
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Kaduna,,,Secondary,NGKD18,0.86
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Kano,,,Secondary,NGKN19,0.87
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Katsina,,,Secondary,NGKT20,0.69
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Kebbi,,,Secondary,NGKE21,1.07
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Kogi,,,Secondary,NGKO22,1.01
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Kwara,,,Secondary,NGKW23,1.08
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Lagos,,,Secondary,NGLA24,1.04
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Nasarawa,,,Secondary,NGNA25,0.79
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Niger,,,Secondary,NGNI26,1.03
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Ogun,,,Secondary,NGOG27,1.03
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Ondo,,,Secondary,NGON28,1.05
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Osun,,,Secondary,NGOS29,1.02
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Oyo,,,Secondary,NGOY30,1.16
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Plateau,,,Secondary,NGPL31,0.83
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Rivers,,,Secondary,NGRI32,1.11
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Sokoto,,,Secondary,NGSO33,0.96
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Taraba,,,Secondary,NGTA34,0.95
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Yobe,,,Secondary,NGYO35,0.79
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Zamfara,,,Secondary,NGZA36,0.7
+2017,Percentage of population age 3 and above who never attended formal education,,,,,,Federal Capital Territory,,,Secondary,NGFC37,1.04
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,,Primary,NG,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,,Junior Secondary,NG,1.05
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,,Secondary,NG,1.11
+2021,Percentage of population age 3 and above who never attended formal education,,,,,North  Central,,,,Primary,NGNCZ06,1.01
+2021,Percentage of population age 3 and above who never attended formal education,,,,,North East,,,,Primary,NGNEZ05,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,,,,North West,,,,Primary,NGNWZ04,0.97
+2021,Percentage of population age 3 and above who never attended formal education,,,,,South East,,,,Primary,NGSEZ03,0.96
+2021,Percentage of population age 3 and above who never attended formal education,,,,,South South,,,,Primary,NGSSZ02,1.02
+2021,Percentage of population age 3 and above who never attended formal education,,,,,South West,,,,Primary,NGSWZ01,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,,,,North  Central,,,,Junior Secondary,NGNCZ06,1.09
+2021,Percentage of population age 3 and above who never attended formal education,,,,,North East,,,,Junior Secondary,NGNEZ05,1.05
+2021,Percentage of population age 3 and above who never attended formal education,,,,,North West,,,,Junior Secondary,NGNWZ04,1.1
+2021,Percentage of population age 3 and above who never attended formal education,,,,,South East,,,,Junior Secondary,NGSEZ03,0.93
+2021,Percentage of population age 3 and above who never attended formal education,,,,,South South,,,,Junior Secondary,NGSSZ02,1.05
+2021,Percentage of population age 3 and above who never attended formal education,,,,,South West,,,,Junior Secondary,NGSWZ01,1.08
+2021,Percentage of population age 3 and above who never attended formal education,,,,,North  Central,,,,Secondary,NGNCZ06,1.04
+2021,Percentage of population age 3 and above who never attended formal education,,,,,North East,,,,Secondary,NGNEZ05,1.04
+2021,Percentage of population age 3 and above who never attended formal education,,,,,North West,,,,Secondary,NGNWZ04,1.09
+2021,Percentage of population age 3 and above who never attended formal education,,,,,South East,,,,Secondary,NGSEZ03,1.09
+2021,Percentage of population age 3 and above who never attended formal education,,,,,South South,,,,Secondary,NGSSZ02,1.25
+2021,Percentage of population age 3 and above who never attended formal education,,,,,South West,,,,Secondary,NGSWZ01,1.02
+2021,Percentage of population age 3 and above who never attended formal education,,Urban,,,,,,,Primary,NG,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,Rural,,,,,,,Primary,NG,0.97
+2021,Percentage of population age 3 and above who never attended formal education,,Urban,,,,,,,Junior Secondary,NG,1.04
+2021,Percentage of population age 3 and above who never attended formal education,,Rural,,,,,,,Junior Secondary,NG,1.02
+2021,Percentage of population age 3 and above who never attended formal education,,Urban,,,,,,,Secondary,NG,1.12
+2021,Percentage of population age 3 and above who never attended formal education,,Rural,,,,,,,Secondary,NG,1.05
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,None,Primary,NG,0.96
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,Primary,Primary,NG,1.01
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,Junior secondary [B],Primary,NG,1.01
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,Senior secondary [C],Primary,NG,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,Higher/tertiary,Primary,NG,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,None,Junior Secondary,NG,1.04
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,Primary,Junior Secondary,NG,1.1
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,Junior secondary [B],Junior Secondary,NG,1.08
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,Senior secondary [C],Junior Secondary,NG,1.04
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,Higher/tertiary,Junior Secondary,NG,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,None,Secondary,NG,1.16
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,Primary,Secondary,NG,1.09
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,Junior secondary [B],Secondary,NG,1.06
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,Senior secondary [C],Secondary,NG,1.11
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,,,Higher/tertiary,Secondary,NG,1.07
+2021,Percentage of population age 3 and above who never attended formal education,,,,Poorest,,,,,Primary,NG,0.97
+2021,Percentage of population age 3 and above who never attended formal education,,,,Second,,,,,Primary,NG,0.97
+2021,Percentage of population age 3 and above who never attended formal education,,,,Middle,,,,,Primary,NG,1.01
+2021,Percentage of population age 3 and above who never attended formal education,,,,Fourth,,,,,Primary,NG,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,,Richest,,,,,Primary,NG,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,,Poorest,,,,,Junior Secondary,NG,1.04
+2021,Percentage of population age 3 and above who never attended formal education,,,,Second,,,,,Junior Secondary,NG,1.04
+2021,Percentage of population age 3 and above who never attended formal education,,,,Middle,,,,,Junior Secondary,NG,1.02
+2021,Percentage of population age 3 and above who never attended formal education,,,,Fourth,,,,,Junior Secondary,NG,1.03
+2021,Percentage of population age 3 and above who never attended formal education,,,,Richest,,,,,Junior Secondary,NG,1.03
+2021,Percentage of population age 3 and above who never attended formal education,,,,Poorest,,,,,Secondary,NG,0.96
+2021,Percentage of population age 3 and above who never attended formal education,,,,Second,,,,,Secondary,NG,1.08
+2021,Percentage of population age 3 and above who never attended formal education,,,,Middle,,,,,Secondary,NG,1.03
+2021,Percentage of population age 3 and above who never attended formal education,,,,Fourth,,,,,Secondary,NG,1.11
+2021,Percentage of population age 3 and above who never attended formal education,,,,Richest,,,,,Secondary,NG,1.1
+2021,Percentage of population age 3 and above who never attended formal education,,,Hausa,,,,,,Primary,NG,0.97
+2021,Percentage of population age 3 and above who never attended formal education,,,Igbo,,,,,,Primary,NG,0.97
+2021,Percentage of population age 3 and above who never attended formal education,,,Yoruba,,,,,,Primary,NG,1.01
+2021,Percentage of population age 3 and above who never attended formal education,,,Fulani,,,,,,Primary,NG,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,,Kanuri,,,,,,Primary,NG,1.07
+2021,Percentage of population age 3 and above who never attended formal education,,,Ijaw,,,,,,Primary,NG,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,Tiv,,,,,,Primary,NG,0.98
+2021,Percentage of population age 3 and above who never attended formal education,,,Ibibio,,,,,,Primary,NG,1.01
+2021,Percentage of population age 3 and above who never attended formal education,,,Edo,,,,,,Primary,NG,1.05
+2021,Percentage of population age 3 and above who never attended formal education,,,Other ethnicity,,,,,,Primary,NG,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,,Hausa,,,,,,Junior Secondary,NG,1.04
+2021,Percentage of population age 3 and above who never attended formal education,,,Igbo,,,,,,Junior Secondary,NG,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,Yoruba,,,,,,Junior Secondary,NG,1.07
+2021,Percentage of population age 3 and above who never attended formal education,,,Fulani,,,,,,Junior Secondary,NG,1.08
+2021,Percentage of population age 3 and above who never attended formal education,,,Kanuri,,,,,,Junior Secondary,NG,1.12
+2021,Percentage of population age 3 and above who never attended formal education,,,Ijaw,,,,,,Junior Secondary,NG,0.88
+2021,Percentage of population age 3 and above who never attended formal education,,,Tiv,,,,,,Junior Secondary,NG,1.02
+2021,Percentage of population age 3 and above who never attended formal education,,,Ibibio,,,,,,Junior Secondary,NG,1.2
+2021,Percentage of population age 3 and above who never attended formal education,,,Edo,,,,,,Junior Secondary,NG,1.05
+2021,Percentage of population age 3 and above who never attended formal education,,,Other ethnicity,,,,,,Junior Secondary,NG,1.07
+2021,Percentage of population age 3 and above who never attended formal education,,,Hausa,,,,,,Senior Secondary,NG,1.06
+2021,Percentage of population age 3 and above who never attended formal education,,,Igbo,,,,,,Senior Secondary,NG,1.13
+2021,Percentage of population age 3 and above who never attended formal education,,,Yoruba,,,,,,Senior Secondary,NG,1.02
+2021,Percentage of population age 3 and above who never attended formal education,,,Fulani,,,,,,Senior Secondary,NG,1.45
+2021,Percentage of population age 3 and above who never attended formal education,,,Kanuri,,,,,,Senior Secondary,NG,1.27
+2021,Percentage of population age 3 and above who never attended formal education,,,Ijaw,,,,,,Senior Secondary,NG,1.24
+2021,Percentage of population age 3 and above who never attended formal education,,,Tiv,,,,,,Senior Secondary,NG,1.23
+2021,Percentage of population age 3 and above who never attended formal education,,,Ibibio,,,,,,Senior Secondary,NG,1.2
+2021,Percentage of population age 3 and above who never attended formal education,,,Edo,,,,,,Senior Secondary,NG,1.1
+2021,Percentage of population age 3 and above who never attended formal education,,,Other ethnicity,,,,,,Senior Secondary,NG,1.07
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Abia,,,Primary,NGAB01,1.02
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Adamawa,,,Primary,NGAD02,0.94
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Akwa Ibom,,,Primary,NGAK03,1.01
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Anambra,,,Primary,NGAN04,0.79
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Bauchi,,,Primary,NGBA05,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Bayelsa,,,Primary,NGBY06,0.98
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Benue,,,Primary,NGBE07,0.95
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Borno,,,Primary,NGBO08,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Cross River,,,Primary,NGXR09,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Delta,,,Primary,NGDE10,1.02
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Ebonyi,,,Primary,NGEB11,1.14
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Edo,,,Primary,NGED12,1.02
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Ekiti,,,Primary,NGEK13,1.06
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Enugu,,,Primary,NGEN14,1.02
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Gombe,,,Primary,NGGO15,1.15
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Imo,,,Primary,NGIM16,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Jigawa,,,Primary,NGJI17,1.1
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kaduna,,,Primary,NGKD18,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kano,,,Primary,NGKN19,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Katsina,,,Primary,NGKT20,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kebbi,,,Primary,NGKE21,0.86
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kogi,,,Primary,NGKO22,1.05
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kwara,,,Primary,NGKW23,1.07
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Lagos,,,Primary,NGLA24,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Nasarawa,,,Primary,NGNA25,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Niger,,,Primary,NGNI26,0.95
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Ogun,,,Primary,NGOG27,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Ondo,,,Primary,NGON28,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Osun,,,Primary,NGOS29,1.02
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Oyo,,,Primary,NGOY30,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Plateau,,,Primary,NGPL31,1.02
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Rivers,,,Primary,NGRI32,1.05
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Sokoto,,,Primary,NGSO33,0.9
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Taraba,,,Primary,NGTA34,1.03
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Yobe,,,Primary,NGYO35,0.99
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Zamfara,,,Primary,NGZA36,0.77
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Federal Capital Territory,,,Primary,NGFC37,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Abia,,,Junior Secondary,NGAB01,0.91
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Adamawa,,,Junior Secondary,NGAD02,1.12
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Akwa Ibom,,,Junior Secondary,NGAK03,1.25
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Anambra,,,Junior Secondary,NGAN04,0.82
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Bauchi,,,Junior Secondary,NGBA05,0.8
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Bayelsa,,,Junior Secondary,NGBY06,0.97
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Benue,,,Junior Secondary,NGBE07,1.18
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Borno,,,Junior Secondary,NGBO08,1.19
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Cross River,,,Junior Secondary,NGXR09,0.93
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Delta,,,Junior Secondary,NGDE10,1.11
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Ebonyi,,,Junior Secondary,NGEB11,0.71
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Edo,,,Junior Secondary,NGED12,0.94
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Ekiti,,,Junior Secondary,NGEK13,1.05
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Enugu,,,Junior Secondary,NGEN14,0.92
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Gombe,,,Junior Secondary,NGGO15,1.03
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Imo,,,Junior Secondary,NGIM16,1.26
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Jigawa,,,Junior Secondary,NGJI17,0.82
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kaduna,,,Junior Secondary,NGKD18,1.36
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kano,,,Junior Secondary,NGKN19,1.12
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Katsina,,,Junior Secondary,NGKT20,0.93
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kebbi,,,Junior Secondary,NGKE21,1.32
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kogi,,,Junior Secondary,NGKO22,1.18
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kwara,,,Junior Secondary,NGKW23,1.18
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Lagos,,,Junior Secondary,NGLA24,0.97
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Nasarawa,,,Junior Secondary,NGNA25,0.93
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Niger,,,Junior Secondary,NGNI26,1.0
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Ogun,,,Junior Secondary,NGOG27,1.28
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Ondo,,,Junior Secondary,NGON28,1.05
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Osun,,,Junior Secondary,NGOS29,1.19
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Oyo,,,Junior Secondary,NGOY30,1.17
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Plateau,,,Junior Secondary,NGPL31,1.05
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Rivers,,,Junior Secondary,NGRI32,1.13
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Sokoto,,,Junior Secondary,NGSO33,1.29
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Taraba,,,Junior Secondary,NGTA34,0.96
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Yobe,,,Junior Secondary,NGYO35,1.06
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Zamfara,,,Junior Secondary,NGZA36,0.84
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Federal Capital Territory,,,Junior Secondary,NGFC37,1.05
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Abia,,,Secondary,NGAB01,0.86
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Adamawa,,,Secondary,NGAD02,0.86
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Akwa Ibom,,,Secondary,NGAK03,1.37
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Anambra,,,Secondary,NGAN04,1.37
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Bauchi,,,Secondary,NGBA05,1.72
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Bayelsa,,,Secondary,NGBY06,1.35
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Benue,,,Secondary,NGBE07,1.08
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Borno,,,Secondary,NGBO08,0.97
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Cross River,,,Secondary,NGXR09,1.11
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Delta,,,Secondary,NGDE10,1.41
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Ebonyi,,,Secondary,NGEB11,1.03
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Edo,,,Secondary,NGED12,1.25
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Ekiti,,,Secondary,NGEK13,1.11
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Enugu,,,Secondary,NGEN14,1.31
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Gombe,,,Secondary,NGGO15,1.08
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Imo,,,Secondary,NGIM16,0.89
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Jigawa,,,Secondary,NGJI17,0.92
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kaduna,,,Secondary,NGKD18,1.06
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kano,,,Secondary,NGKN19,1.2
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Katsina,,,Secondary,NGKT20,1.06
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kebbi,,,Secondary,NGKE21,1.13
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kogi,,,Secondary,NGKO22,1.03
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Kwara,,,Secondary,NGKW23,1.07
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Lagos,,,Secondary,NGLA24,0.94
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Nasarawa,,,Secondary,NGNA25,1.12
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Niger,,,Secondary,NGNI26,0.9
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Ogun,,,Secondary,NGOG27,0.84
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Ondo,,,Secondary,NGON28,1.13
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Osun,,,Secondary,NGOS29,0.9
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Oyo,,,Secondary,NGOY30,1.27
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Plateau,,,Secondary,NGPL31,1.18
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Rivers,,,Secondary,NGRI32,1.18
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Sokoto,,,Secondary,NGSO33,0.67
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Taraba,,,Secondary,NGTA34,1.05
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Yobe,,,Secondary,NGYO35,0.93
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Zamfara,,,Secondary,NGZA36,0.92
+2021,Percentage of population age 3 and above who never attended formal education,,,,,,Federal Capital Territory,,,Secondary,NGFC37,1.0

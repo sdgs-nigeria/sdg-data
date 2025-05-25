@@ -1,1 +1,6 @@
 From,To
+Measure,Sex
+Measure,Age group
+Measure,Geopolitical Zone
+Measure,State
+Sex,Sector

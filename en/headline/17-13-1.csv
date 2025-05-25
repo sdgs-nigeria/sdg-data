@@ -1,1 +1,59 @@
-Year,Value
+Year,Value,Units,Series,Unit multiplier
+2016,-1.58,Percentage (%),GDP Growth rate,
+2017,0.82,Percentage (%),GDP Growth rate,
+2018,1.91,Percentage (%),GDP Growth rate,
+2019,2.27,Percentage (%),GDP Growth rate,
+2020,-1.92,Percentage (%),GDP Growth rate,
+2021,3.4,Percentage (%),GDP Growth rate,
+2022,3.1,Percentage (%),GDP Growth rate,
+2023,2.74,Percentage (%),GDP Growth rate,
+2016,-2.61,Percentage (%),Fiscal deficits,
+2017,-3.14,Percentage (%),Fiscal deficits,
+2018,-2.81,Percentage (%),Fiscal deficits,
+2019,-3.35,Percentage (%),Fiscal deficits,
+2020,-4.08,Percentage (%),Fiscal deficits,
+2021,-4.04,Percentage (%),Fiscal deficits,
+2022,-4.61,Percentage (%),Fiscal deficits,
+2023,-5.28,Percentage (%),Fiscal deficits,
+2016,18.55,Percentage (%),Inflation Rate,
+2017,15.37,Percentage (%),Inflation Rate,
+2018,11.4,Percentage (%),Inflation Rate,
+2019,11.98,Percentage (%),Inflation Rate,
+2020,15.75,Percentage (%),Inflation Rate,
+2021,15.63,Percentage (%),Inflation Rate,
+2022,21.34,Percentage (%),Inflation Rate,
+2023,28.92,Percentage (%),Inflation Rate,
+2016,14.0,Percentage (%),Monetary Policy Rate,
+2017,14.0,Percentage (%),Monetary Policy Rate,
+2018,14.0,Percentage (%),Monetary Policy Rate,
+2019,13.5,Percentage (%),Monetary Policy Rate,
+2020,11.5,Percentage (%),Monetary Policy Rate,
+2021,11.5,Percentage (%),Monetary Policy Rate,
+2022,16.5,Percentage (%),Monetary Policy Rate,
+2023,18.75,Percentage (%),Monetary Policy Rate,
+2016,24259.0,Naira,Money Supply,Billion
+2017,28604.47,Naira,Money Supply,Billion
+2018,29774.43,Naira,Money Supply,Billion
+2019,34257.9,Naira,Money Supply,Billion
+2020,36038.01,Naira,Money Supply,Billion
+2021,40370.41,Naira,Money Supply,Billion
+2022,48461.42,Naira,Money Supply,Billion
+2023,63512.4,Naira,Money Supply,Billion
+2016,17344988.72,Naira,Total Trade,Million
+2017,23160997.11,Naira,Total Trade,Million
+2018,31697167.33,Naira,Total Trade,Million
+2019,36152109.18,Naira,Total Trade,Million
+2020,32420710.96,Naira,Total Trade,Million
+2021,39751753.37,Naira,Total Trade,Million
+2022,52387302.27,Naira,Total Trade,Million
+2023,66825457.98,Naira,Total Trade,Million
+2016,1044.02,USD,Foreign Direct Investment,Million
+2017,981.7549505,USD,Foreign Direct Investment,Million
+2018,1194.66909,USD,Foreign Direct Investment,Million
+2019,934.3384711,USD,Foreign Direct Investment,Million
+2020,1027.678235,USD,Foreign Direct Investment,Million
+2021,698.7788525,USD,Foreign Direct Investment,Million
+2022,468.0763938,USD,Foreign Direct Investment,Million
+2023,377.3760608,USD,Foreign Direct Investment,Million
+2022,5.3,Percentage (%),Unemployment Rate,
+2023,5.0,Percentage (%),Unemployment Rate,
