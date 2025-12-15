@@ -1,82 +1,83 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-1,"Sector, Age group, Educational level",3
 #1-2-1,"Sector, State",2
-#1-2-2,"Sector, State, Measure, Geopolitical Zone",4
-#1-3-1,"Gender, Sector, Ethnicity, Wealth Index Quintile, State, Geopolitical Zone, Education Level",7
-#1-4-1,"Sector, Wealth Index Quintile, Geopolitical zone, State, Access to Basic Services, Education Status",6
+#1-2-2,"Sector, Geopolitical Zone, State, Measure",4
+#1-3-1,"Sector, Wealth Index Quintile, Geopolitical Zone, Education Level, Ethnicity, State, Gender",7
+#1-4-1,"Sector, Wealth Index Quintile, State, Geopolitical zone, Access to Basic Services, Education Status",6
 #1-4-2,"Sector, Geopolitical zone, Sex, Tenure rights",4
 #1-5-1,"State, Category of disaster effect",2
-#10-3-1,"Gender, Sector, Education level, Ethnicity, Wealth Index Quintile, Geopolitical zone, State, Age group",8
-#10-5-1,"Period, Financial soundness indicator",2
+#10-3-1,"Sector, Wealth Index Quintile, Ethnicity, State, Age group, Gender, Geopolitical zone, Education level",8
+#10-5-1,Financial soundness indicator,1
 #11-2-1,Cities,1
 #11-5-1,"State, Category of disaster effect",2
-#11-7-2,"Sector, Education level, Wealth Index Quintile, Geopolitical zone, State, Age group",6
+#11-7-2,"Sector, Wealth Index Quintile, State, Age group, Geopolitical zone, Education level",6
 #13-a-1,Unt multiplier,1
 #16-1-1,State,1
 #16-1-2,Category of disaster effect,1
 #16-1-3,"Sector, State, Age group",3
-#16-1-4,"Gender, Sector, Education level, Ethnicity, Wealth Index Quintile, Geopolitical zone, State, Age group",8
-#16-2-1,"Gender, Sector, Ethnicity, Wealth Index Quintile, Geopolitical zone, State, Age group",7
-#16-2-2,"Gender, Age group",2
-#16-2-3,"Age group, Marital status",2
+#16-1-4,"Sector, Wealth Index Quintile, Ethnicity, State, Age group, Gender, Geopolitical zone, Education level",8
+#16-2-1,"Sector, Wealth Index Quintile, Ethnicity, State, Age group, Gender, Geopolitical zone",7
+#16-2-2,"Age group, Gender",2
+#16-2-3,"Age group, Gender",2
 #16-3-1,Age group,1
 #16-3-2,Gender,1
 #16-3-3,Help source,1
 #16-4-2,Arms class,1
-#16-5-1,"Sector, Geopolitical zone, State",3
+#16-5-1,"Sector, State, Geopolitical zone",3
 #16-7-1,"Gender, Positions",2
 #16-7-2,"Age group, Type of decision",2
-#16-9-1,"Gender, Sector, Wealth Index Quintile, Geopolitical zone, State, Age group",6
-#16-b-1,"Gender, Sector, Discrimination, Education level, Ethnicity, Wealth Index Quintile, Geopolitical zone, State, Age group",9
-#17-8-1,"Gender, Sector, Ethnicity, Wealth Index Quintile, Geopolitical zone, State, Age group",7
-#2-1-2,"Sector, Ethnicity, Wealth Index Quintile, State, Geopolitical Zone, Severity, Education Level",7
-#2-2-1,"Sector, Geopolitical zone, State, Age group, Measure, Sex",6
-#2-2-2,"Sector, State, Age group, Measure, Sex, Geopolitical Zone",6
-#2-2-3,"Sector, Wealth Index Quintile, State, Age group, Geopolitical Zone, Education Level, Haemoglobin level, Maternity status",8
+#16-9-1,"Sector, Wealth Index Quintile, State, Age group, Gender, Geopolitical zone",6
+#16-b-1,"Sector, Wealth Index Quintile, Ethnicity, State, Age group, Gender, Geopolitical zone, Education level, Discrimination",9
+#17-8-1,"Sector, Wealth Index Quintile, Ethnicity, State, Age group, Gender, Geopolitical zone",7
+#2-1-2,"Sector, Wealth Index Quintile, Geopolitical Zone, Education Level, Ethnicity, State, Severity",7
+#2-2-1,"Sector, State, Age group, Measure, Geopolitical zone, Sex",6
+#2-2-2,"Sector, Geopolitical Zone, State, Age group, Measure, Sex",6
+#2-2-3,"Sector, Wealth Index Quintile, Geopolitical Zone, Education Level, State, Age group, Haemoglobin level, Maternity status",8
 #2-3-1,"Sector, Measure, Geographical zone",3
 #3-1-1,Age group,1
-#3-1-2,"Sector, Ethnicity, Wealth Index Quintile, Geopolitical Zone, Education Level, Age at most recent live birth, Place of delivery",7
-#3-2-1,"Gender, Sector, Ethnicity, Wealth Index Quintile, State, Geopolitical Zone, Education Level",7
-#3-2-2,"Gender, Sector, Ethnicity, Wealth Index Quintile, State, Geopolitical Zone, Education Level",7
-#3-3-1,"Gender, Age group",2
-#3-3-4,"Gender, Age group, Circumcision status, Number of sexual partners",4
+#3-1-2,"Sector, Age at most recent live birth, Wealth Index Quintile, Geopolitical Zone, Education Level, Ethnicity, Place of delivery",7
+#3-2-1,"Sector, Wealth Index Quintile, Geopolitical Zone, Education Level, Ethnicity, State, Gender",7
+#3-2-2,"Sector, Wealth Index Quintile, Geopolitical Zone, Education Level, Ethnicity, State, Gender",7
+#3-3-1,"Age group, Gender",2
+#3-3-4,"Age group, Gender, Circumcision status, Number of sexual partners",4
 #3-4-2,Gender,1
 #3-5-1,Treatment interventions,1
 #3-6-1,"State, Measure",2
-#3-7-1,"Sector, Ethnicity, Wealth Index Quintile, State, Age group, Geopolitical Zone, Education Level",7
-#3-7-2,"Sector, Ethnicity, Wealth Index Quintile, State, Geopolitical Zone, Education Level",6
-#3-8-1,"Sector, State, Geopolitical Zone, Delivery coverage, Health service",5
-#3-8-2,"Sector, State, Geopolitical Zone",3
+#3-7-1,"Sector, Wealth Index Quintile, Geopolitical Zone, Education Level, Ethnicity, State, Age group",7
+#3-7-2,"Sector, Wealth Index Quintile, Geopolitical Zone, Education Level, Ethnicity, State",6
+#3-8-1,"Sector, Geopolitical Zone, State, Delivery coverage, Health service",5
+#3-8-2,"Sector, Geopolitical Zone, State",3
 #3-9-1,Gender,1
 #3-9-2,Gender,1
-#3-a-1,"Gender, Sector, Wealth Index Quintile, Age group, Geopolitical Zone, Education Level, Tobacco type",7
-#3-b-1,"Gender, Sector, Ethnicity, Wealth Index Quintile, State, Geopolitical Zone, Education Level",7
-#3-b-3,"Geopolitical zone, State, Facility Type",3
+#3-a-1,"Sector, Wealth Index Quintile, Geopolitical Zone, Education Level, Age group, Gender, Tobacco type",7
+#3-b-1,"Sector, Wealth Index Quintile, Geopolitical Zone, Education Level, Ethnicity, State, Gender",7
+#3-b-3,"State, Geopolitical zone, Facility Type",3
+#3-c-1,"State, Gender, Category",3
 #4-1-1,"Gender, Grade",2
-#4-1-2,"Gender, Sector, Ethnicity, Wealth Index Quintile, Geopolitical zone, State, Education Level",7
-#4-2-1,"Gender, Sector, Ethnicity, Wealth Index Quintile, Geopolitical zone, State",6
-#4-2-2,"Gender, Sector, Ethnicity, Wealth Index Quintile, Geopolitical zone, State",6
-#4-3-1,"Gender, Sector, Ethnicity, Wealth Index Quintile, Geopolitical zone, State, Age group",7
-#4-4-1,"Gender, Sector, Ethnicity, Wealth Index Quintile, Geopolitical zone, State, Age group, ICT skill",8
-#4-5-1,"Sector, Ethnicity, Wealth Index Quintile, Geopolitical zone, State, School type, Mother's education level",7
-#4-6-1,"Gender, Sector, Ethnicity, Wealth Index Quintile, Geopolitical zone, State",6
-#4-a-1,"Sector, Geopolitical zone, State, School type, Category of school, Type of service",6
+#4-1-2,"Sector, Wealth Index Quintile, Education Level, Ethnicity, State, Gender, Geopolitical zone",7
+#4-2-1,"Sector, Wealth Index Quintile, Ethnicity, State, Gender, Geopolitical zone",6
+#4-2-2,"Sector, Wealth Index Quintile, Ethnicity, State, Gender, Geopolitical zone",6
+#4-3-1,"Sector, Wealth Index Quintile, Ethnicity, State, Age group, Gender, Geopolitical zone",7
+#4-4-1,"Sector, Wealth Index Quintile, Ethnicity, State, Age group, Gender, Geopolitical zone, ICT skill",8
+#4-5-1,"Sector, Wealth Index Quintile, Ethnicity, State, Geopolitical zone, School type, Mother's education level",7
+#4-6-1,"Sector, Wealth Index Quintile, Ethnicity, State, Gender, Geopolitical zone",6
+#4-a-1,"Sector, State, Geopolitical zone, Category of school, School type, Type of service",6
 #4-c-1,"Gender, School type",2
-#5-2-1,"Sector, Education level, Wealth Index Quintile, Geopolitical zone, State, Age group, Form of violence",7
-#5-2-2,"Sector, Education level, Wealth Index Quintile, Geopolitical zone, State, Age group, Marital status, Religion",8
-#5-3-2,"Sector, Education level, Ethnicity, Wealth Index Quintile, Geopolitical zone, State, Age group",7
-#5-6-1,"Sector, Education level, Wealth Index Quintile, Geopolitical zone, State",5
-#5-a-1,"Sector, Education level, Wealth Index Quintile, Geopolitical zone, State, Age group",6
-#5-b-1,"Gender, Sector, Ethnicity, Wealth Index Quintile, Geopolitical zone, State",6
-#6-1-1,"Sector, Wealth Index Quintile, Geopolitical zone, State",4
-#6-2-1,"Sector, Wealth Index Quintile, Geopolitical zone, State",4
-#6-b-1,"Sector, Wealth Index Quintile, Geopolitical zone, State, Managed by",5
+#5-2-1,"Sector, Wealth Index Quintile, State, Age group, Geopolitical zone, Education level, Form of violence",7
+#5-2-2,"Sector, Wealth Index Quintile, State, Age group, Geopolitical zone, Education level, Religion, Marital status",8
+#5-3-2,"Sector, Wealth Index Quintile, Ethnicity, State, Age group, Geopolitical zone, Education level",7
+#5-6-1,"Sector, Wealth Index Quintile, State, Geopolitical zone, Education level",5
+#5-a-1,"Sector, Wealth Index Quintile, State, Age group, Geopolitical zone, Education level",6
+#5-b-1,"Sector, Wealth Index Quintile, Ethnicity, State, Gender, Geopolitical zone",6
+#6-1-1,"Sector, Wealth Index Quintile, State, Geopolitical zone",4
+#6-2-1,"Sector, Wealth Index Quintile, State, Geopolitical zone",4
+#6-b-1,"Sector, Wealth Index Quintile, State, Geopolitical zone, Managed by",5
 #7-1-1,"Sector, State",2
-#7-1-2,"Sector, Education level, Ethnicity, Wealth Index Quintile, Geopolitical zone, State",6
-#8-10-2,"Gender, Sector, Ethnicity, Wealth Index Quintile, Geopolitical zone, State, Age group",7
-#8-3-1,"Gender, Sector, Period",3
-#8-5-2,"Gender, Sector, Age group, Period",4
-#8-6-1,"Gender, State, Period",3
-#8-7-1,"Gender, Sector, Geopolitical zone, State",4
-#9-1-1,"Geopolitical zone, State, Distance",3
+#7-1-2,"Sector, Wealth Index Quintile, Ethnicity, State, Geopolitical zone, Education level",6
+#8-10-2,"Sector, Wealth Index Quintile, Ethnicity, State, Age group, Gender, Geopolitical zone",7
+#8-3-1,"Sector, Gender, Period",3
+#8-5-2,"Sector, Age group, Gender, Period",4
+#8-6-1,"State, Gender, Period",3
+#8-7-1,"Sector, State, Gender, Geopolitical zone",4
+#9-1-1,"State, Geopolitical zone, Distance",3
 #9-c-1,Sector,1

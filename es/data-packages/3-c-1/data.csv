@@ -1,6 +1,937 @@
-Year,Series,Value
-2016,Health worker density and distribution,4.43
-2018,Health worker density and distribution,3.76
-2019,Health worker density and distribution,3.67
-2021,Health worker density and distribution,3.95
-2022,Health worker density and distribution,3.94
+Year,Series,Category,Gender,State,GeoCode,Value
+2021,Health worker density and distribution,Doctors,Male,Abia,NGAB01,504
+2021,Health worker density and distribution,Doctors,Male,Adamawa,NGAD02,226
+2021,Health worker density and distribution,Doctors,Male,Akwa Ibom,NGAK03,507
+2021,Health worker density and distribution,Doctors,Male,Anambra,NGAN04,734
+2021,Health worker density and distribution,Doctors,Male,Bauchi,NGBA05,327
+2021,Health worker density and distribution,Doctors,Male,Bayelsa,NGBY06,425
+2021,Health worker density and distribution,Doctors,Male,Benue,NGBE07,399
+2021,Health worker density and distribution,Doctors,Male,Borno,NGBO08,504
+2021,Health worker density and distribution,Doctors,Male,Cross River,NGXR09,375
+2021,Health worker density and distribution,Doctors,Male,Delta,NGDE10,819
+2021,Health worker density and distribution,Doctors,Male,Ebonyi,NGEB11,483
+2021,Health worker density and distribution,Doctors,Male,Edo,NGED12,1095
+2021,Health worker density and distribution,Doctors,Male,Ekiti,NGEK13,370
+2021,Health worker density and distribution,Doctors,Male,Enugu,NGEN14,836
+2021,Health worker density and distribution,Doctors,Male,Gombe,NGGO15,370
+2021,Health worker density and distribution,Doctors,Male,Imo,NGIM16,477
+2021,Health worker density and distribution,Doctors,Male,Jigawa,NGJI17,192
+2021,Health worker density and distribution,Doctors,Male,Kaduna,NGKD18,812
+2021,Health worker density and distribution,Doctors,Male,Kano,NGKN19,880
+2021,Health worker density and distribution,Doctors,Male,Katsina,NGKT20,402
+2021,Health worker density and distribution,Doctors,Male,Kebbi,NGKE21,196
+2021,Health worker density and distribution,Doctors,Male,Kogi,NGKO22,256
+2021,Health worker density and distribution,Doctors,Male,Kwara,NGKW23,501
+2021,Health worker density and distribution,Doctors,Male,Lagos,NGLA24,2992
+2021,Health worker density and distribution,Doctors,Male,Nasarawa,NGNA25,340
+2021,Health worker density and distribution,Doctors,Male,Niger,NGNI26,275
+2021,Health worker density and distribution,Doctors,Male,Ogun,NGOG27,676
+2021,Health worker density and distribution,Doctors,Male,Ondo,NGON28,393
+2021,Health worker density and distribution,Doctors,Male,Osun,NGOS29,599
+2021,Health worker density and distribution,Doctors,Male,Oyo,NGOY30,992
+2021,Health worker density and distribution,Doctors,Male,Plateau,NGPL31,606
+2021,Health worker density and distribution,Doctors,Male,Rivers,NGRI32,1022
+2021,Health worker density and distribution,Doctors,Male,Sokoto,NGSO33,322
+2021,Health worker density and distribution,Doctors,Male,Taraba,NGTA34,136
+2021,Health worker density and distribution,Doctors,Male,Yobe,NGYO35,225
+2021,Health worker density and distribution,Doctors,Male,Zamfara,NGZA36,216
+2021,Health worker density and distribution,Doctors,Male,Federal Capital Territory,NGFC37,2265
+2021,Health worker density and distribution,Doctors,Male,Not applicable,NG,2817
+2021,Health worker density and distribution,Doctors,Male,,NG,25566
+2021,Health worker density and distribution,Doctors,Female,Abia,NGAB01,240
+2021,Health worker density and distribution,Doctors,Female,Adamawa,NGAD02,52
+2021,Health worker density and distribution,Doctors,Female,Akwa Ibom,NGAK03,298
+2021,Health worker density and distribution,Doctors,Female,Anambra,NGAN04,334
+2021,Health worker density and distribution,Doctors,Female,Bauchi,NGBA05,81
+2021,Health worker density and distribution,Doctors,Female,Bayelsa,NGBY06,199
+2021,Health worker density and distribution,Doctors,Female,Benue,NGBE07,88
+2021,Health worker density and distribution,Doctors,Female,Borno,NGBO08,237
+2021,Health worker density and distribution,Doctors,Female,Cross River,NGXR09,187
+2021,Health worker density and distribution,Doctors,Female,Delta,NGDE10,388
+2021,Health worker density and distribution,Doctors,Female,Ebonyi,NGEB11,192
+2021,Health worker density and distribution,Doctors,Female,Edo,NGED12,495
+2021,Health worker density and distribution,Doctors,Female,Ekiti,NGEK13,141
+2021,Health worker density and distribution,Doctors,Female,Enugu,NGEN14,486
+2021,Health worker density and distribution,Doctors,Female,Gombe,NGGO15,95
+2021,Health worker density and distribution,Doctors,Female,Imo,NGIM16,290
+2021,Health worker density and distribution,Doctors,Female,Jigawa,NGJI17,39
+2021,Health worker density and distribution,Doctors,Female,Kaduna,NGKD18,413
+2021,Health worker density and distribution,Doctors,Female,Kano,NGKN19,556
+2021,Health worker density and distribution,Doctors,Female,Katsina,NGKT20,112
+2021,Health worker density and distribution,Doctors,Female,Kebbi,NGKE21,47
+2021,Health worker density and distribution,Doctors,Female,Kogi,NGKO22,71
+2021,Health worker density and distribution,Doctors,Female,Kwara,NGKW23,278
+2021,Health worker density and distribution,Doctors,Female,Lagos,NGLA24,2538
+2021,Health worker density and distribution,Doctors,Female,Nasarawa,NGNA25,125
+2021,Health worker density and distribution,Doctors,Female,Niger,NGNI26,101
+2021,Health worker density and distribution,Doctors,Female,Ogun,NGOG27,416
+2021,Health worker density and distribution,Doctors,Female,Ondo,NGON28,166
+2021,Health worker density and distribution,Doctors,Female,Osun,NGOS29,296
+2021,Health worker density and distribution,Doctors,Female,Oyo,NGOY30,647
+2021,Health worker density and distribution,Doctors,Female,Plateau,NGPL31,308
+2021,Health worker density and distribution,Doctors,Female,Rivers,NGRI32,835
+2021,Health worker density and distribution,Doctors,Female,Sokoto,NGSO33,92
+2021,Health worker density and distribution,Doctors,Female,Taraba,NGTA34,28
+2021,Health worker density and distribution,Doctors,Female,Yobe,NGYO35,52
+2021,Health worker density and distribution,Doctors,Female,Zamfara,NGZA36,31
+2021,Health worker density and distribution,Doctors,Female,Federal Capital Territory,NGFC37,2216
+2021,Health worker density and distribution,Doctors,Female,Not applicable,NG,1833
+2021,Health worker density and distribution,Doctors,Female,,NG,15003
+2021,Health worker density and distribution,Doctors,,Abia,NGAB01,744
+2021,Health worker density and distribution,Doctors,,Adamawa,NGAD02,278
+2021,Health worker density and distribution,Doctors,,Akwa Ibom,NGAK03,805
+2021,Health worker density and distribution,Doctors,,Anambra,NGAN04,1068
+2021,Health worker density and distribution,Doctors,,Bauchi,NGBA05,408
+2021,Health worker density and distribution,Doctors,,Bayelsa,NGBY06,624
+2021,Health worker density and distribution,Doctors,,Benue,NGBE07,487
+2021,Health worker density and distribution,Doctors,,Borno,NGBO08,741
+2021,Health worker density and distribution,Doctors,,Cross River,NGXR09,562
+2021,Health worker density and distribution,Doctors,,Delta,NGDE10,1207
+2021,Health worker density and distribution,Doctors,,Ebonyi,NGEB11,675
+2021,Health worker density and distribution,Doctors,,Edo,NGED12,1590
+2021,Health worker density and distribution,Doctors,,Ekiti,NGEK13,511
+2021,Health worker density and distribution,Doctors,,Enugu,NGEN14,1322
+2021,Health worker density and distribution,Doctors,,Gombe,NGGO15,465
+2021,Health worker density and distribution,Doctors,,Imo,NGIM16,767
+2021,Health worker density and distribution,Doctors,,Jigawa,NGJI17,231
+2021,Health worker density and distribution,Doctors,,Kaduna,NGKD18,1225
+2021,Health worker density and distribution,Doctors,,Kano,NGKN19,1436
+2021,Health worker density and distribution,Doctors,,Katsina,NGKT20,514
+2021,Health worker density and distribution,Doctors,,Kebbi,NGKE21,243
+2021,Health worker density and distribution,Doctors,,Kogi,NGKO22,327
+2021,Health worker density and distribution,Doctors,,Kwara,NGKW23,779
+2021,Health worker density and distribution,Doctors,,Lagos,NGLA24,5530
+2021,Health worker density and distribution,Doctors,,Nasarawa,NGNA25,465
+2021,Health worker density and distribution,Doctors,,Niger,NGNI26,376
+2021,Health worker density and distribution,Doctors,,Ogun,NGOG27,1092
+2021,Health worker density and distribution,Doctors,,Ondo,NGON28,559
+2021,Health worker density and distribution,Doctors,,Osun,NGOS29,895
+2021,Health worker density and distribution,Doctors,,Oyo,NGOY30,1639
+2021,Health worker density and distribution,Doctors,,Plateau,NGPL31,914
+2021,Health worker density and distribution,Doctors,,Rivers,NGRI32,1857
+2021,Health worker density and distribution,Doctors,,Sokoto,NGSO33,414
+2021,Health worker density and distribution,Doctors,,Taraba,NGTA34,164
+2021,Health worker density and distribution,Doctors,,Yobe,NGYO35,277
+2021,Health worker density and distribution,Doctors,,Zamfara,NGZA36,247
+2021,Health worker density and distribution,Doctors,,Federal Capital Territory,NGFC37,4481
+2021,Health worker density and distribution,Doctors,,Not applicable,NG,4650
+2021,Health worker density and distribution,Doctors,,,NG,40569
+2021,Health worker density and distribution,Dentists,Male,Abia,NGAB01,7
+2021,Health worker density and distribution,Dentists,Male,Adamawa,NGAD02,10
+2021,Health worker density and distribution,Dentists,Male,Akwa Ibom,NGAK03,8
+2021,Health worker density and distribution,Dentists,Male,Anambra,NGAN04,8
+2021,Health worker density and distribution,Dentists,Male,Bauchi,NGBA05,16
+2021,Health worker density and distribution,Dentists,Male,Bayelsa,NGBY06,10
+2021,Health worker density and distribution,Dentists,Male,Benue,NGBE07,12
+2021,Health worker density and distribution,Dentists,Male,Borno,NGBO08,25
+2021,Health worker density and distribution,Dentists,Male,Cross River,NGXR09,10
+2021,Health worker density and distribution,Dentists,Male,Delta,NGDE10,35
+2021,Health worker density and distribution,Dentists,Male,Ebonyi,NGEB11,9
+2021,Health worker density and distribution,Dentists,Male,Edo,NGED12,91
+2021,Health worker density and distribution,Dentists,Male,Ekiti,NGEK13,15
+2021,Health worker density and distribution,Dentists,Male,Enugu,NGEN14,39
+2021,Health worker density and distribution,Dentists,Male,Gombe,NGGO15,15
+2021,Health worker density and distribution,Dentists,Male,Imo,NGIM16,8
+2021,Health worker density and distribution,Dentists,Male,Jigawa,NGJI17,8
+2021,Health worker density and distribution,Dentists,Male,Kaduna,NGKD18,30
+2021,Health worker density and distribution,Dentists,Male,Kano,NGKN19,71
+2021,Health worker density and distribution,Dentists,Male,Katsina,NGKT20,7
+2021,Health worker density and distribution,Dentists,Male,Kebbi,NGKE21,13
+2021,Health worker density and distribution,Dentists,Male,Kogi,NGKO22,9
+2021,Health worker density and distribution,Dentists,Male,Kwara,NGKW23,4
+2021,Health worker density and distribution,Dentists,Male,Lagos,NGLA24,262
+2021,Health worker density and distribution,Dentists,Male,Nasarawa,NGNA25,11
+2021,Health worker density and distribution,Dentists,Male,Niger,NGNI26,8
+2021,Health worker density and distribution,Dentists,Male,Ogun,NGOG27,19
+2021,Health worker density and distribution,Dentists,Male,Ondo,NGON28,28
+2021,Health worker density and distribution,Dentists,Male,Osun,NGOS29,67
+2021,Health worker density and distribution,Dentists,Male,Oyo,NGOY30,84
+2021,Health worker density and distribution,Dentists,Male,Plateau,NGPL31,20
+2021,Health worker density and distribution,Dentists,Male,Rivers,NGRI32,69
+2021,Health worker density and distribution,Dentists,Male,Sokoto,NGSO33,19
+2021,Health worker density and distribution,Dentists,Male,Taraba,NGTA34,7
+2021,Health worker density and distribution,Dentists,Male,Yobe,NGYO35,15
+2021,Health worker density and distribution,Dentists,Male,Zamfara,NGZA36,10
+2021,Health worker density and distribution,Dentists,Male,Federal Capital Territory,NGFC37,115
+2021,Health worker density and distribution,Dentists,Male,Not applicable,NG,95
+2021,Health worker density and distribution,Dentists,Male,,NG,1289
+2021,Health worker density and distribution,Dentists,Female,Abia,NGAB01,0
+2021,Health worker density and distribution,Dentists,Female,Adamawa,NGAD02,2
+2021,Health worker density and distribution,Dentists,Female,Akwa Ibom,NGAK03,4
+2021,Health worker density and distribution,Dentists,Female,Anambra,NGAN04,3
+2021,Health worker density and distribution,Dentists,Female,Bauchi,NGBA05,7
+2021,Health worker density and distribution,Dentists,Female,Bayelsa,NGBY06,3
+2021,Health worker density and distribution,Dentists,Female,Benue,NGBE07,0
+2021,Health worker density and distribution,Dentists,Female,Borno,NGBO08,27
+2021,Health worker density and distribution,Dentists,Female,Cross River,NGXR09,2
+2021,Health worker density and distribution,Dentists,Female,Delta,NGDE10,13
+2021,Health worker density and distribution,Dentists,Female,Ebonyi,NGEB11,2
+2021,Health worker density and distribution,Dentists,Female,Edo,NGED12,49
+2021,Health worker density and distribution,Dentists,Female,Ekiti,NGEK13,5
+2021,Health worker density and distribution,Dentists,Female,Enugu,NGEN14,25
+2021,Health worker density and distribution,Dentists,Female,Gombe,NGGO15,8
+2021,Health worker density and distribution,Dentists,Female,Imo,NGIM16,1
+2021,Health worker density and distribution,Dentists,Female,Jigawa,NGJI17,0
+2021,Health worker density and distribution,Dentists,Female,Kaduna,NGKD18,13
+2021,Health worker density and distribution,Dentists,Female,Kano,NGKN19,33
+2021,Health worker density and distribution,Dentists,Female,Katsina,NGKT20,6
+2021,Health worker density and distribution,Dentists,Female,Kebbi,NGKE21,3
+2021,Health worker density and distribution,Dentists,Female,Kogi,NGKO22,1
+2021,Health worker density and distribution,Dentists,Female,Kwara,NGKW23,3
+2021,Health worker density and distribution,Dentists,Female,Lagos,NGLA24,313
+2021,Health worker density and distribution,Dentists,Female,Nasarawa,NGNA25,5
+2021,Health worker density and distribution,Dentists,Female,Niger,NGNI26,3
+2021,Health worker density and distribution,Dentists,Female,Ogun,NGOG27,11
+2021,Health worker density and distribution,Dentists,Female,Ondo,NGON28,8
+2021,Health worker density and distribution,Dentists,Female,Osun,NGOS29,32
+2021,Health worker density and distribution,Dentists,Female,Oyo,NGOY30,108
+2021,Health worker density and distribution,Dentists,Female,Plateau,NGPL31,2
+2021,Health worker density and distribution,Dentists,Female,Rivers,NGRI32,52
+2021,Health worker density and distribution,Dentists,Female,Sokoto,NGSO33,1
+2021,Health worker density and distribution,Dentists,Female,Taraba,NGTA34,0
+2021,Health worker density and distribution,Dentists,Female,Yobe,NGYO35,3
+2021,Health worker density and distribution,Dentists,Female,Zamfara,NGZA36,1
+2021,Health worker density and distribution,Dentists,Female,Federal Capital Territory,NGFC37,85
+2021,Health worker density and distribution,Dentists,Female,Not applicable,NG,115
+2021,Health worker density and distribution,Dentists,Female,,NG,949
+2021,Health worker density and distribution,Dentists,,Abia,NGAB01,7
+2021,Health worker density and distribution,Dentists,,Adamawa,NGAD02,12
+2021,Health worker density and distribution,Dentists,,Akwa Ibom,NGAK03,12
+2021,Health worker density and distribution,Dentists,,Anambra,NGAN04,1
+2021,Health worker density and distribution,Dentists,,Bauchi,NGBA05,23
+2021,Health worker density and distribution,Dentists,,Bayelsa,NGBY06,13
+2021,Health worker density and distribution,Dentists,,Benue,NGBE07,12
+2021,Health worker density and distribution,Dentists,,Borno,NGBO08,52
+2021,Health worker density and distribution,Dentists,,Cross River,NGXR09,12
+2021,Health worker density and distribution,Dentists,,Delta,NGDE10,48
+2021,Health worker density and distribution,Dentists,,Ebonyi,NGEB11,11
+2021,Health worker density and distribution,Dentists,,Edo,NGED12,140
+2021,Health worker density and distribution,Dentists,,Ekiti,NGEK13,20
+2021,Health worker density and distribution,Dentists,,Enugu,NGEN14,64
+2021,Health worker density and distribution,Dentists,,Gombe,NGGO15,23
+2021,Health worker density and distribution,Dentists,,Imo,NGIM16,9
+2021,Health worker density and distribution,Dentists,,Jigawa,NGJI17,8
+2021,Health worker density and distribution,Dentists,,Kaduna,NGKD18,43
+2021,Health worker density and distribution,Dentists,,Kano,NGKN19,104
+2021,Health worker density and distribution,Dentists,,Katsina,NGKT20,13
+2021,Health worker density and distribution,Dentists,,Kebbi,NGKE21,16
+2021,Health worker density and distribution,Dentists,,Kogi,NGKO22,10
+2021,Health worker density and distribution,Dentists,,Kwara,NGKW23,7
+2021,Health worker density and distribution,Dentists,,Lagos,NGLA24,575
+2021,Health worker density and distribution,Dentists,,Nasarawa,NGNA25,16
+2021,Health worker density and distribution,Dentists,,Niger,NGNI26,11
+2021,Health worker density and distribution,Dentists,,Ogun,NGOG27,30
+2021,Health worker density and distribution,Dentists,,Ondo,NGON28,36
+2021,Health worker density and distribution,Dentists,,Osun,NGOS29,99
+2021,Health worker density and distribution,Dentists,,Oyo,NGOY30,192
+2021,Health worker density and distribution,Dentists,,Plateau,NGPL31,22
+2021,Health worker density and distribution,Dentists,,Rivers,NGRI32,121
+2021,Health worker density and distribution,Dentists,,Sokoto,NGSO33,20
+2021,Health worker density and distribution,Dentists,,Taraba,NGTA34,7
+2021,Health worker density and distribution,Dentists,,Yobe,NGYO35,18
+2021,Health worker density and distribution,Dentists,,Zamfara,NGZA36,11
+2021,Health worker density and distribution,Dentists,,Federal Capital Territory,NGFC37,200
+2021,Health worker density and distribution,Dentists,,Not applicable,NG,210
+2021,Health worker density and distribution,Dentists,,,NG,2238
+2022,Health worker density and distribution,Doctors,Male,Abia,NGAB01,682
+2022,Health worker density and distribution,Doctors,Male,Adamawa,NGAD02,280
+2022,Health worker density and distribution,Doctors,Male,Akwa Ibom,NGAK03,705
+2022,Health worker density and distribution,Doctors,Male,Anambra,NGAN04,1208
+2022,Health worker density and distribution,Doctors,Male,Bauchi,NGBA05,430
+2022,Health worker density and distribution,Doctors,Male,Bayelsa,NGBY06,564
+2022,Health worker density and distribution,Doctors,Male,Benue,NGBE07,601
+2022,Health worker density and distribution,Doctors,Male,Borno,NGBO08,642
+2022,Health worker density and distribution,Doctors,Male,Cross River,NGXR09,638
+2022,Health worker density and distribution,Doctors,Male,Delta,NGDE10,1258
+2022,Health worker density and distribution,Doctors,Male,Ebonyi,NGEB11,754
+2022,Health worker density and distribution,Doctors,Male,Edo,NGED12,1513
+2022,Health worker density and distribution,Doctors,Male,Ekiti,NGEK13,600
+2022,Health worker density and distribution,Doctors,Male,Enugu,NGEN14,1552
+2022,Health worker density and distribution,Doctors,Male,Gombe,NGGO15,444
+2022,Health worker density and distribution,Doctors,Male,Imo,NGIM16,818
+2022,Health worker density and distribution,Doctors,Male,Jigawa,NGJI17,258
+2022,Health worker density and distribution,Doctors,Male,Kaduna,NGKD18,1183
+2022,Health worker density and distribution,Doctors,Male,Kano,NGKN19,1082
+2022,Health worker density and distribution,Doctors,Male,Katsina,NGKT20,511
+2022,Health worker density and distribution,Doctors,Male,Kebbi,NGKE21,263
+2022,Health worker density and distribution,Doctors,Male,Kogi,NGKO22,389
+2022,Health worker density and distribution,Doctors,Male,Kwara,NGKW23,744
+2022,Health worker density and distribution,Doctors,Male,Lagos,NGLA24,4998
+2022,Health worker density and distribution,Doctors,Male,Nasarawa,NGNA25,490
+2022,Health worker density and distribution,Doctors,Male,Niger,NGNI26,428
+2022,Health worker density and distribution,Doctors,Male,Ogun,NGOG27,1170
+2022,Health worker density and distribution,Doctors,Male,Ondo,NGON28,616
+2022,Health worker density and distribution,Doctors,Male,Osun,NGOS29,951
+2022,Health worker density and distribution,Doctors,Male,Oyo,NGOY30,1374
+2022,Health worker density and distribution,Doctors,Male,Plateau,NGPL31,926
+2022,Health worker density and distribution,Doctors,Male,Rivers,NGRI32,1579
+2022,Health worker density and distribution,Doctors,Male,Sokoto,NGSO33,531
+2022,Health worker density and distribution,Doctors,Male,Taraba,NGTA34,210
+2022,Health worker density and distribution,Doctors,Male,Yobe,NGYO35,270
+2022,Health worker density and distribution,Doctors,Male,Zamfara,NGZA36,271
+2022,Health worker density and distribution,Doctors,Male,Federal Capital Territory,NGFC37,2730
+2022,Health worker density and distribution,Doctors,Male,Not applicable,NG,3143
+2022,Health worker density and distribution,Doctors,Male,,NG,36806
+2022,Health worker density and distribution,Doctors,Female,Abia,NGAB01,312
+2022,Health worker density and distribution,Doctors,Female,Adamawa,NGAD02,68
+2022,Health worker density and distribution,Doctors,Female,Akwa Ibom,NGAK03,368
+2022,Health worker density and distribution,Doctors,Female,Anambra,NGAN04,516
+2022,Health worker density and distribution,Doctors,Female,Bauchi,NGBA05,99
+2022,Health worker density and distribution,Doctors,Female,Bayelsa,NGBY06,257
+2022,Health worker density and distribution,Doctors,Female,Benue,NGBE07,125
+2022,Health worker density and distribution,Doctors,Female,Borno,NGBO08,268
+2022,Health worker density and distribution,Doctors,Female,Cross River,NGXR09,314
+2022,Health worker density and distribution,Doctors,Female,Delta,NGDE10,539
+2022,Health worker density and distribution,Doctors,Female,Ebonyi,NGEB11,281
+2022,Health worker density and distribution,Doctors,Female,Edo,NGED12,658
+2022,Health worker density and distribution,Doctors,Female,Ekiti,NGEK13,215
+2022,Health worker density and distribution,Doctors,Female,Enugu,NGEN14,863
+2022,Health worker density and distribution,Doctors,Female,Gombe,NGGO15,113
+2022,Health worker density and distribution,Doctors,Female,Imo,NGIM16,428
+2022,Health worker density and distribution,Doctors,Female,Jigawa,NGJI17,48
+2022,Health worker density and distribution,Doctors,Female,Kaduna,NGKD18,562
+2022,Health worker density and distribution,Doctors,Female,Kano,NGKN19,642
+2022,Health worker density and distribution,Doctors,Female,Katsina,NGKT20,139
+2022,Health worker density and distribution,Doctors,Female,Kebbi,NGKE21,53
+2022,Health worker density and distribution,Doctors,Female,Kogi,NGKO22,84
+2022,Health worker density and distribution,Doctors,Female,Kwara,NGKW23,374
+2022,Health worker density and distribution,Doctors,Female,Lagos,NGLA24,3785
+2022,Health worker density and distribution,Doctors,Female,Nasarawa,NGNA25,161
+2022,Health worker density and distribution,Doctors,Female,Niger,NGNI26,118
+2022,Health worker density and distribution,Doctors,Female,Ogun,NGOG27,608
+2022,Health worker density and distribution,Doctors,Female,Ondo,NGON28,222
+2022,Health worker density and distribution,Doctors,Female,Osun,NGOS29,461
+2022,Health worker density and distribution,Doctors,Female,Oyo,NGOY30,836
+2022,Health worker density and distribution,Doctors,Female,Plateau,NGPL31,431
+2022,Health worker density and distribution,Doctors,Female,Rivers,NGRI32,1102
+2022,Health worker density and distribution,Doctors,Female,Sokoto,NGSO33,143
+2022,Health worker density and distribution,Doctors,Female,Taraba,NGTA34,33
+2022,Health worker density and distribution,Doctors,Female,Yobe,NGYO35,54
+2022,Health worker density and distribution,Doctors,Female,Zamfara,NGZA36,36
+2022,Health worker density and distribution,Doctors,Female,Federal Capital Territory,NGFC37,2587
+2022,Health worker density and distribution,Doctors,Female,Not applicable,NG,2044
+2022,Health worker density and distribution,Doctors,Female,,NG,19947
+2022,Health worker density and distribution,Doctors,,Abia,NGAB01,994
+2022,Health worker density and distribution,Doctors,,Adamawa,NGAD02,348
+2022,Health worker density and distribution,Doctors,,Akwa Ibom,NGAK03,1073
+2022,Health worker density and distribution,Doctors,,Anambra,NGAN04,1724
+2022,Health worker density and distribution,Doctors,,Bauchi,NGBA05,529
+2022,Health worker density and distribution,Doctors,,Bayelsa,NGBY06,821
+2022,Health worker density and distribution,Doctors,,Benue,NGBE07,726
+2022,Health worker density and distribution,Doctors,,Borno,NGBO08,910
+2022,Health worker density and distribution,Doctors,,Cross River,NGXR09,952
+2022,Health worker density and distribution,Doctors,,Delta,NGDE10,1797
+2022,Health worker density and distribution,Doctors,,Ebonyi,NGEB11,1035
+2022,Health worker density and distribution,Doctors,,Edo,NGED12,2171
+2022,Health worker density and distribution,Doctors,,Ekiti,NGEK13,815
+2022,Health worker density and distribution,Doctors,,Enugu,NGEN14,2415
+2022,Health worker density and distribution,Doctors,,Gombe,NGGO15,557
+2022,Health worker density and distribution,Doctors,,Imo,NGIM16,1246
+2022,Health worker density and distribution,Doctors,,Jigawa,NGJI17,306
+2022,Health worker density and distribution,Doctors,,Kaduna,NGKD18,1745
+2022,Health worker density and distribution,Doctors,,Kano,NGKN19,1724
+2022,Health worker density and distribution,Doctors,,Katsina,NGKT20,650
+2022,Health worker density and distribution,Doctors,,Kebbi,NGKE21,316
+2022,Health worker density and distribution,Doctors,,Kogi,NGKO22,473
+2022,Health worker density and distribution,Doctors,,Kwara,NGKW23,1118
+2022,Health worker density and distribution,Doctors,,Lagos,NGLA24,8783
+2022,Health worker density and distribution,Doctors,,Nasarawa,NGNA25,651
+2022,Health worker density and distribution,Doctors,,Niger,NGNI26,546
+2022,Health worker density and distribution,Doctors,,Ogun,NGOG27,1778
+2022,Health worker density and distribution,Doctors,,Ondo,NGON28,838
+2022,Health worker density and distribution,Doctors,,Osun,NGOS29,1412
+2022,Health worker density and distribution,Doctors,,Oyo,NGOY30,2210
+2022,Health worker density and distribution,Doctors,,Plateau,NGPL31,1357
+2022,Health worker density and distribution,Doctors,,Rivers,NGRI32,2681
+2022,Health worker density and distribution,Doctors,,Sokoto,NGSO33,674
+2022,Health worker density and distribution,Doctors,,Taraba,NGTA34,243
+2022,Health worker density and distribution,Doctors,,Yobe,NGYO35,324
+2022,Health worker density and distribution,Doctors,,Zamfara,NGZA36,307
+2022,Health worker density and distribution,Doctors,,Federal Capital Territory,NGFC37,5317
+2022,Health worker density and distribution,Doctors,,Not applicable,NG,5187
+2022,Health worker density and distribution,Doctors,,,NG,56753
+2022,Health worker density and distribution,Dentists,Male,Abia,NGAB01,10
+2022,Health worker density and distribution,Dentists,Male,Adamawa,NGAD02,11
+2022,Health worker density and distribution,Dentists,Male,Akwa Ibom,NGAK03,12
+2022,Health worker density and distribution,Dentists,Male,Anambra,NGAN04,14
+2022,Health worker density and distribution,Dentists,Male,Bauchi,NGBA05,22
+2022,Health worker density and distribution,Dentists,Male,Bayelsa,NGBY06,18
+2022,Health worker density and distribution,Dentists,Male,Benue,NGBE07,14
+2022,Health worker density and distribution,Dentists,Male,Borno,NGBO08,35
+2022,Health worker density and distribution,Dentists,Male,Cross River,NGXR09,18
+2022,Health worker density and distribution,Dentists,Male,Delta,NGDE10,59
+2022,Health worker density and distribution,Dentists,Male,Ebonyi,NGEB11,12
+2022,Health worker density and distribution,Dentists,Male,Edo,NGED12,142
+2022,Health worker density and distribution,Dentists,Male,Ekiti,NGEK13,31
+2022,Health worker density and distribution,Dentists,Male,Enugu,NGEN14,63
+2022,Health worker density and distribution,Dentists,Male,Gombe,NGGO15,19
+2022,Health worker density and distribution,Dentists,Male,Imo,NGIM16,15
+2022,Health worker density and distribution,Dentists,Male,Jigawa,NGJI17,10
+2022,Health worker density and distribution,Dentists,Male,Kaduna,NGKD18,44
+2022,Health worker density and distribution,Dentists,Male,Kano,NGKN19,98
+2022,Health worker density and distribution,Dentists,Male,Katsina,NGKT20,14
+2022,Health worker density and distribution,Dentists,Male,Kebbi,NGKE21,16
+2022,Health worker density and distribution,Dentists,Male,Kogi,NGKO22,17
+2022,Health worker density and distribution,Dentists,Male,Kwara,NGKW23,12
+2022,Health worker density and distribution,Dentists,Male,Lagos,NGLA24,397
+2022,Health worker density and distribution,Dentists,Male,Nasarawa,NGNA25,17
+2022,Health worker density and distribution,Dentists,Male,Niger,NGNI26,15
+2022,Health worker density and distribution,Dentists,Male,Ogun,NGOG27,38
+2022,Health worker density and distribution,Dentists,Male,Ondo,NGON28,44
+2022,Health worker density and distribution,Dentists,Male,Osun,NGOS29,109
+2022,Health worker density and distribution,Dentists,Male,Oyo,NGOY30,107
+2022,Health worker density and distribution,Dentists,Male,Plateau,NGPL31,30
+2022,Health worker density and distribution,Dentists,Male,Rivers,NGRI32,87
+2022,Health worker density and distribution,Dentists,Male,Sokoto,NGSO33,26
+2022,Health worker density and distribution,Dentists,Male,Taraba,NGTA34,8
+2022,Health worker density and distribution,Dentists,Male,Yobe,NGYO35,22
+2022,Health worker density and distribution,Dentists,Male,Zamfara,NGZA36,13
+2022,Health worker density and distribution,Dentists,Male,Federal Capital Territory,NGFC37,138
+2022,Health worker density and distribution,Dentists,Male,Not applicable,NG,99
+2022,Health worker density and distribution,Dentists,Male,,NG,1856
+2022,Health worker density and distribution,Dentists,Female,Abia,NGAB01,3
+2022,Health worker density and distribution,Dentists,Female,Adamawa,NGAD02,1
+2022,Health worker density and distribution,Dentists,Female,Akwa Ibom,NGAK03,8
+2022,Health worker density and distribution,Dentists,Female,Anambra,NGAN04,6
+2022,Health worker density and distribution,Dentists,Female,Bauchi,NGBA05,7
+2022,Health worker density and distribution,Dentists,Female,Bayelsa,NGBY06,5
+2022,Health worker density and distribution,Dentists,Female,Benue,NGBE07,0
+2022,Health worker density and distribution,Dentists,Female,Borno,NGBO08,34
+2022,Health worker density and distribution,Dentists,Female,Cross River,NGXR09,4
+2022,Health worker density and distribution,Dentists,Female,Delta,NGDE10,26
+2022,Health worker density and distribution,Dentists,Female,Ebonyi,NGEB11,3
+2022,Health worker density and distribution,Dentists,Female,Edo,NGED12,74
+2022,Health worker density and distribution,Dentists,Female,Ekiti,NGEK13,6
+2022,Health worker density and distribution,Dentists,Female,Enugu,NGEN14,48
+2022,Health worker density and distribution,Dentists,Female,Gombe,NGGO15,8
+2022,Health worker density and distribution,Dentists,Female,Imo,NGIM16,2
+2022,Health worker density and distribution,Dentists,Female,Jigawa,NGJI17,0
+2022,Health worker density and distribution,Dentists,Female,Kaduna,NGKD18,18
+2022,Health worker density and distribution,Dentists,Female,Kano,NGKN19,40
+2022,Health worker density and distribution,Dentists,Female,Katsina,NGKT20,6
+2022,Health worker density and distribution,Dentists,Female,Kebbi,NGKE21,3
+2022,Health worker density and distribution,Dentists,Female,Kogi,NGKO22,3
+2022,Health worker density and distribution,Dentists,Female,Kwara,NGKW23,6
+2022,Health worker density and distribution,Dentists,Female,Lagos,NGLA24,489
+2022,Health worker density and distribution,Dentists,Female,Nasarawa,NGNA25,6
+2022,Health worker density and distribution,Dentists,Female,Niger,NGNI26,4
+2022,Health worker density and distribution,Dentists,Female,Ogun,NGOG27,25
+2022,Health worker density and distribution,Dentists,Female,Ondo,NGON28,15
+2022,Health worker density and distribution,Dentists,Female,Osun,NGOS29,56
+2022,Health worker density and distribution,Dentists,Female,Oyo,NGOY30,115
+2022,Health worker density and distribution,Dentists,Female,Plateau,NGPL31,6
+2022,Health worker density and distribution,Dentists,Female,Rivers,NGRI32,63
+2022,Health worker density and distribution,Dentists,Female,Sokoto,NGSO33,1
+2022,Health worker density and distribution,Dentists,Female,Taraba,NGTA34,1
+2022,Health worker density and distribution,Dentists,Female,Yobe,NGYO35,4
+2022,Health worker density and distribution,Dentists,Female,Zamfara,NGZA36,1
+2022,Health worker density and distribution,Dentists,Female,Federal Capital Territory,NGFC37,105
+2022,Health worker density and distribution,Dentists,Female,Not applicable,NG,138
+2022,Health worker density and distribution,Dentists,Female,,NG,1340
+2022,Health worker density and distribution,Dentists,,Abia,NGAB01,13
+2022,Health worker density and distribution,Dentists,,Adamawa,NGAD02,12
+2022,Health worker density and distribution,Dentists,,Akwa Ibom,NGAK03,20
+2022,Health worker density and distribution,Dentists,,Anambra,NGAN04,20
+2022,Health worker density and distribution,Dentists,,Bauchi,NGBA05,29
+2022,Health worker density and distribution,Dentists,,Bayelsa,NGBY06,23
+2022,Health worker density and distribution,Dentists,,Benue,NGBE07,14
+2022,Health worker density and distribution,Dentists,,Borno,NGBO08,69
+2022,Health worker density and distribution,Dentists,,Cross River,NGXR09,22
+2022,Health worker density and distribution,Dentists,,Delta,NGDE10,85
+2022,Health worker density and distribution,Dentists,,Ebonyi,NGEB11,15
+2022,Health worker density and distribution,Dentists,,Edo,NGED12,216
+2022,Health worker density and distribution,Dentists,,Ekiti,NGEK13,37
+2022,Health worker density and distribution,Dentists,,Enugu,NGEN14,111
+2022,Health worker density and distribution,Dentists,,Gombe,NGGO15,27
+2022,Health worker density and distribution,Dentists,,Imo,NGIM16,17
+2022,Health worker density and distribution,Dentists,,Jigawa,NGJI17,10
+2022,Health worker density and distribution,Dentists,,Kaduna,NGKD18,62
+2022,Health worker density and distribution,Dentists,,Kano,NGKN19,138
+2022,Health worker density and distribution,Dentists,,Katsina,NGKT20,20
+2022,Health worker density and distribution,Dentists,,Kebbi,NGKE21,19
+2022,Health worker density and distribution,Dentists,,Kogi,NGKO22,20
+2022,Health worker density and distribution,Dentists,,Kwara,NGKW23,18
+2022,Health worker density and distribution,Dentists,,Lagos,NGLA24,886
+2022,Health worker density and distribution,Dentists,,Nasarawa,NGNA25,23
+2022,Health worker density and distribution,Dentists,,Niger,NGNI26,19
+2022,Health worker density and distribution,Dentists,,Ogun,NGOG27,63
+2022,Health worker density and distribution,Dentists,,Ondo,NGON28,59
+2022,Health worker density and distribution,Dentists,,Osun,NGOS29,165
+2022,Health worker density and distribution,Dentists,,Oyo,NGOY30,222
+2022,Health worker density and distribution,Dentists,,Plateau,NGPL31,36
+2022,Health worker density and distribution,Dentists,,Rivers,NGRI32,150
+2022,Health worker density and distribution,Dentists,,Sokoto,NGSO33,27
+2022,Health worker density and distribution,Dentists,,Taraba,NGTA34,9
+2022,Health worker density and distribution,Dentists,,Yobe,NGYO35,26
+2022,Health worker density and distribution,Dentists,,Zamfara,NGZA36,14
+2022,Health worker density and distribution,Dentists,,Federal Capital Territory,NGFC37,243
+2022,Health worker density and distribution,Dentists,,Not applicable,NG,237
+2022,Health worker density and distribution,Dentists,,,NG,3196
+2023,Health worker density and distribution,Doctors,Male,Abia,NGAB01,721
+2023,Health worker density and distribution,Doctors,Male,Adamawa,NGAD02,303
+2023,Health worker density and distribution,Doctors,Male,Akwa Ibom,NGAK03,714
+2023,Health worker density and distribution,Doctors,Male,Anambra,NGAN04,1320
+2023,Health worker density and distribution,Doctors,Male,Bauchi,NGBA05,442
+2023,Health worker density and distribution,Doctors,Male,Bayelsa,NGBY06,583
+2023,Health worker density and distribution,Doctors,Male,Benue,NGBE07,633
+2023,Health worker density and distribution,Doctors,Male,Borno,NGBO08,666
+2023,Health worker density and distribution,Doctors,Male,Cross River,NGXR09,670
+2023,Health worker density and distribution,Doctors,Male,Delta,NGDE10,1250
+2023,Health worker density and distribution,Doctors,Male,Ebonyi,NGEB11,816
+2023,Health worker density and distribution,Doctors,Male,Edo,NGED12,1684
+2023,Health worker density and distribution,Doctors,Male,Ekiti,NGEK13,625
+2023,Health worker density and distribution,Doctors,Male,Enugu,NGEN14,1679
+2023,Health worker density and distribution,Doctors,Male,Gombe,NGGO15,461
+2023,Health worker density and distribution,Doctors,Male,Imo,NGIM16,859
+2023,Health worker density and distribution,Doctors,Male,Jigawa,NGJI17,301
+2023,Health worker density and distribution,Doctors,Male,Kaduna,NGKD18,1242
+2023,Health worker density and distribution,Doctors,Male,Kano,NGKN19,1136
+2023,Health worker density and distribution,Doctors,Male,Katsina,NGKT20,514
+2023,Health worker density and distribution,Doctors,Male,Kebbi,NGKE21,269
+2023,Health worker density and distribution,Doctors,Male,Kogi,NGKO22,380
+2023,Health worker density and distribution,Doctors,Male,Kwara,NGKW23,814
+2023,Health worker density and distribution,Doctors,Male,Lagos,NGLA24,5023
+2023,Health worker density and distribution,Doctors,Male,Nasarawa,NGNA25,486
+2023,Health worker density and distribution,Doctors,Male,Niger,NGNI26,417
+2023,Health worker density and distribution,Doctors,Male,Ogun,NGOG27,1188
+2023,Health worker density and distribution,Doctors,Male,Ondo,NGON28,651
+2023,Health worker density and distribution,Doctors,Male,Osun,NGOS29,1002
+2023,Health worker density and distribution,Doctors,Male,Oyo,NGOY30,1464
+2023,Health worker density and distribution,Doctors,Male,Plateau,NGPL31,1011
+2023,Health worker density and distribution,Doctors,Male,Rivers,NGRI32,1710
+2023,Health worker density and distribution,Doctors,Male,Sokoto,NGSO33,593
+2023,Health worker density and distribution,Doctors,Male,Taraba,NGTA34,220
+2023,Health worker density and distribution,Doctors,Male,Yobe,NGYO35,282
+2023,Health worker density and distribution,Doctors,Male,Zamfara,NGZA36,278
+2023,Health worker density and distribution,Doctors,Male,Federal Capital Territory,NGFC37,2756
+2023,Health worker density and distribution,Doctors,Male,Not applicable,NG,2842
+2023,Health worker density and distribution,Doctors,Male,,NG,38005
+2023,Health worker density and distribution,Doctors,Female,Abia,NGAB01,346
+2023,Health worker density and distribution,Doctors,Female,Adamawa,NGAD02,80
+2023,Health worker density and distribution,Doctors,Female,Akwa Ibom,NGAK03,395
+2023,Health worker density and distribution,Doctors,Female,Anambra,NGAN04,609
+2023,Health worker density and distribution,Doctors,Female,Bauchi,NGBA05,116
+2023,Health worker density and distribution,Doctors,Female,Bayelsa,NGBY06,287
+2023,Health worker density and distribution,Doctors,Female,Benue,NGBE07,133
+2023,Health worker density and distribution,Doctors,Female,Borno,NGBO08,283
+2023,Health worker density and distribution,Doctors,Female,Cross River,NGXR09,344
+2023,Health worker density and distribution,Doctors,Female,Delta,NGDE10,583
+2023,Health worker density and distribution,Doctors,Female,Ebonyi,NGEB11,315
+2023,Health worker density and distribution,Doctors,Female,Edo,NGED12,814
+2023,Health worker density and distribution,Doctors,Female,Ekiti,NGEK13,301
+2023,Health worker density and distribution,Doctors,Female,Enugu,NGEN14,1005
+2023,Health worker density and distribution,Doctors,Female,Gombe,NGGO15,129
+2023,Health worker density and distribution,Doctors,Female,Imo,NGIM16,458
+2023,Health worker density and distribution,Doctors,Female,Jigawa,NGJI17,59
+2023,Health worker density and distribution,Doctors,Female,Kaduna,NGKD18,616
+2023,Health worker density and distribution,Doctors,Female,Kano,NGKN19,722
+2023,Health worker density and distribution,Doctors,Female,Katsina,NGKT20,147
+2023,Health worker density and distribution,Doctors,Female,Kebbi,NGKE21,57
+2023,Health worker density and distribution,Doctors,Female,Kogi,NGKO22,84
+2023,Health worker density and distribution,Doctors,Female,Kwara,NGKW23,410
+2023,Health worker density and distribution,Doctors,Female,Lagos,NGLA24,3873
+2023,Health worker density and distribution,Doctors,Female,Nasarawa,NGNA25,163
+2023,Health worker density and distribution,Doctors,Female,Niger,NGNI26,127
+2023,Health worker density and distribution,Doctors,Female,Ogun,NGOG27,628
+2023,Health worker density and distribution,Doctors,Female,Ondo,NGON28,253
+2023,Health worker density and distribution,Doctors,Female,Osun,NGOS29,528
+2023,Health worker density and distribution,Doctors,Female,Oyo,NGOY30,874
+2023,Health worker density and distribution,Doctors,Female,Plateau,NGPL31,494
+2023,Health worker density and distribution,Doctors,Female,Rivers,NGRI32,1233
+2023,Health worker density and distribution,Doctors,Female,Sokoto,NGSO33,166
+2023,Health worker density and distribution,Doctors,Female,Taraba,NGTA34,37
+2023,Health worker density and distribution,Doctors,Female,Yobe,NGYO35,66
+2023,Health worker density and distribution,Doctors,Female,Zamfara,NGZA36,36
+2023,Health worker density and distribution,Doctors,Female,Federal Capital Territory,NGFC37,2783
+2023,Health worker density and distribution,Doctors,Female,Not applicable,NG,1926
+2023,Health worker density and distribution,Doctors,Female,,NG,21480
+2023,Health worker density and distribution,Doctors,,Abia,NGAB01,1067
+2023,Health worker density and distribution,Doctors,,Adamawa,NGAD02,383
+2023,Health worker density and distribution,Doctors,,Akwa Ibom,NGAK03,1109
+2023,Health worker density and distribution,Doctors,,Anambra,NGAN04,1929
+2023,Health worker density and distribution,Doctors,,Bauchi,NGBA05,558
+2023,Health worker density and distribution,Doctors,,Bayelsa,NGBY06,870
+2023,Health worker density and distribution,Doctors,,Benue,NGBE07,766
+2023,Health worker density and distribution,Doctors,,Borno,NGBO08,949
+2023,Health worker density and distribution,Doctors,,Cross River,NGXR09,1014
+2023,Health worker density and distribution,Doctors,,Delta,NGDE10,1833
+2023,Health worker density and distribution,Doctors,,Ebonyi,NGEB11,1131
+2023,Health worker density and distribution,Doctors,,Edo,NGED12,2498
+2023,Health worker density and distribution,Doctors,,Ekiti,NGEK13,926
+2023,Health worker density and distribution,Doctors,,Enugu,NGEN14,2684
+2023,Health worker density and distribution,Doctors,,Gombe,NGGO15,590
+2023,Health worker density and distribution,Doctors,,Imo,NGIM16,1317
+2023,Health worker density and distribution,Doctors,,Jigawa,NGJI17,360
+2023,Health worker density and distribution,Doctors,,Kaduna,NGKD18,1858
+2023,Health worker density and distribution,Doctors,,Kano,NGKN19,1858
+2023,Health worker density and distribution,Doctors,,Katsina,NGKT20,661
+2023,Health worker density and distribution,Doctors,,Kebbi,NGKE21,326
+2023,Health worker density and distribution,Doctors,,Kogi,NGKO22,464
+2023,Health worker density and distribution,Doctors,,Kwara,NGKW23,1224
+2023,Health worker density and distribution,Doctors,,Lagos,NGLA24,8896
+2023,Health worker density and distribution,Doctors,,Nasarawa,NGNA25,649
+2023,Health worker density and distribution,Doctors,,Niger,NGNI26,544
+2023,Health worker density and distribution,Doctors,,Ogun,NGOG27,1816
+2023,Health worker density and distribution,Doctors,,Ondo,NGON28,904
+2023,Health worker density and distribution,Doctors,,Osun,NGOS29,1530
+2023,Health worker density and distribution,Doctors,,Oyo,NGOY30,2338
+2023,Health worker density and distribution,Doctors,,Plateau,NGPL31,1505
+2023,Health worker density and distribution,Doctors,,Rivers,NGRI32,2943
+2023,Health worker density and distribution,Doctors,,Sokoto,NGSO33,759
+2023,Health worker density and distribution,Doctors,,Taraba,NGTA34,257
+2023,Health worker density and distribution,Doctors,,Yobe,NGYO35,348
+2023,Health worker density and distribution,Doctors,,Zamfara,NGZA36,314
+2023,Health worker density and distribution,Doctors,,Federal Capital Territory,NGFC37,5539
+2023,Health worker density and distribution,Doctors,,Not applicable,NG,4768
+2023,Health worker density and distribution,Doctors,,,NG,59485
+2023,Health worker density and distribution,Dentists,Male,Abia,NGAB01,11
+2023,Health worker density and distribution,Dentists,Male,Adamawa,NGAD02,14
+2023,Health worker density and distribution,Dentists,Male,Akwa Ibom,NGAK03,13
+2023,Health worker density and distribution,Dentists,Male,Anambra,NGAN04,16
+2023,Health worker density and distribution,Dentists,Male,Bauchi,NGBA05,24
+2023,Health worker density and distribution,Dentists,Male,Bayelsa,NGBY06,18
+2023,Health worker density and distribution,Dentists,Male,Benue,NGBE07,14
+2023,Health worker density and distribution,Dentists,Male,Borno,NGBO08,41
+2023,Health worker density and distribution,Dentists,Male,Cross River,NGXR09,33
+2023,Health worker density and distribution,Dentists,Male,Delta,NGDE10,58
+2023,Health worker density and distribution,Dentists,Male,Ebonyi,NGEB11,12
+2023,Health worker density and distribution,Dentists,Male,Edo,NGED12,168
+2023,Health worker density and distribution,Dentists,Male,Ekiti,NGEK13,28
+2023,Health worker density and distribution,Dentists,Male,Enugu,NGEN14,96
+2023,Health worker density and distribution,Dentists,Male,Gombe,NGGO15,22
+2023,Health worker density and distribution,Dentists,Male,Imo,NGIM16,14
+2023,Health worker density and distribution,Dentists,Male,Jigawa,NGJI17,10
+2023,Health worker density and distribution,Dentists,Male,Kaduna,NGKD18,42
+2023,Health worker density and distribution,Dentists,Male,Kano,NGKN19,102
+2023,Health worker density and distribution,Dentists,Male,Katsina,NGKT20,18
+2023,Health worker density and distribution,Dentists,Male,Kebbi,NGKE21,17
+2023,Health worker density and distribution,Dentists,Male,Kogi,NGKO22,16
+2023,Health worker density and distribution,Dentists,Male,Kwara,NGKW23,10
+2023,Health worker density and distribution,Dentists,Male,Lagos,NGLA24,403
+2023,Health worker density and distribution,Dentists,Male,Nasarawa,NGNA25,17
+2023,Health worker density and distribution,Dentists,Male,Niger,NGNI26,15
+2023,Health worker density and distribution,Dentists,Male,Ogun,NGOG27,35
+2023,Health worker density and distribution,Dentists,Male,Ondo,NGON28,44
+2023,Health worker density and distribution,Dentists,Male,Osun,NGOS29,125
+2023,Health worker density and distribution,Dentists,Male,Oyo,NGOY30,137
+2023,Health worker density and distribution,Dentists,Male,Plateau,NGPL31,30
+2023,Health worker density and distribution,Dentists,Male,Rivers,NGRI32,92
+2023,Health worker density and distribution,Dentists,Male,Sokoto,NGSO33,26
+2023,Health worker density and distribution,Dentists,Male,Taraba,NGTA34,7
+2023,Health worker density and distribution,Dentists,Male,Yobe,NGYO35,21
+2023,Health worker density and distribution,Dentists,Male,Zamfara,NGZA36,14
+2023,Health worker density and distribution,Dentists,Male,Federal Capital Territory,NGFC37,138
+2023,Health worker density and distribution,Dentists,Male,Not applicable,NG,90
+2023,Health worker density and distribution,Dentists,Male,,NG,1991
+2023,Health worker density and distribution,Dentists,Female,Abia,NGAB01,3
+2023,Health worker density and distribution,Dentists,Female,Adamawa,NGAD02,2
+2023,Health worker density and distribution,Dentists,Female,Akwa Ibom,NGAK03,8
+2023,Health worker density and distribution,Dentists,Female,Anambra,NGAN04,6
+2023,Health worker density and distribution,Dentists,Female,Bauchi,NGBA05,9
+2023,Health worker density and distribution,Dentists,Female,Bayelsa,NGBY06,5
+2023,Health worker density and distribution,Dentists,Female,Benue,NGBE07,0
+2023,Health worker density and distribution,Dentists,Female,Borno,NGBO08,39
+2023,Health worker density and distribution,Dentists,Female,Cross River,NGXR09,14
+2023,Health worker density and distribution,Dentists,Female,Delta,NGDE10,25
+2023,Health worker density and distribution,Dentists,Female,Ebonyi,NGEB11,3
+2023,Health worker density and distribution,Dentists,Female,Edo,NGED12,84
+2023,Health worker density and distribution,Dentists,Female,Ekiti,NGEK13,7
+2023,Health worker density and distribution,Dentists,Female,Enugu,NGEN14,72
+2023,Health worker density and distribution,Dentists,Female,Gombe,NGGO15,9
+2023,Health worker density and distribution,Dentists,Female,Imo,NGIM16,2
+2023,Health worker density and distribution,Dentists,Female,Jigawa,NGJI17,0
+2023,Health worker density and distribution,Dentists,Female,Kaduna,NGKD18,19
+2023,Health worker density and distribution,Dentists,Female,Kano,NGKN19,48
+2023,Health worker density and distribution,Dentists,Female,Katsina,NGKT20,8
+2023,Health worker density and distribution,Dentists,Female,Kebbi,NGKE21,3
+2023,Health worker density and distribution,Dentists,Female,Kogi,NGKO22,4
+2023,Health worker density and distribution,Dentists,Female,Kwara,NGKW23,6
+2023,Health worker density and distribution,Dentists,Female,Lagos,NGLA24,504
+2023,Health worker density and distribution,Dentists,Female,Nasarawa,NGNA25,6
+2023,Health worker density and distribution,Dentists,Female,Niger,NGNI26,5
+2023,Health worker density and distribution,Dentists,Female,Ogun,NGOG27,25
+2023,Health worker density and distribution,Dentists,Female,Ondo,NGON28,22
+2023,Health worker density and distribution,Dentists,Female,Osun,NGOS29,66
+2023,Health worker density and distribution,Dentists,Female,Oyo,NGOY30,146
+2023,Health worker density and distribution,Dentists,Female,Plateau,NGPL31,5
+2023,Health worker density and distribution,Dentists,Female,Rivers,NGRI32,73
+2023,Health worker density and distribution,Dentists,Female,Sokoto,NGSO33,2
+2023,Health worker density and distribution,Dentists,Female,Taraba,NGTA34,1
+2023,Health worker density and distribution,Dentists,Female,Yobe,NGYO35,6
+2023,Health worker density and distribution,Dentists,Female,Zamfara,NGZA36,1
+2023,Health worker density and distribution,Dentists,Female,Federal Capital Territory,NGFC37,108
+2023,Health worker density and distribution,Dentists,Female,Not applicable,NG,134
+2023,Health worker density and distribution,Dentists,Female,,NG,1480
+2023,Health worker density and distribution,Dentists,,Abia,NGAB01,14
+2023,Health worker density and distribution,Dentists,,Adamawa,NGAD02,16
+2023,Health worker density and distribution,Dentists,,Akwa Ibom,NGAK03,21
+2023,Health worker density and distribution,Dentists,,Anambra,NGAN04,22
+2023,Health worker density and distribution,Dentists,,Bauchi,NGBA05,33
+2023,Health worker density and distribution,Dentists,,Bayelsa,NGBY06,23
+2023,Health worker density and distribution,Dentists,,Benue,NGBE07,14
+2023,Health worker density and distribution,Dentists,,Borno,NGBO08,80
+2023,Health worker density and distribution,Dentists,,Cross River,NGXR09,47
+2023,Health worker density and distribution,Dentists,,Delta,NGDE10,83
+2023,Health worker density and distribution,Dentists,,Ebonyi,NGEB11,15
+2023,Health worker density and distribution,Dentists,,Edo,NGED12,252
+2023,Health worker density and distribution,Dentists,,Ekiti,NGEK13,35
+2023,Health worker density and distribution,Dentists,,Enugu,NGEN14,168
+2023,Health worker density and distribution,Dentists,,Gombe,NGGO15,31
+2023,Health worker density and distribution,Dentists,,Imo,NGIM16,16
+2023,Health worker density and distribution,Dentists,,Jigawa,NGJI17,10
+2023,Health worker density and distribution,Dentists,,Kaduna,NGKD18,61
+2023,Health worker density and distribution,Dentists,,Kano,NGKN19,150
+2023,Health worker density and distribution,Dentists,,Katsina,NGKT20,26
+2023,Health worker density and distribution,Dentists,,Kebbi,NGKE21,20
+2023,Health worker density and distribution,Dentists,,Kogi,NGKO22,20
+2023,Health worker density and distribution,Dentists,,Kwara,NGKW23,16
+2023,Health worker density and distribution,Dentists,,Lagos,NGLA24,907
+2023,Health worker density and distribution,Dentists,,Nasarawa,NGNA25,23
+2023,Health worker density and distribution,Dentists,,Niger,NGNI26,20
+2023,Health worker density and distribution,Dentists,,Ogun,NGOG27,60
+2023,Health worker density and distribution,Dentists,,Ondo,NGON28,66
+2023,Health worker density and distribution,Dentists,,Osun,NGOS29,191
+2023,Health worker density and distribution,Dentists,,Oyo,NGOY30,283
+2023,Health worker density and distribution,Dentists,,Plateau,NGPL31,35
+2023,Health worker density and distribution,Dentists,,Rivers,NGRI32,165
+2023,Health worker density and distribution,Dentists,,Sokoto,NGSO33,28
+2023,Health worker density and distribution,Dentists,,Taraba,NGTA34,8
+2023,Health worker density and distribution,Dentists,,Yobe,NGYO35,27
+2023,Health worker density and distribution,Dentists,,Zamfara,NGZA36,15
+2023,Health worker density and distribution,Dentists,,Federal Capital Territory,NGFC37,246
+2023,Health worker density and distribution,Dentists,,Not applicable,NG,224
+2023,Health worker density and distribution,Dentists,,,NG,3471
+2024,Health worker density and distribution,Doctors,Male,Abia,NGAB01,766
+2024,Health worker density and distribution,Doctors,Male,Adamawa,NGAD02,311
+2024,Health worker density and distribution,Doctors,Male,Akwa Ibom,NGAK03,750
+2024,Health worker density and distribution,Doctors,Male,Anambra,NGAN04,1293
+2024,Health worker density and distribution,Doctors,Male,Bauchi,NGBA05,444
+2024,Health worker density and distribution,Doctors,Male,Bayelsa,NGBY06,588
+2024,Health worker density and distribution,Doctors,Male,Benue,NGBE07,655
+2024,Health worker density and distribution,Doctors,Male,Borno,NGBO08,683
+2024,Health worker density and distribution,Doctors,Male,Cross River,NGXR09,700
+2024,Health worker density and distribution,Doctors,Male,Delta,NGDE10,1204
+2024,Health worker density and distribution,Doctors,Male,Ebonyi,NGEB11,805
+2024,Health worker density and distribution,Doctors,Male,Edo,NGED12,1746
+2024,Health worker density and distribution,Doctors,Male,Ekiti,NGEK13,671
+2024,Health worker density and distribution,Doctors,Male,Enugu,NGEN14,1768
+2024,Health worker density and distribution,Doctors,Male,Gombe,NGGO15,467
+2024,Health worker density and distribution,Doctors,Male,Imo,NGIM16,871
+2024,Health worker density and distribution,Doctors,Male,Jigawa,NGJI17,298
+2024,Health worker density and distribution,Doctors,Male,Kaduna,NGKD18,1281
+2024,Health worker density and distribution,Doctors,Male,Kano,NGKN19,1209
+2024,Health worker density and distribution,Doctors,Male,Katsina,NGKT20,516
+2024,Health worker density and distribution,Doctors,Male,Kebbi,NGKE21,257
+2024,Health worker density and distribution,Doctors,Male,Kogi,NGKO22,354
+2024,Health worker density and distribution,Doctors,Male,Kwara,NGKW23,871
+2024,Health worker density and distribution,Doctors,Male,Lagos,NGLA24,4863
+2024,Health worker density and distribution,Doctors,Male,Nasarawa,NGNA25,468
+2024,Health worker density and distribution,Doctors,Male,Niger,NGNI26,408
+2024,Health worker density and distribution,Doctors,Male,Ogun,NGOG27,1243
+2024,Health worker density and distribution,Doctors,Male,Ondo,NGON28,637
+2024,Health worker density and distribution,Doctors,Male,Osun,NGOS29,1007
+2024,Health worker density and distribution,Doctors,Male,Oyo,NGOY30,1510
+2024,Health worker density and distribution,Doctors,Male,Plateau,NGPL31,1112
+2024,Health worker density and distribution,Doctors,Male,Rivers,NGRI32,1724
+2024,Health worker density and distribution,Doctors,Male,Sokoto,NGSO33,585
+2024,Health worker density and distribution,Doctors,Male,Taraba,NGTA34,220
+2024,Health worker density and distribution,Doctors,Male,Yobe,NGYO35,287
+2024,Health worker density and distribution,Doctors,Male,Zamfara,NGZA36,260
+2024,Health worker density and distribution,Doctors,Male,Federal Capital Territory,NGFC37,2671
+2024,Health worker density and distribution,Doctors,Male,Not applicable,NG,2581
+2024,Health worker density and distribution,Doctors,Male,,NG,38084
+2024,Health worker density and distribution,Doctors,Female,Abia,NGAB01,402
+2024,Health worker density and distribution,Doctors,Female,Adamawa,NGAD02,76
+2024,Health worker density and distribution,Doctors,Female,Akwa Ibom,NGAK03,410
+2024,Health worker density and distribution,Doctors,Female,Anambra,NGAN04,635
+2024,Health worker density and distribution,Doctors,Female,Bauchi,NGBA05,135
+2024,Health worker density and distribution,Doctors,Female,Bayelsa,NGBY06,297
+2024,Health worker density and distribution,Doctors,Female,Benue,NGBE07,141
+2024,Health worker density and distribution,Doctors,Female,Borno,NGBO08,305
+2024,Health worker density and distribution,Doctors,Female,Cross River,NGXR09,378
+2024,Health worker density and distribution,Doctors,Female,Delta,NGDE10,587
+2024,Health worker density and distribution,Doctors,Female,Ebonyi,NGEB11,306
+2024,Health worker density and distribution,Doctors,Female,Edo,NGED12,884
+2024,Health worker density and distribution,Doctors,Female,Ekiti,NGEK13,438
+2024,Health worker density and distribution,Doctors,Female,Enugu,NGEN14,1153
+2024,Health worker density and distribution,Doctors,Female,Gombe,NGGO15,137
+2024,Health worker density and distribution,Doctors,Female,Imo,NGIM16,474
+2024,Health worker density and distribution,Doctors,Female,Jigawa,NGJI17,55
+2024,Health worker density and distribution,Doctors,Female,Kaduna,NGKD18,637
+2024,Health worker density and distribution,Doctors,Female,Kano,NGKN19,763
+2024,Health worker density and distribution,Doctors,Female,Katsina,NGKT20,151
+2024,Health worker density and distribution,Doctors,Female,Kebbi,NGKE21,55
+2024,Health worker density and distribution,Doctors,Female,Kogi,NGKO22,86
+2024,Health worker density and distribution,Doctors,Female,Kwara,NGKW23,457
+2024,Health worker density and distribution,Doctors,Female,Lagos,NGLA24,3878
+2024,Health worker density and distribution,Doctors,Female,Nasarawa,NGNA25,159
+2024,Health worker density and distribution,Doctors,Female,Niger,NGNI26,122
+2024,Health worker density and distribution,Doctors,Female,Ogun,NGOG27,752
+2024,Health worker density and distribution,Doctors,Female,Ondo,NGON28,276
+2024,Health worker density and distribution,Doctors,Female,Osun,NGOS29,557
+2024,Health worker density and distribution,Doctors,Female,Oyo,NGOY30,960
+2024,Health worker density and distribution,Doctors,Female,Plateau,NGPL31,565
+2024,Health worker density and distribution,Doctors,Female,Rivers,NGRI32,1277
+2024,Health worker density and distribution,Doctors,Female,Sokoto,NGSO33,165
+2024,Health worker density and distribution,Doctors,Female,Taraba,NGTA34,36
+2024,Health worker density and distribution,Doctors,Female,Yobe,NGYO35,71
+2024,Health worker density and distribution,Doctors,Female,Zamfara,NGZA36,38
+2024,Health worker density and distribution,Doctors,Female,Federal Capital Territory,NGFC37,2834
+2024,Health worker density and distribution,Doctors,Female,Not applicable,NG,1815
+2024,Health worker density and distribution,Doctors,Female,,NG,22467
+2024,Health worker density and distribution,Doctors,,Abia,NGAB01,1168
+2024,Health worker density and distribution,Doctors,,Adamawa,NGAD02,387
+2024,Health worker density and distribution,Doctors,,Akwa Ibom,NGAK03,1160
+2024,Health worker density and distribution,Doctors,,Anambra,NGAN04,1928
+2024,Health worker density and distribution,Doctors,,Bauchi,NGBA05,579
+2024,Health worker density and distribution,Doctors,,Bayelsa,NGBY06,885
+2024,Health worker density and distribution,Doctors,,Benue,NGBE07,796
+2024,Health worker density and distribution,Doctors,,Borno,NGBO08,988
+2024,Health worker density and distribution,Doctors,,Cross River,NGXR09,1078
+2024,Health worker density and distribution,Doctors,,Delta,NGDE10,1791
+2024,Health worker density and distribution,Doctors,,Ebonyi,NGEB11,1111
+2024,Health worker density and distribution,Doctors,,Edo,NGED12,2630
+2024,Health worker density and distribution,Doctors,,Ekiti,NGEK13,1109
+2024,Health worker density and distribution,Doctors,,Enugu,NGEN14,2921
+2024,Health worker density and distribution,Doctors,,Gombe,NGGO15,604
+2024,Health worker density and distribution,Doctors,,Imo,NGIM16,1345
+2024,Health worker density and distribution,Doctors,,Jigawa,NGJI17,353
+2024,Health worker density and distribution,Doctors,,Kaduna,NGKD18,1918
+2024,Health worker density and distribution,Doctors,,Kano,NGKN19,1972
+2024,Health worker density and distribution,Doctors,,Katsina,NGKT20,667
+2024,Health worker density and distribution,Doctors,,Kebbi,NGKE21,312
+2024,Health worker density and distribution,Doctors,,Kogi,NGKO22,440
+2024,Health worker density and distribution,Doctors,,Kwara,NGKW23,1328
+2024,Health worker density and distribution,Doctors,,Lagos,NGLA24,8741
+2024,Health worker density and distribution,Doctors,,Nasarawa,NGNA25,627
+2024,Health worker density and distribution,Doctors,,Niger,NGNI26,530
+2024,Health worker density and distribution,Doctors,,Ogun,NGOG27,1995
+2024,Health worker density and distribution,Doctors,,Ondo,NGON28,913
+2024,Health worker density and distribution,Doctors,,Osun,NGOS29,1564
+2024,Health worker density and distribution,Doctors,,Oyo,NGOY30,2470
+2024,Health worker density and distribution,Doctors,,Plateau,NGPL31,1677
+2024,Health worker density and distribution,Doctors,,Rivers,NGRI32,3001
+2024,Health worker density and distribution,Doctors,,Sokoto,NGSO33,750
+2024,Health worker density and distribution,Doctors,,Taraba,NGTA34,256
+2024,Health worker density and distribution,Doctors,,Yobe,NGYO35,358
+2024,Health worker density and distribution,Doctors,,Zamfara,NGZA36,298
+2024,Health worker density and distribution,Doctors,,Federal Capital Territory,NGFC37,5505
+2024,Health worker density and distribution,Doctors,,Not applicable,NG,4396
+2024,Health worker density and distribution,Doctors,,,NG,60551
+2024,Health worker density and distribution,Dentists,Male,Abia,NGAB01,11
+2024,Health worker density and distribution,Dentists,Male,Adamawa,NGAD02,13
+2024,Health worker density and distribution,Dentists,Male,Akwa Ibom,NGAK03,13
+2024,Health worker density and distribution,Dentists,Male,Anambra,NGAN04,12
+2024,Health worker density and distribution,Dentists,Male,Bauchi,NGBA05,23
+2024,Health worker density and distribution,Dentists,Male,Bayelsa,NGBY06,18
+2024,Health worker density and distribution,Dentists,Male,Benue,NGBE07,14
+2024,Health worker density and distribution,Dentists,Male,Borno,NGBO08,51
+2024,Health worker density and distribution,Dentists,Male,Cross River,NGXR09,39
+2024,Health worker density and distribution,Dentists,Male,Delta,NGDE10,56
+2024,Health worker density and distribution,Dentists,Male,Ebonyi,NGEB11,12
+2024,Health worker density and distribution,Dentists,Male,Edo,NGED12,170
+2024,Health worker density and distribution,Dentists,Male,Ekiti,NGEK13,28
+2024,Health worker density and distribution,Dentists,Male,Enugu,NGEN14,122
+2024,Health worker density and distribution,Dentists,Male,Gombe,NGGO15,22
+2024,Health worker density and distribution,Dentists,Male,Imo,NGIM16,13
+2024,Health worker density and distribution,Dentists,Male,Jigawa,NGJI17,10
+2024,Health worker density and distribution,Dentists,Male,Kaduna,NGKD18,40
+2024,Health worker density and distribution,Dentists,Male,Kano,NGKN19,111
+2024,Health worker density and distribution,Dentists,Male,Katsina,NGKT20,20
+2024,Health worker density and distribution,Dentists,Male,Kebbi,NGKE21,16
+2024,Health worker density and distribution,Dentists,Male,Kogi,NGKO22,15
+2024,Health worker density and distribution,Dentists,Male,Kwara,NGKW23,10
+2024,Health worker density and distribution,Dentists,Male,Lagos,NGLA24,395
+2024,Health worker density and distribution,Dentists,Male,Nasarawa,NGNA25,15
+2024,Health worker density and distribution,Dentists,Male,Niger,NGNI26,17
+2024,Health worker density and distribution,Dentists,Male,Ogun,NGOG27,34
+2024,Health worker density and distribution,Dentists,Male,Ondo,NGON28,51
+2024,Health worker density and distribution,Dentists,Male,Osun,NGOS29,121
+2024,Health worker density and distribution,Dentists,Male,Oyo,NGOY30,165
+2024,Health worker density and distribution,Dentists,Male,Plateau,NGPL31,28
+2024,Health worker density and distribution,Dentists,Male,Rivers,NGRI32,92
+2024,Health worker density and distribution,Dentists,Male,Sokoto,NGSO33,27
+2024,Health worker density and distribution,Dentists,Male,Taraba,NGTA34,8
+2024,Health worker density and distribution,Dentists,Male,Yobe,NGYO35,20
+2024,Health worker density and distribution,Dentists,Male,Zamfara,NGZA36,14
+2024,Health worker density and distribution,Dentists,Male,Federal Capital Territory,NGFC37,134
+2024,Health worker density and distribution,Dentists,Male,Not applicable,NG,69
+2024,Health worker density and distribution,Dentists,Male,,NG,2029
+2024,Health worker density and distribution,Dentists,Female,Abia,NGAB01,2
+2024,Health worker density and distribution,Dentists,Female,Adamawa,NGAD02,2
+2024,Health worker density and distribution,Dentists,Female,Akwa Ibom,NGAK03,8
+2024,Health worker density and distribution,Dentists,Female,Anambra,NGAN04,7
+2024,Health worker density and distribution,Dentists,Female,Bauchi,NGBA05,9
+2024,Health worker density and distribution,Dentists,Female,Bayelsa,NGBY06,5
+2024,Health worker density and distribution,Dentists,Female,Benue,NGBE07,0
+2024,Health worker density and distribution,Dentists,Female,Borno,NGBO08,43
+2024,Health worker density and distribution,Dentists,Female,Cross River,NGXR09,23
+2024,Health worker density and distribution,Dentists,Female,Delta,NGDE10,25
+2024,Health worker density and distribution,Dentists,Female,Ebonyi,NGEB11,3
+2024,Health worker density and distribution,Dentists,Female,Edo,NGED12,81
+2024,Health worker density and distribution,Dentists,Female,Ekiti,NGEK13,6
+2024,Health worker density and distribution,Dentists,Female,Enugu,NGEN14,116
+2024,Health worker density and distribution,Dentists,Female,Gombe,NGGO15,9
+2024,Health worker density and distribution,Dentists,Female,Imo,NGIM16,2
+2024,Health worker density and distribution,Dentists,Female,Jigawa,NGJI17,0
+2024,Health worker density and distribution,Dentists,Female,Kaduna,NGKD18,19
+2024,Health worker density and distribution,Dentists,Female,Kano,NGKN19,48
+2024,Health worker density and distribution,Dentists,Female,Katsina,NGKT20,8
+2024,Health worker density and distribution,Dentists,Female,Kebbi,NGKE21,3
+2024,Health worker density and distribution,Dentists,Female,Kogi,NGKO22,4
+2024,Health worker density and distribution,Dentists,Female,Kwara,NGKW23,6
+2024,Health worker density and distribution,Dentists,Female,Lagos,NGLA24,501
+2024,Health worker density and distribution,Dentists,Female,Nasarawa,NGNA25,6
+2024,Health worker density and distribution,Dentists,Female,Niger,NGNI26,6
+2024,Health worker density and distribution,Dentists,Female,Ogun,NGOG27,20
+2024,Health worker density and distribution,Dentists,Female,Ondo,NGON28,28
+2024,Health worker density and distribution,Dentists,Female,Osun,NGOS29,64
+2024,Health worker density and distribution,Dentists,Female,Oyo,NGOY30,158
+2024,Health worker density and distribution,Dentists,Female,Plateau,NGPL31,5
+2024,Health worker density and distribution,Dentists,Female,Rivers,NGRI32,75
+2024,Health worker density and distribution,Dentists,Female,Sokoto,NGSO33,2
+2024,Health worker density and distribution,Dentists,Female,Taraba,NGTA34,0
+2024,Health worker density and distribution,Dentists,Female,Yobe,NGYO35,6
+2024,Health worker density and distribution,Dentists,Female,Zamfara,NGZA36,1
+2024,Health worker density and distribution,Dentists,Female,Federal Capital Territory,NGFC37,114
+2024,Health worker density and distribution,Dentists,Female,Not applicable,NG,115
+2024,Health worker density and distribution,Dentists,Female,,NG,1530
+2024,Health worker density and distribution,Dentists,,Abia,NGAB01,13
+2024,Health worker density and distribution,Dentists,,Adamawa,NGAD02,15
+2024,Health worker density and distribution,Dentists,,Akwa Ibom,NGAK03,21
+2024,Health worker density and distribution,Dentists,,Anambra,NGAN04,19
+2024,Health worker density and distribution,Dentists,,Bauchi,NGBA05,32
+2024,Health worker density and distribution,Dentists,,Bayelsa,NGBY06,23
+2024,Health worker density and distribution,Dentists,,Benue,NGBE07,14
+2024,Health worker density and distribution,Dentists,,Borno,NGBO08,94
+2024,Health worker density and distribution,Dentists,,Cross River,NGXR09,62
+2024,Health worker density and distribution,Dentists,,Delta,NGDE10,81
+2024,Health worker density and distribution,Dentists,,Ebonyi,NGEB11,15
+2024,Health worker density and distribution,Dentists,,Edo,NGED12,251
+2024,Health worker density and distribution,Dentists,,Ekiti,NGEK13,34
+2024,Health worker density and distribution,Dentists,,Enugu,NGEN14,238
+2024,Health worker density and distribution,Dentists,,Gombe,NGGO15,31
+2024,Health worker density and distribution,Dentists,,Imo,NGIM16,15
+2024,Health worker density and distribution,Dentists,,Jigawa,NGJI17,10
+2024,Health worker density and distribution,Dentists,,Kaduna,NGKD18,59
+2024,Health worker density and distribution,Dentists,,Kano,NGKN19,159
+2024,Health worker density and distribution,Dentists,,Katsina,NGKT20,28
+2024,Health worker density and distribution,Dentists,,Kebbi,NGKE21,19
+2024,Health worker density and distribution,Dentists,,Kogi,NGKO22,19
+2024,Health worker density and distribution,Dentists,,Kwara,NGKW23,16
+2024,Health worker density and distribution,Dentists,,Lagos,NGLA24,896
+2024,Health worker density and distribution,Dentists,,Nasarawa,NGNA25,21
+2024,Health worker density and distribution,Dentists,,Niger,NGNI26,23
+2024,Health worker density and distribution,Dentists,,Ogun,NGOG27,54
+2024,Health worker density and distribution,Dentists,,Ondo,NGON28,79
+2024,Health worker density and distribution,Dentists,,Osun,NGOS29,185
+2024,Health worker density and distribution,Dentists,,Oyo,NGOY30,323
+2024,Health worker density and distribution,Dentists,,Plateau,NGPL31,33
+2024,Health worker density and distribution,Dentists,,Rivers,NGRI32,167
+2024,Health worker density and distribution,Dentists,,Sokoto,NGSO33,29
+2024,Health worker density and distribution,Dentists,,Taraba,NGTA34,8
+2024,Health worker density and distribution,Dentists,,Yobe,NGYO35,26
+2024,Health worker density and distribution,Dentists,,Zamfara,NGZA36,15
+2024,Health worker density and distribution,Dentists,,Federal Capital Territory,NGFC37,248
+2024,Health worker density and distribution,Dentists,,Not applicable,NG,184
+2024,Health worker density and distribution,Dentists,,,NG,3559

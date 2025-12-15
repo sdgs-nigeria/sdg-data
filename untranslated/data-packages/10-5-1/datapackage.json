@@ -25,17 +25,6 @@
             }
           },
           {
-            "name": "Period",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Half Year",
-                "Full Year",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Financial soundness indicator",
             "type": "string",
             "constraints": {

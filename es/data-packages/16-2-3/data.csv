@@ -1,9 +1,7 @@
-Year,Series,Age group,Marital status,Value
-2018,Percentage of women who have experieced sexual violence by age 18 in the past 12 months,,,90.9
-2018,Percentage of women who have experieced sexual violence by age 18 in the past 12 months,15-19,,92.4
-2018,Percentage of women who have experieced sexual violence by age 18 in the past 12 months,20-24,,89.7
-2018,Percentage of women who have experieced sexual violence by age 18 in the past 12 months,25-29,,90.8
-2018,Percentage of women who have experieced sexual violence by age 18 in the past 12 months,30-39,,89.4
-2018,Percentage of women who have experieced sexual violence by age 18 in the past 12 months,40-49,,92.8
-2018,Percentage of women who have experieced sexual violence by age 18 in the past 12 months,,Never married,92.3
-2018,Percentage of women who have experieced sexual violence by age 18 in the past 12 months,,Ever married,90.4
+Year,Series,Age group,Gender,Value
+2018,Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18,,Female,4.4
+2018,Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18,20-24,Female,5.9
+2018,Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18,25-29,Female,3.5
+2024,Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18,,Female,1.9
+2024,Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18,20-24,Female,2.0
+2024,Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18,25-29,Female,2.2

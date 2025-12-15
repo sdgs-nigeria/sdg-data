@@ -1,19 +1,25 @@
 Year,Series,Gender,Positions,GeoCode,Value
-2020,,Male,,NG,451
-2020,,Male,Senators,NG,102
-2020,,Male,House of Reps,NG,349
-2020,,Female,,NG,18
-2020,,Female,Senators,NG,7
-2020,,Female,House of Reps,NG,11
-2021,,Male,,NG,451
-2021,,Male,Senators,NG,102
-2021,,Male,House of Reps,NG,349
-2021,,Female,,NG,18
-2021,,Female,Senators,NG,7
-2021,,Female,House of Reps,NG,11
-2022,,Male,,NG,451
-2022,,Male,Senators,NG,102
-2022,,Male,House of Reps,NG,349
-2022,,Female,,NG,18
-2022,,Female,Senators,NG,7
-2022,,Female,House of Reps,NG,11
+2020,"Proportions of positions in national and local institutions, including (a) the legislatures",Male,,NG,451
+2020,"Proportions of positions in national and local institutions, including (a) the legislatures",Male,Senators,NG,102
+2020,"Proportions of positions in national and local institutions, including (a) the legislatures",Male,House of Reps,NG,349
+2020,"Proportions of positions in national and local institutions, including (a) the legislatures",Female,,NG,18
+2020,"Proportions of positions in national and local institutions, including (a) the legislatures",Female,Senators,NG,7
+2020,"Proportions of positions in national and local institutions, including (a) the legislatures",Female,House of Reps,NG,11
+2021,"Proportions of positions in national and local institutions, including (a) the legislatures",Male,,NG,451
+2021,"Proportions of positions in national and local institutions, including (a) the legislatures",Male,Senators,NG,102
+2021,"Proportions of positions in national and local institutions, including (a) the legislatures",Male,House of Reps,NG,349
+2021,"Proportions of positions in national and local institutions, including (a) the legislatures",Female,,NG,18
+2021,"Proportions of positions in national and local institutions, including (a) the legislatures",Female,Senators,NG,7
+2021,"Proportions of positions in national and local institutions, including (a) the legislatures",Female,House of Reps,NG,11
+2022,"Proportions of positions in national and local institutions, including (a) the legislatures",Male,,NG,451
+2022,"Proportions of positions in national and local institutions, including (a) the legislatures",Male,Senators,NG,102
+2022,"Proportions of positions in national and local institutions, including (a) the legislatures",Male,House of Reps,NG,349
+2022,"Proportions of positions in national and local institutions, including (a) the legislatures",Female,,NG,18
+2022,"Proportions of positions in national and local institutions, including (a) the legislatures",Female,Senators,NG,7
+2022,"Proportions of positions in national and local institutions, including (a) the legislatures",Female,House of Reps,NG,11
+2024,"Proportions of positions in national and local institutions, including (a) the legislatures",Male,,NG,448
+2024,"Proportions of positions in national and local institutions, including (a) the legislatures",Male,Senators,NG,105
+2024,"Proportions of positions in national and local institutions, including (a) the legislatures",Male,House of Reps,NG,343
+2024,"Proportions of positions in national and local institutions, including (a) the legislatures",Female,,NG,21
+2024,"Proportions of positions in national and local institutions, including (a) the legislatures",Female,Senators,NG,4
+2024,"Proportions of positions in national and local institutions, including (a) the legislatures",Female,House of Reps,NG,17

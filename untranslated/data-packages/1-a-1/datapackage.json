@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income",
+                "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country's gross national income",
                 ""
               ]
             }
@@ -36,7 +36,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

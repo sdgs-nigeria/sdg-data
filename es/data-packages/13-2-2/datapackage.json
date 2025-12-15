@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kt of CO2 equivalent",
+                "Mt of CO2 equivalent",
                 ""
               ]
             },

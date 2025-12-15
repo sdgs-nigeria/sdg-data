@@ -7,6 +7,7 @@ Year,Series,Unit multiplier,Units,Value
 2021,GDP Growth rate,,Percentage (%),3.4
 2022,GDP Growth rate,,Percentage (%),3.1
 2023,GDP Growth rate,,Percentage (%),2.74
+2024,GDP Growth rate,,Percentage (%),3.38
 2016,Fiscal deficits,,Percentage (%),-2.61
 2017,Fiscal deficits,,Percentage (%),-3.14
 2018,Fiscal deficits,,Percentage (%),-2.81
@@ -31,6 +32,7 @@ Year,Series,Unit multiplier,Units,Value
 2021,Monetary Policy Rate,,Percentage (%),11.5
 2022,Monetary Policy Rate,,Percentage (%),16.5
 2023,Monetary Policy Rate,,Percentage (%),18.75
+2024,Monetary Policy Rate,,Percentage (%),27.5
 2016,Money Supply,Billion,Naira,24259.0
 2017,Money Supply,Billion,Naira,28604.47
 2018,Money Supply,Billion,Naira,29774.43
@@ -47,13 +49,15 @@ Year,Series,Unit multiplier,Units,Value
 2021,Total Trade,Million,Naira,39751753.37
 2022,Total Trade,Million,Naira,52387302.27
 2023,Total Trade,Million,Naira,66825457.98
+2024,Total Trade,Million,Naira,138032647.8
 2016,Foreign Direct Investment,Million,USD,1044.02
-2017,Foreign Direct Investment,Million,USD,981.7549505
-2018,Foreign Direct Investment,Million,USD,1194.66909
-2019,Foreign Direct Investment,Million,USD,934.3384711
-2020,Foreign Direct Investment,Million,USD,1027.678235
-2021,Foreign Direct Investment,Million,USD,698.7788525
-2022,Foreign Direct Investment,Million,USD,468.0763938
-2023,Foreign Direct Investment,Million,USD,377.3760608
+2017,Foreign Direct Investment,Million,USD,981.75
+2018,Foreign Direct Investment,Million,USD,1194.67
+2019,Foreign Direct Investment,Million,USD,934.34
+2020,Foreign Direct Investment,Million,USD,1027.68
+2021,Foreign Direct Investment,Million,USD,698.78
+2022,Foreign Direct Investment,Million,USD,468.08
+2023,Foreign Direct Investment,Million,USD,377.38
+2024,Foreign Direct Investment,Million,USD,674.71
 2022,Unemployment Rate,,Percentage (%),5.3
 2023,Unemployment Rate,,Percentage (%),5.0

@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of women who have experieced sexual violence by age 18 in the past 12 months",
+                "Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18",
                 ""
               ]
             }
@@ -29,22 +29,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-19",
                 "20-24",
                 "25-29",
-                "30-39",
-                "40-49",
                 ""
               ]
             }
           },
           {
-            "name": "Marital status",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Never married",
-                "Ever married",
+                "Female",
                 ""
               ]
             }

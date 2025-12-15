@@ -16,9 +16,10 @@
           },
           {
             "name": "Series",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Proportions of positions in national and local institutions, including (a) the legislatures",
                 ""
               ]
             }

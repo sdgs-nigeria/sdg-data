@@ -1,5 +1,5 @@
 Year,Series,Age group,Type of decision,GeoCode,Value
-2018,Percentage of currently married men age 15-49 who usually make specific decisions either by themselves or jointly with their spouse,,,,82.0
+2018,Percentage of currently married men age 15-49 who usually make specific decisions either by themselves or jointly with their spouse,,own care,NG,82.0
 2018,Percentage of currently married men age 15-49 who usually make specific decisions either by themselves or jointly with their spouse,20-24,own care,NG,83.7
 2018,Percentage of currently married men age 15-49 who usually make specific decisions either by themselves or jointly with their spouse,25-29,own care,NG,82.7
 2018,Percentage of currently married men age 15-49 who usually make specific decisions either by themselves or jointly with their spouse,30-34,own care,NG,85.3
@@ -34,6 +34,7 @@ Year,Series,Age group,Type of decision,GeoCode,Value
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",30-34,own care,NG,47.2
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",35-39,own care,NG,52.8
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",40-44,own care,NG,51.9
+2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",45-49,own care,NG,54.7
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",,making major household purchases,NG,40.4
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",15-19,making major household purchases,NG,19.8
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",20-24,making major household purchases,NG,28.5
@@ -41,6 +42,7 @@ Year,Series,Age group,Type of decision,GeoCode,Value
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",30-34,making major household purchases,NG,43.0
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",35-39,making major household purchases,NG,47.2
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",40-44,making major household purchases,NG,48.3
+2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",45-49,making major household purchases,NG,51.3
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",,visits to her family or relatives,NG,59.5
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",15-19,visits to her family or relatives,NG,40.7
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",20-24,visits to her family or relatives,NG,51.0
@@ -48,6 +50,7 @@ Year,Series,Age group,Type of decision,GeoCode,Value
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",30-34,visits to her family or relatives,NG,61.8
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",35-39,visits to her family or relatives,NG,64.6
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",40-44,visits to her family or relatives,NG,65.5
+2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",45-49,visits to her family or relatives,NG,68.8
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",,all three decisions,NG,33.5
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",15-19,all three decisions,NG,12.5
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",20-24,all three decisions,NG,22.4
@@ -55,3 +58,4 @@ Year,Series,Age group,Type of decision,GeoCode,Value
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",30-34,all three decisions,NG,36.4
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",35-39,all three decisions,NG,40.3
 2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",40-44,all three decisions,NG,40.8
+2018,"Percentage of currently married women age 15-49 who usually make specific decisions either by themselves or jointly with their husband,",45-49,all three decisions,NG,42.9

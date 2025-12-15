@@ -29,7 +29,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "tonnes per hectare",
                 "Percentage (%)",
                 ""
               ]

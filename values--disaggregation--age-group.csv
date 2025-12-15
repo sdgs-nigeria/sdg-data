@@ -1,14 +1,15 @@
 Value,Disaggregation combinations using this value,Number of indicators
-0-11,2,2
+0-10,1,1
+0-11,1,1
 0-5 Months,1,1
 0 to 14 years old,1,1
+11-17,1,1
 12-14,2,1
-12-17,1,1
 12-23 Months,2,2
 12-23,1,1
 14-Oct,1,1
 15-17,48,9
-15-19,83,20
+15-19,82,19
 15-24,37,5
 15-49,9,2
 15-64,9,2
@@ -26,7 +27,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 25-34,9,2
 3-5,2,1
 30-34,67,12
-30-39,20,8
+30-39,19,7
 31-59,2,1
 35-39,67,12
 35-44,6,1
@@ -35,8 +36,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 36-47,1,1
 4-Mar,1,1
 40-44,67,12
-40-49,20,8
-45-49,63,12
+40-49,19,7
+45-49,67,12
 45-55,6,1
 48-59 Months,2,2
 48-59,1,1

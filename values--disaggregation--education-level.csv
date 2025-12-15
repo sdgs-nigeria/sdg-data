@@ -1,9 +1,17 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Higher,12,5
-Higher/tertiary,23,5
-Junior secondary,22,5
+Higher,1,1
+Higher/Tertiary,7,5
+Higher/tertiary,5,4
+Junior Secondary,7,5
+Junior secondary,5,4
+More than Secondary,6,1
 Non-formal,1,1
-None,35,10
-Primary,35,10
-Secondary,14,6
-Senior secondary,22,5
+Non Formal,2,2
+Non- Formal,1,1
+None,21,10
+Post Secondary,4,1
+Pre-primary or none,1,1
+Primary,22,11
+Secondary,11,3
+Senior secondary,6,5
+Senior Secondary,7,5
